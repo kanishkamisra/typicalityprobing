@@ -1,4 +1,5 @@
 # This gitignore file has R and python ignores.
+.DS_Store
 
 # History files
 .Rhistory
