@@ -1,0 +1,567 @@
+stimulus,item,category,rank,logprob,normalized_logprob,params,model
+a doll is a toy.,doll,toy,1,-14.52631950378418,-2.4210532506306968,66985530,distilbert-base-uncased
+a top is a toy.,top,toy,2,-30.639437198638916,-5.106572866439819,66985530,distilbert-base-uncased
+a jack-in-the-box is a toy.,jack-in-the-box,toy,3,-16.167858123779297,-1.3473215103149414,66985530,distilbert-base-uncased
+a toy soldier is a toy.,toy soldier,toy,4,-15.046693325042725,-2.1495276178632463,66985530,distilbert-base-uncased
+a yo-yo is a toy.,yo-yo,toy,5,-12.568872928619385,-1.571109116077423,66985530,distilbert-base-uncased
+a block is a toy.,block,toy,6,-26.564605236053467,-4.427434206008911,66985530,distilbert-base-uncased
+marbles are toys.,marbles,toy,7,-25.49399471282959,-5.098798942565918,66985530,distilbert-base-uncased
+a rattle is a toy.,rattle,toy,8,-20.284427165985107,-3.380737860997518,66985530,distilbert-base-uncased
+a stuffed animal is a toy.,stuffed animal,toy,9,-9.879940032958984,-1.4114200047084264,66985530,distilbert-base-uncased
+a water pistol is a toy.,water pistol,toy,10,-29.442098140716553,-4.206014020102365,66985530,distilbert-base-uncased
+a teddy bear is a toy.,teddy bear,toy,11,-7.591036319732666,-1.0844337599618095,66985530,distilbert-base-uncased
+a rocking horse is a toy.,rocking horse,toy,12,-14.99659252166748,-2.1423703602382114,66985530,distilbert-base-uncased
+a doll house is a toy.,doll house,toy,13,-17.737329959869385,-2.5339042799813405,66985530,distilbert-base-uncased
+a ball is a toy.,ball,toy,14,-20.689516067504883,-3.4482526779174805,66985530,distilbert-base-uncased
+jacks are toys.,jacks,toy,15,-23.065646648406982,-4.613129329681397,66985530,distilbert-base-uncased
+paper dolls are toys.,paper dolls,toy,16,-13.537500381469727,-2.7075000762939454,66985530,distilbert-base-uncased
+an erector set is a toy.,erector set,toy,17,-26.425790309906006,-3.3032237887382507,66985530,distilbert-base-uncased
+a hula hoop is a toy.,hula hoop,toy,18,-20.618391036987305,-2.577298879623413,66985530,distilbert-base-uncased
+a jump rope is a toy.,jump rope,toy,19,-22.5772967338562,-3.2253281048366,66985530,distilbert-base-uncased
+a pogo stick is a toy.,pogo stick,toy,20,-18.968396186828613,-2.3710495233535767,66985530,distilbert-base-uncased
+a clay is a toy.,clay,toy,21,-29.29689359664917,-4.882815599441528,66985530,distilbert-base-uncased
+a wagon is a toy.,wagon,toy,22,-23.92579698562622,-3.9876328309377036,66985530,distilbert-base-uncased
+a kite is a toy.,kite,toy,23,-17.729454517364502,-2.954909086227417,66985530,distilbert-base-uncased
+a train is a toy.,train,toy,24,-24.891716480255127,-4.1486194133758545,66985530,distilbert-base-uncased
+a tricycle is a toy.,tricycle,toy,25,-12.362602233886719,-1.7660860334123885,66985530,distilbert-base-uncased
+a coloring book is a toy.,coloring book,toy,26,-21.16901206970215,-3.0241445813860213,66985530,distilbert-base-uncased
+crayons are toys.,crayons,toy,27,-11.710251808166504,-1.9517086346944172,66985530,distilbert-base-uncased
+a truck is a toy.,truck,toy,28,-22.845868587493896,-3.807644764582316,66985530,distilbert-base-uncased
+a puzzle is a toy.,puzzle,toy,29,-22.234997272491455,-3.7058328787485757,66985530,distilbert-base-uncased
+a fire engine is a toy.,fire engine,toy,30,-24.09670925140381,-3.44238703591483,66985530,distilbert-base-uncased
+a balloon is a toy.,balloon,toy,31,-17.257126808166504,-2.876187801361084,66985530,distilbert-base-uncased
+skates are toys.,skates,toy,32,-24.22740077972412,-4.845480155944824,66985530,distilbert-base-uncased
+a baseball is a toy.,baseball,toy,33,-21.430581092834473,-3.571763515472412,66985530,distilbert-base-uncased
+a drum is a toy.,drum,toy,34,-20.858092784881592,-3.476348797480265,66985530,distilbert-base-uncased
+a football is a toy.,football,toy,35,-23.21237277984619,-3.8687287966410318,66985530,distilbert-base-uncased
+a game is a toy.,game,toy,36,-22.925153732299805,-3.820858955383301,66985530,distilbert-base-uncased
+a swing is a toy.,swing,toy,37,-21.987460613250732,-3.664576768875122,66985530,distilbert-base-uncased
+a boat is a toy.,boat,toy,38,-25.271778106689453,-4.211963017781575,66985530,distilbert-base-uncased
+a monopoly is a toy.,monopoly,toy,39,-26.841877460479736,-4.473646243413289,66985530,distilbert-base-uncased
+a sled is a toy.,sled,toy,40,-22.48668146133423,-3.21238306590489,66985530,distilbert-base-uncased
+a seesaw is a toy.,seesaw,toy,41,-15.821402072906494,-2.2602002961294994,66985530,distilbert-base-uncased
+stilts are toys.,stilts,toy,42,-16.447288036346436,-3.289457607269287,66985530,distilbert-base-uncased
+checkers are toys.,checkers,toy,43,-23.035730361938477,-4.607146072387695,66985530,distilbert-base-uncased
+a bat is a toy.,bat,toy,44,-19.79773759841919,-3.2996229330698648,66985530,distilbert-base-uncased
+a car is a toy.,car,toy,45,-19.0750994682312,-3.1791832447052,66985530,distilbert-base-uncased
+an airplane is a toy.,airplane,toy,46,-18.627158164978027,-3.1045263608296714,66985530,distilbert-base-uncased
+a bicycle is a toy.,bicycle,toy,47,-17.533287048339844,-2.9222145080566406,66985530,distilbert-base-uncased
+a tractor is a toy.,tractor,toy,48,-17.923848152160645,-2.9873080253601074,66985530,distilbert-base-uncased
+a sandbox is a toy.,sandbox,toy,49,-17.583256721496582,-2.5118938173566545,66985530,distilbert-base-uncased
+a bike is a toy.,bike,toy,50,-20.626447677612305,-3.437741279602051,66985530,distilbert-base-uncased
+a bow and arrow is a toy.,bow and arrow,toy,51,-16.697804927825928,-2.087225615978241,66985530,distilbert-base-uncased
+a rope is a toy.,rope,toy,52,-22.97330904006958,-3.8288848400115967,66985530,distilbert-base-uncased
+dishes are toys.,dishes,toy,53,-24.646979808807373,-6.161744952201843,66985530,distilbert-base-uncased
+cards are toys.,cards,toy,54,-21.313730239868164,-5.328432559967041,66985530,distilbert-base-uncased
+a mitt is a toy.,mitt,toy,55,-22.17978000640869,-3.1685400009155273,66985530,distilbert-base-uncased
+a horse is a toy.,horse,toy,56,-19.270935535430908,-3.211822589238485,66985530,distilbert-base-uncased
+a gun is a toy.,gun,toy,57,-21.515326976776123,-3.585887829462687,66985530,distilbert-base-uncased
+animals are toys.,animals,toy,58,-16.48655080795288,-4.12163770198822,66985530,distilbert-base-uncased
+a tennis racket is a toy.,tennis racket,toy,59,-16.8188796043396,-2.10235995054245,66985530,distilbert-base-uncased
+books are toys.,books,toy,60,-22.222644805908203,-5.555661201477051,66985530,distilbert-base-uncased
+a robin is a bird.,robin,bird,1,-13.795707702636719,-2.2992846171061196,66985530,distilbert-base-uncased
+a sparrow is a bird.,sparrow,bird,2,-8.329803466796875,-1.3883005777994792,66985530,distilbert-base-uncased
+a bluejay is a bird.,bluejay,bird,3,-20.839807987213135,-2.604975998401642,66985530,distilbert-base-uncased
+a bluebird is a bird.,bluebird,bird,4,-10.015446662902832,-1.4307780947004045,66985530,distilbert-base-uncased
+a canary is a bird.,canary,bird,5,-12.668980121612549,-2.111496686935425,66985530,distilbert-base-uncased
+a blackbird is a bird.,blackbird,bird,6,-8.90734338760376,-1.272477626800537,66985530,distilbert-base-uncased
+a dove is a bird.,dove,bird,7,-8.495049476623535,-1.4158415794372559,66985530,distilbert-base-uncased
+a lark is a bird.,lark,bird,8,-10.444075584411621,-1.7406792640686035,66985530,distilbert-base-uncased
+a swallow is a bird.,swallow,bird,9,-11.081947326660156,-1.8469912211100261,66985530,distilbert-base-uncased
+a parakeet is a bird.,parakeet,bird,10,-6.865320682525635,-0.8581650853157043,66985530,distilbert-base-uncased
+an oriole is a bird.,oriole,bird,11,-12.107800483703613,-1.5134750604629517,66985530,distilbert-base-uncased
+a mockingbird is a bird.,mockingbird,bird,12,-5.951682090759277,-0.8502402986798968,66985530,distilbert-base-uncased
+a redbird is a bird.,redbird,bird,13,-12.848257541656494,-1.835465363093785,66985530,distilbert-base-uncased
+a wren is a bird.,wren,bird,14,-10.977778911590576,-1.8296298185984294,66985530,distilbert-base-uncased
+a finch is a bird.,finch,bird,15,-12.631925582885742,-2.105320930480957,66985530,distilbert-base-uncased
+a starling is a bird.,starling,bird,16,-15.46260690689087,-2.2089438438415527,66985530,distilbert-base-uncased
+a cardinal is a bird.,cardinal,bird,17,-20.810548782348633,-3.4684247970581055,66985530,distilbert-base-uncased
+an eagle is a bird.,eagle,bird,18,-8.44871473312378,-1.4081191221872966,66985530,distilbert-base-uncased
+a hummingbird is a bird.,hummingbird,bird,19,-4.36605167388916,-0.6237216676984515,66985530,distilbert-base-uncased
+a seagull is a bird.,seagull,bird,20,-4.738752365112305,-0.5923440456390381,66985530,distilbert-base-uncased
+a woodpecker is a bird.,woodpecker,bird,21,-7.655149936676025,-0.9568937420845032,66985530,distilbert-base-uncased
+a pigeon is a bird.,pigeon,bird,22,-8.887521266937256,-1.4812535444895427,66985530,distilbert-base-uncased
+a thrush is a bird.,thrush,bird,23,-6.548281192779541,-0.9354687418256488,66985530,distilbert-base-uncased
+a falcon is a bird.,falcon,bird,24,-9.533907413482666,-1.5889845689137776,66985530,distilbert-base-uncased
+a crow is a bird.,crow,bird,25,-10.648713111877441,-1.7747855186462402,66985530,distilbert-base-uncased
+a hawk is a bird.,hawk,bird,26,-10.05183458328247,-1.6753057638804119,66985530,distilbert-base-uncased
+a raven is a bird.,raven,bird,27,-10.78022050857544,-1.7967034180959065,66985530,distilbert-base-uncased
+a goldfinch is a bird.,goldfinch,bird,28,-10.357099533081055,-1.2946374416351318,66985530,distilbert-base-uncased
+a parrot is a bird.,parrot,bird,29,-9.249334335327148,-1.5415557225545247,66985530,distilbert-base-uncased
+a sandpiper is a bird.,sandpiper,bird,30,-8.697517395019531,-1.0871896743774414,66985530,distilbert-base-uncased
+a pheasant is a bird.,pheasant,bird,31,-3.9994473457336426,-0.4999309182167053,66985530,distilbert-base-uncased
+a catbird is a bird.,catbird,bird,32,-10.153721809387207,-1.4505316870553153,66985530,distilbert-base-uncased
+a crane is a bird.,crane,bird,33,-16.131498336791992,-2.6885830561319985,66985530,distilbert-base-uncased
+albatross are birds.,albatross,bird,34,-12.856610298156738,-2.142768383026123,66985530,distilbert-base-uncased
+a condor is a bird.,condor,bird,35,-12.340185165405273,-2.0566975275675454,66985530,distilbert-base-uncased
+a toucan is a bird.,toucan,bird,36,-17.91095542907715,-2.2388694286346436,66985530,distilbert-base-uncased
+an owl is a bird.,owl,bird,37,-6.297622203826904,-1.0496037006378174,66985530,distilbert-base-uncased
+a pelican is a bird.,pelican,bird,38,-5.442207336425781,-0.6802759170532227,66985530,distilbert-base-uncased
+geese are birds.,geese,bird,39,-18.93105983734131,-4.732764959335327,66985530,distilbert-base-uncased
+a vulture is a bird.,vulture,bird,40,-11.842564582824707,-1.973760763804118,66985530,distilbert-base-uncased
+a stork is a bird.,stork,bird,41,-8.663723468780518,-1.0829654335975647,66985530,distilbert-base-uncased
+a buzzard is a bird.,buzzard,bird,42,-8.501831531524658,-1.2145473616463798,66985530,distilbert-base-uncased
+a swan is a bird.,swan,bird,43,-13.597280502319336,-2.2662134170532227,66985530,distilbert-base-uncased
+a flamingo is a bird.,flamingo,bird,44,-11.992619514465332,-1.7132313592093331,66985530,distilbert-base-uncased
+a duck is a bird.,duck,bird,45,-11.876366138458252,-1.9793943564097087,66985530,distilbert-base-uncased
+a peacock is a bird.,peacock,bird,46,-10.749812602996826,-1.7916354338328044,66985530,distilbert-base-uncased
+an egret is a bird.,egret,bird,47,-10.81214427947998,-1.3515180349349976,66985530,distilbert-base-uncased
+a chicken is a bird.,chicken,bird,48,-15.208063125610352,-2.534677187601725,66985530,distilbert-base-uncased
+a turkey is a bird.,turkey,bird,49,-16.982062816619873,-2.830343802769979,66985530,distilbert-base-uncased
+an ostrich is a bird.,ostrich,bird,50,-6.749174118041992,-0.843646764755249,66985530,distilbert-base-uncased
+a titmouse is a bird.,titmouse,bird,51,-12.246876239776611,-1.5308595299720764,66985530,distilbert-base-uncased
+an emu is a bird.,emu,bird,52,-15.192371845245361,-2.1703388350350514,66985530,distilbert-base-uncased
+a penguin is a bird.,penguin,bird,53,-13.045756816864014,-2.174292802810669,66985530,distilbert-base-uncased
+a bat is a bird.,bat,bird,54,-13.15851354598999,-2.1930855909983316,66985530,distilbert-base-uncased
+football is a sport.,football,sport,1,-5.214488983154297,-1.0428977966308595,66985530,distilbert-base-uncased
+baseball is a sport.,baseball,sport,2,-6.9760212898254395,-1.3952042579650878,66985530,distilbert-base-uncased
+basketball is a sport.,basketball,sport,3,-5.7979278564453125,-1.1595855712890626,66985530,distilbert-base-uncased
+tennis is a sport.,tennis,sport,4,-5.583874702453613,-1.1167749404907226,66985530,distilbert-base-uncased
+softball is a sport.,softball,sport,5,-6.231035232543945,-1.246207046508789,66985530,distilbert-base-uncased
+canoeing is a sport.,canoeing,sport,6,-2.549553871154785,-0.4249256451924642,66985530,distilbert-base-uncased
+handball is a sport.,handball,sport,7,-5.253533363342285,-1.050706672668457,66985530,distilbert-base-uncased
+rugby is a sport.,rugby,sport,8,-5.766331672668457,-1.1532663345336913,66985530,distilbert-base-uncased
+hockey is a sport.,hockey,sport,9,-6.795851230621338,-1.3591702461242676,66985530,distilbert-base-uncased
+ice hockey is a sport.,ice hockey,sport,10,-1.5188579559326172,-0.2531429926554362,66985530,distilbert-base-uncased
+swimming is a sport.,swimming,sport,11,-3.822183609008789,-0.7644367218017578,66985530,distilbert-base-uncased
+track is a sport.,track,sport,12,-16.907363891601562,-3.3814727783203127,66985530,distilbert-base-uncased
+boxing is a sport.,boxing,sport,13,-5.040534019470215,-1.008106803894043,66985530,distilbert-base-uncased
+volleyball is a sport.,volleyball,sport,14,-5.33174991607666,-1.066349983215332,66985530,distilbert-base-uncased
+lacrosse is a sport.,lacrosse,sport,15,-5.547937393188477,-1.1095874786376954,66985530,distilbert-base-uncased
+skiing is a sport.,skiing,sport,16,-6.19968318939209,-1.239936637878418,66985530,distilbert-base-uncased
+golf is a sport.,golf,sport,17,-5.171257019042969,-1.0342514038085937,66985530,distilbert-base-uncased
+polo is a sport.,polo,sport,18,-9.053118705749512,-1.8106237411499024,66985530,distilbert-base-uncased
+surfing is a sport.,surfing,sport,19,-4.700127601623535,-0.940025520324707,66985530,distilbert-base-uncased
+wrestling is a sport.,wrestling,sport,20,-6.090326309204102,-1.2180652618408203,66985530,distilbert-base-uncased
+gymnastics is a sport.,gymnastics,sport,21,-5.731925964355469,-1.1463851928710938,66985530,distilbert-base-uncased
+cricket is a sport.,cricket,sport,22,-5.9515485763549805,-1.190309715270996,66985530,distilbert-base-uncased
+squash is a sport.,squash,sport,23,-6.823655128479004,-1.3647310256958007,66985530,distilbert-base-uncased
+badminton is a sport.,badminton,sport,24,-5.701298713684082,-1.1402597427368164,66985530,distilbert-base-uncased
+racing is a sport.,racing,sport,25,-6.784853458404541,-1.3569706916809081,66985530,distilbert-base-uncased
+pole vault is a sport.,pole vault,sport,26,-1.3967599868774414,-0.23279333114624023,66985530,distilbert-base-uncased
+fencing is a sport.,fencing,sport,27,-5.37879753112793,-1.075759506225586,66985530,distilbert-base-uncased
+bowling is a sport.,bowling,sport,28,-7.892699241638184,-1.5785398483276367,66985530,distilbert-base-uncased
+water skiing is a sport.,water skiing,sport,29,-10.339137554168701,-1.7231895923614502,66985530,distilbert-base-uncased
+ice skating is a sport.,ice skating,sport,30,-8.226884841918945,-1.3711474736531575,66985530,distilbert-base-uncased
+jai alai is a sport.,jai alai,sport,31,-32.73310422897339,-4.676157746996198,66985530,distilbert-base-uncased
+skating is a sport.,skating,sport,32,-6.761138439178467,-1.3522276878356934,66985530,distilbert-base-uncased
+skindiving is a sport.,skindiving,sport,33,-18.053919792175293,-2.579131398882185,66985530,distilbert-base-uncased
+sailing is a sport.,sailing,sport,34,-5.854761123657227,-1.1709522247314452,66985530,distilbert-base-uncased
+diving is a sport.,diving,sport,35,-5.963893890380859,-1.1927787780761718,66985530,distilbert-base-uncased
+archery is a sport.,archery,sport,36,-3.819927215576172,-0.7639854431152344,66985530,distilbert-base-uncased
+judo is a sport.,judo,sport,37,-5.812613487243652,-1.1625226974487304,66985530,distilbert-base-uncased
+car racing is a sport.,car racing,sport,38,-7.47991943359375,-1.2466532389322917,66985530,distilbert-base-uncased
+ping pong is a sport.,ping pong,sport,39,-5.898904800415039,-0.842700685773577,66985530,distilbert-base-uncased
+rowing is a sport.,rowing,sport,40,-3.999650001525879,-0.7999300003051758,66985530,distilbert-base-uncased
+fishing is a sport.,fishing,sport,41,-4.6368818283081055,-0.9273763656616211,66985530,distilbert-base-uncased
+horseback riding is a sport.,horseback riding,sport,42,-1.5384368896484375,-0.25640614827473956,66985530,distilbert-base-uncased
+running is a sport.,running,sport,43,-8.038888454437256,-1.6077776908874513,66985530,distilbert-base-uncased
+horse racing is a sport.,horse racing,sport,44,-4.5498504638671875,-0.7583084106445312,66985530,distilbert-base-uncased
+hiking is a sport.,hiking,sport,45,-7.046553134918213,-1.4093106269836426,66985530,distilbert-base-uncased
+weight lifting is a sport.,weight lifting,sport,46,-2.7503061294555664,-0.45838435490926105,66985530,distilbert-base-uncased
+croquet is a sport.,croquet,sport,47,-10.00105094909668,-1.4287215641566686,66985530,distilbert-base-uncased
+horseshoes is a sport.,horseshoes,sport,48,-18.14859437942505,-3.024765729904175,66985530,distilbert-base-uncased
+boating is a sport.,boating,sport,49,-7.195065975189209,-1.4390131950378418,66985530,distilbert-base-uncased
+pool is a sport.,pool,sport,50,-16.96786069869995,-3.39357213973999,66985530,distilbert-base-uncased
+billiards is a sport.,billiards,sport,51,-2.8048925399780273,-0.40069893428257536,66985530,distilbert-base-uncased
+hunting is a sport.,hunting,sport,52,-5.605903625488281,-1.1211807250976562,66985530,distilbert-base-uncased
+jump rope is a sport.,jump rope,sport,53,-9.411718845367432,-1.5686198075612385,66985530,distilbert-base-uncased
+camping is a sport.,camping,sport,54,-6.989030838012695,-1.397806167602539,66985530,distilbert-base-uncased
+chess is a sport.,chess,sport,55,-7.509601593017578,-1.5019203186035157,66985530,distilbert-base-uncased
+dancing is a sport.,dancing,sport,56,-8.841638088226318,-1.7683276176452636,66985530,distilbert-base-uncased
+checkers is a sport.,checkers,sport,57,-19.48912000656128,-3.2481866677602134,66985530,distilbert-base-uncased
+cards is a sport.,cards,sport,58,-22.630425453186035,-4.526085090637207,66985530,distilbert-base-uncased
+sunbathing is a sport.,sunbathing,sport,59,-3.0442399978637695,-0.43489142826625277,66985530,distilbert-base-uncased
+pea is a vegetable.,pea,vegetable,1,-14.896703243255615,-2.979340648651123,66985530,distilbert-base-uncased
+carrot is a vegetable.,carrot,vegetable,2,-9.71369981765747,-1.9427399635314941,66985530,distilbert-base-uncased
+green beans are vegetables.,green beans,vegetable,3,-17.35612678527832,-3.471225357055664,66985530,distilbert-base-uncased
+string beans are vegetables.,string beans,vegetable,4,-23.142600059509277,-4.6285200119018555,66985530,distilbert-base-uncased
+spinach is a vegetable.,spinach,vegetable,5,-8.839692115783691,-1.473282019297282,66985530,distilbert-base-uncased
+broccoli is a vegetable.,broccoli,vegetable,6,-8.589855194091797,-1.2271221705845423,66985530,distilbert-base-uncased
+asparagus are vegetables.,asparagus,vegetable,7,-20.734179973602295,-3.4556966622670493,66985530,distilbert-base-uncased
+corn is a vegetable.,corn,vegetable,8,-8.946687698364258,-1.7893375396728515,66985530,distilbert-base-uncased
+cauliflower is a vegetable.,cauliflower,vegetable,9,-6.692317008972168,-0.956045286996024,66985530,distilbert-base-uncased
+brussels are vegetables.,brussels,vegetable,10,-33.15408802032471,-8.288522005081177,66985530,distilbert-base-uncased
+sprouts are vegetables.,sprouts,vegetable,11,-16.586796760559082,-2.764466126759847,66985530,distilbert-base-uncased
+squash is a vegetable.,squash,vegetable,12,-14.437063217163086,-2.8874126434326173,66985530,distilbert-base-uncased
+lettuce is a vegetable.,lettuce,vegetable,13,-3.9576778411865234,-0.565382548740932,66985530,distilbert-base-uncased
+celery is a vegetable.,celery,vegetable,14,-11.459615707397461,-1.6370879581996374,66985530,distilbert-base-uncased
+cucumber is a vegetable.,cucumber,vegetable,15,-4.661172866821289,-0.665881838117327,66985530,distilbert-base-uncased
+beets are vegetables.,beets,vegetable,16,-14.890622615814209,-2.9781245231628417,66985530,distilbert-base-uncased
+greens are vegetables.,greens,vegetable,17,-20.430869102478027,-5.107717275619507,66985530,distilbert-base-uncased
+tomato is a vegetable.,tomato,vegetable,18,-10.281340599060059,-2.0562681198120116,66985530,distilbert-base-uncased
+lima beans are vegetables.,lima beans,vegetable,19,-15.895367622375488,-3.179073524475098,66985530,distilbert-base-uncased
+artichokes are vegetables.,artichokes,vegetable,20,-17.90415668487549,-2.557736669267927,66985530,distilbert-base-uncased
+turnip is a vegetable.,turnip,vegetable,21,-10.009450435638428,-1.6682417392730713,66985530,distilbert-base-uncased
+eggplant is a vegetable.,eggplant,vegetable,22,-4.946761131286621,-0.7066801616123745,66985530,distilbert-base-uncased
+romaine is a vegetable.,romaine,vegetable,23,-21.72576093673706,-3.6209601561228433,66985530,distilbert-base-uncased
+green peppers are vegetables.,green peppers,vegetable,24,-19.242431163787842,-3.848486232757568,66985530,distilbert-base-uncased
+okra is a vegetable.,okra,vegetable,25,-23.27259397506714,-3.87876566251119,66985530,distilbert-base-uncased
+radishes are vegetables.,radishes,vegetable,26,-14.68095874786377,-2.446826457977295,66985530,distilbert-base-uncased
+onions are vegetables.,onions,vegetable,27,-17.264769554138184,-4.316192388534546,66985530,distilbert-base-uncased
+bean is a vegetable.,bean,vegetable,28,-14.610610485076904,-2.922122097015381,66985530,distilbert-base-uncased
+green onion is a vegetable.,green onion,vegetable,29,-11.794960021972656,-1.9658266703287761,66985530,distilbert-base-uncased
+potato is a vegetable.,potato,vegetable,30,-9.141592502593994,-1.8283185005187987,66985530,distilbert-base-uncased
+parsnip is a vegetable.,parsnip,vegetable,31,-26.042287826538086,-3.2552859783172607,66985530,distilbert-base-uncased
+turnip greens are vegetables.,turnip greens,vegetable,32,-18.80141830444336,-3.1335697174072266,66985530,distilbert-base-uncased
+collard is a vegetable.,collard,vegetable,33,-23.370705127716064,-3.8951175212860107,66985530,distilbert-base-uncased
+wax beans are vegetables.,wax beans,vegetable,34,-26.7146315574646,-5.34292631149292,66985530,distilbert-base-uncased
+watercress are vegetables.,watercress,vegetable,35,-22.918774604797363,-3.819795767466227,66985530,distilbert-base-uncased
+black eyed peas are vegetables.,black eyed peas,vegetable,36,-17.704994678497314,-2.9508324464162192,66985530,distilbert-base-uncased
+leek is a vegetable.,leek,vegetable,37,-19.569623470306396,-3.261603911717733,66985530,distilbert-base-uncased
+peppers are vegetables.,peppers,vegetable,38,-19.539709091186523,-4.884927272796631,66985530,distilbert-base-uncased
+sweet potato is a vegetable.,sweet potato,vegetable,39,-6.861032485961914,-1.1435054143269856,66985530,distilbert-base-uncased
+yams are vegetables.,yams,vegetable,40,-15.7155179977417,-3.14310359954834,66985530,distilbert-base-uncased
+parsley is a vegetable.,parsley,vegetable,41,-15.415953636169434,-2.569325606028239,66985530,distilbert-base-uncased
+endive is a vegetable.,endive,vegetable,42,-30.339962005615234,-5.056660334269206,66985530,distilbert-base-uncased
+rutabaga is a vegetable.,rutabaga,vegetable,43,-16.15421199798584,-2.01927649974823,66985530,distilbert-base-uncased
+mushroom is a vegetable.,mushroom,vegetable,44,-13.696015357971191,-2.7392030715942384,66985530,distilbert-base-uncased
+avocado is a vegetable.,avocado,vegetable,45,-8.274711608886719,-1.1821016584123885,66985530,distilbert-base-uncased
+rhubarb is a vegetable.,rhubarb,vegetable,46,-19.324440956115723,-2.4155551195144653,66985530,distilbert-base-uncased
+kale is a vegetable.,kale,vegetable,47,-21.10876178741455,-3.518126964569092,66985530,distilbert-base-uncased
+escarole is a vegetable.,escarole,vegetable,48,-28.08713436126709,-4.012447765895298,66985530,distilbert-base-uncased
+sauerkraut is a vegetable.,sauerkraut,vegetable,49,-13.15995979309082,-1.6449949741363525,66985530,distilbert-base-uncased
+pickles are vegetables.,pickles,vegetable,50,-12.673163414001465,-2.534632682800293,66985530,distilbert-base-uncased
+baked beans are vegetables.,baked beans,vegetable,51,-17.948049068450928,-3.5896098136901857,66985530,distilbert-base-uncased
+pumpkin is a vegetable.,pumpkin,vegetable,52,-13.369429111480713,-2.6738858222961426,66985530,distilbert-base-uncased
+seaweed is a vegetable.,seaweed,vegetable,53,-8.98931360244751,-1.4982189337412517,66985530,distilbert-base-uncased
+garlic is a vegetable.,garlic,vegetable,54,-8.604469299316406,-1.7208938598632812,66985530,distilbert-base-uncased
+dandelion is a vegetable.,dandelion,vegetable,55,-9.439500331878662,-1.3485000474112374,66985530,distilbert-base-uncased
+peanut is a vegetable.,peanut,vegetable,56,-12.678139686584473,-2.5356279373168946,66985530,distilbert-base-uncased
+rice is a vegetable.,rice,vegetable,57,-9.323343276977539,-1.8646686553955079,66985530,distilbert-base-uncased
+a saw is a tool.,saw,tool,1,-13.124046325683594,-2.187341054280599,66985530,distilbert-base-uncased
+a hammer is a tool.,hammer,tool,2,-10.776865005493164,-1.796144167582194,66985530,distilbert-base-uncased
+a ruler is a tool.,ruler,tool,3,-21.127195358276367,-3.5211992263793945,66985530,distilbert-base-uncased
+a screwdriver is a tool.,screwdriver,tool,4,-4.002842903137207,-0.5003553628921509,66985530,distilbert-base-uncased
+a drill is a tool.,drill,tool,5,-15.058499813079834,-2.509749968846639,66985530,distilbert-base-uncased
+nails are tools.,nails,tool,6,-23.849315643310547,-5.962328910827637,66985530,distilbert-base-uncased
+a tape measure is a tool.,tape measure,tool,7,-22.919761180877686,-3.2742515972682407,66985530,distilbert-base-uncased
+a sawhorse is a tool.,sawhorse,tool,8,-15.483783721923828,-2.2119691031319753,66985530,distilbert-base-uncased
+a sandpaper is a tool.,sandpaper,tool,9,-16.90966272354126,-2.415666103363037,66985530,distilbert-base-uncased
+a sander is a tool.,sander,tool,10,-19.345452785491943,-2.7636361122131348,66985530,distilbert-base-uncased
+a level is a tool.,level,tool,11,-25.382573127746582,-4.230428854624431,66985530,distilbert-base-uncased
+a plane is a tool.,plane,tool,12,-24.3688006401062,-4.061466773351033,66985530,distilbert-base-uncased
+a file is a tool.,file,tool,13,-20.86311626434326,-3.4771860440572104,66985530,distilbert-base-uncased
+a toolbox is a tool.,toolbox,tool,14,-9.223305702209473,-1.3176151003156389,66985530,distilbert-base-uncased
+a T-square is a tool.,T-square,tool,15,-27.087323665618896,-3.385915458202362,66985530,distilbert-base-uncased
+a chisel is a tool.,chisel,tool,16,-7.428420066833496,-1.0612028666904993,66985530,distilbert-base-uncased
+a rasp is a tool.,rasp,tool,17,-17.489243030548096,-2.4984632900782993,66985530,distilbert-base-uncased
+a pencil is a tool.,pencil,tool,18,-11.48890209197998,-1.9148170153299968,66985530,distilbert-base-uncased
+a hacksaw is a tool.,hacksaw,tool,19,-15.726853847503662,-1.9658567309379578,66985530,distilbert-base-uncased
+a square is a tool.,square,tool,20,-25.412298679351807,-4.235383113225301,66985530,distilbert-base-uncased
+a bench is a tool.,bench,tool,21,-20.132777214050293,-3.3554628690083823,66985530,distilbert-base-uncased
+a pliers is a tool.,pliers,tool,22,-16.929923057556152,-2.418560436793736,66985530,distilbert-base-uncased
+a wrench is a tool.,wrench,tool,23,-6.400479316711426,-0.9143541881016323,66985530,distilbert-base-uncased
+a ladder is a tool.,ladder,tool,24,-17.58211040496826,-2.930351734161377,66985530,distilbert-base-uncased
+a lathe is a tool.,lathe,tool,25,-11.871081352233887,-1.695868764604841,66985530,distilbert-base-uncased
+a vise is a tool.,vise,tool,26,-17.807514667510986,-2.5439306667872836,66985530,distilbert-base-uncased
+screws are tools.,screws,tool,27,-22.321917057037354,-4.4643834114074705,66985530,distilbert-base-uncased
+a wood is a tool.,wood,tool,28,-21.84935998916626,-3.6415599981943765,66985530,distilbert-base-uncased
+a wedge is a tool.,wedge,tool,29,-17.607486248016357,-2.9345810413360596,66985530,distilbert-base-uncased
+a lumber is a tool.,lumber,tool,30,-22.537365436553955,-3.7562275727589927,66985530,distilbert-base-uncased
+blueprints are tools.,blueprints,tool,31,-21.04143714904785,-3.506906191507975,66985530,distilbert-base-uncased
+a brace is a tool.,brace,tool,32,-17.187984943389893,-2.864664157231649,66985530,distilbert-base-uncased
+an awl is a tool.,awl,tool,33,-18.741440296173096,-2.6773486137390137,66985530,distilbert-base-uncased
+a crowbar is a tool.,crowbar,tool,34,-10.39228105545044,-1.4846115793500627,66985530,distilbert-base-uncased
+a hinge is a tool.,hinge,tool,35,-8.800714015960693,-1.2572448594229562,66985530,distilbert-base-uncased
+a miter box is a tool.,miter box,tool,36,-28.055755615234375,-3.506969451904297,66985530,distilbert-base-uncased
+a knife is a tool.,knife,tool,37,-11.692510604858398,-1.9487517674763997,66985530,distilbert-base-uncased
+a chalk is a tool.,chalk,tool,38,-22.22999858856201,-3.7049997647603354,66985530,distilbert-base-uncased
+nuts are tools.,nuts,tool,39,-27.65676975250244,-6.91419243812561,66985530,distilbert-base-uncased
+bolts are tools.,bolts,tool,40,-25.935518741607666,-6.4838796854019165,66985530,distilbert-base-uncased
+a plumb line is a tool.,plumb line,tool,41,-26.75756597518921,-3.344695746898651,66985530,distilbert-base-uncased
+a brush is a tool.,brush,tool,42,-14.222793579101562,-2.3704655965169272,66985530,distilbert-base-uncased
+a sledge hammer is a tool.,sledge hammer,tool,43,-6.740697860717773,-0.8425872325897217,66985530,distilbert-base-uncased
+a glue is a tool.,glue,tool,44,-17.626879692077637,-2.9378132820129395,66985530,distilbert-base-uncased
+a paintbrush is a tool.,paintbrush,tool,45,-7.736738204956055,-1.105248314993722,66985530,distilbert-base-uncased
+a varnish is a tool.,varnish,tool,46,-12.455288410186768,-1.7793269157409668,66985530,distilbert-base-uncased
+an apron is a tool.,apron,tool,47,-16.079781532287598,-2.6799635887145996,66985530,distilbert-base-uncased
+a stapler is a tool.,stapler,tool,48,-15.39313268661499,-2.199018955230713,66985530,distilbert-base-uncased
+an extension cord is a tool.,extension cord,tool,49,-24.320373058319092,-3.474339008331299,66985530,distilbert-base-uncased
+a soldering iron is a tool.,soldering iron,tool,50,-18.638850212097168,-2.329856276512146,66985530,distilbert-base-uncased
+a plaster is a tool.,plaster,tool,51,-23.899345874786377,-3.983224312464396,66985530,distilbert-base-uncased
+a wheelbarrow is a tool.,wheelbarrow,tool,52,-8.175583839416504,-1.021947979927063,66985530,distilbert-base-uncased
+an axe is a tool.,axe,tool,53,-10.352471828460693,-1.7254119714101155,66985530,distilbert-base-uncased
+a slide rule is a tool.,slide rule,tool,54,-29.44349241256714,-4.206213201795306,66985530,distilbert-base-uncased
+a cement is a tool.,cement,tool,55,-21.88237428665161,-3.647062381108602,66985530,distilbert-base-uncased
+an anvil is a tool.,anvil,tool,56,-7.5713348388671875,-1.0816192626953125,66985530,distilbert-base-uncased
+a hatchet is a tool.,hatchet,tool,57,-14.063273906707764,-2.0090391295296803,66985530,distilbert-base-uncased
+rags are tools.,rags,tool,58,-25.342609405517578,-6.3356523513793945,66985530,distilbert-base-uncased
+a scissors is a tool.,scissors,tool,59,-15.215585708618164,-2.535930951436361,66985530,distilbert-base-uncased
+a crane is a tool.,crane,tool,60,-14.129858493804932,-2.3549764156341553,66985530,distilbert-base-uncased
+orange is a fruit.,orange,fruit,1,-17.885672569274902,-3.5771345138549804,66985530,distilbert-base-uncased
+apple is a fruit.,apple,fruit,2,-16.245439052581787,-3.2490878105163574,66985530,distilbert-base-uncased
+banana is a fruit.,banana,fruit,3,-14.606451511383057,-2.9212903022766112,66985530,distilbert-base-uncased
+peach is a fruit.,peach,fruit,4,-21.995293617248535,-4.399058723449707,66985530,distilbert-base-uncased
+pear is a fruit.,pear,fruit,5,-18.55931568145752,-3.711863136291504,66985530,distilbert-base-uncased
+apricot is a fruit.,apricot,fruit,6,-14.79210090637207,-2.113157272338867,66985530,distilbert-base-uncased
+tangerine is a fruit.,tangerine,fruit,7,-16.645726680755615,-2.774287780125936,66985530,distilbert-base-uncased
+plum is a fruit.,plum,fruit,8,-19.700534343719482,-3.9401068687438965,66985530,distilbert-base-uncased
+grapes are fruit.,grapes,fruit,9,-19.597820281982422,-4.8994550704956055,66985530,distilbert-base-uncased
+nectarine is a fruit.,nectarine,fruit,10,-19.684166431427002,-3.2806944052378335,66985530,distilbert-base-uncased
+strawberry is a fruit.,strawberry,fruit,11,-16.676589488983154,-3.3353178977966307,66985530,distilbert-base-uncased
+grapefruit is a fruit.,grapefruit,fruit,12,-9.921956062316895,-1.4174222946166992,66985530,distilbert-base-uncased
+berry is a fruit.,berry,fruit,13,-24.83318567276001,-4.966637134552002,66985530,distilbert-base-uncased
+cherry is a fruit.,cherry,fruit,14,-21.438804626464844,-4.287760925292969,66985530,distilbert-base-uncased
+pineapple is a fruit.,pineapple,fruit,15,-9.066404342651367,-1.5110673904418945,66985530,distilbert-base-uncased
+blackberry is a fruit.,blackberry,fruit,16,-22.82395029067993,-4.564790058135986,66985530,distilbert-base-uncased
+melon is a fruit.,melon,fruit,17,-24.265663146972656,-4.044277191162109,66985530,distilbert-base-uncased
+blueberry is a fruit.,blueberry,fruit,18,-17.713814735412598,-2.9523024559020996,66985530,distilbert-base-uncased
+raspberry is a fruit.,raspberry,fruit,19,-13.826813697814941,-1.9752590996878487,66985530,distilbert-base-uncased
+lemon is a fruit.,lemon,fruit,20,-21.997994422912598,-4.399598884582519,66985530,distilbert-base-uncased
+black raspberry is a fruit.,black raspberry,fruit,21,-15.229183673858643,-1.9036479592323303,66985530,distilbert-base-uncased
+boysenberry is a fruit.,boysenberry,fruit,22,-35.269651889801025,-5.038521698543003,66985530,distilbert-base-uncased
+watermelon is a fruit.,watermelon,fruit,23,-10.902574062347412,-1.5575105803353446,66985530,distilbert-base-uncased
+cantaloupe is a fruit.,cantaloupe,fruit,24,-19.160337448120117,-2.3950421810150146,66985530,distilbert-base-uncased
+lime is a fruit.,lime,fruit,25,-17.836380004882812,-3.5672760009765625,66985530,distilbert-base-uncased
+tangelo is a fruit.,tangelo,fruit,26,-30.412516117095947,-5.068752686182658,66985530,distilbert-base-uncased
+papaya is a fruit.,papaya,fruit,27,-17.181633949279785,-2.8636056582132974,66985530,distilbert-base-uncased
+honeydew is a fruit.,honeydew,fruit,28,-15.40951919555664,-2.20135988507952,66985530,distilbert-base-uncased
+fig is a fruit.,fig,fruit,29,-21.671873569488525,-4.334374713897705,66985530,distilbert-base-uncased
+mango is a fruit.,mango,fruit,30,-15.60567331314087,-3.1211346626281737,66985530,distilbert-base-uncased
+guava is a fruit.,guava,fruit,31,-14.895548820495605,-2.482591470082601,66985530,distilbert-base-uncased
+pomegranate is a fruit.,pomegranate,fruit,32,-9.142908096313477,-1.1428635120391846,66985530,distilbert-base-uncased
+cranberry is a fruit.,cranberry,fruit,33,-15.834574699401855,-2.262082099914551,66985530,distilbert-base-uncased
+passion fruit is a fruit.,passion fruit,fruit,34,-15.648323059082031,-2.6080538431803384,66985530,distilbert-base-uncased
+prunes are fruit.,prunes,fruit,35,-12.48656415939331,-2.497312831878662,66985530,distilbert-base-uncased
+gooseberry is a fruit.,gooseberry,fruit,36,-14.385766506195068,-2.3976277510325112,66985530,distilbert-base-uncased
+date is a fruit.,date,fruit,37,-34.232491970062256,-6.8464983940124515,66985530,distilbert-base-uncased
+kumquat is a fruit.,kumquat,fruit,38,-31.603336811065674,-3.9504171013832092,66985530,distilbert-base-uncased
+raisin is a fruit.,raisin,fruit,39,-20.50325298309326,-3.4172088305155435,66985530,distilbert-base-uncased
+muskmelon is a fruit.,muskmelon,fruit,40,-23.21009349822998,-2.9012616872787476,66985530,distilbert-base-uncased
+persimmon is a fruit.,persimmon,fruit,41,-12.726799011230469,-1.8181141444614954,66985530,distilbert-base-uncased
+pawpaw is a fruit.,pawpaw,fruit,42,-26.21376657485962,-3.744823796408517,66985530,distilbert-base-uncased
+coconut is a fruit.,coconut,fruit,43,-14.237086772918701,-2.8474173545837402,66985530,distilbert-base-uncased
+avocado is a fruit.,avocado,fruit,44,-12.863563537597656,-1.8376519339425224,66985530,distilbert-base-uncased
+pumpkin is a fruit.,pumpkin,fruit,45,-19.261452674865723,-3.8522905349731444,66985530,distilbert-base-uncased
+tomato is a fruit.,tomato,fruit,46,-17.32704210281372,-3.4654084205627442,66985530,distilbert-base-uncased
+nut is a fruit.,nut,fruit,47,-19.06947422027588,-3.813894844055176,66985530,distilbert-base-uncased
+gourd is a fruit.,gourd,fruit,48,-25.48731565475464,-3.641045093536377,66985530,distilbert-base-uncased
+olive is a fruit.,olive,fruit,49,-23.831289291381836,-4.766257858276367,66985530,distilbert-base-uncased
+pickle is a fruit.,pickle,fruit,50,-21.83682107925415,-3.639470179875692,66985530,distilbert-base-uncased
+squash is a fruit.,squash,fruit,51,-20.170151233673096,-4.034030246734619,66985530,distilbert-base-uncased
+pants are clothes.,pants,clothing,1,-20.936299800872803,-5.234074950218201,66985530,distilbert-base-uncased
+a shirt is a type of clothing.,shirt,clothing,2,-12.444175720214844,-1.5555219650268555,66985530,distilbert-base-uncased
+dress are clothes.,dress,clothing,3,-26.853992462158203,-6.713498115539551,66985530,distilbert-base-uncased
+a skirt is a type of clothing.,skirt,clothing,4,-13.37252140045166,-1.6715651750564575,66985530,distilbert-base-uncased
+a blouse is a type of clothing.,blouse,clothing,5,-15.281663417816162,-1.9102079272270203,66985530,distilbert-base-uncased
+a suit is a type of clothing.,suit,clothing,6,-20.100711822509766,-2.5125889778137207,66985530,distilbert-base-uncased
+slacks are clothes.,slacks,clothing,7,-24.687572479248047,-6.171893119812012,66985530,distilbert-base-uncased
+a jacket is a type of clothing.,jacket,clothing,8,-15.209889888763428,-1.9012362360954285,66985530,distilbert-base-uncased
+a coat is a type of clothing.,coat,clothing,9,-16.239500045776367,-2.029937505722046,66985530,distilbert-base-uncased
+a sweater is a type of clothing.,sweater,clothing,10,-13.416648864746094,-1.6770811080932617,66985530,distilbert-base-uncased
+a sweatshirt is a type of clothing.,sweatshirt,clothing,11,-13.3467116355896,-1.6683389544487,66985530,distilbert-base-uncased
+underpants are clothes.,underpants,clothing,12,-20.421154499053955,-4.084230899810791,66985530,distilbert-base-uncased
+a sports jacket is a type of clothing.,sports jacket,clothing,13,-15.37828779220581,-1.7086986435784235,66985530,distilbert-base-uncased
+a jumper is a type of clothing.,jumper,clothing,14,-18.97784423828125,-2.3722305297851562,66985530,distilbert-base-uncased
+panties are clothes.,panties,clothing,15,-23.955085277557373,-5.988771319389343,66985530,distilbert-base-uncased
+socks are clothes.,socks,clothing,16,-21.81439733505249,-5.453599333763123,66985530,distilbert-base-uncased
+a parka is a type of clothing.,parka,clothing,17,-27.21845054626465,-3.0242722829182944,66985530,distilbert-base-uncased
+pajamas are clothes.,pajamas,clothing,18,-21.833826065063477,-5.458456516265869,66985530,distilbert-base-uncased
+an undershirt is a type of clothing.,undershirt,clothing,19,-13.583558559417725,-1.3583558559417725,66985530,distilbert-base-uncased
+an overcoat is a type of clothing.,overcoat,clothing,20,-10.90554428100586,-1.2117271423339844,66985530,distilbert-base-uncased
+a nightgown is a type of clothing.,nightgown,clothing,21,-10.04397201538086,-1.004397201538086,66985530,distilbert-base-uncased
+a raincoat is a type of clothing.,raincoat,clothing,22,-11.618709564208984,-1.2909677293565538,66985530,distilbert-base-uncased
+a bathing suit is a type of clothing.,bathing suit,clothing,23,-9.584153175354004,-1.064905908372667,66985530,distilbert-base-uncased
+a bathrobe is a type of clothing.,bathrobe,clothing,24,-10.81240463256836,-1.081240463256836,66985530,distilbert-base-uncased
+a slip is a type of clothing.,slip,clothing,25,-24.465263843536377,-3.058157980442047,66985530,distilbert-base-uncased
+a bra is a type of clothing.,bra,clothing,26,-15.073527812957764,-1.8841909766197205,66985530,distilbert-base-uncased
+shoes are clothes.,shoes,clothing,27,-20.418675899505615,-5.104668974876404,66985530,distilbert-base-uncased
+a tuxedo is a type of clothing.,tuxedo,clothing,28,-10.622889041900635,-1.0622889041900634,66985530,distilbert-base-uncased
+stockings are clothes.,stockings,clothing,29,-23.553588390350342,-5.8883970975875854,66985530,distilbert-base-uncased
+a vest is a type of clothing.,vest,clothing,30,-14.40108585357666,-1.8001357316970825,66985530,distilbert-base-uncased
+nylons are clothes.,nylons,clothing,31,-28.497958660125732,-5.699591732025146,66985530,distilbert-base-uncased
+a cape is a type of clothing.,cape,clothing,32,-16.911583423614502,-2.1139479279518127,66985530,distilbert-base-uncased
+boots are clothes.,boots,clothing,33,-21.519404888153076,-5.379851222038269,66985530,distilbert-base-uncased
+sandals are clothes.,sandals,clothing,34,-27.01907968521118,-6.754769921302795,66985530,distilbert-base-uncased
+a tie is a type of clothing.,tie,clothing,35,-20.16374921798706,-2.5204686522483826,66985530,distilbert-base-uncased
+a girdle is a type of clothing.,girdle,clothing,36,-13.100786209106445,-1.3100786209106445,66985530,distilbert-base-uncased
+a belt is a type of clothing.,belt,clothing,37,-17.922749519348145,-2.240343689918518,66985530,distilbert-base-uncased
+a scarf is a type of clothing.,scarf,clothing,38,-14.934751510620117,-1.8668439388275146,66985530,distilbert-base-uncased
+mittens are clothes.,mittens,clothing,39,-20.287023544311523,-4.057404708862305,66985530,distilbert-base-uncased
+slippers are clothes.,slippers,clothing,40,-15.616238117218018,-3.1232476234436035,66985530,distilbert-base-uncased
+a hat is a type of clothing.,hat,clothing,41,-16.613676071166992,-2.076709508895874,66985530,distilbert-base-uncased
+overshoes are clothes.,overshoes,clothing,42,-30.837719917297363,-5.1396199862162275,66985530,distilbert-base-uncased
+gloves are clothes.,gloves,clothing,43,-25.381011962890625,-6.345252990722656,66985530,distilbert-base-uncased
+an apron is a type of clothing.,apron,clothing,44,-12.864789962768555,-1.6080987453460693,66985530,distilbert-base-uncased
+earmuffs are clothes.,earmuffs,clothing,45,-26.26734161376953,-4.377890268961589,66985530,distilbert-base-uncased
+a handkerchief is a type of clothing.,handkerchief,clothing,46,-20.65502119064331,-2.581877648830414,66985530,distilbert-base-uncased
+a purse is a type of clothing.,purse,clothing,47,-21.796889781951904,-2.724611222743988,66985530,distilbert-base-uncased
+a hairband is a type of clothing.,hairband,clothing,48,-16.971822261810303,-1.8857580290900335,66985530,distilbert-base-uncased
+a ring is a type of clothing.,ring,clothing,49,-28.153968811035156,-3.5192461013793945,66985530,distilbert-base-uncased
+earrings are clothes.,earrings,clothing,50,-27.628697395324707,-6.907174348831177,66985530,distilbert-base-uncased
+a watch is a type of clothing.,watch,clothing,51,-27.14266014099121,-3.3928325176239014,66985530,distilbert-base-uncased
+cuff links are clothes.,cuff links,clothing,52,-23.27264165878296,-4.654528331756592,66985530,distilbert-base-uncased
+a necklace is a type of clothing.,necklace,clothing,53,-22.073397636413574,-2.7591747045516968,66985530,distilbert-base-uncased
+a bracelet is a type of clothing.,bracelet,clothing,54,-22.792386054992676,-2.8490482568740845,66985530,distilbert-base-uncased
+a cane is a type of clothing.,cane,clothing,55,-29.409445762634277,-3.6761807203292847,66985530,distilbert-base-uncased
+an automobile is a vehicle.,automobile,vehicle,1,-4.39064884185791,-0.7317748069763184,66985530,distilbert-base-uncased
+a station wagon is a vehicle.,station wagon,vehicle,2,-8.458288192749023,-1.2083268846784319,66985530,distilbert-base-uncased
+a truck is a vehicle.,truck,vehicle,3,-9.187672138214111,-1.5312786897023518,66985530,distilbert-base-uncased
+a car is a vehicle.,car,vehicle,4,-10.485966682434082,-1.7476611137390137,66985530,distilbert-base-uncased
+bus are vehicles.,bus,vehicle,5,-31.026182174682617,-7.756545543670654,66985530,distilbert-base-uncased
+a taxi is a vehicle.,taxi,vehicle,6,-10.961432456970215,-1.8269054094950359,66985530,distilbert-base-uncased
+a jeep is a vehicle.,jeep,vehicle,7,-9.39126205444336,-1.5652103424072266,66985530,distilbert-base-uncased
+an ambulance is a vehicle.,ambulance,vehicle,8,-6.028432846069336,-1.0047388076782227,66985530,distilbert-base-uncased
+a motorcycle is a vehicle.,motorcycle,vehicle,9,-9.250163078308105,-1.5416938463846843,66985530,distilbert-base-uncased
+a streetcar is a vehicle.,streetcar,vehicle,10,-12.498900413513184,-2.083150068918864,66985530,distilbert-base-uncased
+a van is a vehicle.,van,vehicle,11,-9.080371379852295,-1.5133952299753826,66985530,distilbert-base-uncased
+a Honda is a vehicle.,Honda,vehicle,12,-18.907175064086914,-3.151195844014486,66985530,distilbert-base-uncased
+a cable car is a vehicle.,cable car,vehicle,13,-9.651962280273438,-1.3788517543247767,66985530,distilbert-base-uncased
+a train is a vehicle.,train,vehicle,14,-14.79140853881836,-2.4652347564697266,66985530,distilbert-base-uncased
+a trolley is a vehicle.,trolley,vehicle,15,-11.37646198272705,-1.896076997121175,66985530,distilbert-base-uncased
+a bicycle is a vehicle.,bicycle,vehicle,16,-9.300498008728027,-1.5500830014546711,66985530,distilbert-base-uncased
+a carriage is a vehicle.,carriage,vehicle,17,-12.091653823852539,-2.0152756373087564,66985530,distilbert-base-uncased
+an airplane is a vehicle.,airplane,vehicle,18,-9.56191873550415,-1.5936531225840251,66985530,distilbert-base-uncased
+a bike is a vehicle.,bike,vehicle,19,-12.208160400390625,-2.034693400065104,66985530,distilbert-base-uncased
+a boat is a vehicle.,boat,vehicle,20,-16.084103107452393,-2.6806838512420654,66985530,distilbert-base-uncased
+a jet is a vehicle.,jet,vehicle,21,-16.162598609924316,-2.693766434987386,66985530,distilbert-base-uncased
+a ship is a vehicle.,ship,vehicle,22,-18.638169288635254,-3.1063615481058755,66985530,distilbert-base-uncased
+a scooter is a vehicle.,scooter,vehicle,23,-6.727178573608398,-0.8408973217010498,66985530,distilbert-base-uncased
+a tractor is a vehicle.,tractor,vehicle,24,-9.605825424194336,-1.6009709040323894,66985530,distilbert-base-uncased
+a wagon is a vehicle.,wagon,vehicle,25,-12.167840480804443,-2.0279734134674072,66985530,distilbert-base-uncased
+a subway is a vehicle.,subway,vehicle,26,-17.57836103439331,-2.9297268390655518,66985530,distilbert-base-uncased
+a trailer is a vehicle.,trailer,vehicle,27,-11.125186920166016,-1.8541978200276692,66985530,distilbert-base-uncased
+a cart is a vehicle.,cart,vehicle,28,-13.995251178741455,-2.3325418631235757,66985530,distilbert-base-uncased
+a wheelchair is a vehicle.,wheelchair,vehicle,29,-12.908625602722168,-2.151437600453695,66985530,distilbert-base-uncased
+a yacht is a vehicle.,yacht,vehicle,30,-15.977570533752441,-2.6629284222920737,66985530,distilbert-base-uncased
+a tank is a vehicle.,tank,vehicle,31,-13.640156745910645,-2.273359457651774,66985530,distilbert-base-uncased
+a go-cart is a vehicle.,go-cart,vehicle,32,-16.22614288330078,-2.0282678604125977,66985530,distilbert-base-uncased
+a rowboat is a vehicle.,rowboat,vehicle,33,-13.579529762268066,-1.9399328231811523,66985530,distilbert-base-uncased
+a dogsled is a vehicle.,dogsled,vehicle,34,-28.24967384338379,-4.03566769191197,66985530,distilbert-base-uncased
+a tricycle is a vehicle.,tricycle,vehicle,35,-6.398707389831543,-0.9141010556902204,66985530,distilbert-base-uncased
+a canoe is a vehicle.,canoe,vehicle,36,-14.69241189956665,-2.448735316594442,66985530,distilbert-base-uncased
+a raft is a vehicle.,raft,vehicle,37,-18.67730951309204,-3.1128849188486734,66985530,distilbert-base-uncased
+a submarine is a vehicle.,submarine,vehicle,38,-16.505004405975342,-2.750834067662557,66985530,distilbert-base-uncased
+a sled is a vehicle.,sled,vehicle,39,-13.485206604003906,-1.9264580862862724,66985530,distilbert-base-uncased
+a horse is a vehicle.,horse,vehicle,40,-14.681798458099365,-2.4469664096832275,66985530,distilbert-base-uncased
+a rocket is a vehicle.,rocket,vehicle,41,-13.911732196807861,-2.31862203280131,66985530,distilbert-base-uncased
+a blimp is a vehicle.,blimp,vehicle,42,-8.775287628173828,-1.0969109535217285,66985530,distilbert-base-uncased
+skates are vehicles.,skates,vehicle,43,-28.416776657104492,-5.683355331420898,66985530,distilbert-base-uncased
+a camel is a vehicle.,camel,vehicle,44,-15.10918378829956,-2.5181972980499268,66985530,distilbert-base-uncased
+feet are vehicles.,feet,vehicle,45,-28.605562686920166,-7.1513906717300415,66985530,distilbert-base-uncased
+skis are vehicles.,skis,vehicle,46,-28.437357425689697,-5.687471485137939,66985530,distilbert-base-uncased
+a skateboard is a vehicle.,skateboard,vehicle,47,-12.929941654205322,-1.8471345220293318,66985530,distilbert-base-uncased
+a wheelbarrow is a vehicle.,wheelbarrow,vehicle,48,-7.506527900695801,-0.9383159875869751,66985530,distilbert-base-uncased
+a surfboard is a vehicle.,surfboard,vehicle,49,-16.226473808288574,-2.3180676868983676,66985530,distilbert-base-uncased
+an elevator is a vehicle.,elevator,vehicle,50,-13.407618522644043,-2.2346030871073403,66985530,distilbert-base-uncased
+a chair is a type of furniture.,chair,furniture,1,-14.232980251312256,-1.779122531414032,66985530,distilbert-base-uncased
+a sofa is a type of furniture.,sofa,furniture,2,-11.096243858337402,-1.3870304822921753,66985530,distilbert-base-uncased
+a couch is a type of furniture.,couch,furniture,3,-12.294114112854004,-1.5367642641067505,66985530,distilbert-base-uncased
+a table is a type of furniture.,table,furniture,4,-19.712084770202637,-2.4640105962753296,66985530,distilbert-base-uncased
+an easy chair is a type of furniture.,easy chair,furniture,5,-16.753530502319336,-1.8615033891465929,66985530,distilbert-base-uncased
+a dresser is a type of furniture.,dresser,furniture,6,-12.901351928710938,-1.6126689910888672,66985530,distilbert-base-uncased
+a rocking chair is a type of furniture.,rocking chair,furniture,7,-9.866026878356934,-1.096225208706326,66985530,distilbert-base-uncased
+a coffee table is a type of furniture.,coffee table,furniture,8,-13.018872261047363,-1.4465413623385959,66985530,distilbert-base-uncased
+a rocker is a type of furniture.,rocker,furniture,9,-22.074216842651367,-2.759277105331421,66985530,distilbert-base-uncased
+a love seat is a type of furniture.,love seat,furniture,10,-18.8072829246521,-2.0896981027391224,66985530,distilbert-base-uncased
+chest of drawers are furniture.,chest of drawers,furniture,11,-25.684746265411377,-4.2807910442352295,66985530,distilbert-base-uncased
+a desk is a type of furniture.,desk,furniture,12,-15.008242130279541,-1.8760302662849426,66985530,distilbert-base-uncased
+a bed is a type of furniture.,bed,furniture,13,-15.315701484680176,-1.914462685585022,66985530,distilbert-base-uncased
+a bureau is a type of furniture.,bureau,furniture,14,-23.280869007110596,-2.9101086258888245,66985530,distilbert-base-uncased
+a davenport is a type of furniture.,davenport,furniture,15,-22.832162380218506,-2.8540202975273132,66985530,distilbert-base-uncased
+an end table is a type of furniture.,end table,furniture,16,-22.442204475402832,-2.4935782750447593,66985530,distilbert-base-uncased
+a divan is a type of furniture.,divan,furniture,17,-14.60831880569458,-1.6231465339660645,66985530,distilbert-base-uncased
+a night table is a type of furniture.,night table,furniture,18,-19.687582969665527,-2.187509218851725,66985530,distilbert-base-uncased
+a chest is a type of furniture.,chest,furniture,19,-22.306845664978027,-2.7883557081222534,66985530,distilbert-base-uncased
+a cedar chest is a type of furniture.,cedar chest,furniture,20,-23.65237283706665,-2.628041426340739,66985530,distilbert-base-uncased
+a vanity is a type of furniture.,vanity,furniture,21,-20.063020706176758,-2.5078775882720947,66985530,distilbert-base-uncased
+a bookcase is a type of furniture.,bookcase,furniture,22,-11.500824928283691,-1.2778694364759657,66985530,distilbert-base-uncased
+a lounge is a type of furniture.,lounge,furniture,23,-20.367891788482666,-2.5459864735603333,66985530,distilbert-base-uncased
+a chaise lounge is a type of furniture.,chaise lounge,furniture,24,-16.24283504486084,-1.624283504486084,66985530,distilbert-base-uncased
+an ottoman is a type of furniture.,ottoman,furniture,25,-13.0269455909729,-1.6283681988716125,66985530,distilbert-base-uncased
+a footstool is a type of furniture.,footstool,furniture,26,-15.421268939971924,-1.5421268939971924,66985530,distilbert-base-uncased
+a cabinet is a type of furniture.,cabinet,furniture,27,-15.580643653869629,-1.9475804567337036,66985530,distilbert-base-uncased
+a china closet is a type of furniture.,china closet,furniture,28,-22.272257328033447,-2.474695258670383,66985530,distilbert-base-uncased
+a bench is a type of furniture.,bench,furniture,29,-17.297327041625977,-2.162165880203247,66985530,distilbert-base-uncased
+a buffet is a type of furniture.,buffet,furniture,30,-21.05022096633911,-2.631277620792389,66985530,distilbert-base-uncased
+a lamp is a type of furniture.,lamp,furniture,31,-22.808739185333252,-2.8510923981666565,66985530,distilbert-base-uncased
+a stool is a type of furniture.,stool,furniture,32,-19.705419540405273,-2.463177442550659,66985530,distilbert-base-uncased
+a hassock is a type of furniture.,hassock,furniture,33,-22.05737066268921,-2.205737066268921,66985530,distilbert-base-uncased
+drawers are furniture.,drawers,furniture,34,-20.30654525756836,-5.07663631439209,66985530,distilbert-base-uncased
+a piano is a type of furniture.,piano,furniture,35,-19.499553680419922,-2.4374442100524902,66985530,distilbert-base-uncased
+a cushion is a type of furniture.,cushion,furniture,36,-17.942795753479004,-2.2428494691848755,66985530,distilbert-base-uncased
+a magazine rack is a type of furniture.,magazine rack,furniture,37,-23.67136573791504,-2.6301517486572266,66985530,distilbert-base-uncased
+a hi-fi is a type of furniture.,hi-fi,furniture,38,-22.566574573516846,-2.2566574573516847,66985530,distilbert-base-uncased
+a cupboard is a type of furniture.,cupboard,furniture,39,-12.992395401000977,-1.624049425125122,66985530,distilbert-base-uncased
+a stereo is a type of furniture.,stereo,furniture,40,-23.194597244262695,-2.899324655532837,66985530,distilbert-base-uncased
+a mirror is a type of furniture.,mirror,furniture,41,-24.96650791168213,-3.120813488960266,66985530,distilbert-base-uncased
+a television is a type of furniture.,television,furniture,42,-26.72961187362671,-3.3412014842033386,66985530,distilbert-base-uncased
+a bar is a type of furniture.,bar,furniture,43,-21.444052696228027,-2.6805065870285034,66985530,distilbert-base-uncased
+a shelf is a type of furniture.,shelf,furniture,44,-15.858735084533691,-1.9823418855667114,66985530,distilbert-base-uncased
+a rug is a type of furniture.,rug,furniture,45,-15.796026229858398,-1.9745032787322998,66985530,distilbert-base-uncased
+a pillow is a type of furniture.,pillow,furniture,46,-18.8069167137146,-2.350864589214325,66985530,distilbert-base-uncased
+a wastebasket is a type of furniture.,wastebasket,furniture,47,-18.817824363708496,-2.0908693737453885,66985530,distilbert-base-uncased
+a radio is a type of furniture.,radio,furniture,48,-29.47199583053589,-3.683999478816986,66985530,distilbert-base-uncased
+a sewing machine is a type of furniture.,sewing machine,furniture,49,-13.695868015289307,-1.521763112809923,66985530,distilbert-base-uncased
+a stove is a type of furniture.,stove,furniture,50,-18.679938793182373,-2.3349923491477966,66985530,distilbert-base-uncased
+a counter is a type of furniture.,counter,furniture,51,-21.574650764465332,-2.6968313455581665,66985530,distilbert-base-uncased
+a clock is a type of furniture.,clock,furniture,52,-25.17643165588379,-3.1470539569854736,66985530,distilbert-base-uncased
+drapes are furniture.,drapes,furniture,53,-15.190289974212646,-3.0380579948425295,66985530,distilbert-base-uncased
+a refrigerator is a type of furniture.,refrigerator,furniture,54,-16.461156368255615,-2.057644546031952,66985530,distilbert-base-uncased
+a picture is a type of furniture.,picture,furniture,55,-25.852928161621094,-3.2316160202026367,66985530,distilbert-base-uncased
+a closet is a type of furniture.,closet,furniture,56,-13.539505004882812,-1.6924381256103516,66985530,distilbert-base-uncased
+a vase is a type of furniture.,vase,furniture,57,-18.806086540222168,-2.350760817527771,66985530,distilbert-base-uncased
+an ashtray is a type of furniture.,ashtray,furniture,58,-10.807203769683838,-1.2008004188537598,66985530,distilbert-base-uncased
+a fan is a type of furniture.,fan,furniture,59,-21.044500827789307,-2.6305626034736633,66985530,distilbert-base-uncased
+a telephone is a type of furniture.,telephone,furniture,60,-27.41774272918701,-3.4272178411483765,66985530,distilbert-base-uncased
+a gun is a weapon.,gun,weapon,1,-9.629199028015137,-1.6048665046691895,66985530,distilbert-base-uncased
+a pistol is a weapon.,pistol,weapon,2,-10.64163875579834,-1.7736064592997234,66985530,distilbert-base-uncased
+a revolver is a weapon.,revolver,weapon,3,-11.776180267333984,-1.9626967112223308,66985530,distilbert-base-uncased
+a machine gun is a weapon.,machine gun,weapon,4,-5.817445755004883,-0.8310636792864118,66985530,distilbert-base-uncased
+a rifle is a weapon.,rifle,weapon,5,-12.0531587600708,-2.0088597933451333,66985530,distilbert-base-uncased
+a switchblade is a weapon.,switchblade,weapon,6,-9.69791555404663,-1.2122394442558289,66985530,distilbert-base-uncased
+a knife is a weapon.,knife,weapon,7,-8.837050437927246,-1.472841739654541,66985530,distilbert-base-uncased
+a dagger is a weapon.,dagger,weapon,8,-8.745064735412598,-1.4575107892354329,66985530,distilbert-base-uncased
+a shotgun is a weapon.,shotgun,weapon,9,-10.67269229888916,-1.77878204981486,66985530,distilbert-base-uncased
+a sword is a weapon.,sword,weapon,10,-8.305259704589844,-1.3842099507649739,66985530,distilbert-base-uncased
+a bomb is a weapon.,bomb,weapon,11,-10.024137496948242,-1.670689582824707,66985530,distilbert-base-uncased
+a hand grenade is a weapon.,hand grenade,weapon,12,-9.571446418762207,-1.367349488394601,66985530,distilbert-base-uncased
+an A-bomb is a weapon.,A-bomb,weapon,13,-14.967815399169922,-1.8709769248962402,66985530,distilbert-base-uncased
+a bayonet is a weapon.,bayonet,weapon,14,-3.7455663681030273,-0.4681957960128784,66985530,distilbert-base-uncased
+a spear is a weapon.,spear,weapon,15,-7.684113025665283,-1.2806855042775471,66985530,distilbert-base-uncased
+a bazooka is a weapon.,bazooka,weapon,16,-7.478018760681152,-0.934752345085144,66985530,distilbert-base-uncased
+a cannon is a weapon.,cannon,weapon,17,-10.848486423492432,-1.808081070582072,66985530,distilbert-base-uncased
+a bow and arrow is a weapon.,bow and arrow,weapon,18,-9.271130561828613,-1.1588913202285767,66985530,distilbert-base-uncased
+a club is a weapon.,club,weapon,19,-23.949547290802002,-3.991591215133667,66985530,distilbert-base-uncased
+a lance is a weapon.,lance,weapon,20,-11.97178316116333,-1.9952971935272217,66985530,distilbert-base-uncased
+brass knuckles are weapons.,brass knuckles,weapon,21,-16.67684030532837,-3.3353680610656737,66985530,distilbert-base-uncased
+a bullet is a weapon.,bullet,weapon,22,-12.630123615264893,-2.105020602544149,66985530,distilbert-base-uncased
+a tomahawk is a weapon.,tomahawk,weapon,23,-5.2727508544921875,-0.6590938568115234,66985530,distilbert-base-uncased
+a mortar is a weapon.,mortar,weapon,24,-13.651854991912842,-2.275309165318807,66985530,distilbert-base-uncased
+an arrow is a weapon.,arrow,weapon,25,-7.426285743713379,-1.2377142906188965,66985530,distilbert-base-uncased
+a blackjack is a weapon.,blackjack,weapon,26,-16.810051918029785,-2.401435988289969,66985530,distilbert-base-uncased
+a tank is a weapon.,tank,weapon,27,-18.297650814056396,-3.0496084690093994,66985530,distilbert-base-uncased
+teargas are weapons.,teargas,weapon,28,-20.56913948059082,-4.113827896118164,66985530,distilbert-base-uncased
+a missile is a weapon.,missile,weapon,29,-13.058921813964844,-2.1764869689941406,66985530,distilbert-base-uncased
+a whip is a weapon.,whip,weapon,30,-12.072896003723145,-2.0121493339538574,66985530,distilbert-base-uncased
+an ice pick is a weapon.,ice pick,weapon,31,-12.58862018585205,-1.7983743122645788,66985530,distilbert-base-uncased
+a hatchet is a weapon.,hatchet,weapon,32,-11.438635349273682,-1.6340907641819544,66985530,distilbert-base-uncased
+a slingshot is a weapon.,slingshot,weapon,33,-4.130861282348633,-0.590123040335519,66985530,distilbert-base-uncased
+a fist is a weapon.,fist,weapon,34,-15.929354667663574,-2.6548924446105957,66985530,distilbert-base-uncased
+an axe is a weapon.,axe,weapon,35,-5.50891637802124,-0.9181527296702067,66985530,distilbert-base-uncased
+a bow is a weapon.,bow,weapon,36,-11.430619716644287,-1.905103286107381,66985530,distilbert-base-uncased
+a razor is a weapon.,razor,weapon,37,-15.958184719085693,-2.6596974531809487,66985530,distilbert-base-uncased
+a razor blade is a weapon.,razor blade,weapon,38,-9.542099475860596,-1.363157067980085,66985530,distilbert-base-uncased
+a rocket is a weapon.,rocket,weapon,39,-16.166874408721924,-2.694479068120321,66985530,distilbert-base-uncased
+a judo is a weapon.,judo,weapon,40,-25.94814920425415,-4.324691534042358,66985530,distilbert-base-uncased
+a stick is a weapon.,stick,weapon,41,-12.687176704406738,-2.1145294507344565,66985530,distilbert-base-uncased
+a poison is a weapon.,poison,weapon,42,-17.758129119873047,-2.959688186645508,66985530,distilbert-base-uncased
+a rock is a weapon.,rock,weapon,43,-20.65434217453003,-3.4423903624216714,66985530,distilbert-base-uncased
+a stone is a weapon.,stone,weapon,44,-18.50464916229248,-3.0841081937154136,66985530,distilbert-base-uncased
+gas are weapons.,gas,weapon,45,-32.6543664932251,-8.163591623306274,66985530,distilbert-base-uncased
+a chain is a weapon.,chain,weapon,46,-19.18344783782959,-3.1972413063049316,66985530,distilbert-base-uncased
+a scissors is a weapon.,scissors,weapon,47,-17.16794729232788,-2.8613245487213135,66985530,distilbert-base-uncased
+bricks are weapons.,bricks,weapon,48,-23.931058883666992,-5.982764720916748,66985530,distilbert-base-uncased
+a pitchfork is a weapon.,pitchfork,weapon,49,-13.396617889404297,-2.2327696482340493,66985530,distilbert-base-uncased
+a hammer is a weapon.,hammer,weapon,50,-9.820261478424072,-1.636710246404012,66985530,distilbert-base-uncased
+a word is a weapon.,word,weapon,51,-23.842201709747314,-3.9737002849578857,66985530,distilbert-base-uncased
+a hand is a weapon.,hand,weapon,52,-19.80905771255493,-3.3015096187591553,66985530,distilbert-base-uncased
+a pipe is a weapon.,pipe,weapon,53,-19.600364208221436,-3.2667273680369058,66985530,distilbert-base-uncased
+a rope is a weapon.,rope,weapon,54,-18.354543209075928,-3.059090534845988,66985530,distilbert-base-uncased
+an airplane is a weapon.,airplane,weapon,55,-16.66913652420044,-2.7781894207000732,66985530,distilbert-base-uncased
+a foot is a weapon.,foot,weapon,56,-19.10715961456299,-3.1845266024271646,66985530,distilbert-base-uncased
+a car is a weapon.,car,weapon,57,-21.92703342437744,-3.6545055707295737,66985530,distilbert-base-uncased
+a screwdriver is a weapon.,screwdriver,weapon,58,-7.097689628601074,-0.8872112035751343,66985530,distilbert-base-uncased
+glass are weapons.,glass,weapon,59,-30.341004371643066,-7.585251092910767,66985530,distilbert-base-uncased
+a shoe is a weapon.,shoe,weapon,60,-20.77611255645752,-3.4626854260762534,66985530,distilbert-base-uncased

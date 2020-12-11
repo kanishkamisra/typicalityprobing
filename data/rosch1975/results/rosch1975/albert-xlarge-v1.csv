@@ -1,0 +1,567 @@
+stimulus,item,category,rank,logprob,normalized_logprob,params,model
+a doll is a toy.,doll,toy,1,-17.09931755065918,-2.4427596500941684,59017392,albert-xlarge-v1
+a top is a toy.,top,toy,2,-29.578075408935547,-4.225439344133649,59017392,albert-xlarge-v1
+a jack-in-the-box is a toy.,jack-in-the-box,toy,3,-20.648797035217285,-1.588369002709022,59017392,albert-xlarge-v1
+a toy soldier is a toy.,toy soldier,toy,4,-11.07344388961792,-1.2303826544019911,59017392,albert-xlarge-v1
+a yo-yo is a toy.,yo-yo,toy,5,-17.703604221343994,-1.9670671357048883,59017392,albert-xlarge-v1
+a block is a toy.,block,toy,6,-25.945669174194336,-3.706524167742048,59017392,albert-xlarge-v1
+marbles are toys.,marbles,toy,7,-35.29403114318848,-7.058806228637695,59017392,albert-xlarge-v1
+a rattle is a toy.,rattle,toy,8,-28.64069652557373,-4.091528075081961,59017392,albert-xlarge-v1
+a stuffed animal is a toy.,stuffed animal,toy,9,-20.13333797454834,-2.5166672468185425,59017392,albert-xlarge-v1
+a water pistol is a toy.,water pistol,toy,10,-33.91934585571289,-4.239918231964111,59017392,albert-xlarge-v1
+a teddy bear is a toy.,teddy bear,toy,11,-13.17432689666748,-1.646790862083435,59017392,albert-xlarge-v1
+a rocking horse is a toy.,rocking horse,toy,12,-27.618162155151367,-3.452270269393921,59017392,albert-xlarge-v1
+a doll house is a toy.,doll house,toy,13,-24.023804664611816,-3.002975583076477,59017392,albert-xlarge-v1
+a ball is a toy.,ball,toy,14,-24.388304710388184,-3.484043530055455,59017392,albert-xlarge-v1
+jacks are toys.,jacks,toy,15,-30.486583709716797,-6.097316741943359,59017392,albert-xlarge-v1
+paper dolls are toys.,paper dolls,toy,16,-26.68485116958618,-5.336970233917237,59017392,albert-xlarge-v1
+an erector set is a toy.,erector set,toy,17,-38.80707359313965,-4.311897065904406,59017392,albert-xlarge-v1
+a hula hoop is a toy.,hula hoop,toy,18,-28.273280143737793,-3.1414755715264215,59017392,albert-xlarge-v1
+a jump rope is a toy.,jump rope,toy,19,-31.601929187774658,-3.9502411484718323,59017392,albert-xlarge-v1
+a pogo stick is a toy.,pogo stick,toy,20,-27.143315315246582,-3.015923923916287,59017392,albert-xlarge-v1
+a clay is a toy.,clay,toy,21,-28.247195720672607,-4.035313674381801,59017392,albert-xlarge-v1
+a wagon is a toy.,wagon,toy,22,-24.643898010253906,-3.520556858607701,59017392,albert-xlarge-v1
+a kite is a toy.,kite,toy,23,-21.041007041931152,-3.0058581488473073,59017392,albert-xlarge-v1
+a train is a toy.,train,toy,24,-24.040919303894043,-3.434417043413435,59017392,albert-xlarge-v1
+a tricycle is a toy.,tricycle,toy,25,-27.51085138320923,-3.4388564229011536,59017392,albert-xlarge-v1
+a coloring book is a toy.,coloring book,toy,26,-37.31785345077515,-4.146428161197239,59017392,albert-xlarge-v1
+crayons are toys.,crayons,toy,27,-34.982943534851074,-6.996588706970215,59017392,albert-xlarge-v1
+a truck is a toy.,truck,toy,28,-25.174094676971436,-3.596299239567348,59017392,albert-xlarge-v1
+a puzzle is a toy.,puzzle,toy,29,-24.03799819946289,-3.4339997427804128,59017392,albert-xlarge-v1
+a fire engine is a toy.,fire engine,toy,30,-27.74877166748047,-3.4685964584350586,59017392,albert-xlarge-v1
+a balloon is a toy.,balloon,toy,31,-23.72380495071411,-3.3891149929591586,59017392,albert-xlarge-v1
+skates are toys.,skates,toy,32,-31.012738704681396,-6.2025477409362795,59017392,albert-xlarge-v1
+a baseball is a toy.,baseball,toy,33,-23.748477935791016,-3.392639705113002,59017392,albert-xlarge-v1
+a drum is a toy.,drum,toy,34,-27.940117359161377,-3.991445337023054,59017392,albert-xlarge-v1
+a football is a toy.,football,toy,35,-28.806411743164062,-4.115201677594866,59017392,albert-xlarge-v1
+a game is a toy.,game,toy,36,-25.663644313812256,-3.6662349019731795,59017392,albert-xlarge-v1
+a swing is a toy.,swing,toy,37,-26.289000988006592,-3.755571569715227,59017392,albert-xlarge-v1
+a boat is a toy.,boat,toy,38,-24.66601848602295,-3.523716926574707,59017392,albert-xlarge-v1
+a monopoly is a toy.,monopoly,toy,39,-29.162803173065186,-4.166114739009312,59017392,albert-xlarge-v1
+a sled is a toy.,sled,toy,40,-26.285035133361816,-3.755005019051688,59017392,albert-xlarge-v1
+a seesaw is a toy.,seesaw,toy,41,-23.090797901153564,-2.8863497376441956,59017392,albert-xlarge-v1
+stilts are toys.,stilts,toy,42,-40.59183692932129,-6.765306154886882,59017392,albert-xlarge-v1
+checkers are toys.,checkers,toy,43,-35.20900249481201,-7.041800498962402,59017392,albert-xlarge-v1
+a bat is a toy.,bat,toy,44,-22.71897554397583,-3.24556793485369,59017392,albert-xlarge-v1
+a car is a toy.,car,toy,45,-25.56925916671753,-3.6527513095310757,59017392,albert-xlarge-v1
+an airplane is a toy.,airplane,toy,46,-22.360222339630127,-3.194317477090018,59017392,albert-xlarge-v1
+a bicycle is a toy.,bicycle,toy,47,-25.253780841827393,-3.6076829774039134,59017392,albert-xlarge-v1
+a tractor is a toy.,tractor,toy,48,-23.418099403381348,-3.345442771911621,59017392,albert-xlarge-v1
+a sandbox is a toy.,sandbox,toy,49,-22.211419105529785,-2.776427388191223,59017392,albert-xlarge-v1
+a bike is a toy.,bike,toy,50,-26.827600955963135,-3.8325144222804477,59017392,albert-xlarge-v1
+a bow and arrow is a toy.,bow and arrow,toy,51,-24.170037746429443,-2.6855597496032715,59017392,albert-xlarge-v1
+a rope is a toy.,rope,toy,52,-25.801504135131836,-3.685929162161691,59017392,albert-xlarge-v1
+dishes are toys.,dishes,toy,53,-30.336236000061035,-7.584059000015259,59017392,albert-xlarge-v1
+cards are toys.,cards,toy,54,-29.76120948791504,-7.44030237197876,59017392,albert-xlarge-v1
+a mitt is a toy.,mitt,toy,55,-28.1074857711792,-4.015355110168457,59017392,albert-xlarge-v1
+a horse is a toy.,horse,toy,56,-23.71178674697876,-3.3873981067112515,59017392,albert-xlarge-v1
+a gun is a toy.,gun,toy,57,-26.640751361846924,-3.805821623120989,59017392,albert-xlarge-v1
+animals are toys.,animals,toy,58,-20.688048362731934,-5.172012090682983,59017392,albert-xlarge-v1
+a tennis racket is a toy.,tennis racket,toy,59,-20.804819583892822,-2.600602447986603,59017392,albert-xlarge-v1
+books are toys.,books,toy,60,-33.33354663848877,-8.333386659622192,59017392,albert-xlarge-v1
+a robin is a bird.,robin,bird,1,-13.8552885055542,-2.3092147509256997,59017392,albert-xlarge-v1
+a sparrow is a bird.,sparrow,bird,2,-6.6202392578125,-1.1033732096354167,59017392,albert-xlarge-v1
+a bluejay is a bird.,bluejay,bird,3,-24.41090679168701,-3.48727239881243,59017392,albert-xlarge-v1
+a bluebird is a bird.,bluebird,bird,4,-15.640290260314941,-2.2343271800449918,59017392,albert-xlarge-v1
+a canary is a bird.,canary,bird,5,-13.956238746643066,-2.3260397911071777,59017392,albert-xlarge-v1
+a blackbird is a bird.,blackbird,bird,6,-15.261963367462158,-2.180280481066023,59017392,albert-xlarge-v1
+a dove is a bird.,dove,bird,7,-9.670074462890625,-1.6116790771484375,59017392,albert-xlarge-v1
+a lark is a bird.,lark,bird,8,-10.886566162109375,-1.8144276936848958,59017392,albert-xlarge-v1
+a swallow is a bird.,swallow,bird,9,-16.744292736053467,-2.790715456008911,59017392,albert-xlarge-v1
+a parakeet is a bird.,parakeet,bird,10,-34.37693214416504,-4.29711651802063,59017392,albert-xlarge-v1
+an oriole is a bird.,oriole,bird,11,-36.74935293197632,-4.59366911649704,59017392,albert-xlarge-v1
+a mockingbird is a bird.,mockingbird,bird,12,-19.611222743988037,-2.801603249141148,59017392,albert-xlarge-v1
+a redbird is a bird.,redbird,bird,13,-15.119048595428467,-2.1598640850612094,59017392,albert-xlarge-v1
+a wren is a bird.,wren,bird,14,-9.386246681213379,-1.5643744468688965,59017392,albert-xlarge-v1
+a finch is a bird.,finch,bird,15,-6.151920318603516,-1.025320053100586,59017392,albert-xlarge-v1
+a starling is a bird.,starling,bird,16,-28.386581897735596,-4.055225985390799,59017392,albert-xlarge-v1
+a cardinal is a bird.,cardinal,bird,17,-19.974092960357666,-3.3290154933929443,59017392,albert-xlarge-v1
+an eagle is a bird.,eagle,bird,18,-4.684593200683594,-0.7807655334472656,59017392,albert-xlarge-v1
+a hummingbird is a bird.,hummingbird,bird,19,-14.585073471069336,-2.0835819244384766,59017392,albert-xlarge-v1
+a seagull is a bird.,seagull,bird,20,-10.649956703186035,-1.7749927838643391,59017392,albert-xlarge-v1
+a woodpecker is a bird.,woodpecker,bird,21,-7.810789108276367,-1.3017981847127278,59017392,albert-xlarge-v1
+a pigeon is a bird.,pigeon,bird,22,-8.161005020141602,-1.3601675033569336,59017392,albert-xlarge-v1
+a thrush is a bird.,thrush,bird,23,-21.571134567260742,-2.6963918209075928,59017392,albert-xlarge-v1
+a falcon is a bird.,falcon,bird,24,-8.89342212677002,-1.4822370211283367,59017392,albert-xlarge-v1
+a crow is a bird.,crow,bird,25,-11.034574508666992,-1.8390957514444988,59017392,albert-xlarge-v1
+a hawk is a bird.,hawk,bird,26,-8.87869930267334,-1.4797832171122234,59017392,albert-xlarge-v1
+a raven is a bird.,raven,bird,27,-14.089264869689941,-2.3482108116149902,59017392,albert-xlarge-v1
+a goldfinch is a bird.,goldfinch,bird,28,-31.072423934936523,-3.8840529918670654,59017392,albert-xlarge-v1
+a parrot is a bird.,parrot,bird,29,-4.9233551025390625,-0.8205591837565104,59017392,albert-xlarge-v1
+a sandpiper is a bird.,sandpiper,bird,30,-33.42874813079834,-4.1785935163497925,59017392,albert-xlarge-v1
+a pheasant is a bird.,pheasant,bird,31,-37.363704681396484,-4.151522742377387,59017392,albert-xlarge-v1
+a catbird is a bird.,catbird,bird,32,-15.361302375793457,-2.194471767970494,59017392,albert-xlarge-v1
+a crane is a bird.,crane,bird,33,-17.082133293151855,-2.847022215525309,59017392,albert-xlarge-v1
+albatross are birds.,albatross,bird,34,-27.366886138916016,-5.473377227783203,59017392,albert-xlarge-v1
+a condor is a bird.,condor,bird,35,-12.520583152770996,-2.086763858795166,59017392,albert-xlarge-v1
+a toucan is a bird.,toucan,bird,36,-36.06049823760986,-4.507562279701233,59017392,albert-xlarge-v1
+an owl is a bird.,owl,bird,37,-4.649884223937988,-0.7749807039896647,59017392,albert-xlarge-v1
+a pelican is a bird.,pelican,bird,38,-8.906805038452148,-1.4844675064086914,59017392,albert-xlarge-v1
+geese are birds.,geese,bird,39,-18.961461067199707,-4.740365266799927,59017392,albert-xlarge-v1
+a vulture is a bird.,vulture,bird,40,-8.59466552734375,-1.4324442545572917,59017392,albert-xlarge-v1
+a stork is a bird.,stork,bird,41,-15.005462646484375,-2.1436375209263394,59017392,albert-xlarge-v1
+a buzzard is a bird.,buzzard,bird,42,-21.439305782318115,-3.062757968902588,59017392,albert-xlarge-v1
+a swan is a bird.,swan,bird,43,-11.043349266052246,-1.8405582110087078,59017392,albert-xlarge-v1
+a flamingo is a bird.,flamingo,bird,44,-30.06628179550171,-4.295183113643101,59017392,albert-xlarge-v1
+a duck is a bird.,duck,bird,45,-10.345488548278809,-1.7242480913798015,59017392,albert-xlarge-v1
+a peacock is a bird.,peacock,bird,46,-7.897836685180664,-1.3163061141967773,59017392,albert-xlarge-v1
+an egret is a bird.,egret,bird,47,-25.443130493164062,-3.180391311645508,59017392,albert-xlarge-v1
+a chicken is a bird.,chicken,bird,48,-14.85119342803955,-2.4751989046732583,59017392,albert-xlarge-v1
+a turkey is a bird.,turkey,bird,49,-13.492076873779297,-2.2486794789632163,59017392,albert-xlarge-v1
+an ostrich is a bird.,ostrich,bird,50,-24.547958850860596,-3.5068512644086565,59017392,albert-xlarge-v1
+a titmouse is a bird.,titmouse,bird,51,-39.207765102386475,-4.900970637798309,59017392,albert-xlarge-v1
+an emu is a bird.,emu,bird,52,-22.093964099884033,-3.156280585697719,59017392,albert-xlarge-v1
+a penguin is a bird.,penguin,bird,53,-12.240833282470703,-2.0401388804117837,59017392,albert-xlarge-v1
+a bat is a bird.,bat,bird,54,-15.137475967407227,-2.5229126612345376,59017392,albert-xlarge-v1
+football is a sport.,football,sport,1,-12.117782592773438,-2.4235565185546877,59017392,albert-xlarge-v1
+baseball is a sport.,baseball,sport,2,-14.859442710876465,-2.971888542175293,59017392,albert-xlarge-v1
+basketball is a sport.,basketball,sport,3,-11.743931770324707,-2.3487863540649414,59017392,albert-xlarge-v1
+tennis is a sport.,tennis,sport,4,-11.740144729614258,-2.3480289459228514,59017392,albert-xlarge-v1
+softball is a sport.,softball,sport,5,-14.474884033203125,-2.894976806640625,59017392,albert-xlarge-v1
+canoeing is a sport.,canoeing,sport,6,-15.11965560913086,-2.51994260152181,59017392,albert-xlarge-v1
+handball is a sport.,handball,sport,7,-12.943415641784668,-2.5886831283569336,59017392,albert-xlarge-v1
+rugby is a sport.,rugby,sport,8,-12.537796020507812,-2.5075592041015624,59017392,albert-xlarge-v1
+hockey is a sport.,hockey,sport,9,-13.199275016784668,-2.6398550033569337,59017392,albert-xlarge-v1
+ice hockey is a sport.,ice hockey,sport,10,-10.777036666870117,-1.7961727778116863,59017392,albert-xlarge-v1
+swimming is a sport.,swimming,sport,11,-14.829341888427734,-2.965868377685547,59017392,albert-xlarge-v1
+track is a sport.,track,sport,12,-28.670010566711426,-5.734002113342285,59017392,albert-xlarge-v1
+boxing is a sport.,boxing,sport,13,-12.00802230834961,-2.4016044616699217,59017392,albert-xlarge-v1
+volleyball is a sport.,volleyball,sport,14,-13.050642013549805,-2.610128402709961,59017392,albert-xlarge-v1
+lacrosse is a sport.,lacrosse,sport,15,-14.271638870239258,-2.8543277740478517,59017392,albert-xlarge-v1
+skiing is a sport.,skiing,sport,16,-11.609066009521484,-2.321813201904297,59017392,albert-xlarge-v1
+golf is a sport.,golf,sport,17,-11.603276252746582,-2.3206552505493163,59017392,albert-xlarge-v1
+polo is a sport.,polo,sport,18,-22.512300491333008,-4.502460098266601,59017392,albert-xlarge-v1
+surfing is a sport.,surfing,sport,19,-16.43434762954712,-3.286869525909424,59017392,albert-xlarge-v1
+wrestling is a sport.,wrestling,sport,20,-15.065320014953613,-3.0130640029907227,59017392,albert-xlarge-v1
+gymnastics is a sport.,gymnastics,sport,21,-15.112208366394043,-3.0224416732788084,59017392,albert-xlarge-v1
+cricket is a sport.,cricket,sport,22,-12.158872604370117,-2.4317745208740233,59017392,albert-xlarge-v1
+squash is a sport.,squash,sport,23,-13.596698760986328,-2.7193397521972655,59017392,albert-xlarge-v1
+badminton is a sport.,badminton,sport,24,-13.011714935302734,-2.602342987060547,59017392,albert-xlarge-v1
+racing is a sport.,racing,sport,25,-13.05746078491211,-2.611492156982422,59017392,albert-xlarge-v1
+pole vault is a sport.,pole vault,sport,26,-15.094504356384277,-2.5157507260640464,59017392,albert-xlarge-v1
+fencing is a sport.,fencing,sport,27,-13.047296524047852,-2.6094593048095702,59017392,albert-xlarge-v1
+bowling is a sport.,bowling,sport,28,-13.13791275024414,-2.627582550048828,59017392,albert-xlarge-v1
+water skiing is a sport.,water skiing,sport,29,-12.139464378356934,-2.023244063059489,59017392,albert-xlarge-v1
+ice skating is a sport.,ice skating,sport,30,-14.546631813049316,-2.4244386355082193,59017392,albert-xlarge-v1
+jai alai is a sport.,jai alai,sport,31,-39.148258686065674,-5.592608383723667,59017392,albert-xlarge-v1
+skating is a sport.,skating,sport,32,-15.847450256347656,-3.1694900512695314,59017392,albert-xlarge-v1
+skindiving is a sport.,skindiving,sport,33,-28.24531126022339,-4.035044465746198,59017392,albert-xlarge-v1
+sailing is a sport.,sailing,sport,34,-13.68026351928711,-2.736052703857422,59017392,albert-xlarge-v1
+diving is a sport.,diving,sport,35,-17.12239170074463,-3.4244783401489256,59017392,albert-xlarge-v1
+archery is a sport.,archery,sport,36,-16.387208938598633,-3.2774417877197264,59017392,albert-xlarge-v1
+judo is a sport.,judo,sport,37,-13.567269325256348,-2.7134538650512696,59017392,albert-xlarge-v1
+car racing is a sport.,car racing,sport,38,-14.979259490966797,-2.4965432484944663,59017392,albert-xlarge-v1
+ping pong is a sport.,ping pong,sport,39,-8.199651718139648,-1.024956464767456,59017392,albert-xlarge-v1
+rowing is a sport.,rowing,sport,40,-13.959818840026855,-2.7919637680053713,59017392,albert-xlarge-v1
+fishing is a sport.,fishing,sport,41,-14.396484375,-2.879296875,59017392,albert-xlarge-v1
+horseback riding is a sport.,horseback riding,sport,42,-6.745298385620117,-1.1242163976033528,59017392,albert-xlarge-v1
+running is a sport.,running,sport,43,-15.750200748443604,-3.1500401496887207,59017392,albert-xlarge-v1
+horse racing is a sport.,horse racing,sport,44,-9.538078308105469,-1.5896797180175781,59017392,albert-xlarge-v1
+hiking is a sport.,hiking,sport,45,-13.761394023895264,-2.7522788047790527,59017392,albert-xlarge-v1
+weight lifting is a sport.,weight lifting,sport,46,-9.04310131072998,-1.50718355178833,59017392,albert-xlarge-v1
+croquet is a sport.,croquet,sport,47,-31.821556568145752,-5.303592761357625,59017392,albert-xlarge-v1
+horseshoes is a sport.,horseshoes,sport,48,-28.628382682800293,-4.771397113800049,59017392,albert-xlarge-v1
+boating is a sport.,boating,sport,49,-18.65938663482666,-3.10989777247111,59017392,albert-xlarge-v1
+pool is a sport.,pool,sport,50,-22.03197479248047,-4.406394958496094,59017392,albert-xlarge-v1
+billiards is a sport.,billiards,sport,51,-15.3569655418396,-2.5594942569732666,59017392,albert-xlarge-v1
+hunting is a sport.,hunting,sport,52,-13.169527530670166,-2.6339055061340333,59017392,albert-xlarge-v1
+jump rope is a sport.,jump rope,sport,53,-26.23750877380371,-4.372918128967285,59017392,albert-xlarge-v1
+camping is a sport.,camping,sport,54,-14.965425491333008,-2.9930850982666017,59017392,albert-xlarge-v1
+chess is a sport.,chess,sport,55,-14.94254446029663,-2.9885088920593263,59017392,albert-xlarge-v1
+dancing is a sport.,dancing,sport,56,-17.36979389190674,-3.4739587783813475,59017392,albert-xlarge-v1
+checkers is a sport.,checkers,sport,57,-32.63201951980591,-5.438669919967651,59017392,albert-xlarge-v1
+cards is a sport.,cards,sport,58,-24.3544979095459,-4.87089958190918,59017392,albert-xlarge-v1
+sunbathing is a sport.,sunbathing,sport,59,-41.791930198669434,-5.223991274833679,59017392,albert-xlarge-v1
+pea is a vegetable.,pea,vegetable,1,-19.595497131347656,-3.265916188557943,59017392,albert-xlarge-v1
+carrot is a vegetable.,carrot,vegetable,2,-13.246578216552734,-2.6493156433105467,59017392,albert-xlarge-v1
+green beans are vegetables.,green beans,vegetable,3,-22.184917449951172,-4.436983489990235,59017392,albert-xlarge-v1
+string beans are vegetables.,string beans,vegetable,4,-24.48780059814453,-4.897560119628906,59017392,albert-xlarge-v1
+spinach is a vegetable.,spinach,vegetable,5,-23.300078868865967,-3.8833464781443277,59017392,albert-xlarge-v1
+broccoli is a vegetable.,broccoli,vegetable,6,-40.824687480926514,-5.832098211560931,59017392,albert-xlarge-v1
+asparagus are vegetables.,asparagus,vegetable,7,-56.7369179725647,-9.45615299542745,59017392,albert-xlarge-v1
+corn is a vegetable.,corn,vegetable,8,-11.546405792236328,-2.3092811584472654,59017392,albert-xlarge-v1
+cauliflower is a vegetable.,cauliflower,vegetable,9,-36.70773887634277,-5.243962696620396,59017392,albert-xlarge-v1
+brussels are vegetables.,brussels,vegetable,10,-38.01355266571045,-9.503388166427612,59017392,albert-xlarge-v1
+sprouts are vegetables.,sprouts,vegetable,11,-25.868789672851562,-5.173757934570313,59017392,albert-xlarge-v1
+squash is a vegetable.,squash,vegetable,12,-22.72464370727539,-4.544928741455078,59017392,albert-xlarge-v1
+lettuce is a vegetable.,lettuce,vegetable,13,-40.241661071777344,-5.748808724539621,59017392,albert-xlarge-v1
+celery is a vegetable.,celery,vegetable,14,-23.729891300201416,-3.954981883366903,59017392,albert-xlarge-v1
+cucumber is a vegetable.,cucumber,vegetable,15,-13.967927932739258,-2.7935855865478514,59017392,albert-xlarge-v1
+beets are vegetables.,beets,vegetable,16,-30.79246473312378,-6.158492946624756,59017392,albert-xlarge-v1
+greens are vegetables.,greens,vegetable,17,-31.23256254196167,-6.246512508392334,59017392,albert-xlarge-v1
+tomato is a vegetable.,tomato,vegetable,18,-18.01344871520996,-3.0022414525349936,59017392,albert-xlarge-v1
+lima beans are vegetables.,lima beans,vegetable,19,-21.416948318481445,-4.283389663696289,59017392,albert-xlarge-v1
+artichokes are vegetables.,artichokes,vegetable,20,-56.935251235961914,-8.133607319423131,59017392,albert-xlarge-v1
+turnip is a vegetable.,turnip,vegetable,21,-26.931264877319336,-4.48854414621989,59017392,albert-xlarge-v1
+eggplant is a vegetable.,eggplant,vegetable,22,-25.050659656524658,-4.175109942754109,59017392,albert-xlarge-v1
+romaine is a vegetable.,romaine,vegetable,23,-26.15653944015503,-4.359423240025838,59017392,albert-xlarge-v1
+green peppers are vegetables.,green peppers,vegetable,24,-22.74693202972412,-3.7911553382873535,59017392,albert-xlarge-v1
+okra is a vegetable.,okra,vegetable,25,-28.592656135559082,-4.765442689259847,59017392,albert-xlarge-v1
+radishes are vegetables.,radishes,vegetable,26,-56.558964252471924,-8.079852036067418,59017392,albert-xlarge-v1
+onions are vegetables.,onions,vegetable,27,-29.370399475097656,-5.874079895019531,59017392,albert-xlarge-v1
+bean is a vegetable.,bean,vegetable,28,-20.748635292053223,-4.149727058410645,59017392,albert-xlarge-v1
+green onion is a vegetable.,green onion,vegetable,29,-26.99715280532837,-3.85673611504691,59017392,albert-xlarge-v1
+potato is a vegetable.,potato,vegetable,30,-13.925518035888672,-2.785103607177734,59017392,albert-xlarge-v1
+parsnip is a vegetable.,parsnip,vegetable,31,-53.22940969467163,-6.653676211833954,59017392,albert-xlarge-v1
+turnip greens are vegetables.,turnip greens,vegetable,32,-55.53311061859131,-7.933301516941616,59017392,albert-xlarge-v1
+collard is a vegetable.,collard,vegetable,33,-43.76346015930176,-7.293910026550293,59017392,albert-xlarge-v1
+wax beans are vegetables.,wax beans,vegetable,34,-23.56844425201416,-4.713688850402832,59017392,albert-xlarge-v1
+watercress are vegetables.,watercress,vegetable,35,-61.71962785720825,-8.817089693886894,59017392,albert-xlarge-v1
+black eyed peas are vegetables.,black eyed peas,vegetable,36,-30.73929214477539,-3.842411518096924,59017392,albert-xlarge-v1
+leek is a vegetable.,leek,vegetable,37,-31.223188400268555,-5.203864733378093,59017392,albert-xlarge-v1
+peppers are vegetables.,peppers,vegetable,38,-23.527817726135254,-4.705563545227051,59017392,albert-xlarge-v1
+sweet potato is a vegetable.,sweet potato,vegetable,39,-12.368330955505371,-2.0613884925842285,59017392,albert-xlarge-v1
+yams are vegetables.,yams,vegetable,40,-32.863237380981445,-5.477206230163574,59017392,albert-xlarge-v1
+parsley is a vegetable.,parsley,vegetable,41,-27.988659381866455,-4.664776563644409,59017392,albert-xlarge-v1
+endive is a vegetable.,endive,vegetable,42,-30.39929437637329,-5.066549062728882,59017392,albert-xlarge-v1
+rutabaga is a vegetable.,rutabaga,vegetable,43,-43.47442054748535,-6.2106315067836215,59017392,albert-xlarge-v1
+mushroom is a vegetable.,mushroom,vegetable,44,-14.582335472106934,-2.9164670944213866,59017392,albert-xlarge-v1
+avocado is a vegetable.,avocado,vegetable,45,-40.64419364929199,-5.806313378470285,59017392,albert-xlarge-v1
+rhubarb is a vegetable.,rhubarb,vegetable,46,-55.12924814224243,-6.891156017780304,59017392,albert-xlarge-v1
+kale is a vegetable.,kale,vegetable,47,-22.457505226135254,-4.491501045227051,59017392,albert-xlarge-v1
+escarole is a vegetable.,escarole,vegetable,48,-43.46757125854492,-5.433446407318115,59017392,albert-xlarge-v1
+sauerkraut is a vegetable.,sauerkraut,vegetable,49,-57.82271480560303,-6.424746089511448,59017392,albert-xlarge-v1
+pickles are vegetables.,pickles,vegetable,50,-22.276921272277832,-4.455384254455566,59017392,albert-xlarge-v1
+baked beans are vegetables.,baked beans,vegetable,51,-26.63878345489502,-5.327756690979004,59017392,albert-xlarge-v1
+pumpkin is a vegetable.,pumpkin,vegetable,52,-22.294162273406982,-4.458832454681397,59017392,albert-xlarge-v1
+seaweed is a vegetable.,seaweed,vegetable,53,-35.84377956390381,-5.120539937700544,59017392,albert-xlarge-v1
+garlic is a vegetable.,garlic,vegetable,54,-12.739851474761963,-2.5479702949523926,59017392,albert-xlarge-v1
+dandelion is a vegetable.,dandelion,vegetable,55,-40.25978422164917,-5.751397745949881,59017392,albert-xlarge-v1
+peanut is a vegetable.,peanut,vegetable,56,-15.63341236114502,-3.126682472229004,59017392,albert-xlarge-v1
+rice is a vegetable.,rice,vegetable,57,-17.7314190864563,-3.54628381729126,59017392,albert-xlarge-v1
+a saw is a tool.,saw,tool,1,-20.124326705932617,-3.3540544509887695,59017392,albert-xlarge-v1
+a hammer is a tool.,hammer,tool,2,-9.276918411254883,-1.5461530685424805,59017392,albert-xlarge-v1
+a ruler is a tool.,ruler,tool,3,-23.567108154296875,-3.927851359049479,59017392,albert-xlarge-v1
+a screwdriver is a tool.,screwdriver,tool,4,-19.1749906539917,-2.7392843791416714,59017392,albert-xlarge-v1
+a drill is a tool.,drill,tool,5,-16.14979362487793,-2.6916322708129883,59017392,albert-xlarge-v1
+nails are tools.,nails,tool,6,-27.604208946228027,-6.901052236557007,59017392,albert-xlarge-v1
+a tape measure is a tool.,tape measure,tool,7,-31.17895221710205,-4.454136031014579,59017392,albert-xlarge-v1
+a sawhorse is a tool.,sawhorse,tool,8,-31.315151691436768,-4.473593098776681,59017392,albert-xlarge-v1
+a sandpaper is a tool.,sandpaper,tool,9,-27.63738203048706,-3.948197432926723,59017392,albert-xlarge-v1
+a sander is a tool.,sander,tool,10,-29.712250232696533,-4.244607176099505,59017392,albert-xlarge-v1
+a level is a tool.,level,tool,11,-25.6326904296875,-4.272115071614583,59017392,albert-xlarge-v1
+a plane is a tool.,plane,tool,12,-24.83838653564453,-4.139731089274089,59017392,albert-xlarge-v1
+a file is a tool.,file,tool,13,-21.93576192855835,-3.6559603214263916,59017392,albert-xlarge-v1
+a toolbox is a tool.,toolbox,tool,14,-14.56745719909668,-2.0810653141566684,59017392,albert-xlarge-v1
+a T-square is a tool.,T-square,tool,15,-26.299382209777832,-2.9221535788642035,59017392,albert-xlarge-v1
+a chisel is a tool.,chisel,tool,16,-19.147053718566895,-2.735293388366699,59017392,albert-xlarge-v1
+a rasp is a tool.,rasp,tool,17,-26.564821243286133,-4.4274702072143555,59017392,albert-xlarge-v1
+a pencil is a tool.,pencil,tool,18,-14.356985569000244,-2.3928309281667075,59017392,albert-xlarge-v1
+a hacksaw is a tool.,hacksaw,tool,19,-19.332468032836914,-2.7617811475481306,59017392,albert-xlarge-v1
+a square is a tool.,square,tool,20,-24.281797409057617,-4.0469662348429365,59017392,albert-xlarge-v1
+a bench is a tool.,bench,tool,21,-19.23419427871704,-3.2056990464528403,59017392,albert-xlarge-v1
+a pliers is a tool.,pliers,tool,22,-42.57267236709595,-5.321584045886993,59017392,albert-xlarge-v1
+a wrench is a tool.,wrench,tool,23,-9.524637222290039,-1.5874395370483398,59017392,albert-xlarge-v1
+a ladder is a tool.,ladder,tool,24,-13.615139961242676,-2.269189993540446,59017392,albert-xlarge-v1
+a lathe is a tool.,lathe,tool,25,-27.73401927947998,-3.962002754211426,59017392,albert-xlarge-v1
+a vise is a tool.,vise,tool,26,-24.970657348632812,-3.567236764090402,59017392,albert-xlarge-v1
+screws are tools.,screws,tool,27,-23.382273197174072,-4.676454639434814,59017392,albert-xlarge-v1
+a wood is a tool.,wood,tool,28,-16.973783493041992,-2.8289639155069985,59017392,albert-xlarge-v1
+a wedge is a tool.,wedge,tool,29,-16.820823192596436,-2.8034705320994058,59017392,albert-xlarge-v1
+a lumber is a tool.,lumber,tool,30,-21.943513870239258,-3.657252311706543,59017392,albert-xlarge-v1
+blueprints are tools.,blueprints,tool,31,-26.613788604736328,-5.322757720947266,59017392,albert-xlarge-v1
+a brace is a tool.,brace,tool,32,-16.264965534210205,-2.710827589035034,59017392,albert-xlarge-v1
+an awl is a tool.,awl,tool,33,-25.643309593200684,-3.663329941885812,59017392,albert-xlarge-v1
+a crowbar is a tool.,crowbar,tool,34,-30.97860097885132,-4.425514425550189,59017392,albert-xlarge-v1
+a hinge is a tool.,hinge,tool,35,-20.69595193862915,-2.956564562661307,59017392,albert-xlarge-v1
+a miter box is a tool.,miter box,tool,36,-37.37975025177002,-4.672468781471252,59017392,albert-xlarge-v1
+a knife is a tool.,knife,tool,37,-11.341090202331543,-1.8901817003885906,59017392,albert-xlarge-v1
+a chalk is a tool.,chalk,tool,38,-16.631319999694824,-2.771886666615804,59017392,albert-xlarge-v1
+nuts are tools.,nuts,tool,39,-29.6297607421875,-7.407440185546875,59017392,albert-xlarge-v1
+bolts are tools.,bolts,tool,40,-27.34934663772583,-5.469869327545166,59017392,albert-xlarge-v1
+a plumb line is a tool.,plumb line,tool,41,-43.581159591674805,-5.447644948959351,59017392,albert-xlarge-v1
+a brush is a tool.,brush,tool,42,-12.201513290405273,-2.033585548400879,59017392,albert-xlarge-v1
+a sledge hammer is a tool.,sledge hammer,tool,43,-30.142720222473145,-3.767840027809143,59017392,albert-xlarge-v1
+a glue is a tool.,glue,tool,44,-14.32534122467041,-2.387556870778402,59017392,albert-xlarge-v1
+a paintbrush is a tool.,paintbrush,tool,45,-17.414173126220703,-2.487739018031529,59017392,albert-xlarge-v1
+a varnish is a tool.,varnish,tool,46,-26.975066661834717,-3.853580951690674,59017392,albert-xlarge-v1
+an apron is a tool.,apron,tool,47,-23.102880001068115,-3.850480000178019,59017392,albert-xlarge-v1
+a stapler is a tool.,stapler,tool,48,-29.59521770477295,-4.227888243538993,59017392,albert-xlarge-v1
+an extension cord is a tool.,extension cord,tool,49,-29.03981590270996,-4.148545128958566,59017392,albert-xlarge-v1
+a soldering iron is a tool.,soldering iron,tool,50,-33.65480852127075,-4.206851065158844,59017392,albert-xlarge-v1
+a plaster is a tool.,plaster,tool,51,-23.0944242477417,-3.8490707079569497,59017392,albert-xlarge-v1
+a wheelbarrow is a tool.,wheelbarrow,tool,52,-34.704368591308594,-4.338046073913574,59017392,albert-xlarge-v1
+an axe is a tool.,axe,tool,53,-11.206074714660645,-1.8676791191101074,59017392,albert-xlarge-v1
+a slide rule is a tool.,slide rule,tool,54,-35.76895713806152,-5.109851019723075,59017392,albert-xlarge-v1
+a cement is a tool.,cement,tool,55,-24.20320415496826,-4.033867359161377,59017392,albert-xlarge-v1
+an anvil is a tool.,anvil,tool,56,-20.22830629348755,-2.8897580419267928,59017392,albert-xlarge-v1
+a hatchet is a tool.,hatchet,tool,57,-22.024739742279053,-3.1463913917541504,59017392,albert-xlarge-v1
+rags are tools.,rags,tool,58,-27.5150089263916,-5.50300178527832,59017392,albert-xlarge-v1
+a scissors is a tool.,scissors,tool,59,-28.526082038879395,-4.07515457698277,59017392,albert-xlarge-v1
+a crane is a tool.,crane,tool,60,-16.636656284332275,-2.7727760473887124,59017392,albert-xlarge-v1
+orange is a fruit.,orange,fruit,1,-22.79720115661621,-4.559440231323242,59017392,albert-xlarge-v1
+apple is a fruit.,apple,fruit,2,-26.434743881225586,-5.286948776245117,59017392,albert-xlarge-v1
+banana is a fruit.,banana,fruit,3,-22.180907249450684,-4.436181449890137,59017392,albert-xlarge-v1
+peach is a fruit.,peach,fruit,4,-28.741902351379395,-5.748380470275879,59017392,albert-xlarge-v1
+pear is a fruit.,pear,fruit,5,-27.403326988220215,-5.480665397644043,59017392,albert-xlarge-v1
+apricot is a fruit.,apricot,fruit,6,-37.46611213684082,-5.352301733834403,59017392,albert-xlarge-v1
+tangerine is a fruit.,tangerine,fruit,7,-45.331833839416504,-6.475976262773786,59017392,albert-xlarge-v1
+plum is a fruit.,plum,fruit,8,-19.99043560028076,-3.9980871200561525,59017392,albert-xlarge-v1
+grapes are fruit.,grapes,fruit,9,-17.446863174438477,-4.361715793609619,59017392,albert-xlarge-v1
+nectarine is a fruit.,nectarine,fruit,10,-34.3616828918457,-5.72694714864095,59017392,albert-xlarge-v1
+strawberry is a fruit.,strawberry,fruit,11,-17.951175689697266,-3.590235137939453,59017392,albert-xlarge-v1
+grapefruit is a fruit.,grapefruit,fruit,12,-23.006574153900146,-3.8344290256500244,59017392,albert-xlarge-v1
+berry is a fruit.,berry,fruit,13,-29.849355220794678,-5.9698710441589355,59017392,albert-xlarge-v1
+cherry is a fruit.,cherry,fruit,14,-30.489316940307617,-6.097863388061524,59017392,albert-xlarge-v1
+pineapple is a fruit.,pineapple,fruit,15,-18.359150886535645,-3.671830177307129,59017392,albert-xlarge-v1
+blackberry is a fruit.,blackberry,fruit,16,-27.492441177368164,-5.498488235473633,59017392,albert-xlarge-v1
+melon is a fruit.,melon,fruit,17,-33.874460220336914,-5.645743370056152,59017392,albert-xlarge-v1
+blueberry is a fruit.,blueberry,fruit,18,-26.073688507080078,-4.345614751180013,59017392,albert-xlarge-v1
+raspberry is a fruit.,raspberry,fruit,19,-21.396352291107178,-4.279270458221435,59017392,albert-xlarge-v1
+lemon is a fruit.,lemon,fruit,20,-24.61574411392212,-4.923148822784424,59017392,albert-xlarge-v1
+black raspberry is a fruit.,black raspberry,fruit,21,-30.803772926330566,-5.133962154388428,59017392,albert-xlarge-v1
+boysenberry is a fruit.,boysenberry,fruit,22,-44.10890245437622,-6.301271779196603,59017392,albert-xlarge-v1
+watermelon is a fruit.,watermelon,fruit,23,-46.74082040786743,-6.677260058266776,59017392,albert-xlarge-v1
+cantaloupe is a fruit.,cantaloupe,fruit,24,-59.581305503845215,-7.447663187980652,59017392,albert-xlarge-v1
+lime is a fruit.,lime,fruit,25,-20.346206188201904,-4.069241237640381,59017392,albert-xlarge-v1
+tangelo is a fruit.,tangelo,fruit,26,-55.65602207183838,-7.950860295976911,59017392,albert-xlarge-v1
+papaya is a fruit.,papaya,fruit,27,-36.85627508163452,-6.142712513605754,59017392,albert-xlarge-v1
+honeydew is a fruit.,honeydew,fruit,28,-39.47281360626221,-5.638973372323172,59017392,albert-xlarge-v1
+fig is a fruit.,fig,fruit,29,-23.673606872558594,-4.734721374511719,59017392,albert-xlarge-v1
+mango is a fruit.,mango,fruit,30,-19.831957817077637,-3.9663915634155273,59017392,albert-xlarge-v1
+guava is a fruit.,guava,fruit,31,-31.76297664642334,-5.293829441070557,59017392,albert-xlarge-v1
+pomegranate is a fruit.,pomegranate,fruit,32,-53.23724603652954,-6.654655754566193,59017392,albert-xlarge-v1
+cranberry is a fruit.,cranberry,fruit,33,-33.92186117172241,-5.653643528620402,59017392,albert-xlarge-v1
+passion fruit is a fruit.,passion fruit,fruit,34,-31.41358995437622,-5.23559832572937,59017392,albert-xlarge-v1
+prunes are fruit.,prunes,fruit,35,-22.593095779418945,-4.518619155883789,59017392,albert-xlarge-v1
+gooseberry is a fruit.,gooseberry,fruit,36,-30.433399200439453,-5.072233200073242,59017392,albert-xlarge-v1
+date is a fruit.,date,fruit,37,-28.47910785675049,-5.6958215713500975,59017392,albert-xlarge-v1
+kumquat is a fruit.,kumquat,fruit,38,-49.229763984680176,-7.032823426382882,59017392,albert-xlarge-v1
+raisin is a fruit.,raisin,fruit,39,-47.06290912628174,-6.723272732325962,59017392,albert-xlarge-v1
+muskmelon is a fruit.,muskmelon,fruit,40,-47.2826042175293,-6.754657745361328,59017392,albert-xlarge-v1
+persimmon is a fruit.,persimmon,fruit,41,-44.461891651153564,-6.351698807307652,59017392,albert-xlarge-v1
+pawpaw is a fruit.,pawpaw,fruit,42,-44.843570709228516,-6.406224387032645,59017392,albert-xlarge-v1
+coconut is a fruit.,coconut,fruit,43,-19.57508373260498,-3.915016746520996,59017392,albert-xlarge-v1
+avocado is a fruit.,avocado,fruit,44,-42.2047233581543,-6.0292461940220425,59017392,albert-xlarge-v1
+pumpkin is a fruit.,pumpkin,fruit,45,-24.132573127746582,-4.826514625549317,59017392,albert-xlarge-v1
+tomato is a fruit.,tomato,fruit,46,-28.878134727478027,-4.813022454579671,59017392,albert-xlarge-v1
+nut is a fruit.,nut,fruit,47,-24.647108554840088,-4.929421710968017,59017392,albert-xlarge-v1
+gourd is a fruit.,gourd,fruit,48,-34.77409267425537,-5.7956821123758955,59017392,albert-xlarge-v1
+olive is a fruit.,olive,fruit,49,-27.207597732543945,-5.441519546508789,59017392,albert-xlarge-v1
+pickle is a fruit.,pickle,fruit,50,-29.727364540100098,-5.94547290802002,59017392,albert-xlarge-v1
+squash is a fruit.,squash,fruit,51,-26.673290252685547,-5.33465805053711,59017392,albert-xlarge-v1
+pants are clothes.,pants,clothing,1,-23.405899047851562,-5.851474761962891,59017392,albert-xlarge-v1
+a shirt is a type of clothing.,shirt,clothing,2,-9.020339965820312,-1.127542495727539,59017392,albert-xlarge-v1
+dress are clothes.,dress,clothing,3,-34.69042491912842,-8.672606229782104,59017392,albert-xlarge-v1
+a skirt is a type of clothing.,skirt,clothing,4,-10.07772445678711,-1.2597155570983887,59017392,albert-xlarge-v1
+a blouse is a type of clothing.,blouse,clothing,5,-8.521203994750977,-1.065150499343872,59017392,albert-xlarge-v1
+a suit is a type of clothing.,suit,clothing,6,-11.1878023147583,-1.3984752893447876,59017392,albert-xlarge-v1
+slacks are clothes.,slacks,clothing,7,-30.86767816543579,-6.173535633087158,59017392,albert-xlarge-v1
+a jacket is a type of clothing.,jacket,clothing,8,-11.628323554992676,-1.4535404443740845,59017392,albert-xlarge-v1
+a coat is a type of clothing.,coat,clothing,9,-9.627788543701172,-1.2034735679626465,59017392,albert-xlarge-v1
+a sweater is a type of clothing.,sweater,clothing,10,-11.255265235900879,-1.4069081544876099,59017392,albert-xlarge-v1
+a sweatshirt is a type of clothing.,sweatshirt,clothing,11,-11.839412689208984,-1.479926586151123,59017392,albert-xlarge-v1
+underpants are clothes.,underpants,clothing,12,-38.03404903411865,-7.606809806823731,59017392,albert-xlarge-v1
+a sports jacket is a type of clothing.,sports jacket,clothing,13,-17.851160049438477,-1.9834622277153864,59017392,albert-xlarge-v1
+a jumper is a type of clothing.,jumper,clothing,14,-20.41635036468506,-2.5520437955856323,59017392,albert-xlarge-v1
+panties are clothes.,panties,clothing,15,-26.319220066070557,-6.579805016517639,59017392,albert-xlarge-v1
+socks are clothes.,socks,clothing,16,-27.706875801086426,-6.9267189502716064,59017392,albert-xlarge-v1
+a parka is a type of clothing.,parka,clothing,17,-31.227514266967773,-3.4697238074408636,59017392,albert-xlarge-v1
+pajamas are clothes.,pajamas,clothing,18,-18.709457397460938,-3.7418914794921876,59017392,albert-xlarge-v1
+an undershirt is a type of clothing.,undershirt,clothing,19,-18.564242362976074,-2.0626935958862305,59017392,albert-xlarge-v1
+an overcoat is a type of clothing.,overcoat,clothing,20,-14.267600059509277,-1.585288895501031,59017392,albert-xlarge-v1
+a nightgown is a type of clothing.,nightgown,clothing,21,-15.722952842712402,-1.5722952842712403,59017392,albert-xlarge-v1
+a raincoat is a type of clothing.,raincoat,clothing,22,-16.421268463134766,-1.8245853847927518,59017392,albert-xlarge-v1
+a bathing suit is a type of clothing.,bathing suit,clothing,23,-9.859766960144043,-1.095529662238227,59017392,albert-xlarge-v1
+a bathrobe is a type of clothing.,bathrobe,clothing,24,-32.12695503234863,-3.212695503234863,59017392,albert-xlarge-v1
+a slip is a type of clothing.,slip,clothing,25,-21.69996690750122,-2.7124958634376526,59017392,albert-xlarge-v1
+a bra is a type of clothing.,bra,clothing,26,-13.14207649230957,-1.6427595615386963,59017392,albert-xlarge-v1
+shoes are clothes.,shoes,clothing,27,-24.950169563293457,-6.237542390823364,59017392,albert-xlarge-v1
+a tuxedo is a type of clothing.,tuxedo,clothing,28,-14.42622184753418,-1.8032777309417725,59017392,albert-xlarge-v1
+stockings are clothes.,stockings,clothing,29,-26.980137825012207,-6.745034456253052,59017392,albert-xlarge-v1
+a vest is a type of clothing.,vest,clothing,30,-13.855616569519043,-1.7319520711898804,59017392,albert-xlarge-v1
+nylons are clothes.,nylons,clothing,31,-32.24091053009033,-6.448182106018066,59017392,albert-xlarge-v1
+a cape is a type of clothing.,cape,clothing,32,-16.432125091552734,-2.054015636444092,59017392,albert-xlarge-v1
+boots are clothes.,boots,clothing,33,-25.473990440368652,-6.368497610092163,59017392,albert-xlarge-v1
+sandals are clothes.,sandals,clothing,34,-28.9639253616333,-7.240981340408325,59017392,albert-xlarge-v1
+a tie is a type of clothing.,tie,clothing,35,-16.18008041381836,-2.022510051727295,59017392,albert-xlarge-v1
+a girdle is a type of clothing.,girdle,clothing,36,-20.14267635345459,-2.2380751503838434,59017392,albert-xlarge-v1
+a belt is a type of clothing.,belt,clothing,37,-16.544893264770508,-2.0681116580963135,59017392,albert-xlarge-v1
+a scarf is a type of clothing.,scarf,clothing,38,-12.942416191101074,-1.6178020238876343,59017392,albert-xlarge-v1
+mittens are clothes.,mittens,clothing,39,-44.30851221084595,-8.86170244216919,59017392,albert-xlarge-v1
+slippers are clothes.,slippers,clothing,40,-29.031225204467773,-5.806245040893555,59017392,albert-xlarge-v1
+a hat is a type of clothing.,hat,clothing,41,-14.052230834960938,-1.7565288543701172,59017392,albert-xlarge-v1
+overshoes are clothes.,overshoes,clothing,42,-56.06302356719971,-9.343837261199951,59017392,albert-xlarge-v1
+gloves are clothes.,gloves,clothing,43,-30.12564468383789,-7.531411170959473,59017392,albert-xlarge-v1
+an apron is a type of clothing.,apron,clothing,44,-11.708483695983887,-1.4635604619979858,59017392,albert-xlarge-v1
+earmuffs are clothes.,earmuffs,clothing,45,-41.99867391586304,-6.999778985977173,59017392,albert-xlarge-v1
+a handkerchief is a type of clothing.,handkerchief,clothing,46,-21.413259506225586,-2.6766574382781982,59017392,albert-xlarge-v1
+a purse is a type of clothing.,purse,clothing,47,-20.77426815032959,-2.5967835187911987,59017392,albert-xlarge-v1
+a hairband is a type of clothing.,hairband,clothing,48,-17.248144149780273,-1.916460461086697,59017392,albert-xlarge-v1
+a ring is a type of clothing.,ring,clothing,49,-23.594621658325195,-2.9493277072906494,59017392,albert-xlarge-v1
+earrings are clothes.,earrings,clothing,50,-32.59747791290283,-8.149369478225708,59017392,albert-xlarge-v1
+a watch is a type of clothing.,watch,clothing,51,-23.888278007507324,-2.9860347509384155,59017392,albert-xlarge-v1
+cuff links are clothes.,cuff links,clothing,52,-41.396300315856934,-6.899383385976155,59017392,albert-xlarge-v1
+a necklace is a type of clothing.,necklace,clothing,53,-19.13548755645752,-2.39193594455719,59017392,albert-xlarge-v1
+a bracelet is a type of clothing.,bracelet,clothing,54,-23.764734268188477,-2.9705917835235596,59017392,albert-xlarge-v1
+a cane is a type of clothing.,cane,clothing,55,-25.827946662902832,-3.228493332862854,59017392,albert-xlarge-v1
+an automobile is a vehicle.,automobile,vehicle,1,-4.379155158996582,-0.729859193166097,59017392,albert-xlarge-v1
+a station wagon is a vehicle.,station wagon,vehicle,2,-14.547386169433594,-2.078198024204799,59017392,albert-xlarge-v1
+a truck is a vehicle.,truck,vehicle,3,-8.408915519714355,-1.4014859199523926,59017392,albert-xlarge-v1
+a car is a vehicle.,car,vehicle,4,-7.502687454223633,-1.2504479090372722,59017392,albert-xlarge-v1
+bus are vehicles.,bus,vehicle,5,-40.45780658721924,-10.11445164680481,59017392,albert-xlarge-v1
+a taxi is a vehicle.,taxi,vehicle,6,-11.415160179138184,-1.9025266965230305,59017392,albert-xlarge-v1
+a jeep is a vehicle.,jeep,vehicle,7,-10.361593246459961,-1.726932207743327,59017392,albert-xlarge-v1
+an ambulance is a vehicle.,ambulance,vehicle,8,-10.577232837677002,-1.7628721396128337,59017392,albert-xlarge-v1
+a motorcycle is a vehicle.,motorcycle,vehicle,9,-10.288233757019043,-1.7147056261698406,59017392,albert-xlarge-v1
+a streetcar is a vehicle.,streetcar,vehicle,10,-13.763306617736816,-2.2938844362894693,59017392,albert-xlarge-v1
+a van is a vehicle.,van,vehicle,11,-9.150188446044922,-1.5250314076741536,59017392,albert-xlarge-v1
+a Honda is a vehicle.,Honda,vehicle,12,-17.003029823303223,-2.8338383038838706,59017392,albert-xlarge-v1
+a cable car is a vehicle.,cable car,vehicle,13,-16.96610975265503,-2.423729964665004,59017392,albert-xlarge-v1
+a train is a vehicle.,train,vehicle,14,-13.761828422546387,-2.293638070424398,59017392,albert-xlarge-v1
+a trolley is a vehicle.,trolley,vehicle,15,-14.909862995147705,-2.4849771658579507,59017392,albert-xlarge-v1
+a bicycle is a vehicle.,bicycle,vehicle,16,-12.161537170410156,-2.026922861735026,59017392,albert-xlarge-v1
+a carriage is a vehicle.,carriage,vehicle,17,-9.735910415649414,-1.622651735941569,59017392,albert-xlarge-v1
+an airplane is a vehicle.,airplane,vehicle,18,-8.47946548461914,-1.4132442474365234,59017392,albert-xlarge-v1
+a bike is a vehicle.,bike,vehicle,19,-13.372519493103027,-2.2287532488505044,59017392,albert-xlarge-v1
+a boat is a vehicle.,boat,vehicle,20,-12.587135314941406,-2.097855885823568,59017392,albert-xlarge-v1
+a jet is a vehicle.,jet,vehicle,21,-16.402511596679688,-2.7337519327799478,59017392,albert-xlarge-v1
+a ship is a vehicle.,ship,vehicle,22,-15.426319122314453,-2.5710531870524087,59017392,albert-xlarge-v1
+a scooter is a vehicle.,scooter,vehicle,23,-11.960622310638428,-1.9934370517730713,59017392,albert-xlarge-v1
+a tractor is a vehicle.,tractor,vehicle,24,-11.444557189941406,-1.9074261983235676,59017392,albert-xlarge-v1
+a wagon is a vehicle.,wagon,vehicle,25,-10.545720100402832,-1.7576200167338054,59017392,albert-xlarge-v1
+a subway is a vehicle.,subway,vehicle,26,-20.708744525909424,-3.451457420984904,59017392,albert-xlarge-v1
+a trailer is a vehicle.,trailer,vehicle,27,-11.891630172729492,-1.981938362121582,59017392,albert-xlarge-v1
+a cart is a vehicle.,cart,vehicle,28,-13.063085556030273,-2.1771809260050454,59017392,albert-xlarge-v1
+a wheelchair is a vehicle.,wheelchair,vehicle,29,-20.012157440185547,-3.335359573364258,59017392,albert-xlarge-v1
+a yacht is a vehicle.,yacht,vehicle,30,-17.008057117462158,-2.834676186243693,59017392,albert-xlarge-v1
+a tank is a vehicle.,tank,vehicle,31,-12.916193008422852,-2.152698834737142,59017392,albert-xlarge-v1
+a go-cart is a vehicle.,go-cart,vehicle,32,-31.178216457366943,-3.4642462730407715,59017392,albert-xlarge-v1
+a rowboat is a vehicle.,rowboat,vehicle,33,-27.301324367523193,-3.9001891953604564,59017392,albert-xlarge-v1
+a dogsled is a vehicle.,dogsled,vehicle,34,-36.76620960235596,-5.252315657479422,59017392,albert-xlarge-v1
+a tricycle is a vehicle.,tricycle,vehicle,35,-16.04140853881836,-2.2916297912597656,59017392,albert-xlarge-v1
+a canoe is a vehicle.,canoe,vehicle,36,-16.72548198699951,-2.7875803311665854,59017392,albert-xlarge-v1
+a raft is a vehicle.,raft,vehicle,37,-22.733877182006836,-3.7889795303344727,59017392,albert-xlarge-v1
+a submarine is a vehicle.,submarine,vehicle,38,-17.778810501098633,-2.963135083516439,59017392,albert-xlarge-v1
+a sled is a vehicle.,sled,vehicle,39,-17.30771827697754,-2.88461971282959,59017392,albert-xlarge-v1
+a horse is a vehicle.,horse,vehicle,40,-15.299200057983398,-2.5498666763305664,59017392,albert-xlarge-v1
+a rocket is a vehicle.,rocket,vehicle,41,-17.111793518066406,-2.851965586344401,59017392,albert-xlarge-v1
+a blimp is a vehicle.,blimp,vehicle,42,-28.297531127929688,-3.537191390991211,59017392,albert-xlarge-v1
+skates are vehicles.,skates,vehicle,43,-37.42742919921875,-7.48548583984375,59017392,albert-xlarge-v1
+a camel is a vehicle.,camel,vehicle,44,-15.912630081176758,-2.6521050135294595,59017392,albert-xlarge-v1
+feet are vehicles.,feet,vehicle,45,-35.60039043426514,-8.900097608566284,59017392,albert-xlarge-v1
+skis are vehicles.,skis,vehicle,46,-35.7269983291626,-7.145399665832519,59017392,albert-xlarge-v1
+a skateboard is a vehicle.,skateboard,vehicle,47,-21.54107666015625,-3.590179443359375,59017392,albert-xlarge-v1
+a wheelbarrow is a vehicle.,wheelbarrow,vehicle,48,-36.76160430908203,-4.595200538635254,59017392,albert-xlarge-v1
+a surfboard is a vehicle.,surfboard,vehicle,49,-26.608798027038574,-3.8012568610055104,59017392,albert-xlarge-v1
+an elevator is a vehicle.,elevator,vehicle,50,-16.994521617889404,-2.832420269648234,59017392,albert-xlarge-v1
+a chair is a type of furniture.,chair,furniture,1,-15.231412887573242,-1.9039266109466553,59017392,albert-xlarge-v1
+a sofa is a type of furniture.,sofa,furniture,2,-15.285233497619629,-1.9106541872024536,59017392,albert-xlarge-v1
+a couch is a type of furniture.,couch,furniture,3,-15.765615463256836,-1.9707019329071045,59017392,albert-xlarge-v1
+a table is a type of furniture.,table,furniture,4,-15.589831352233887,-1.9487289190292358,59017392,albert-xlarge-v1
+an easy chair is a type of furniture.,easy chair,furniture,5,-22.317086219787598,-2.4796762466430664,59017392,albert-xlarge-v1
+a dresser is a type of furniture.,dresser,furniture,6,-16.673593521118164,-2.0841991901397705,59017392,albert-xlarge-v1
+a rocking chair is a type of furniture.,rocking chair,furniture,7,-16.945116996765137,-1.8827907774183485,59017392,albert-xlarge-v1
+a coffee table is a type of furniture.,coffee table,furniture,8,-18.443323135375977,-2.0492581261528864,59017392,albert-xlarge-v1
+a rocker is a type of furniture.,rocker,furniture,9,-20.316704750061035,-2.5395880937576294,59017392,albert-xlarge-v1
+a love seat is a type of furniture.,love seat,furniture,10,-24.440203189849854,-2.7155781322055392,59017392,albert-xlarge-v1
+chest of drawers are furniture.,chest of drawers,furniture,11,-43.89066123962402,-6.270094462803432,59017392,albert-xlarge-v1
+a desk is a type of furniture.,desk,furniture,12,-18.29936122894287,-2.287420153617859,59017392,albert-xlarge-v1
+a bed is a type of furniture.,bed,furniture,13,-17.389662742614746,-2.1737078428268433,59017392,albert-xlarge-v1
+a bureau is a type of furniture.,bureau,furniture,14,-24.82769012451172,-3.103461265563965,59017392,albert-xlarge-v1
+a davenport is a type of furniture.,davenport,furniture,15,-31.38440465927124,-3.923050582408905,59017392,albert-xlarge-v1
+an end table is a type of furniture.,end table,furniture,16,-19.58485221862793,-2.1760946909586587,59017392,albert-xlarge-v1
+a divan is a type of furniture.,divan,furniture,17,-22.026625633239746,-2.4474028481377497,59017392,albert-xlarge-v1
+a night table is a type of furniture.,night table,furniture,18,-22.5643367767334,-2.5071485307481556,59017392,albert-xlarge-v1
+a chest is a type of furniture.,chest,furniture,19,-18.118109226226807,-2.264763653278351,59017392,albert-xlarge-v1
+a cedar chest is a type of furniture.,cedar chest,furniture,20,-27.638762950897217,-3.070973661210802,59017392,albert-xlarge-v1
+a vanity is a type of furniture.,vanity,furniture,21,-19.267444610595703,-2.408430576324463,59017392,albert-xlarge-v1
+a bookcase is a type of furniture.,bookcase,furniture,22,-18.16698932647705,-2.018554369608561,59017392,albert-xlarge-v1
+a lounge is a type of furniture.,lounge,furniture,23,-19.281394004821777,-2.410174250602722,59017392,albert-xlarge-v1
+a chaise lounge is a type of furniture.,chaise lounge,furniture,24,-37.43448066711426,-3.7434480667114256,59017392,albert-xlarge-v1
+an ottoman is a type of furniture.,ottoman,furniture,25,-17.81387424468994,-2.2267342805862427,59017392,albert-xlarge-v1
+a footstool is a type of furniture.,footstool,furniture,26,-28.30649423599243,-2.830649423599243,59017392,albert-xlarge-v1
+a cabinet is a type of furniture.,cabinet,furniture,27,-13.64893627166748,-1.706117033958435,59017392,albert-xlarge-v1
+a china closet is a type of furniture.,china closet,furniture,28,-29.926910400390625,-3.3252122667100696,59017392,albert-xlarge-v1
+a bench is a type of furniture.,bench,furniture,29,-18.038859367370605,-2.2548574209213257,59017392,albert-xlarge-v1
+a buffet is a type of furniture.,buffet,furniture,30,-19.23546600341797,-2.404433250427246,59017392,albert-xlarge-v1
+a lamp is a type of furniture.,lamp,furniture,31,-23.461091995239258,-2.9326364994049072,59017392,albert-xlarge-v1
+a stool is a type of furniture.,stool,furniture,32,-18.096169471740723,-2.2620211839675903,59017392,albert-xlarge-v1
+a hassock is a type of furniture.,hassock,furniture,33,-37.121413230895996,-3.7121413230895994,59017392,albert-xlarge-v1
+drawers are furniture.,drawers,furniture,34,-24.55793857574463,-4.911587715148926,59017392,albert-xlarge-v1
+a piano is a type of furniture.,piano,furniture,35,-20.93932056427002,-2.6174150705337524,59017392,albert-xlarge-v1
+a cushion is a type of furniture.,cushion,furniture,36,-14.208096504211426,-1.4208096504211425,59017392,albert-xlarge-v1
+a magazine rack is a type of furniture.,magazine rack,furniture,37,-28.996481895446777,-3.2218313217163086,59017392,albert-xlarge-v1
+a hi-fi is a type of furniture.,hi-fi,furniture,38,-27.50327777862549,-2.750327777862549,59017392,albert-xlarge-v1
+a cupboard is a type of furniture.,cupboard,furniture,39,-16.699626922607422,-2.0874533653259277,59017392,albert-xlarge-v1
+a stereo is a type of furniture.,stereo,furniture,40,-27.57411003112793,-3.446763753890991,59017392,albert-xlarge-v1
+a mirror is a type of furniture.,mirror,furniture,41,-24.562456607818604,-3.0703070759773254,59017392,albert-xlarge-v1
+a television is a type of furniture.,television,furniture,42,-29.66661548614502,-3.7083269357681274,59017392,albert-xlarge-v1
+a bar is a type of furniture.,bar,furniture,43,-21.21097469329834,-2.6513718366622925,59017392,albert-xlarge-v1
+a shelf is a type of furniture.,shelf,furniture,44,-17.461545944213867,-2.1826932430267334,59017392,albert-xlarge-v1
+a rug is a type of furniture.,rug,furniture,45,-13.876667976379395,-1.7345834970474243,59017392,albert-xlarge-v1
+a pillow is a type of furniture.,pillow,furniture,46,-19.488534927368164,-2.4360668659210205,59017392,albert-xlarge-v1
+a wastebasket is a type of furniture.,wastebasket,furniture,47,-43.661956787109375,-4.3661956787109375,59017392,albert-xlarge-v1
+a radio is a type of furniture.,radio,furniture,48,-34.01552391052246,-4.251940488815308,59017392,albert-xlarge-v1
+a sewing machine is a type of furniture.,sewing machine,furniture,49,-17.822660446166992,-1.9802956051296658,59017392,albert-xlarge-v1
+a stove is a type of furniture.,stove,furniture,50,-23.56627655029297,-2.945784568786621,59017392,albert-xlarge-v1
+a counter is a type of furniture.,counter,furniture,51,-22.106393337249756,-2.7632991671562195,59017392,albert-xlarge-v1
+a clock is a type of furniture.,clock,furniture,52,-24.32180881500244,-3.040226101875305,59017392,albert-xlarge-v1
+drapes are furniture.,drapes,furniture,53,-30.56249237060547,-6.112498474121094,59017392,albert-xlarge-v1
+a refrigerator is a type of furniture.,refrigerator,furniture,54,-22.651192665100098,-2.831399083137512,59017392,albert-xlarge-v1
+a picture is a type of furniture.,picture,furniture,55,-28.77926254272461,-3.597407817840576,59017392,albert-xlarge-v1
+a closet is a type of furniture.,closet,furniture,56,-21.276972770690918,-2.6596215963363647,59017392,albert-xlarge-v1
+a vase is a type of furniture.,vase,furniture,57,-16.857396125793457,-2.107174515724182,59017392,albert-xlarge-v1
+an ashtray is a type of furniture.,ashtray,furniture,58,-37.92685127258301,-3.792685127258301,59017392,albert-xlarge-v1
+a fan is a type of furniture.,fan,furniture,59,-22.20660161972046,-2.7758252024650574,59017392,albert-xlarge-v1
+a telephone is a type of furniture.,telephone,furniture,60,-29.989876747131348,-3.7487345933914185,59017392,albert-xlarge-v1
+a gun is a weapon.,gun,weapon,1,-7.16364860534668,-1.1939414342244465,59017392,albert-xlarge-v1
+a pistol is a weapon.,pistol,weapon,2,-12.907791137695312,-2.1512985229492188,59017392,albert-xlarge-v1
+a revolver is a weapon.,revolver,weapon,3,-16.86036443710327,-2.810060739517212,59017392,albert-xlarge-v1
+a machine gun is a weapon.,machine gun,weapon,4,-10.241765022277832,-1.4631092888968331,59017392,albert-xlarge-v1
+a rifle is a weapon.,rifle,weapon,5,-11.426115989685059,-1.9043526649475098,59017392,albert-xlarge-v1
+a switchblade is a weapon.,switchblade,weapon,6,-20.040249347686768,-2.8628927639552524,59017392,albert-xlarge-v1
+a knife is a weapon.,knife,weapon,7,-10.076122283935547,-1.6793537139892578,59017392,albert-xlarge-v1
+a dagger is a weapon.,dagger,weapon,8,-11.731475830078125,-1.9552459716796875,59017392,albert-xlarge-v1
+a shotgun is a weapon.,shotgun,weapon,9,-14.53658390045166,-2.42276398340861,59017392,albert-xlarge-v1
+a sword is a weapon.,sword,weapon,10,-8.649430274963379,-1.4415717124938965,59017392,albert-xlarge-v1
+a bomb is a weapon.,bomb,weapon,11,-11.187984466552734,-1.864664077758789,59017392,albert-xlarge-v1
+a hand grenade is a weapon.,hand grenade,weapon,12,-12.883400440216064,-1.8404857771737235,59017392,albert-xlarge-v1
+an A-bomb is a weapon.,A-bomb,weapon,13,-22.202675819396973,-2.7753344774246216,59017392,albert-xlarge-v1
+a bayonet is a weapon.,bayonet,weapon,14,-14.167245388031006,-2.3612075646718345,59017392,albert-xlarge-v1
+a spear is a weapon.,spear,weapon,15,-10.792492866516113,-1.7987488110860188,59017392,albert-xlarge-v1
+a bazooka is a weapon.,bazooka,weapon,16,-40.10190677642822,-5.012738347053528,59017392,albert-xlarge-v1
+a cannon is a weapon.,cannon,weapon,17,-12.053855895996094,-2.0089759826660156,59017392,albert-xlarge-v1
+a bow and arrow is a weapon.,bow and arrow,weapon,18,-14.621736526489258,-1.8277170658111572,59017392,albert-xlarge-v1
+a club is a weapon.,club,weapon,19,-19.316660404205322,-3.219443400700887,59017392,albert-xlarge-v1
+a lance is a weapon.,lance,weapon,20,-15.297984600067139,-2.54966410001119,59017392,albert-xlarge-v1
+brass knuckles are weapons.,brass knuckles,weapon,21,-38.656328201293945,-7.731265640258789,59017392,albert-xlarge-v1
+a bullet is a weapon.,bullet,weapon,22,-10.375192642211914,-1.7291987737019856,59017392,albert-xlarge-v1
+a tomahawk is a weapon.,tomahawk,weapon,23,-35.21631908416748,-4.402039885520935,59017392,albert-xlarge-v1
+a mortar is a weapon.,mortar,weapon,24,-17.512081146240234,-2.918680191040039,59017392,albert-xlarge-v1
+an arrow is a weapon.,arrow,weapon,25,-7.658029556274414,-1.276338259379069,59017392,albert-xlarge-v1
+a blackjack is a weapon.,blackjack,weapon,26,-24.0654296875,-3.4379185267857144,59017392,albert-xlarge-v1
+a tank is a weapon.,tank,weapon,27,-16.42888069152832,-2.7381467819213867,59017392,albert-xlarge-v1
+teargas are weapons.,teargas,weapon,28,-34.344322204589844,-6.868864440917969,59017392,albert-xlarge-v1
+a missile is a weapon.,missile,weapon,29,-10.511125564575195,-1.7518542607625325,59017392,albert-xlarge-v1
+a whip is a weapon.,whip,weapon,30,-13.445919513702393,-2.2409865856170654,59017392,albert-xlarge-v1
+an ice pick is a weapon.,ice pick,weapon,31,-20.752787590026855,-2.964683941432408,59017392,albert-xlarge-v1
+a hatchet is a weapon.,hatchet,weapon,32,-17.972572326660156,-2.567510332380022,59017392,albert-xlarge-v1
+a slingshot is a weapon.,slingshot,weapon,33,-22.179031372070312,-3.168433053152902,59017392,albert-xlarge-v1
+a fist is a weapon.,fist,weapon,34,-16.835036277770996,-2.8058393796284995,59017392,albert-xlarge-v1
+an axe is a weapon.,axe,weapon,35,-9.955347061157227,-1.659224510192871,59017392,albert-xlarge-v1
+a bow is a weapon.,bow,weapon,36,-12.745607376098633,-2.124267896016439,59017392,albert-xlarge-v1
+a razor is a weapon.,razor,weapon,37,-16.053754806518555,-2.675625801086426,59017392,albert-xlarge-v1
+a razor blade is a weapon.,razor blade,weapon,38,-16.609508991241455,-2.3727869987487793,59017392,albert-xlarge-v1
+a rocket is a weapon.,rocket,weapon,39,-13.465734481811523,-2.2442890803019204,59017392,albert-xlarge-v1
+a judo is a weapon.,judo,weapon,40,-19.094212532043457,-3.182368755340576,59017392,albert-xlarge-v1
+a stick is a weapon.,stick,weapon,41,-13.19350004196167,-2.1989166736602783,59017392,albert-xlarge-v1
+a poison is a weapon.,poison,weapon,42,-16.604241847991943,-2.7673736413319907,59017392,albert-xlarge-v1
+a rock is a weapon.,rock,weapon,43,-16.33833074569702,-2.723055124282837,59017392,albert-xlarge-v1
+a stone is a weapon.,stone,weapon,44,-14.634217262268066,-2.439036210378011,59017392,albert-xlarge-v1
+gas are weapons.,gas,weapon,45,-31.524738311767578,-7.8811845779418945,59017392,albert-xlarge-v1
+a chain is a weapon.,chain,weapon,46,-18.4969220161438,-3.0828203360239663,59017392,albert-xlarge-v1
+a scissors is a weapon.,scissors,weapon,47,-35.116201877593994,-5.016600268227713,59017392,albert-xlarge-v1
+bricks are weapons.,bricks,weapon,48,-31.352517127990723,-7.838129281997681,59017392,albert-xlarge-v1
+a pitchfork is a weapon.,pitchfork,weapon,49,-16.637537479400635,-2.772922913233439,59017392,albert-xlarge-v1
+a hammer is a weapon.,hammer,weapon,50,-11.694757461547852,-1.9491262435913086,59017392,albert-xlarge-v1
+a word is a weapon.,word,weapon,51,-16.783977508544922,-2.797329584757487,59017392,albert-xlarge-v1
+a hand is a weapon.,hand,weapon,52,-22.172463417053223,-3.6954105695088706,59017392,albert-xlarge-v1
+a pipe is a weapon.,pipe,weapon,53,-16.27763605117798,-2.7129393418629966,59017392,albert-xlarge-v1
+a rope is a weapon.,rope,weapon,54,-16.979498386383057,-2.8299163977305093,59017392,albert-xlarge-v1
+an airplane is a weapon.,airplane,weapon,55,-16.255990028381348,-2.709331671396891,59017392,albert-xlarge-v1
+a foot is a weapon.,foot,weapon,56,-21.481281757354736,-3.5802136262257895,59017392,albert-xlarge-v1
+a car is a weapon.,car,weapon,57,-17.402217864990234,-2.900369644165039,59017392,albert-xlarge-v1
+a screwdriver is a weapon.,screwdriver,weapon,58,-19.468703269958496,-2.781243324279785,59017392,albert-xlarge-v1
+glass are weapons.,glass,weapon,59,-29.36641502380371,-7.341603755950928,59017392,albert-xlarge-v1
+a shoe is a weapon.,shoe,weapon,60,-17.700881958007812,-2.9501469930013022,59017392,albert-xlarge-v1

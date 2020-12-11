@@ -1,0 +1,567 @@
+stimulus,item,category,rank,logprob,normalized_logprob,params,model
+a doll is a toy.,doll,toy,1,-8.5108003616333,-1.4184667269388835,51295290,google_electra-large-generator
+a top is a toy.,top,toy,2,-25.89231014251709,-4.315385023752849,51295290,google_electra-large-generator
+a jack-in-the-box is a toy.,jack-in-the-box,toy,3,-13.171113967895508,-1.097592830657959,51295290,google_electra-large-generator
+a toy soldier is a toy.,toy soldier,toy,4,-16.854073524475098,-2.4077247892107283,51295290,google_electra-large-generator
+a yo-yo is a toy.,yo-yo,toy,5,-6.177718162536621,-0.7722147703170776,51295290,google_electra-large-generator
+a block is a toy.,block,toy,6,-17.07503604888916,-2.845839341481527,51295290,google_electra-large-generator
+marbles are toys.,marbles,toy,7,-17.918879508972168,-3.5837759017944335,51295290,google_electra-large-generator
+a rattle is a toy.,rattle,toy,8,-14.150057792663574,-2.358342965443929,51295290,google_electra-large-generator
+a stuffed animal is a toy.,stuffed animal,toy,9,-5.3192138671875,-0.7598876953125,51295290,google_electra-large-generator
+a water pistol is a toy.,water pistol,toy,10,-19.917434692382812,-2.8453478131975447,51295290,google_electra-large-generator
+a teddy bear is a toy.,teddy bear,toy,11,-4.714245796203613,-0.6734636851719448,51295290,google_electra-large-generator
+a rocking horse is a toy.,rocking horse,toy,12,-14.77407455444336,-2.110582079206194,51295290,google_electra-large-generator
+a doll house is a toy.,doll house,toy,13,-12.21822738647461,-1.7454610552106584,51295290,google_electra-large-generator
+a ball is a toy.,ball,toy,14,-11.823598861694336,-1.9705998102823894,51295290,google_electra-large-generator
+jacks are toys.,jacks,toy,15,-16.110711097717285,-3.222142219543457,51295290,google_electra-large-generator
+paper dolls are toys.,paper dolls,toy,16,-15.923422813415527,-3.1846845626831053,51295290,google_electra-large-generator
+an erector set is a toy.,erector set,toy,17,-17.368263244628906,-2.1710329055786133,51295290,google_electra-large-generator
+a hula hoop is a toy.,hula hoop,toy,18,-8.993322372436523,-1.1241652965545654,51295290,google_electra-large-generator
+a jump rope is a toy.,jump rope,toy,19,-12.672011375427246,-1.8102873393467493,51295290,google_electra-large-generator
+a pogo stick is a toy.,pogo stick,toy,20,-12.42810344696045,-1.5535129308700562,51295290,google_electra-large-generator
+a clay is a toy.,clay,toy,21,-20.726017951965332,-3.454336325327555,51295290,google_electra-large-generator
+a wagon is a toy.,wagon,toy,22,-15.58675479888916,-2.597792466481527,51295290,google_electra-large-generator
+a kite is a toy.,kite,toy,23,-13.302693367004395,-2.217115561167399,51295290,google_electra-large-generator
+a train is a toy.,train,toy,24,-13.91338062286377,-2.318896770477295,51295290,google_electra-large-generator
+a tricycle is a toy.,tricycle,toy,25,-5.9627580642700195,-0.8518225806100028,51295290,google_electra-large-generator
+a coloring book is a toy.,coloring book,toy,26,-10.680449485778809,-1.5257784979684013,51295290,google_electra-large-generator
+crayons are toys.,crayons,toy,27,-10.596975326538086,-1.7661625544230144,51295290,google_electra-large-generator
+a truck is a toy.,truck,toy,28,-13.481576919555664,-2.246929486592611,51295290,google_electra-large-generator
+a puzzle is a toy.,puzzle,toy,29,-13.006189346313477,-2.1676982243855796,51295290,google_electra-large-generator
+a fire engine is a toy.,fire engine,toy,30,-12.596611022949219,-1.799515860421317,51295290,google_electra-large-generator
+a balloon is a toy.,balloon,toy,31,-11.827593803405762,-1.9712656339009602,51295290,google_electra-large-generator
+skates are toys.,skates,toy,32,-17.162893295288086,-3.4325786590576173,51295290,google_electra-large-generator
+a baseball is a toy.,baseball,toy,33,-14.083000183105469,-2.3471666971842446,51295290,google_electra-large-generator
+a drum is a toy.,drum,toy,34,-12.847517013549805,-2.1412528355916343,51295290,google_electra-large-generator
+a football is a toy.,football,toy,35,-14.661927223205566,-2.4436545372009277,51295290,google_electra-large-generator
+a game is a toy.,game,toy,36,-14.375263214111328,-2.395877202351888,51295290,google_electra-large-generator
+a swing is a toy.,swing,toy,37,-14.322562217712402,-2.387093702952067,51295290,google_electra-large-generator
+a boat is a toy.,boat,toy,38,-12.452144622802734,-2.075357437133789,51295290,google_electra-large-generator
+a monopoly is a toy.,monopoly,toy,39,-18.517863273620605,-3.086310545603434,51295290,google_electra-large-generator
+a sled is a toy.,sled,toy,40,-8.364255905151367,-1.1948937007359095,51295290,google_electra-large-generator
+a seesaw is a toy.,seesaw,toy,41,-10.09887409210205,-1.4426962988717216,51295290,google_electra-large-generator
+stilts are toys.,stilts,toy,42,-13.878108024597168,-2.7756216049194338,51295290,google_electra-large-generator
+checkers are toys.,checkers,toy,43,-22.344672203063965,-4.468934440612793,51295290,google_electra-large-generator
+a bat is a toy.,bat,toy,44,-11.104012489318848,-1.8506687482198079,51295290,google_electra-large-generator
+a car is a toy.,car,toy,45,-7.318624496459961,-1.2197707494099934,51295290,google_electra-large-generator
+an airplane is a toy.,airplane,toy,46,-8.42805290222168,-1.4046754837036133,51295290,google_electra-large-generator
+a bicycle is a toy.,bicycle,toy,47,-10.199300765991211,-1.6998834609985352,51295290,google_electra-large-generator
+a tractor is a toy.,tractor,toy,48,-13.426389694213867,-2.237731615702311,51295290,google_electra-large-generator
+a sandbox is a toy.,sandbox,toy,49,-8.567567825317383,-1.223938260759626,51295290,google_electra-large-generator
+a bike is a toy.,bike,toy,50,-12.317164421081543,-2.052860736846924,51295290,google_electra-large-generator
+a bow and arrow is a toy.,bow and arrow,toy,51,-6.889926910400391,-0.8612408638000488,51295290,google_electra-large-generator
+a rope is a toy.,rope,toy,52,-14.63371467590332,-2.4389524459838867,51295290,google_electra-large-generator
+dishes are toys.,dishes,toy,53,-23.84001636505127,-5.960004091262817,51295290,google_electra-large-generator
+cards are toys.,cards,toy,54,-19.791810989379883,-4.947952747344971,51295290,google_electra-large-generator
+a mitt is a toy.,mitt,toy,55,-11.088499069213867,-1.5840712956019811,51295290,google_electra-large-generator
+a horse is a toy.,horse,toy,56,-12.111518859863281,-2.0185864766438804,51295290,google_electra-large-generator
+a gun is a toy.,gun,toy,57,-9.3159818649292,-1.5526636441548665,51295290,google_electra-large-generator
+animals are toys.,animals,toy,58,-13.536934852600098,-3.3842337131500244,51295290,google_electra-large-generator
+a tennis racket is a toy.,tennis racket,toy,59,-9.116251945495605,-1.1395314931869507,51295290,google_electra-large-generator
+books are toys.,books,toy,60,-16.245797157287598,-4.061449289321899,51295290,google_electra-large-generator
+a robin is a bird.,robin,bird,1,-13.008122444152832,-2.168020407358805,51295290,google_electra-large-generator
+a sparrow is a bird.,sparrow,bird,2,-7.639779090881348,-1.2732965151468914,51295290,google_electra-large-generator
+a bluejay is a bird.,bluejay,bird,3,-21.61293125152588,-2.701616406440735,51295290,google_electra-large-generator
+a bluebird is a bird.,bluebird,bird,4,-9.973730087280273,-1.4248185838971819,51295290,google_electra-large-generator
+a canary is a bird.,canary,bird,5,-12.04822826385498,-2.00803804397583,51295290,google_electra-large-generator
+a blackbird is a bird.,blackbird,bird,6,-9.743306159973145,-1.3919008799961634,51295290,google_electra-large-generator
+a dove is a bird.,dove,bird,7,-13.81071662902832,-2.3017861048380532,51295290,google_electra-large-generator
+a lark is a bird.,lark,bird,8,-16.631068229675293,-2.7718447049458823,51295290,google_electra-large-generator
+a swallow is a bird.,swallow,bird,9,-18.39531707763672,-3.0658861796061196,51295290,google_electra-large-generator
+a parakeet is a bird.,parakeet,bird,10,-5.992133140563965,-0.7490166425704956,51295290,google_electra-large-generator
+an oriole is a bird.,oriole,bird,11,-8.255318641662598,-1.0319148302078247,51295290,google_electra-large-generator
+a mockingbird is a bird.,mockingbird,bird,12,-5.076051712036133,-0.7251502445765904,51295290,google_electra-large-generator
+a redbird is a bird.,redbird,bird,13,-14.530203819274902,-2.0757434027535573,51295290,google_electra-large-generator
+a wren is a bird.,wren,bird,14,-13.857717514038086,-2.309619585673014,51295290,google_electra-large-generator
+a finch is a bird.,finch,bird,15,-14.484001159667969,-2.4140001932779946,51295290,google_electra-large-generator
+a starling is a bird.,starling,bird,16,-14.635510444641113,-2.090787206377302,51295290,google_electra-large-generator
+a cardinal is a bird.,cardinal,bird,17,-14.751227378845215,-2.4585378964742026,51295290,google_electra-large-generator
+an eagle is a bird.,eagle,bird,18,-6.012323379516602,-1.0020538965861003,51295290,google_electra-large-generator
+a hummingbird is a bird.,hummingbird,bird,19,-5.0043840408325195,-0.7149120058332171,51295290,google_electra-large-generator
+a seagull is a bird.,seagull,bird,20,-6.452547073364258,-0.8065683841705322,51295290,google_electra-large-generator
+a woodpecker is a bird.,woodpecker,bird,21,-7.276431083679199,-0.9095538854598999,51295290,google_electra-large-generator
+a pigeon is a bird.,pigeon,bird,22,-9.932557106018066,-1.6554261843363445,51295290,google_electra-large-generator
+a thrush is a bird.,thrush,bird,23,-7.795622825622559,-1.1136604036603654,51295290,google_electra-large-generator
+a falcon is a bird.,falcon,bird,24,-12.610870361328125,-2.101811726888021,51295290,google_electra-large-generator
+a crow is a bird.,crow,bird,25,-10.439258575439453,-1.739876429239909,51295290,google_electra-large-generator
+a hawk is a bird.,hawk,bird,26,-9.954760551452637,-1.6591267585754395,51295290,google_electra-large-generator
+a raven is a bird.,raven,bird,27,-12.434542655944824,-2.072423775990804,51295290,google_electra-large-generator
+a goldfinch is a bird.,goldfinch,bird,28,-10.550612449645996,-1.3188265562057495,51295290,google_electra-large-generator
+a parrot is a bird.,parrot,bird,29,-8.63851547241211,-1.4397525787353516,51295290,google_electra-large-generator
+a sandpiper is a bird.,sandpiper,bird,30,-7.839871406555176,-0.979983925819397,51295290,google_electra-large-generator
+a pheasant is a bird.,pheasant,bird,31,-8.861196517944336,-1.107649564743042,51295290,google_electra-large-generator
+a catbird is a bird.,catbird,bird,32,-15.154501914978027,-2.164928844996861,51295290,google_electra-large-generator
+a crane is a bird.,crane,bird,33,-14.074655532836914,-2.345775922139486,51295290,google_electra-large-generator
+albatross are birds.,albatross,bird,34,-10.090038299560547,-1.6816730499267578,51295290,google_electra-large-generator
+a condor is a bird.,condor,bird,35,-12.938604354858398,-2.1564340591430664,51295290,google_electra-large-generator
+a toucan is a bird.,toucan,bird,36,-13.710416793823242,-1.7138020992279053,51295290,google_electra-large-generator
+an owl is a bird.,owl,bird,37,-7.362095832824707,-1.2270159721374512,51295290,google_electra-large-generator
+a pelican is a bird.,pelican,bird,38,-6.849918365478516,-0.8562397956848145,51295290,google_electra-large-generator
+geese are birds.,geese,bird,39,-13.130393028259277,-3.2825982570648193,51295290,google_electra-large-generator
+a vulture is a bird.,vulture,bird,40,-11.797189712524414,-1.9661982854207356,51295290,google_electra-large-generator
+a stork is a bird.,stork,bird,41,-10.405388832092285,-1.3006736040115356,51295290,google_electra-large-generator
+a buzzard is a bird.,buzzard,bird,42,-7.908486366271973,-1.129783766610282,51295290,google_electra-large-generator
+a swan is a bird.,swan,bird,43,-18.26295280456543,-3.0438254674275718,51295290,google_electra-large-generator
+a flamingo is a bird.,flamingo,bird,44,-8.391545295715332,-1.1987921851021903,51295290,google_electra-large-generator
+a duck is a bird.,duck,bird,45,-9.835451126098633,-1.6392418543497722,51295290,google_electra-large-generator
+a peacock is a bird.,peacock,bird,46,-11.394532203674316,-1.899088700612386,51295290,google_electra-large-generator
+an egret is a bird.,egret,bird,47,-9.439663887023926,-1.1799579858779907,51295290,google_electra-large-generator
+a chicken is a bird.,chicken,bird,48,-11.742090225219727,-1.957015037536621,51295290,google_electra-large-generator
+a turkey is a bird.,turkey,bird,49,-12.787875175476074,-2.131312529246012,51295290,google_electra-large-generator
+an ostrich is a bird.,ostrich,bird,50,-6.229970932006836,-0.7787463665008545,51295290,google_electra-large-generator
+a titmouse is a bird.,titmouse,bird,51,-9.900830268859863,-1.237603783607483,51295290,google_electra-large-generator
+an emu is a bird.,emu,bird,52,-17.017759323120117,-2.4311084747314453,51295290,google_electra-large-generator
+a penguin is a bird.,penguin,bird,53,-12.348630905151367,-2.058105150858561,51295290,google_electra-large-generator
+a bat is a bird.,bat,bird,54,-11.97409439086914,-1.9956823984781902,51295290,google_electra-large-generator
+football is a sport.,football,sport,1,-4.007290840148926,-0.8014581680297852,51295290,google_electra-large-generator
+baseball is a sport.,baseball,sport,2,-5.028839111328125,-1.005767822265625,51295290,google_electra-large-generator
+basketball is a sport.,basketball,sport,3,-4.756158828735352,-0.9512317657470704,51295290,google_electra-large-generator
+tennis is a sport.,tennis,sport,4,-4.98978328704834,-0.997956657409668,51295290,google_electra-large-generator
+softball is a sport.,softball,sport,5,-8.189290046691895,-1.637858009338379,51295290,google_electra-large-generator
+canoeing is a sport.,canoeing,sport,6,-4.483251571655273,-0.7472085952758789,51295290,google_electra-large-generator
+handball is a sport.,handball,sport,7,-8.947237968444824,-1.7894475936889649,51295290,google_electra-large-generator
+rugby is a sport.,rugby,sport,8,-5.968077659606934,-1.1936155319213868,51295290,google_electra-large-generator
+hockey is a sport.,hockey,sport,9,-4.601463317871094,-0.9202926635742188,51295290,google_electra-large-generator
+ice hockey is a sport.,ice hockey,sport,10,-3.2057437896728516,-0.534290631612142,51295290,google_electra-large-generator
+swimming is a sport.,swimming,sport,11,-6.3977203369140625,-1.2795440673828125,51295290,google_electra-large-generator
+track is a sport.,track,sport,12,-19.308804512023926,-3.861760902404785,51295290,google_electra-large-generator
+boxing is a sport.,boxing,sport,13,-5.1712751388549805,-1.034255027770996,51295290,google_electra-large-generator
+volleyball is a sport.,volleyball,sport,14,-7.597189903259277,-1.5194379806518554,51295290,google_electra-large-generator
+lacrosse is a sport.,lacrosse,sport,15,-8.429978370666504,-1.6859956741333009,51295290,google_electra-large-generator
+skiing is a sport.,skiing,sport,16,-7.728673934936523,-1.5457347869873046,51295290,google_electra-large-generator
+golf is a sport.,golf,sport,17,-4.211851119995117,-0.8423702239990234,51295290,google_electra-large-generator
+polo is a sport.,polo,sport,18,-10.077613830566406,-2.015522766113281,51295290,google_electra-large-generator
+surfing is a sport.,surfing,sport,19,-7.885625839233398,-1.5771251678466798,51295290,google_electra-large-generator
+wrestling is a sport.,wrestling,sport,20,-6.894526481628418,-1.3789052963256836,51295290,google_electra-large-generator
+gymnastics is a sport.,gymnastics,sport,21,-7.96074104309082,-1.592148208618164,51295290,google_electra-large-generator
+cricket is a sport.,cricket,sport,22,-6.279397010803223,-1.2558794021606445,51295290,google_electra-large-generator
+squash is a sport.,squash,sport,23,-10.919422149658203,-2.1838844299316404,51295290,google_electra-large-generator
+badminton is a sport.,badminton,sport,24,-7.0726470947265625,-1.4145294189453126,51295290,google_electra-large-generator
+racing is a sport.,racing,sport,25,-6.515787124633789,-1.303157424926758,51295290,google_electra-large-generator
+pole vault is a sport.,pole vault,sport,26,-8.118247985839844,-1.3530413309733074,51295290,google_electra-large-generator
+fencing is a sport.,fencing,sport,27,-10.926101684570312,-2.1852203369140626,51295290,google_electra-large-generator
+bowling is a sport.,bowling,sport,28,-7.821254730224609,-1.5642509460449219,51295290,google_electra-large-generator
+water skiing is a sport.,water skiing,sport,29,-7.1335554122924805,-1.1889259020487468,51295290,google_electra-large-generator
+ice skating is a sport.,ice skating,sport,30,-5.569917678833008,-0.9283196131388346,51295290,google_electra-large-generator
+jai alai is a sport.,jai alai,sport,31,-37.84799289703369,-5.406856128147671,51295290,google_electra-large-generator
+skating is a sport.,skating,sport,32,-7.220721244812012,-1.4441442489624023,51295290,google_electra-large-generator
+skindiving is a sport.,skindiving,sport,33,-18.75383472442627,-2.67911924634661,51295290,google_electra-large-generator
+sailing is a sport.,sailing,sport,34,-8.224167823791504,-1.6448335647583008,51295290,google_electra-large-generator
+diving is a sport.,diving,sport,35,-10.974506378173828,-2.1949012756347654,51295290,google_electra-large-generator
+archery is a sport.,archery,sport,36,-7.498990058898926,-1.4997980117797851,51295290,google_electra-large-generator
+judo is a sport.,judo,sport,37,-9.09324836730957,-1.818649673461914,51295290,google_electra-large-generator
+car racing is a sport.,car racing,sport,38,-4.986142158508301,-0.8310236930847168,51295290,google_electra-large-generator
+ping pong is a sport.,ping pong,sport,39,-3.061030387878418,-0.4372900554112026,51295290,google_electra-large-generator
+rowing is a sport.,rowing,sport,40,-7.90032958984375,-1.58006591796875,51295290,google_electra-large-generator
+fishing is a sport.,fishing,sport,41,-7.847530364990234,-1.5695060729980468,51295290,google_electra-large-generator
+horseback riding is a sport.,horseback riding,sport,42,-4.546832084655762,-0.757805347442627,51295290,google_electra-large-generator
+running is a sport.,running,sport,43,-6.746554374694824,-1.3493108749389648,51295290,google_electra-large-generator
+horse racing is a sport.,horse racing,sport,44,-4.89768123626709,-0.816280206044515,51295290,google_electra-large-generator
+hiking is a sport.,hiking,sport,45,-10.818342208862305,-2.1636684417724608,51295290,google_electra-large-generator
+weight lifting is a sport.,weight lifting,sport,46,-5.298885345458984,-0.8831475575764974,51295290,google_electra-large-generator
+croquet is a sport.,croquet,sport,47,-3.1358489990234375,-0.44797842843191965,51295290,google_electra-large-generator
+horseshoes is a sport.,horseshoes,sport,48,-12.593221664428711,-2.098870277404785,51295290,google_electra-large-generator
+boating is a sport.,boating,sport,49,-8.919622421264648,-1.7839244842529296,51295290,google_electra-large-generator
+pool is a sport.,pool,sport,50,-17.615474700927734,-3.5230949401855467,51295290,google_electra-large-generator
+billiards is a sport.,billiards,sport,51,-4.568199157714844,-0.6525998796735492,51295290,google_electra-large-generator
+hunting is a sport.,hunting,sport,52,-7.858674049377441,-1.5717348098754882,51295290,google_electra-large-generator
+jump rope is a sport.,jump rope,sport,53,-11.088092803955078,-1.8480154673258464,51295290,google_electra-large-generator
+camping is a sport.,camping,sport,54,-10.144953727722168,-2.0289907455444336,51295290,google_electra-large-generator
+chess is a sport.,chess,sport,55,-6.762781143188477,-1.3525562286376953,51295290,google_electra-large-generator
+dancing is a sport.,dancing,sport,56,-8.451911926269531,-1.6903823852539062,51295290,google_electra-large-generator
+checkers is a sport.,checkers,sport,57,-13.058192253112793,-2.176365375518799,51295290,google_electra-large-generator
+cards is a sport.,cards,sport,58,-22.195473670959473,-4.439094734191895,51295290,google_electra-large-generator
+sunbathing is a sport.,sunbathing,sport,59,-4.555691719055176,-0.650813102722168,51295290,google_electra-large-generator
+pea is a vegetable.,pea,vegetable,1,-11.2294282913208,-2.24588565826416,51295290,google_electra-large-generator
+carrot is a vegetable.,carrot,vegetable,2,-7.950926780700684,-1.5901853561401367,51295290,google_electra-large-generator
+green beans are vegetables.,green beans,vegetable,3,-14.849930763244629,-2.969986152648926,51295290,google_electra-large-generator
+string beans are vegetables.,string beans,vegetable,4,-23.00275707244873,-4.600551414489746,51295290,google_electra-large-generator
+spinach is a vegetable.,spinach,vegetable,5,-3.3549537658691406,-0.5591589609781901,51295290,google_electra-large-generator
+broccoli is a vegetable.,broccoli,vegetable,6,-2.709503173828125,-0.38707188197544645,51295290,google_electra-large-generator
+asparagus are vegetables.,asparagus,vegetable,7,-9.313078880310059,-1.5521798133850098,51295290,google_electra-large-generator
+corn is a vegetable.,corn,vegetable,8,-8.418534278869629,-1.6837068557739259,51295290,google_electra-large-generator
+cauliflower is a vegetable.,cauliflower,vegetable,9,-2.8506221771240234,-0.4072317395891462,51295290,google_electra-large-generator
+brussels are vegetables.,brussels,vegetable,10,-33.71313667297363,-8.428284168243408,51295290,google_electra-large-generator
+sprouts are vegetables.,sprouts,vegetable,11,-9.492348194122314,-1.582058032353719,51295290,google_electra-large-generator
+squash is a vegetable.,squash,vegetable,12,-10.409252166748047,-2.0818504333496093,51295290,google_electra-large-generator
+lettuce is a vegetable.,lettuce,vegetable,13,-3.2663393020629883,-0.4666199002947126,51295290,google_electra-large-generator
+celery is a vegetable.,celery,vegetable,14,-4.087527275085449,-0.5839324678693499,51295290,google_electra-large-generator
+cucumber is a vegetable.,cucumber,vegetable,15,-3.1740245819091797,-0.4534320831298828,51295290,google_electra-large-generator
+beets are vegetables.,beets,vegetable,16,-10.685787200927734,-2.137157440185547,51295290,google_electra-large-generator
+greens are vegetables.,greens,vegetable,17,-18.892728805541992,-4.723182201385498,51295290,google_electra-large-generator
+tomato is a vegetable.,tomato,vegetable,18,-8.646309852600098,-1.7292619705200196,51295290,google_electra-large-generator
+lima beans are vegetables.,lima beans,vegetable,19,-17.831440925598145,-3.566288185119629,51295290,google_electra-large-generator
+artichokes are vegetables.,artichokes,vegetable,20,-10.043901443481445,-1.4348430633544922,51295290,google_electra-large-generator
+turnip is a vegetable.,turnip,vegetable,21,-13.422572135925293,-2.237095355987549,51295290,google_electra-large-generator
+eggplant is a vegetable.,eggplant,vegetable,22,-3.425614356994629,-0.4893734795706613,51295290,google_electra-large-generator
+romaine is a vegetable.,romaine,vegetable,23,-7.451900482177734,-1.241983413696289,51295290,google_electra-large-generator
+green peppers are vegetables.,green peppers,vegetable,24,-19.8550386428833,-3.97100772857666,51295290,google_electra-large-generator
+okra is a vegetable.,okra,vegetable,25,-13.384825706481934,-2.2308042844136557,51295290,google_electra-large-generator
+radishes are vegetables.,radishes,vegetable,26,-9.490310668945312,-1.5817184448242188,51295290,google_electra-large-generator
+onions are vegetables.,onions,vegetable,27,-18.194931983947754,-4.5487329959869385,51295290,google_electra-large-generator
+bean is a vegetable.,bean,vegetable,28,-11.573485374450684,-2.3146970748901365,51295290,google_electra-large-generator
+green onion is a vegetable.,green onion,vegetable,29,-11.186347007751465,-1.8643911679585774,51295290,google_electra-large-generator
+potato is a vegetable.,potato,vegetable,30,-8.35278034210205,-1.6705560684204102,51295290,google_electra-large-generator
+parsnip is a vegetable.,parsnip,vegetable,31,-7.96021842956543,-0.9950273036956787,51295290,google_electra-large-generator
+turnip greens are vegetables.,turnip greens,vegetable,32,-19.580124855041504,-3.2633541425069175,51295290,google_electra-large-generator
+collard is a vegetable.,collard,vegetable,33,-12.10691499710083,-2.0178191661834717,51295290,google_electra-large-generator
+wax beans are vegetables.,wax beans,vegetable,34,-31.494342803955078,-6.298868560791016,51295290,google_electra-large-generator
+watercress are vegetables.,watercress,vegetable,35,-14.180365562438965,-2.363394260406494,51295290,google_electra-large-generator
+black eyed peas are vegetables.,black eyed peas,vegetable,36,-13.077383995056152,-2.1795639991760254,51295290,google_electra-large-generator
+leek is a vegetable.,leek,vegetable,37,-13.810417175292969,-2.3017361958821616,51295290,google_electra-large-generator
+peppers are vegetables.,peppers,vegetable,38,-18.38343620300293,-4.595859050750732,51295290,google_electra-large-generator
+sweet potato is a vegetable.,sweet potato,vegetable,39,-8.850770950317383,-1.4751284917195637,51295290,google_electra-large-generator
+yams are vegetables.,yams,vegetable,40,-13.190924644470215,-2.638184928894043,51295290,google_electra-large-generator
+parsley is a vegetable.,parsley,vegetable,41,-3.3277711868286133,-0.5546285311381022,51295290,google_electra-large-generator
+endive is a vegetable.,endive,vegetable,42,-21.520224571228027,-3.5867040952046714,51295290,google_electra-large-generator
+rutabaga is a vegetable.,rutabaga,vegetable,43,-7.559915542602539,-0.9449894428253174,51295290,google_electra-large-generator
+mushroom is a vegetable.,mushroom,vegetable,44,-13.73452091217041,-2.746904182434082,51295290,google_electra-large-generator
+avocado is a vegetable.,avocado,vegetable,45,-4.841089248657227,-0.6915841783796038,51295290,google_electra-large-generator
+rhubarb is a vegetable.,rhubarb,vegetable,46,-4.5801496505737305,-0.5725187063217163,51295290,google_electra-large-generator
+kale is a vegetable.,kale,vegetable,47,-9.124454498291016,-1.520742416381836,51295290,google_electra-large-generator
+escarole is a vegetable.,escarole,vegetable,48,-15.304314136505127,-2.186330590929304,51295290,google_electra-large-generator
+sauerkraut is a vegetable.,sauerkraut,vegetable,49,-5.344926834106445,-0.6681158542633057,51295290,google_electra-large-generator
+pickles are vegetables.,pickles,vegetable,50,-11.152979850769043,-2.2305959701538085,51295290,google_electra-large-generator
+baked beans are vegetables.,baked beans,vegetable,51,-20.055498123168945,-4.011099624633789,51295290,google_electra-large-generator
+pumpkin is a vegetable.,pumpkin,vegetable,52,-10.284576416015625,-2.056915283203125,51295290,google_electra-large-generator
+seaweed is a vegetable.,seaweed,vegetable,53,-4.993996620178223,-0.8323327700297037,51295290,google_electra-large-generator
+garlic is a vegetable.,garlic,vegetable,54,-9.270297050476074,-1.8540594100952148,51295290,google_electra-large-generator
+dandelion is a vegetable.,dandelion,vegetable,55,-3.604856491088867,-0.514979498726981,51295290,google_electra-large-generator
+peanut is a vegetable.,peanut,vegetable,56,-9.615019798278809,-1.9230039596557618,51295290,google_electra-large-generator
+rice is a vegetable.,rice,vegetable,57,-9.198953628540039,-1.8397907257080077,51295290,google_electra-large-generator
+a saw is a tool.,saw,tool,1,-11.701333045959473,-1.9502221743265789,51295290,google_electra-large-generator
+a hammer is a tool.,hammer,tool,2,-7.905808448791504,-1.3176347414652507,51295290,google_electra-large-generator
+a ruler is a tool.,ruler,tool,3,-9.789365768432617,-1.6315609614054363,51295290,google_electra-large-generator
+a screwdriver is a tool.,screwdriver,tool,4,-3.882870674133301,-0.4853588342666626,51295290,google_electra-large-generator
+a drill is a tool.,drill,tool,5,-8.828925132751465,-1.4714875221252441,51295290,google_electra-large-generator
+nails are tools.,nails,tool,6,-19.77429485321045,-4.943573713302612,51295290,google_electra-large-generator
+a tape measure is a tool.,tape measure,tool,7,-11.095345497131348,-1.5850493567330497,51295290,google_electra-large-generator
+a sawhorse is a tool.,sawhorse,tool,8,-10.962861061096191,-1.5661230087280273,51295290,google_electra-large-generator
+a sandpaper is a tool.,sandpaper,tool,9,-13.51815414428711,-1.9311648777553014,51295290,google_electra-large-generator
+a sander is a tool.,sander,tool,10,-8.481839179992676,-1.2116913114275252,51295290,google_electra-large-generator
+a level is a tool.,level,tool,11,-17.40543556213379,-2.9009059270222983,51295290,google_electra-large-generator
+a plane is a tool.,plane,tool,12,-15.118682861328125,-2.519780476888021,51295290,google_electra-large-generator
+a file is a tool.,file,tool,13,-13.927998542785645,-2.321333090464274,51295290,google_electra-large-generator
+a toolbox is a tool.,toolbox,tool,14,-5.345516204833984,-0.7636451721191406,51295290,google_electra-large-generator
+a T-square is a tool.,T-square,tool,15,-16.007460594177246,-2.0009325742721558,51295290,google_electra-large-generator
+a chisel is a tool.,chisel,tool,16,-5.034015655517578,-0.7191450936453683,51295290,google_electra-large-generator
+a rasp is a tool.,rasp,tool,17,-12.19766902923584,-1.7425241470336914,51295290,google_electra-large-generator
+a pencil is a tool.,pencil,tool,18,-7.621926307678223,-1.2703210512797039,51295290,google_electra-large-generator
+a hacksaw is a tool.,hacksaw,tool,19,-6.845389366149902,-0.8556736707687378,51295290,google_electra-large-generator
+a square is a tool.,square,tool,20,-16.667214393615723,-2.7778690656026206,51295290,google_electra-large-generator
+a bench is a tool.,bench,tool,21,-13.569127082824707,-2.2615211804707847,51295290,google_electra-large-generator
+a pliers is a tool.,pliers,tool,22,-12.187750816345215,-1.7411072594778878,51295290,google_electra-large-generator
+a wrench is a tool.,wrench,tool,23,-3.7400455474853516,-0.5342922210693359,51295290,google_electra-large-generator
+a ladder is a tool.,ladder,tool,24,-13.612141609191895,-2.268690268198649,51295290,google_electra-large-generator
+a lathe is a tool.,lathe,tool,25,-6.706607818603516,-0.9580868312290737,51295290,google_electra-large-generator
+a vise is a tool.,vise,tool,26,-9.9860258102417,-1.4265751157488142,51295290,google_electra-large-generator
+screws are tools.,screws,tool,27,-19.219505310058594,-3.8439010620117187,51295290,google_electra-large-generator
+a wood is a tool.,wood,tool,28,-14.784656524658203,-2.464109420776367,51295290,google_electra-large-generator
+a wedge is a tool.,wedge,tool,29,-13.215009689331055,-2.2025016148885093,51295290,google_electra-large-generator
+a lumber is a tool.,lumber,tool,30,-17.874603271484375,-2.979100545247396,51295290,google_electra-large-generator
+blueprints are tools.,blueprints,tool,31,-9.487516403198242,-1.5812527338663738,51295290,google_electra-large-generator
+a brace is a tool.,brace,tool,32,-15.174383163452148,-2.529063860575358,51295290,google_electra-large-generator
+an awl is a tool.,awl,tool,33,-13.631689071655273,-1.9473841530936105,51295290,google_electra-large-generator
+a crowbar is a tool.,crowbar,tool,34,-9.8218994140625,-1.4031284877232142,51295290,google_electra-large-generator
+a hinge is a tool.,hinge,tool,35,-5.837802886962891,-0.8339718409946987,51295290,google_electra-large-generator
+a miter box is a tool.,miter box,tool,36,-18.958064079284668,-2.3697580099105835,51295290,google_electra-large-generator
+a knife is a tool.,knife,tool,37,-7.999851226806641,-1.3333085378011067,51295290,google_electra-large-generator
+a chalk is a tool.,chalk,tool,38,-16.467103958129883,-2.7445173263549805,51295290,google_electra-large-generator
+nuts are tools.,nuts,tool,39,-23.443944931030273,-5.860986232757568,51295290,google_electra-large-generator
+bolts are tools.,bolts,tool,40,-22.527711868286133,-5.631927967071533,51295290,google_electra-large-generator
+a plumb line is a tool.,plumb line,tool,41,-18.048458099365234,-2.2560572624206543,51295290,google_electra-large-generator
+a brush is a tool.,brush,tool,42,-10.017770767211914,-1.6696284612019856,51295290,google_electra-large-generator
+a sledge hammer is a tool.,sledge hammer,tool,43,-6.912138938903809,-0.8640173673629761,51295290,google_electra-large-generator
+a glue is a tool.,glue,tool,44,-14.517661094665527,-2.4196101824442544,51295290,google_electra-large-generator
+a paintbrush is a tool.,paintbrush,tool,45,-4.619658470153809,-0.6599512100219727,51295290,google_electra-large-generator
+a varnish is a tool.,varnish,tool,46,-8.852713584899902,-1.2646733692714147,51295290,google_electra-large-generator
+an apron is a tool.,apron,tool,47,-14.778609275817871,-2.463101545969645,51295290,google_electra-large-generator
+a stapler is a tool.,stapler,tool,48,-8.19301986694336,-1.170431409563337,51295290,google_electra-large-generator
+an extension cord is a tool.,extension cord,tool,49,-14.7936429977417,-2.113377571105957,51295290,google_electra-large-generator
+a soldering iron is a tool.,soldering iron,tool,50,-10.586563110351562,-1.3233203887939453,51295290,google_electra-large-generator
+a plaster is a tool.,plaster,tool,51,-18.13422203063965,-3.0223703384399414,51295290,google_electra-large-generator
+a wheelbarrow is a tool.,wheelbarrow,tool,52,-5.517498016357422,-0.6896872520446777,51295290,google_electra-large-generator
+an axe is a tool.,axe,tool,53,-8.230889320373535,-1.3718148867289226,51295290,google_electra-large-generator
+a slide rule is a tool.,slide rule,tool,54,-24.145811080932617,-3.4494015829903737,51295290,google_electra-large-generator
+a cement is a tool.,cement,tool,55,-16.067158699035645,-2.6778597831726074,51295290,google_electra-large-generator
+an anvil is a tool.,anvil,tool,56,-8.851678848266602,-1.2645255497523717,51295290,google_electra-large-generator
+a hatchet is a tool.,hatchet,tool,57,-8.824162483215332,-1.2605946404593331,51295290,google_electra-large-generator
+rags are tools.,rags,tool,58,-23.80998706817627,-5.952496767044067,51295290,google_electra-large-generator
+a scissors is a tool.,scissors,tool,59,-14.664806365966797,-2.4441343943277993,51295290,google_electra-large-generator
+a crane is a tool.,crane,tool,60,-14.88696002960205,-2.4811600049336753,51295290,google_electra-large-generator
+orange is a fruit.,orange,fruit,1,-13.614432334899902,-2.7228864669799804,51295290,google_electra-large-generator
+apple is a fruit.,apple,fruit,2,-16.20654582977295,-3.24130916595459,51295290,google_electra-large-generator
+banana is a fruit.,banana,fruit,3,-12.794939994812012,-2.5589879989624023,51295290,google_electra-large-generator
+peach is a fruit.,peach,fruit,4,-13.712442398071289,-2.742488479614258,51295290,google_electra-large-generator
+pear is a fruit.,pear,fruit,5,-12.477004528045654,-2.495400905609131,51295290,google_electra-large-generator
+apricot is a fruit.,apricot,fruit,6,-7.696773529052734,-1.099539075578962,51295290,google_electra-large-generator
+tangerine is a fruit.,tangerine,fruit,7,-7.347137451171875,-1.2245229085286458,51295290,google_electra-large-generator
+plum is a fruit.,plum,fruit,8,-16.224916458129883,-3.2449832916259767,51295290,google_electra-large-generator
+grapes are fruit.,grapes,fruit,9,-10.86366081237793,-2.7159152030944824,51295290,google_electra-large-generator
+nectarine is a fruit.,nectarine,fruit,10,-10.797904014587402,-1.7996506690979004,51295290,google_electra-large-generator
+strawberry is a fruit.,strawberry,fruit,11,-14.929620742797852,-2.9859241485595702,51295290,google_electra-large-generator
+grapefruit is a fruit.,grapefruit,fruit,12,-6.425397872924805,-0.9179139818464007,51295290,google_electra-large-generator
+berry is a fruit.,berry,fruit,13,-14.999238014221191,-2.9998476028442385,51295290,google_electra-large-generator
+cherry is a fruit.,cherry,fruit,14,-14.015098094940186,-2.803019618988037,51295290,google_electra-large-generator
+pineapple is a fruit.,pineapple,fruit,15,-6.140045166015625,-1.0233408610026042,51295290,google_electra-large-generator
+blackberry is a fruit.,blackberry,fruit,16,-19.47642707824707,-3.895285415649414,51295290,google_electra-large-generator
+melon is a fruit.,melon,fruit,17,-7.382615089416504,-1.230435848236084,51295290,google_electra-large-generator
+blueberry is a fruit.,blueberry,fruit,18,-8.494195938110352,-1.4156993230183919,51295290,google_electra-large-generator
+raspberry is a fruit.,raspberry,fruit,19,-7.387178421020508,-1.0553112030029297,51295290,google_electra-large-generator
+lemon is a fruit.,lemon,fruit,20,-12.506570816040039,-2.501314163208008,51295290,google_electra-large-generator
+black raspberry is a fruit.,black raspberry,fruit,21,-13.982706069946289,-1.7478382587432861,51295290,google_electra-large-generator
+boysenberry is a fruit.,boysenberry,fruit,22,-21.41238784790039,-3.058912549700056,51295290,google_electra-large-generator
+watermelon is a fruit.,watermelon,fruit,23,-6.718550682067871,-0.9597929545811245,51295290,google_electra-large-generator
+cantaloupe is a fruit.,cantaloupe,fruit,24,-7.804405212402344,-0.975550651550293,51295290,google_electra-large-generator
+lime is a fruit.,lime,fruit,25,-14.66524600982666,-2.933049201965332,51295290,google_electra-large-generator
+tangelo is a fruit.,tangelo,fruit,26,-25.712151527404785,-4.285358587900798,51295290,google_electra-large-generator
+papaya is a fruit.,papaya,fruit,27,-8.017690658569336,-1.3362817764282227,51295290,google_electra-large-generator
+honeydew is a fruit.,honeydew,fruit,28,-10.771397590637207,-1.538771084376744,51295290,google_electra-large-generator
+fig is a fruit.,fig,fruit,29,-25.246763229370117,-5.049352645874023,51295290,google_electra-large-generator
+mango is a fruit.,mango,fruit,30,-12.784083366394043,-2.5568166732788087,51295290,google_electra-large-generator
+guava is a fruit.,guava,fruit,31,-7.6969194412231445,-1.2828199068705242,51295290,google_electra-large-generator
+pomegranate is a fruit.,pomegranate,fruit,32,-5.641441345214844,-0.7051801681518555,51295290,google_electra-large-generator
+cranberry is a fruit.,cranberry,fruit,33,-7.432075500488281,-1.061725071498326,51295290,google_electra-large-generator
+passion fruit is a fruit.,passion fruit,fruit,34,-21.25683879852295,-3.5428064664204917,51295290,google_electra-large-generator
+prunes are fruit.,prunes,fruit,35,-8.296305656433105,-1.659261131286621,51295290,google_electra-large-generator
+gooseberry is a fruit.,gooseberry,fruit,36,-10.981929779052734,-1.8303216298421223,51295290,google_electra-large-generator
+date is a fruit.,date,fruit,37,-27.755096435546875,-5.551019287109375,51295290,google_electra-large-generator
+kumquat is a fruit.,kumquat,fruit,38,-22.15648078918457,-2.7695600986480713,51295290,google_electra-large-generator
+raisin is a fruit.,raisin,fruit,39,-7.6742401123046875,-1.279040018717448,51295290,google_electra-large-generator
+muskmelon is a fruit.,muskmelon,fruit,40,-18.018625259399414,-2.2523281574249268,51295290,google_electra-large-generator
+persimmon is a fruit.,persimmon,fruit,41,-8.415665626525879,-1.202237946646554,51295290,google_electra-large-generator
+pawpaw is a fruit.,pawpaw,fruit,42,-13.175732612609863,-1.8822475160871233,51295290,google_electra-large-generator
+coconut is a fruit.,coconut,fruit,43,-12.931375980377197,-2.5862751960754395,51295290,google_electra-large-generator
+avocado is a fruit.,avocado,fruit,44,-7.686022758483887,-1.0980032512119837,51295290,google_electra-large-generator
+pumpkin is a fruit.,pumpkin,fruit,45,-13.843372821807861,-2.7686745643615724,51295290,google_electra-large-generator
+tomato is a fruit.,tomato,fruit,46,-14.069627285003662,-2.8139254570007326,51295290,google_electra-large-generator
+nut is a fruit.,nut,fruit,47,-17.84303092956543,-3.5686061859130858,51295290,google_electra-large-generator
+gourd is a fruit.,gourd,fruit,48,-14.47849178314209,-2.0683559690202986,51295290,google_electra-large-generator
+olive is a fruit.,olive,fruit,49,-14.151699542999268,-2.8303399085998535,51295290,google_electra-large-generator
+pickle is a fruit.,pickle,fruit,50,-9.66968822479248,-1.61161470413208,51295290,google_electra-large-generator
+squash is a fruit.,squash,fruit,51,-15.584308624267578,-3.1168617248535155,51295290,google_electra-large-generator
+pants are clothes.,pants,clothing,1,-17.982995986938477,-4.495748996734619,51295290,google_electra-large-generator
+a shirt is a type of clothing.,shirt,clothing,2,-8.577986717224121,-1.0722483396530151,51295290,google_electra-large-generator
+dress are clothes.,dress,clothing,3,-25.45939302444458,-6.364848256111145,51295290,google_electra-large-generator
+a skirt is a type of clothing.,skirt,clothing,4,-10.319916725158691,-1.2899895906448364,51295290,google_electra-large-generator
+a blouse is a type of clothing.,blouse,clothing,5,-10.242341041564941,-1.2802926301956177,51295290,google_electra-large-generator
+a suit is a type of clothing.,suit,clothing,6,-10.573147773742676,-1.3216434717178345,51295290,google_electra-large-generator
+slacks are clothes.,slacks,clothing,7,-22.79014492034912,-5.69753623008728,51295290,google_electra-large-generator
+a jacket is a type of clothing.,jacket,clothing,8,-9.29308032989502,-1.1616350412368774,51295290,google_electra-large-generator
+a coat is a type of clothing.,coat,clothing,9,-11.147192001342773,-1.3933990001678467,51295290,google_electra-large-generator
+a sweater is a type of clothing.,sweater,clothing,10,-10.890799522399902,-1.3613499402999878,51295290,google_electra-large-generator
+a sweatshirt is a type of clothing.,sweatshirt,clothing,11,-10.813057899475098,-1.3516322374343872,51295290,google_electra-large-generator
+underpants are clothes.,underpants,clothing,12,-15.121665000915527,-3.0243330001831055,51295290,google_electra-large-generator
+a sports jacket is a type of clothing.,sports jacket,clothing,13,-10.394238471984863,-1.1549153857760959,51295290,google_electra-large-generator
+a jumper is a type of clothing.,jumper,clothing,14,-14.153471946716309,-1.7691839933395386,51295290,google_electra-large-generator
+panties are clothes.,panties,clothing,15,-20.819300651550293,-5.204825162887573,51295290,google_electra-large-generator
+socks are clothes.,socks,clothing,16,-17.619820594787598,-4.404955148696899,51295290,google_electra-large-generator
+a parka is a type of clothing.,parka,clothing,17,-15.6183443069458,-1.7353715896606445,51295290,google_electra-large-generator
+pajamas are clothes.,pajamas,clothing,18,-18.858834266662598,-4.714708566665649,51295290,google_electra-large-generator
+an undershirt is a type of clothing.,undershirt,clothing,19,-9.073967933654785,-0.9073967933654785,51295290,google_electra-large-generator
+an overcoat is a type of clothing.,overcoat,clothing,20,-6.662302017211914,-0.7402557796902127,51295290,google_electra-large-generator
+a nightgown is a type of clothing.,nightgown,clothing,21,-5.993447303771973,-0.5993447303771973,51295290,google_electra-large-generator
+a raincoat is a type of clothing.,raincoat,clothing,22,-6.719327926635742,-0.7465919918484158,51295290,google_electra-large-generator
+a bathing suit is a type of clothing.,bathing suit,clothing,23,-5.733983993530273,-0.6371093326144748,51295290,google_electra-large-generator
+a bathrobe is a type of clothing.,bathrobe,clothing,24,-9.177894592285156,-0.9177894592285156,51295290,google_electra-large-generator
+a slip is a type of clothing.,slip,clothing,25,-19.576170921325684,-2.4470213651657104,51295290,google_electra-large-generator
+a bra is a type of clothing.,bra,clothing,26,-11.386244773864746,-1.4232805967330933,51295290,google_electra-large-generator
+shoes are clothes.,shoes,clothing,27,-16.106919288635254,-4.0267298221588135,51295290,google_electra-large-generator
+a tuxedo is a type of clothing.,tuxedo,clothing,28,-7.0475053787231445,-0.7047505378723145,51295290,google_electra-large-generator
+stockings are clothes.,stockings,clothing,29,-21.338125228881836,-5.334531307220459,51295290,google_electra-large-generator
+a vest is a type of clothing.,vest,clothing,30,-11.259686470031738,-1.4074608087539673,51295290,google_electra-large-generator
+nylons are clothes.,nylons,clothing,31,-23.42952251434326,-4.685904502868652,51295290,google_electra-large-generator
+a cape is a type of clothing.,cape,clothing,32,-16.726143836975098,-2.090767979621887,51295290,google_electra-large-generator
+boots are clothes.,boots,clothing,33,-19.663700103759766,-4.915925025939941,51295290,google_electra-large-generator
+sandals are clothes.,sandals,clothing,34,-20.769972801208496,-5.192493200302124,51295290,google_electra-large-generator
+a tie is a type of clothing.,tie,clothing,35,-13.571989059448242,-1.6964986324310303,51295290,google_electra-large-generator
+a girdle is a type of clothing.,girdle,clothing,36,-11.748688697814941,-1.1748688697814942,51295290,google_electra-large-generator
+a belt is a type of clothing.,belt,clothing,37,-15.06689167022705,-1.8833614587783813,51295290,google_electra-large-generator
+a scarf is a type of clothing.,scarf,clothing,38,-12.743407249450684,-1.5929259061813354,51295290,google_electra-large-generator
+mittens are clothes.,mittens,clothing,39,-12.752936363220215,-2.550587272644043,51295290,google_electra-large-generator
+slippers are clothes.,slippers,clothing,40,-14.890562057495117,-2.9781124114990236,51295290,google_electra-large-generator
+a hat is a type of clothing.,hat,clothing,41,-11.437638282775879,-1.4297047853469849,51295290,google_electra-large-generator
+overshoes are clothes.,overshoes,clothing,42,-26.52979850769043,-4.421633084615071,51295290,google_electra-large-generator
+gloves are clothes.,gloves,clothing,43,-24.35727310180664,-6.08931827545166,51295290,google_electra-large-generator
+an apron is a type of clothing.,apron,clothing,44,-9.799417495727539,-1.2249271869659424,51295290,google_electra-large-generator
+earmuffs are clothes.,earmuffs,clothing,45,-18.48261070251465,-3.080435117085775,51295290,google_electra-large-generator
+a handkerchief is a type of clothing.,handkerchief,clothing,46,-17.63309383392334,-2.2041367292404175,51295290,google_electra-large-generator
+a purse is a type of clothing.,purse,clothing,47,-14.872485160827637,-1.8590606451034546,51295290,google_electra-large-generator
+a hairband is a type of clothing.,hairband,clothing,48,-17.66322612762451,-1.962580680847168,51295290,google_electra-large-generator
+a ring is a type of clothing.,ring,clothing,49,-20.02190113067627,-2.5027376413345337,51295290,google_electra-large-generator
+earrings are clothes.,earrings,clothing,50,-34.65827751159668,-8.66456937789917,51295290,google_electra-large-generator
+a watch is a type of clothing.,watch,clothing,51,-15.381174087524414,-1.9226467609405518,51295290,google_electra-large-generator
+cuff links are clothes.,cuff links,clothing,52,-25.806818962097168,-5.161363792419434,51295290,google_electra-large-generator
+a necklace is a type of clothing.,necklace,clothing,53,-16.139719009399414,-2.0174648761749268,51295290,google_electra-large-generator
+a bracelet is a type of clothing.,bracelet,clothing,54,-23.6018123626709,-2.9502265453338623,51295290,google_electra-large-generator
+a cane is a type of clothing.,cane,clothing,55,-21.213269233703613,-2.6516586542129517,51295290,google_electra-large-generator
+an automobile is a vehicle.,automobile,vehicle,1,-4.2430620193481445,-0.7071770032246908,51295290,google_electra-large-generator
+a station wagon is a vehicle.,station wagon,vehicle,2,-5.6687164306640625,-0.8098166329520089,51295290,google_electra-large-generator
+a truck is a vehicle.,truck,vehicle,3,-8.011007308959961,-1.3351678848266602,51295290,google_electra-large-generator
+a car is a vehicle.,car,vehicle,4,-5.2232866287231445,-0.8705477714538574,51295290,google_electra-large-generator
+bus are vehicles.,bus,vehicle,5,-26.8035249710083,-6.700881242752075,51295290,google_electra-large-generator
+a taxi is a vehicle.,taxi,vehicle,6,-13.058670997619629,-2.176445166269938,51295290,google_electra-large-generator
+a jeep is a vehicle.,jeep,vehicle,7,-11.589224815368652,-1.9315374692281086,51295290,google_electra-large-generator
+an ambulance is a vehicle.,ambulance,vehicle,8,-13.974933624267578,-2.329155604044596,51295290,google_electra-large-generator
+a motorcycle is a vehicle.,motorcycle,vehicle,9,-9.035408020019531,-1.5059013366699219,51295290,google_electra-large-generator
+a streetcar is a vehicle.,streetcar,vehicle,10,-12.095909118652344,-2.015984853108724,51295290,google_electra-large-generator
+a van is a vehicle.,van,vehicle,11,-11.153817176818848,-1.8589695294698079,51295290,google_electra-large-generator
+a Honda is a vehicle.,Honda,vehicle,12,-16.94367504119873,-2.8239458401997886,51295290,google_electra-large-generator
+a cable car is a vehicle.,cable car,vehicle,13,-15.685935974121094,-2.2408479963030135,51295290,google_electra-large-generator
+a train is a vehicle.,train,vehicle,14,-11.409300804138184,-1.9015501340230305,51295290,google_electra-large-generator
+a trolley is a vehicle.,trolley,vehicle,15,-13.815406799316406,-2.302567799886068,51295290,google_electra-large-generator
+a bicycle is a vehicle.,bicycle,vehicle,16,-8.57341194152832,-1.42890199025472,51295290,google_electra-large-generator
+a carriage is a vehicle.,carriage,vehicle,17,-11.272976875305176,-1.8788294792175293,51295290,google_electra-large-generator
+an airplane is a vehicle.,airplane,vehicle,18,-7.6128997802734375,-1.268816630045573,51295290,google_electra-large-generator
+a bike is a vehicle.,bike,vehicle,19,-10.165653228759766,-1.6942755381266277,51295290,google_electra-large-generator
+a boat is a vehicle.,boat,vehicle,20,-10.442136764526367,-1.7403561274210613,51295290,google_electra-large-generator
+a jet is a vehicle.,jet,vehicle,21,-12.862041473388672,-2.143673578898112,51295290,google_electra-large-generator
+a ship is a vehicle.,ship,vehicle,22,-12.182034492492676,-2.030339082082113,51295290,google_electra-large-generator
+a scooter is a vehicle.,scooter,vehicle,23,-5.969944000244141,-0.7462430000305176,51295290,google_electra-large-generator
+a tractor is a vehicle.,tractor,vehicle,24,-11.804189682006836,-1.9673649470011394,51295290,google_electra-large-generator
+a wagon is a vehicle.,wagon,vehicle,25,-12.351480484008789,-2.0585800806681314,51295290,google_electra-large-generator
+a subway is a vehicle.,subway,vehicle,26,-17.037911415100098,-2.839651902516683,51295290,google_electra-large-generator
+a trailer is a vehicle.,trailer,vehicle,27,-13.223610877990723,-2.203935146331787,51295290,google_electra-large-generator
+a cart is a vehicle.,cart,vehicle,28,-12.274927139282227,-2.045821189880371,51295290,google_electra-large-generator
+a wheelchair is a vehicle.,wheelchair,vehicle,29,-12.228320121765137,-2.038053353627523,51295290,google_electra-large-generator
+a yacht is a vehicle.,yacht,vehicle,30,-13.350318908691406,-2.225053151448568,51295290,google_electra-large-generator
+a tank is a vehicle.,tank,vehicle,31,-13.983512878417969,-2.330585479736328,51295290,google_electra-large-generator
+a go-cart is a vehicle.,go-cart,vehicle,32,-18.53082847595215,-2.3163535594940186,51295290,google_electra-large-generator
+a rowboat is a vehicle.,rowboat,vehicle,33,-11.924989700317383,-1.7035699571881975,51295290,google_electra-large-generator
+a dogsled is a vehicle.,dogsled,vehicle,34,-32.31723880767822,-4.616748401096889,51295290,google_electra-large-generator
+a tricycle is a vehicle.,tricycle,vehicle,35,-4.661174774169922,-0.6658821105957031,51295290,google_electra-large-generator
+a canoe is a vehicle.,canoe,vehicle,36,-12.880072593688965,-2.1466787656148276,51295290,google_electra-large-generator
+a raft is a vehicle.,raft,vehicle,37,-17.622608184814453,-2.937101364135742,51295290,google_electra-large-generator
+a submarine is a vehicle.,submarine,vehicle,38,-15.904955863952637,-2.6508259773254395,51295290,google_electra-large-generator
+a sled is a vehicle.,sled,vehicle,39,-8.793598175048828,-1.256228310721261,51295290,google_electra-large-generator
+a horse is a vehicle.,horse,vehicle,40,-13.05799674987793,-2.1763327916463218,51295290,google_electra-large-generator
+a rocket is a vehicle.,rocket,vehicle,41,-14.898841857910156,-2.483140309651693,51295290,google_electra-large-generator
+a blimp is a vehicle.,blimp,vehicle,42,-12.499147415161133,-1.5623934268951416,51295290,google_electra-large-generator
+skates are vehicles.,skates,vehicle,43,-22.299100875854492,-4.459820175170899,51295290,google_electra-large-generator
+a camel is a vehicle.,camel,vehicle,44,-13.716590881347656,-2.2860984802246094,51295290,google_electra-large-generator
+feet are vehicles.,feet,vehicle,45,-22.344063758850098,-5.586015939712524,51295290,google_electra-large-generator
+skis are vehicles.,skis,vehicle,46,-18.629079818725586,-3.7258159637451174,51295290,google_electra-large-generator
+a skateboard is a vehicle.,skateboard,vehicle,47,-9.672775268554688,-1.3818250383649553,51295290,google_electra-large-generator
+a wheelbarrow is a vehicle.,wheelbarrow,vehicle,48,-6.525835990905762,-0.8157294988632202,51295290,google_electra-large-generator
+a surfboard is a vehicle.,surfboard,vehicle,49,-11.469974517822266,-1.6385677882603236,51295290,google_electra-large-generator
+an elevator is a vehicle.,elevator,vehicle,50,-11.123679161071777,-1.8539465268452961,51295290,google_electra-large-generator
+a chair is a type of furniture.,chair,furniture,1,-12.371109008789062,-1.5463886260986328,51295290,google_electra-large-generator
+a sofa is a type of furniture.,sofa,furniture,2,-9.95205307006836,-1.244006633758545,51295290,google_electra-large-generator
+a couch is a type of furniture.,couch,furniture,3,-13.334291458129883,-1.6667864322662354,51295290,google_electra-large-generator
+a table is a type of furniture.,table,furniture,4,-15.249785423278809,-1.906223177909851,51295290,google_electra-large-generator
+an easy chair is a type of furniture.,easy chair,furniture,5,-24.47100830078125,-2.7190009223090277,51295290,google_electra-large-generator
+a dresser is a type of furniture.,dresser,furniture,6,-12.849844932556152,-1.606230616569519,51295290,google_electra-large-generator
+a rocking chair is a type of furniture.,rocking chair,furniture,7,-12.843066215515137,-1.4270073572794597,51295290,google_electra-large-generator
+a coffee table is a type of furniture.,coffee table,furniture,8,-10.843393325805664,-1.2048214806450739,51295290,google_electra-large-generator
+a rocker is a type of furniture.,rocker,furniture,9,-18.83319664001465,-2.354149580001831,51295290,google_electra-large-generator
+a love seat is a type of furniture.,love seat,furniture,10,-23.82186985015869,-2.64687442779541,51295290,google_electra-large-generator
+chest of drawers are furniture.,chest of drawers,furniture,11,-16.86977481842041,-2.811629136403402,51295290,google_electra-large-generator
+a desk is a type of furniture.,desk,furniture,12,-13.834181785583496,-1.729272723197937,51295290,google_electra-large-generator
+a bed is a type of furniture.,bed,furniture,13,-13.294878005981445,-1.6618597507476807,51295290,google_electra-large-generator
+a bureau is a type of furniture.,bureau,furniture,14,-28.777427673339844,-3.5971784591674805,51295290,google_electra-large-generator
+a davenport is a type of furniture.,davenport,furniture,15,-32.080650329589844,-4.0100812911987305,51295290,google_electra-large-generator
+an end table is a type of furniture.,end table,furniture,16,-22.555603981018066,-2.5061782201131186,51295290,google_electra-large-generator
+a divan is a type of furniture.,divan,furniture,17,-16.485342979431152,-1.8317047754923503,51295290,google_electra-large-generator
+a night table is a type of furniture.,night table,furniture,18,-19.427390098571777,-2.1585988998413086,51295290,google_electra-large-generator
+a chest is a type of furniture.,chest,furniture,19,-25.706154823303223,-3.213269352912903,51295290,google_electra-large-generator
+a cedar chest is a type of furniture.,cedar chest,furniture,20,-21.80242347717285,-2.4224914974636502,51295290,google_electra-large-generator
+a vanity is a type of furniture.,vanity,furniture,21,-18.65431022644043,-2.3317887783050537,51295290,google_electra-large-generator
+a bookcase is a type of furniture.,bookcase,furniture,22,-9.370049476623535,-1.0411166085137262,51295290,google_electra-large-generator
+a lounge is a type of furniture.,lounge,furniture,23,-17.538726806640625,-2.192340850830078,51295290,google_electra-large-generator
+a chaise lounge is a type of furniture.,chaise lounge,furniture,24,-14.983240127563477,-1.4983240127563477,51295290,google_electra-large-generator
+an ottoman is a type of furniture.,ottoman,furniture,25,-13.593560218811035,-1.6991950273513794,51295290,google_electra-large-generator
+a footstool is a type of furniture.,footstool,furniture,26,-16.38014316558838,-1.638014316558838,51295290,google_electra-large-generator
+a cabinet is a type of furniture.,cabinet,furniture,27,-14.09837532043457,-1.7622969150543213,51295290,google_electra-large-generator
+a china closet is a type of furniture.,china closet,furniture,28,-25.69126605987549,-2.854585117763943,51295290,google_electra-large-generator
+a bench is a type of furniture.,bench,furniture,29,-18.546195030212402,-2.3182743787765503,51295290,google_electra-large-generator
+a buffet is a type of furniture.,buffet,furniture,30,-24.355369567871094,-3.0444211959838867,51295290,google_electra-large-generator
+a lamp is a type of furniture.,lamp,furniture,31,-19.74069309234619,-2.467586636543274,51295290,google_electra-large-generator
+a stool is a type of furniture.,stool,furniture,32,-18.97569751739502,-2.3719621896743774,51295290,google_electra-large-generator
+a hassock is a type of furniture.,hassock,furniture,33,-36.06432771682739,-3.6064327716827393,51295290,google_electra-large-generator
+drawers are furniture.,drawers,furniture,34,-18.40240478515625,-4.6006011962890625,51295290,google_electra-large-generator
+a piano is a type of furniture.,piano,furniture,35,-19.03903293609619,-2.379879117012024,51295290,google_electra-large-generator
+a cushion is a type of furniture.,cushion,furniture,36,-18.044178009033203,-2.2555222511291504,51295290,google_electra-large-generator
+a magazine rack is a type of furniture.,magazine rack,furniture,37,-24.705745697021484,-2.7450828552246094,51295290,google_electra-large-generator
+a hi-fi is a type of furniture.,hi-fi,furniture,38,-23.137639045715332,-2.313763904571533,51295290,google_electra-large-generator
+a cupboard is a type of furniture.,cupboard,furniture,39,-17.307353973388672,-2.163419246673584,51295290,google_electra-large-generator
+a stereo is a type of furniture.,stereo,furniture,40,-21.184300422668457,-2.648037552833557,51295290,google_electra-large-generator
+a mirror is a type of furniture.,mirror,furniture,41,-18.342951774597168,-2.292868971824646,51295290,google_electra-large-generator
+a television is a type of furniture.,television,furniture,42,-20.135635375976562,-2.5169544219970703,51295290,google_electra-large-generator
+a bar is a type of furniture.,bar,furniture,43,-21.38361167907715,-2.6729514598846436,51295290,google_electra-large-generator
+a shelf is a type of furniture.,shelf,furniture,44,-17.006746292114258,-2.1258432865142822,51295290,google_electra-large-generator
+a rug is a type of furniture.,rug,furniture,45,-15.685420036315918,-1.9606775045394897,51295290,google_electra-large-generator
+a pillow is a type of furniture.,pillow,furniture,46,-18.53211784362793,-2.316514730453491,51295290,google_electra-large-generator
+a wastebasket is a type of furniture.,wastebasket,furniture,47,-13.604697227478027,-1.5116330252753363,51295290,google_electra-large-generator
+a radio is a type of furniture.,radio,furniture,48,-24.620492935180664,-3.077561616897583,51295290,google_electra-large-generator
+a sewing machine is a type of furniture.,sewing machine,furniture,49,-14.386650085449219,-1.5985166761610243,51295290,google_electra-large-generator
+a stove is a type of furniture.,stove,furniture,50,-18.98833656311035,-2.373542070388794,51295290,google_electra-large-generator
+a counter is a type of furniture.,counter,furniture,51,-23.495718002319336,-2.936964750289917,51295290,google_electra-large-generator
+a clock is a type of furniture.,clock,furniture,52,-22.45933723449707,-2.807417154312134,51295290,google_electra-large-generator
+drapes are furniture.,drapes,furniture,53,-14.83249282836914,-2.9664985656738283,51295290,google_electra-large-generator
+a refrigerator is a type of furniture.,refrigerator,furniture,54,-15.268338203430176,-1.908542275428772,51295290,google_electra-large-generator
+a picture is a type of furniture.,picture,furniture,55,-28.6779727935791,-3.5847465991973877,51295290,google_electra-large-generator
+a closet is a type of furniture.,closet,furniture,56,-16.85365104675293,-2.106706380844116,51295290,google_electra-large-generator
+a vase is a type of furniture.,vase,furniture,57,-17.219247817993164,-2.1524059772491455,51295290,google_electra-large-generator
+an ashtray is a type of furniture.,ashtray,furniture,58,-11.36792278289795,-1.2631025314331055,51295290,google_electra-large-generator
+a fan is a type of furniture.,fan,furniture,59,-19.096957206726074,-2.3871196508407593,51295290,google_electra-large-generator
+a telephone is a type of furniture.,telephone,furniture,60,-23.098602294921875,-2.8873252868652344,51295290,google_electra-large-generator
+a gun is a weapon.,gun,weapon,1,-3.3676700592041016,-0.5612783432006836,51295290,google_electra-large-generator
+a pistol is a weapon.,pistol,weapon,2,-6.568920135498047,-1.0948200225830078,51295290,google_electra-large-generator
+a revolver is a weapon.,revolver,weapon,3,-7.945492744445801,-1.3242487907409668,51295290,google_electra-large-generator
+a machine gun is a weapon.,machine gun,weapon,4,-3.583676338195801,-0.5119537625994001,51295290,google_electra-large-generator
+a rifle is a weapon.,rifle,weapon,5,-6.356814384460449,-1.0594690640767415,51295290,google_electra-large-generator
+a switchblade is a weapon.,switchblade,weapon,6,-9.438053131103516,-1.1797566413879395,51295290,google_electra-large-generator
+a knife is a weapon.,knife,weapon,7,-6.581612586975098,-1.0969354311625164,51295290,google_electra-large-generator
+a dagger is a weapon.,dagger,weapon,8,-8.440705299377441,-1.406784216562907,51295290,google_electra-large-generator
+a shotgun is a weapon.,shotgun,weapon,9,-7.989776611328125,-1.3316294352213542,51295290,google_electra-large-generator
+a sword is a weapon.,sword,weapon,10,-5.556958198547363,-0.9261596997578939,51295290,google_electra-large-generator
+a bomb is a weapon.,bomb,weapon,11,-6.862502098083496,-1.1437503496805828,51295290,google_electra-large-generator
+a hand grenade is a weapon.,hand grenade,weapon,12,-5.428894996643066,-0.7755564280918666,51295290,google_electra-large-generator
+an A-bomb is a weapon.,A-bomb,weapon,13,-10.69223403930664,-1.33652925491333,51295290,google_electra-large-generator
+a bayonet is a weapon.,bayonet,weapon,14,-5.171789169311523,-0.6464736461639404,51295290,google_electra-large-generator
+a spear is a weapon.,spear,weapon,15,-9.214823722839355,-1.5358039538065593,51295290,google_electra-large-generator
+a bazooka is a weapon.,bazooka,weapon,16,-4.953337669372559,-0.6191672086715698,51295290,google_electra-large-generator
+a cannon is a weapon.,cannon,weapon,17,-8.410221099853516,-1.4017035166422527,51295290,google_electra-large-generator
+a bow and arrow is a weapon.,bow and arrow,weapon,18,-3.874204635620117,-0.48427557945251465,51295290,google_electra-large-generator
+a club is a weapon.,club,weapon,19,-16.918031692504883,-2.819671948750814,51295290,google_electra-large-generator
+a lance is a weapon.,lance,weapon,20,-13.749722480773926,-2.291620413462321,51295290,google_electra-large-generator
+brass knuckles are weapons.,brass knuckles,weapon,21,-18.115090370178223,-3.6230180740356444,51295290,google_electra-large-generator
+a bullet is a weapon.,bullet,weapon,22,-8.645071029663086,-1.4408451716105144,51295290,google_electra-large-generator
+a tomahawk is a weapon.,tomahawk,weapon,23,-5.127810478210449,-0.6409763097763062,51295290,google_electra-large-generator
+a mortar is a weapon.,mortar,weapon,24,-12.294510841369629,-2.0490851402282715,51295290,google_electra-large-generator
+an arrow is a weapon.,arrow,weapon,25,-8.936613082885742,-1.4894355138142903,51295290,google_electra-large-generator
+a blackjack is a weapon.,blackjack,weapon,26,-12.568926811218262,-1.7955609730311803,51295290,google_electra-large-generator
+a tank is a weapon.,tank,weapon,27,-13.54003620147705,-2.2566727002461753,51295290,google_electra-large-generator
+teargas are weapons.,teargas,weapon,28,-14.008941650390625,-2.801788330078125,51295290,google_electra-large-generator
+a missile is a weapon.,missile,weapon,29,-7.889163017272949,-1.314860502878825,51295290,google_electra-large-generator
+a whip is a weapon.,whip,weapon,30,-10.771255493164062,-1.795209248860677,51295290,google_electra-large-generator
+an ice pick is a weapon.,ice pick,weapon,31,-16.967902183532715,-2.423986026218959,51295290,google_electra-large-generator
+a hatchet is a weapon.,hatchet,weapon,32,-6.950984001159668,-0.9929977144513812,51295290,google_electra-large-generator
+a slingshot is a weapon.,slingshot,weapon,33,-4.134026527404785,-0.5905752182006836,51295290,google_electra-large-generator
+a fist is a weapon.,fist,weapon,34,-11.682700157165527,-1.9471166928609211,51295290,google_electra-large-generator
+an axe is a weapon.,axe,weapon,35,-5.003444671630859,-0.8339074452718099,51295290,google_electra-large-generator
+a bow is a weapon.,bow,weapon,36,-11.807719230651855,-1.9679532051086426,51295290,google_electra-large-generator
+a razor is a weapon.,razor,weapon,37,-11.485888481140137,-1.9143147468566895,51295290,google_electra-large-generator
+a razor blade is a weapon.,razor blade,weapon,38,-6.017251968383789,-0.859607424054827,51295290,google_electra-large-generator
+a rocket is a weapon.,rocket,weapon,39,-11.299163818359375,-1.8831939697265625,51295290,google_electra-large-generator
+a judo is a weapon.,judo,weapon,40,-23.2875337600708,-3.881255626678467,51295290,google_electra-large-generator
+a stick is a weapon.,stick,weapon,41,-11.942790985107422,-1.9904651641845703,51295290,google_electra-large-generator
+a poison is a weapon.,poison,weapon,42,-13.909229278564453,-2.318204879760742,51295290,google_electra-large-generator
+a rock is a weapon.,rock,weapon,43,-14.361078262329102,-2.393513043721517,51295290,google_electra-large-generator
+a stone is a weapon.,stone,weapon,44,-12.994168281555176,-2.1656947135925293,51295290,google_electra-large-generator
+gas are weapons.,gas,weapon,45,-25.03243064880371,-6.258107662200928,51295290,google_electra-large-generator
+a chain is a weapon.,chain,weapon,46,-15.3836030960083,-2.563933849334717,51295290,google_electra-large-generator
+a scissors is a weapon.,scissors,weapon,47,-17.383222579956055,-2.8972037633260093,51295290,google_electra-large-generator
+bricks are weapons.,bricks,weapon,48,-19.625946044921875,-4.906486511230469,51295290,google_electra-large-generator
+a pitchfork is a weapon.,pitchfork,weapon,49,-13.480756759643555,-2.246792793273926,51295290,google_electra-large-generator
+a hammer is a weapon.,hammer,weapon,50,-8.25290584564209,-1.375484307607015,51295290,google_electra-large-generator
+a word is a weapon.,word,weapon,51,-15.921915054321289,-2.6536525090535483,51295290,google_electra-large-generator
+a hand is a weapon.,hand,weapon,52,-13.738455772399902,-2.289742628733317,51295290,google_electra-large-generator
+a pipe is a weapon.,pipe,weapon,53,-15.943408966064453,-2.6572348276774087,51295290,google_electra-large-generator
+a rope is a weapon.,rope,weapon,54,-13.88534164428711,-2.314223607381185,51295290,google_electra-large-generator
+an airplane is a weapon.,airplane,weapon,55,-11.002067565917969,-1.8336779276529949,51295290,google_electra-large-generator
+a foot is a weapon.,foot,weapon,56,-15.677168846130371,-2.612861474355062,51295290,google_electra-large-generator
+a car is a weapon.,car,weapon,57,-11.681886672973633,-1.9469811121622722,51295290,google_electra-large-generator
+a screwdriver is a weapon.,screwdriver,weapon,58,-5.7301483154296875,-0.7162685394287109,51295290,google_electra-large-generator
+glass are weapons.,glass,weapon,59,-24.957763671875,-6.23944091796875,51295290,google_electra-large-generator
+a shoe is a weapon.,shoe,weapon,60,-13.773175239562988,-2.2955292065938315,51295290,google_electra-large-generator

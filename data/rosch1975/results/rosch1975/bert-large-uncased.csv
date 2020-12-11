@@ -1,0 +1,567 @@
+stimulus,item,category,rank,logprob,normalized_logprob,params,model
+a doll is a toy.,doll,toy,1,-9.054641723632812,-1.509106953938802,336224058,bert-large-uncased
+a top is a toy.,top,toy,2,-27.348180770874023,-4.558030128479004,336224058,bert-large-uncased
+a jack-in-the-box is a toy.,jack-in-the-box,toy,3,-6.656542778015137,-0.5547118981679281,336224058,bert-large-uncased
+a toy soldier is a toy.,toy soldier,toy,4,-5.724965572357178,-0.817852224622454,336224058,bert-large-uncased
+a yo-yo is a toy.,yo-yo,toy,5,-3.6265344619750977,-0.4533168077468872,336224058,bert-large-uncased
+a block is a toy.,block,toy,6,-22.18512535095215,-3.697520891825358,336224058,bert-large-uncased
+marbles are toys.,marbles,toy,7,-21.13643217086792,-4.227286434173584,336224058,bert-large-uncased
+a rattle is a toy.,rattle,toy,8,-23.93253517150879,-3.9887558619181314,336224058,bert-large-uncased
+a stuffed animal is a toy.,stuffed animal,toy,9,-10.813310623168945,-1.5447586604527064,336224058,bert-large-uncased
+a water pistol is a toy.,water pistol,toy,10,-23.316086769104004,-3.3308695384434293,336224058,bert-large-uncased
+a teddy bear is a toy.,teddy bear,toy,11,-4.487740516662598,-0.6411057880946568,336224058,bert-large-uncased
+a rocking horse is a toy.,rocking horse,toy,12,-17.146310806274414,-2.4494729723249162,336224058,bert-large-uncased
+a doll house is a toy.,doll house,toy,13,-10.610307216644287,-1.5157581738063268,336224058,bert-large-uncased
+a ball is a toy.,ball,toy,14,-14.378221035003662,-2.3963701725006104,336224058,bert-large-uncased
+jacks are toys.,jacks,toy,15,-20.264720916748047,-4.052944183349609,336224058,bert-large-uncased
+paper dolls are toys.,paper dolls,toy,16,-22.555704593658447,-4.511140918731689,336224058,bert-large-uncased
+an erector set is a toy.,erector set,toy,17,-16.408098697662354,-2.051012337207794,336224058,bert-large-uncased
+a hula hoop is a toy.,hula hoop,toy,18,-7.730764389038086,-0.9663455486297607,336224058,bert-large-uncased
+a jump rope is a toy.,jump rope,toy,19,-20.30417490005493,-2.900596414293562,336224058,bert-large-uncased
+a pogo stick is a toy.,pogo stick,toy,20,-3.453740119934082,-0.43171751499176025,336224058,bert-large-uncased
+a clay is a toy.,clay,toy,21,-26.835418224334717,-4.472569704055786,336224058,bert-large-uncased
+a wagon is a toy.,wagon,toy,22,-21.532291889190674,-3.5887153148651123,336224058,bert-large-uncased
+a kite is a toy.,kite,toy,23,-13.706736087799072,-2.2844560146331787,336224058,bert-large-uncased
+a train is a toy.,train,toy,24,-17.864659309387207,-2.977443218231201,336224058,bert-large-uncased
+a tricycle is a toy.,tricycle,toy,25,-11.348668098449707,-1.6212382997785295,336224058,bert-large-uncased
+a coloring book is a toy.,coloring book,toy,26,-18.245609760284424,-2.606515680040632,336224058,bert-large-uncased
+crayons are toys.,crayons,toy,27,-15.685958862304688,-2.6143264770507812,336224058,bert-large-uncased
+a truck is a toy.,truck,toy,28,-18.462154865264893,-3.077025810877482,336224058,bert-large-uncased
+a puzzle is a toy.,puzzle,toy,29,-19.67143678665161,-3.2785727977752686,336224058,bert-large-uncased
+a fire engine is a toy.,fire engine,toy,30,-19.496524810791016,-2.785217830113002,336224058,bert-large-uncased
+a balloon is a toy.,balloon,toy,31,-15.731967449188232,-2.6219945748647056,336224058,bert-large-uncased
+skates are toys.,skates,toy,32,-28.894547939300537,-5.778909587860108,336224058,bert-large-uncased
+a baseball is a toy.,baseball,toy,33,-18.934279441833496,-3.1557132403055825,336224058,bert-large-uncased
+a drum is a toy.,drum,toy,34,-16.055774688720703,-2.675962448120117,336224058,bert-large-uncased
+a football is a toy.,football,toy,35,-16.159011363983154,-2.693168560663859,336224058,bert-large-uncased
+a game is a toy.,game,toy,36,-23.106894969940186,-3.8511491616566977,336224058,bert-large-uncased
+a swing is a toy.,swing,toy,37,-23.475128173828125,-3.9125213623046875,336224058,bert-large-uncased
+a boat is a toy.,boat,toy,38,-20.606918334960938,-3.4344863891601562,336224058,bert-large-uncased
+a monopoly is a toy.,monopoly,toy,39,-27.302852630615234,-4.550475438435872,336224058,bert-large-uncased
+a sled is a toy.,sled,toy,40,-11.408114433288574,-1.6297306333269392,336224058,bert-large-uncased
+a seesaw is a toy.,seesaw,toy,41,-14.27902889251709,-2.039861270359584,336224058,bert-large-uncased
+stilts are toys.,stilts,toy,42,-19.327176094055176,-3.8654352188110352,336224058,bert-large-uncased
+checkers are toys.,checkers,toy,43,-22.72045612335205,-4.54409122467041,336224058,bert-large-uncased
+a bat is a toy.,bat,toy,44,-17.301799297332764,-2.8836332162221274,336224058,bert-large-uncased
+a car is a toy.,car,toy,45,-14.713945865631104,-2.452324310938517,336224058,bert-large-uncased
+an airplane is a toy.,airplane,toy,46,-10.509315013885498,-1.7515525023142497,336224058,bert-large-uncased
+a bicycle is a toy.,bicycle,toy,47,-15.28096342086792,-2.54682723681132,336224058,bert-large-uncased
+a tractor is a toy.,tractor,toy,48,-17.016387462615967,-2.836064577102661,336224058,bert-large-uncased
+a sandbox is a toy.,sandbox,toy,49,-10.271388053894043,-1.4673411505562919,336224058,bert-large-uncased
+a bike is a toy.,bike,toy,50,-14.456195831298828,-2.409365971883138,336224058,bert-large-uncased
+a bow and arrow is a toy.,bow and arrow,toy,51,-9.756080627441406,-1.2195100784301758,336224058,bert-large-uncased
+a rope is a toy.,rope,toy,52,-23.019025325775146,-3.8365042209625244,336224058,bert-large-uncased
+dishes are toys.,dishes,toy,53,-32.595720291137695,-8.148930072784424,336224058,bert-large-uncased
+cards are toys.,cards,toy,54,-28.32630729675293,-7.081576824188232,336224058,bert-large-uncased
+a mitt is a toy.,mitt,toy,55,-11.717859745025635,-1.6739799635750907,336224058,bert-large-uncased
+a horse is a toy.,horse,toy,56,-14.665766716003418,-2.4442944526672363,336224058,bert-large-uncased
+a gun is a toy.,gun,toy,57,-15.456570148468018,-2.5760950247446694,336224058,bert-large-uncased
+animals are toys.,animals,toy,58,-17.946982860565186,-4.486745715141296,336224058,bert-large-uncased
+a tennis racket is a toy.,tennis racket,toy,59,-6.275295257568359,-0.7844119071960449,336224058,bert-large-uncased
+books are toys.,books,toy,60,-23.796961307525635,-5.949240326881409,336224058,bert-large-uncased
+a robin is a bird.,robin,bird,1,-6.371650695800781,-1.0619417826334636,336224058,bert-large-uncased
+a sparrow is a bird.,sparrow,bird,2,-6.934525489807129,-1.1557542483011882,336224058,bert-large-uncased
+a bluejay is a bird.,bluejay,bird,3,-6.818068504333496,-0.852258563041687,336224058,bert-large-uncased
+a bluebird is a bird.,bluebird,bird,4,-6.120169639587402,-0.874309948512486,336224058,bert-large-uncased
+a canary is a bird.,canary,bird,5,-7.768860816955566,-1.294810136159261,336224058,bert-large-uncased
+a blackbird is a bird.,blackbird,bird,6,-4.741276741027832,-0.6773252487182617,336224058,bert-large-uncased
+a dove is a bird.,dove,bird,7,-5.548994064331055,-0.9248323440551758,336224058,bert-large-uncased
+a lark is a bird.,lark,bird,8,-19.990416049957275,-3.3317360083262124,336224058,bert-large-uncased
+a swallow is a bird.,swallow,bird,9,-8.121016502380371,-1.3535027503967285,336224058,bert-large-uncased
+a parakeet is a bird.,parakeet,bird,10,-1.7373733520507812,-0.21717166900634766,336224058,bert-large-uncased
+an oriole is a bird.,oriole,bird,11,-6.435760021209717,-0.8044700026512146,336224058,bert-large-uncased
+a mockingbird is a bird.,mockingbird,bird,12,-4.30242919921875,-0.6146327427455357,336224058,bert-large-uncased
+a redbird is a bird.,redbird,bird,13,-8.339356422424316,-1.1913366317749023,336224058,bert-large-uncased
+a wren is a bird.,wren,bird,14,-8.713105201721191,-1.4521842002868652,336224058,bert-large-uncased
+a finch is a bird.,finch,bird,15,-7.274108409881592,-1.212351401646932,336224058,bert-large-uncased
+a starling is a bird.,starling,bird,16,-7.606472015380859,-1.0866388593401228,336224058,bert-large-uncased
+a cardinal is a bird.,cardinal,bird,17,-24.95881748199463,-4.1598029136657715,336224058,bert-large-uncased
+an eagle is a bird.,eagle,bird,18,-3.6183300018310547,-0.6030550003051758,336224058,bert-large-uncased
+a hummingbird is a bird.,hummingbird,bird,19,-3.311783790588379,-0.47311197008405415,336224058,bert-large-uncased
+a seagull is a bird.,seagull,bird,20,-4.411850929260254,-0.5514813661575317,336224058,bert-large-uncased
+a woodpecker is a bird.,woodpecker,bird,21,-2.0498886108398438,-0.25623607635498047,336224058,bert-large-uncased
+a pigeon is a bird.,pigeon,bird,22,-5.059565544128418,-0.843260924021403,336224058,bert-large-uncased
+a thrush is a bird.,thrush,bird,23,-1.705331802368164,-0.2436188289097377,336224058,bert-large-uncased
+a falcon is a bird.,falcon,bird,24,-6.151436805725098,-1.0252394676208496,336224058,bert-large-uncased
+a crow is a bird.,crow,bird,25,-5.504620552062988,-0.9174367586771647,336224058,bert-large-uncased
+a hawk is a bird.,hawk,bird,26,-6.568085670471191,-1.094680945078532,336224058,bert-large-uncased
+a raven is a bird.,raven,bird,27,-5.8917083740234375,-0.9819513956705729,336224058,bert-large-uncased
+a goldfinch is a bird.,goldfinch,bird,28,-7.980761528015137,-0.9975951910018921,336224058,bert-large-uncased
+a parrot is a bird.,parrot,bird,29,-5.4071149826049805,-0.9011858304341634,336224058,bert-large-uncased
+a sandpiper is a bird.,sandpiper,bird,30,-5.689815521240234,-0.7112269401550293,336224058,bert-large-uncased
+a pheasant is a bird.,pheasant,bird,31,-2.4146862030029297,-0.3018357753753662,336224058,bert-large-uncased
+a catbird is a bird.,catbird,bird,32,-7.480196952819824,-1.0685995646885462,336224058,bert-large-uncased
+a crane is a bird.,crane,bird,33,-12.068169593811035,-2.011361598968506,336224058,bert-large-uncased
+albatross are birds.,albatross,bird,34,-12.978514194488525,-2.163085699081421,336224058,bert-large-uncased
+a condor is a bird.,condor,bird,35,-8.73733901977539,-1.4562231699625652,336224058,bert-large-uncased
+a toucan is a bird.,toucan,bird,36,-4.937460899353027,-0.6171826124191284,336224058,bert-large-uncased
+an owl is a bird.,owl,bird,37,-4.962930679321289,-0.8271551132202148,336224058,bert-large-uncased
+a pelican is a bird.,pelican,bird,38,-4.090729713439941,-0.5113412141799927,336224058,bert-large-uncased
+geese are birds.,geese,bird,39,-21.181171894073486,-5.295292973518372,336224058,bert-large-uncased
+a vulture is a bird.,vulture,bird,40,-7.912102699279785,-1.3186837832132976,336224058,bert-large-uncased
+a stork is a bird.,stork,bird,41,-4.580656051635742,-0.5725820064544678,336224058,bert-large-uncased
+a buzzard is a bird.,buzzard,bird,42,-2.205245018005371,-0.31503500257219585,336224058,bert-large-uncased
+a swan is a bird.,swan,bird,43,-12.122552871704102,-2.02042547861735,336224058,bert-large-uncased
+a flamingo is a bird.,flamingo,bird,44,-6.046104431152344,-0.8637292044503349,336224058,bert-large-uncased
+a duck is a bird.,duck,bird,45,-13.138216972351074,-2.189702828725179,336224058,bert-large-uncased
+a peacock is a bird.,peacock,bird,46,-10.991070747375488,-1.8318451245625813,336224058,bert-large-uncased
+an egret is a bird.,egret,bird,47,-6.455148696899414,-0.8068935871124268,336224058,bert-large-uncased
+a chicken is a bird.,chicken,bird,48,-12.136754035949707,-2.022792339324951,336224058,bert-large-uncased
+a turkey is a bird.,turkey,bird,49,-10.233867645263672,-1.7056446075439453,336224058,bert-large-uncased
+an ostrich is a bird.,ostrich,bird,50,-5.661216735839844,-0.7076520919799805,336224058,bert-large-uncased
+a titmouse is a bird.,titmouse,bird,51,-10.82506513595581,-1.3531331419944763,336224058,bert-large-uncased
+an emu is a bird.,emu,bird,52,-4.560037612915039,-0.6514339447021484,336224058,bert-large-uncased
+a penguin is a bird.,penguin,bird,53,-11.982712268829346,-1.9971187114715576,336224058,bert-large-uncased
+a bat is a bird.,bat,bird,54,-12.474234104156494,-2.0790390173594155,336224058,bert-large-uncased
+football is a sport.,football,sport,1,-8.212495803833008,-1.6424991607666015,336224058,bert-large-uncased
+baseball is a sport.,baseball,sport,2,-8.228463649749756,-1.645692729949951,336224058,bert-large-uncased
+basketball is a sport.,basketball,sport,3,-9.40121078491211,-1.880242156982422,336224058,bert-large-uncased
+tennis is a sport.,tennis,sport,4,-8.710884094238281,-1.7421768188476563,336224058,bert-large-uncased
+softball is a sport.,softball,sport,5,-10.527082920074463,-2.1054165840148924,336224058,bert-large-uncased
+canoeing is a sport.,canoeing,sport,6,-2.895277976989746,-0.482546329498291,336224058,bert-large-uncased
+handball is a sport.,handball,sport,7,-10.85001516342163,-2.1700030326843263,336224058,bert-large-uncased
+rugby is a sport.,rugby,sport,8,-8.448323726654053,-1.6896647453308105,336224058,bert-large-uncased
+hockey is a sport.,hockey,sport,9,-8.6674485206604,-1.73348970413208,336224058,bert-large-uncased
+ice hockey is a sport.,ice hockey,sport,10,-3.960254669189453,-0.6600424448649088,336224058,bert-large-uncased
+swimming is a sport.,swimming,sport,11,-7.022922039031982,-1.4045844078063965,336224058,bert-large-uncased
+track is a sport.,track,sport,12,-22.165817260742188,-4.433163452148437,336224058,bert-large-uncased
+boxing is a sport.,boxing,sport,13,-6.947981834411621,-1.3895963668823241,336224058,bert-large-uncased
+volleyball is a sport.,volleyball,sport,14,-11.468128681182861,-2.293625736236572,336224058,bert-large-uncased
+lacrosse is a sport.,lacrosse,sport,15,-9.693568229675293,-1.9387136459350587,336224058,bert-large-uncased
+skiing is a sport.,skiing,sport,16,-11.598318099975586,-2.3196636199951173,336224058,bert-large-uncased
+golf is a sport.,golf,sport,17,-8.757391452789307,-1.7514782905578614,336224058,bert-large-uncased
+polo is a sport.,polo,sport,18,-16.73550510406494,-3.347101020812988,336224058,bert-large-uncased
+surfing is a sport.,surfing,sport,19,-8.005253314971924,-1.6010506629943848,336224058,bert-large-uncased
+wrestling is a sport.,wrestling,sport,20,-6.644086837768555,-1.328817367553711,336224058,bert-large-uncased
+gymnastics is a sport.,gymnastics,sport,21,-10.231833457946777,-2.0463666915893555,336224058,bert-large-uncased
+cricket is a sport.,cricket,sport,22,-8.08483076095581,-1.616966152191162,336224058,bert-large-uncased
+squash is a sport.,squash,sport,23,-11.148744583129883,-2.2297489166259767,336224058,bert-large-uncased
+badminton is a sport.,badminton,sport,24,-12.226288795471191,-2.4452577590942384,336224058,bert-large-uncased
+racing is a sport.,racing,sport,25,-6.385819911956787,-1.2771639823913574,336224058,bert-large-uncased
+pole vault is a sport.,pole vault,sport,26,-5.807304382324219,-0.9678840637207031,336224058,bert-large-uncased
+fencing is a sport.,fencing,sport,27,-8.381971836090088,-1.6763943672180175,336224058,bert-large-uncased
+bowling is a sport.,bowling,sport,28,-14.430501937866211,-2.8861003875732423,336224058,bert-large-uncased
+water skiing is a sport.,water skiing,sport,29,-10.228363990783691,-1.704727331797282,336224058,bert-large-uncased
+ice skating is a sport.,ice skating,sport,30,-13.730156898498535,-2.2883594830830893,336224058,bert-large-uncased
+jai alai is a sport.,jai alai,sport,31,-12.668582916259766,-1.8097975594656808,336224058,bert-large-uncased
+skating is a sport.,skating,sport,32,-8.669605731964111,-1.7339211463928224,336224058,bert-large-uncased
+skindiving is a sport.,skindiving,sport,33,-20.649330139160156,-2.949904305594308,336224058,bert-large-uncased
+sailing is a sport.,sailing,sport,34,-6.866405963897705,-1.373281192779541,336224058,bert-large-uncased
+diving is a sport.,diving,sport,35,-9.020998477935791,-1.8041996955871582,336224058,bert-large-uncased
+archery is a sport.,archery,sport,36,-8.179362297058105,-1.6358724594116212,336224058,bert-large-uncased
+judo is a sport.,judo,sport,37,-9.483653545379639,-1.8967307090759278,336224058,bert-large-uncased
+car racing is a sport.,car racing,sport,38,-7.267207622528076,-1.211201270421346,336224058,bert-large-uncased
+ping pong is a sport.,ping pong,sport,39,-3.2141456604003906,-0.4591636657714844,336224058,bert-large-uncased
+rowing is a sport.,rowing,sport,40,-8.46236515045166,-1.6924730300903321,336224058,bert-large-uncased
+fishing is a sport.,fishing,sport,41,-7.620404243469238,-1.5240808486938477,336224058,bert-large-uncased
+horseback riding is a sport.,horseback riding,sport,42,-4.089052200317383,-0.6815087000528971,336224058,bert-large-uncased
+running is a sport.,running,sport,43,-7.9394659996032715,-1.5878931999206543,336224058,bert-large-uncased
+horse racing is a sport.,horse racing,sport,44,-2.3938474655151367,-0.39897457758585614,336224058,bert-large-uncased
+hiking is a sport.,hiking,sport,45,-13.997185707092285,-2.799437141418457,336224058,bert-large-uncased
+weight lifting is a sport.,weight lifting,sport,46,-2.218289375305176,-0.369714895884196,336224058,bert-large-uncased
+croquet is a sport.,croquet,sport,47,-2.0513553619384766,-0.29305076599121094,336224058,bert-large-uncased
+horseshoes is a sport.,horseshoes,sport,48,-16.788881301879883,-2.798146883646647,336224058,bert-large-uncased
+boating is a sport.,boating,sport,49,-11.754680633544922,-2.3509361267089846,336224058,bert-large-uncased
+pool is a sport.,pool,sport,50,-17.96083116531372,-3.592166233062744,336224058,bert-large-uncased
+billiards is a sport.,billiards,sport,51,-3.143254280090332,-0.44903632572719027,336224058,bert-large-uncased
+hunting is a sport.,hunting,sport,52,-8.351234436035156,-1.6702468872070313,336224058,bert-large-uncased
+jump rope is a sport.,jump rope,sport,53,-9.66092300415039,-1.6101538340250652,336224058,bert-large-uncased
+camping is a sport.,camping,sport,54,-12.359506607055664,-2.4719013214111327,336224058,bert-large-uncased
+chess is a sport.,chess,sport,55,-10.027438640594482,-2.0054877281188963,336224058,bert-large-uncased
+dancing is a sport.,dancing,sport,56,-10.890839576721191,-2.1781679153442384,336224058,bert-large-uncased
+checkers is a sport.,checkers,sport,57,-4.7693986892700195,-0.7948997815450033,336224058,bert-large-uncased
+cards is a sport.,cards,sport,58,-24.74808692932129,-4.949617385864258,336224058,bert-large-uncased
+sunbathing is a sport.,sunbathing,sport,59,-4.806617736816406,-0.686659676688058,336224058,bert-large-uncased
+pea is a vegetable.,pea,vegetable,1,-16.91917133331299,-3.3838342666625976,336224058,bert-large-uncased
+carrot is a vegetable.,carrot,vegetable,2,-13.274640083312988,-2.6549280166625975,336224058,bert-large-uncased
+green beans are vegetables.,green beans,vegetable,3,-18.912190437316895,-3.7824380874633787,336224058,bert-large-uncased
+string beans are vegetables.,string beans,vegetable,4,-21.34370517730713,-4.268741035461426,336224058,bert-large-uncased
+spinach is a vegetable.,spinach,vegetable,5,-1.317000389099121,-0.21950006484985352,336224058,bert-large-uncased
+broccoli is a vegetable.,broccoli,vegetable,6,-1.5308723449707031,-0.21869604928152903,336224058,bert-large-uncased
+asparagus are vegetables.,asparagus,vegetable,7,-16.22892999649048,-2.7048216660817466,336224058,bert-large-uncased
+corn is a vegetable.,corn,vegetable,8,-13.668049812316895,-2.7336099624633787,336224058,bert-large-uncased
+cauliflower is a vegetable.,cauliflower,vegetable,9,-2.5162010192871094,-0.3594572884695871,336224058,bert-large-uncased
+brussels are vegetables.,brussels,vegetable,10,-33.56464195251465,-8.391160488128662,336224058,bert-large-uncased
+sprouts are vegetables.,sprouts,vegetable,11,-15.934377193450928,-2.6557295322418213,336224058,bert-large-uncased
+squash is a vegetable.,squash,vegetable,12,-20.903332710266113,-4.180666542053222,336224058,bert-large-uncased
+lettuce is a vegetable.,lettuce,vegetable,13,-1.2758970260620117,-0.18227100372314453,336224058,bert-large-uncased
+celery is a vegetable.,celery,vegetable,14,-2.3385581970214844,-0.3340797424316406,336224058,bert-large-uncased
+cucumber is a vegetable.,cucumber,vegetable,15,-2.5551185607910156,-0.3650169372558594,336224058,bert-large-uncased
+beets are vegetables.,beets,vegetable,16,-11.83634328842163,-2.3672686576843263,336224058,bert-large-uncased
+greens are vegetables.,greens,vegetable,17,-27.47466516494751,-6.868666291236877,336224058,bert-large-uncased
+tomato is a vegetable.,tomato,vegetable,18,-13.27920913696289,-2.655841827392578,336224058,bert-large-uncased
+lima beans are vegetables.,lima beans,vegetable,19,-21.63843822479248,-4.3276876449584964,336224058,bert-large-uncased
+artichokes are vegetables.,artichokes,vegetable,20,-19.64428424835205,-2.80632632119315,336224058,bert-large-uncased
+turnip is a vegetable.,turnip,vegetable,21,-2.573214530944824,-0.428869088490804,336224058,bert-large-uncased
+eggplant is a vegetable.,eggplant,vegetable,22,-3.5017552375793457,-0.5002507482256208,336224058,bert-large-uncased
+romaine is a vegetable.,romaine,vegetable,23,-14.222084045410156,-2.370347340901693,336224058,bert-large-uncased
+green peppers are vegetables.,green peppers,vegetable,24,-22.830642700195312,-4.566128540039062,336224058,bert-large-uncased
+okra is a vegetable.,okra,vegetable,25,-6.3616437911987305,-1.0602739651997883,336224058,bert-large-uncased
+radishes are vegetables.,radishes,vegetable,26,-18.503727436065674,-3.0839545726776123,336224058,bert-large-uncased
+onions are vegetables.,onions,vegetable,27,-26.666276931762695,-6.666569232940674,336224058,bert-large-uncased
+bean is a vegetable.,bean,vegetable,28,-20.100565910339355,-4.020113182067871,336224058,bert-large-uncased
+green onion is a vegetable.,green onion,vegetable,29,-9.127552032470703,-1.5212586720784504,336224058,bert-large-uncased
+potato is a vegetable.,potato,vegetable,30,-14.161678314208984,-2.832335662841797,336224058,bert-large-uncased
+parsnip is a vegetable.,parsnip,vegetable,31,-5.986325740814209,-0.7482907176017761,336224058,bert-large-uncased
+turnip greens are vegetables.,turnip greens,vegetable,32,-24.260251998901367,-4.043375333150228,336224058,bert-large-uncased
+collard is a vegetable.,collard,vegetable,33,-13.91401195526123,-2.3190019925435386,336224058,bert-large-uncased
+wax beans are vegetables.,wax beans,vegetable,34,-27.17993927001953,-5.435987854003907,336224058,bert-large-uncased
+watercress are vegetables.,watercress,vegetable,35,-20.144359588623047,-3.357393264770508,336224058,bert-large-uncased
+black eyed peas are vegetables.,black eyed peas,vegetable,36,-19.795300483703613,-3.2992167472839355,336224058,bert-large-uncased
+leek is a vegetable.,leek,vegetable,37,-12.481166362762451,-2.0801943937937417,336224058,bert-large-uncased
+peppers are vegetables.,peppers,vegetable,38,-25.534220218658447,-6.383555054664612,336224058,bert-large-uncased
+sweet potato is a vegetable.,sweet potato,vegetable,39,-8.911625862121582,-1.4852709770202637,336224058,bert-large-uncased
+yams are vegetables.,yams,vegetable,40,-14.550980567932129,-2.9101961135864256,336224058,bert-large-uncased
+parsley is a vegetable.,parsley,vegetable,41,-5.889849662780762,-0.9816416104634603,336224058,bert-large-uncased
+endive is a vegetable.,endive,vegetable,42,-14.338337898254395,-2.389722983042399,336224058,bert-large-uncased
+rutabaga is a vegetable.,rutabaga,vegetable,43,-5.068683624267578,-0.6335854530334473,336224058,bert-large-uncased
+mushroom is a vegetable.,mushroom,vegetable,44,-16.420930862426758,-3.2841861724853514,336224058,bert-large-uncased
+avocado is a vegetable.,avocado,vegetable,45,-5.41912317276001,-0.77416045325143,336224058,bert-large-uncased
+rhubarb is a vegetable.,rhubarb,vegetable,46,-2.311856269836426,-0.2889820337295532,336224058,bert-large-uncased
+kale is a vegetable.,kale,vegetable,47,-12.881360054016113,-2.146893342336019,336224058,bert-large-uncased
+escarole is a vegetable.,escarole,vegetable,48,-11.136932373046875,-1.5909903390066964,336224058,bert-large-uncased
+sauerkraut is a vegetable.,sauerkraut,vegetable,49,-5.290707588195801,-0.6613384485244751,336224058,bert-large-uncased
+pickles are vegetables.,pickles,vegetable,50,-19.15267562866211,-3.830535125732422,336224058,bert-large-uncased
+baked beans are vegetables.,baked beans,vegetable,51,-32.29332256317139,-6.458664512634277,336224058,bert-large-uncased
+pumpkin is a vegetable.,pumpkin,vegetable,52,-17.77715253829956,-3.555430507659912,336224058,bert-large-uncased
+seaweed is a vegetable.,seaweed,vegetable,53,-3.9456071853637695,-0.6576011975606283,336224058,bert-large-uncased
+garlic is a vegetable.,garlic,vegetable,54,-13.476889610290527,-2.6953779220581056,336224058,bert-large-uncased
+dandelion is a vegetable.,dandelion,vegetable,55,-6.247580528259277,-0.8925115040370396,336224058,bert-large-uncased
+peanut is a vegetable.,peanut,vegetable,56,-16.638813972473145,-3.327762794494629,336224058,bert-large-uncased
+rice is a vegetable.,rice,vegetable,57,-17.8597469329834,-3.5719493865966796,336224058,bert-large-uncased
+a saw is a tool.,saw,tool,1,-9.20347547531128,-1.5339125792185466,336224058,bert-large-uncased
+a hammer is a tool.,hammer,tool,2,-6.858158588409424,-1.1430264314015706,336224058,bert-large-uncased
+a ruler is a tool.,ruler,tool,3,-14.551714420318604,-2.425285736719767,336224058,bert-large-uncased
+a screwdriver is a tool.,screwdriver,tool,4,-2.5112428665161133,-0.31390535831451416,336224058,bert-large-uncased
+a drill is a tool.,drill,tool,5,-8.720181465148926,-1.453363577524821,336224058,bert-large-uncased
+nails are tools.,nails,tool,6,-22.945494651794434,-5.736373662948608,336224058,bert-large-uncased
+a tape measure is a tool.,tape measure,tool,7,-16.799828052520752,-2.399975436074393,336224058,bert-large-uncased
+a sawhorse is a tool.,sawhorse,tool,8,-14.92660903930664,-2.132372719900949,336224058,bert-large-uncased
+a sandpaper is a tool.,sandpaper,tool,9,-12.532584190368652,-1.7903691700526647,336224058,bert-large-uncased
+a sander is a tool.,sander,tool,10,-12.922396659851074,-1.8460566656930106,336224058,bert-large-uncased
+a level is a tool.,level,tool,11,-20.867810249328613,-3.477968374888102,336224058,bert-large-uncased
+a plane is a tool.,plane,tool,12,-19.52327251434326,-3.2538787523905435,336224058,bert-large-uncased
+a file is a tool.,file,tool,13,-14.861835479736328,-2.4769725799560547,336224058,bert-large-uncased
+a toolbox is a tool.,toolbox,tool,14,-8.491833686828613,-1.2131190981183733,336224058,bert-large-uncased
+a T-square is a tool.,T-square,tool,15,-22.22785997390747,-2.778482496738434,336224058,bert-large-uncased
+a chisel is a tool.,chisel,tool,16,-1.5518913269042969,-0.22169876098632812,336224058,bert-large-uncased
+a rasp is a tool.,rasp,tool,17,-15.448596954345703,-2.2069424220493863,336224058,bert-large-uncased
+a pencil is a tool.,pencil,tool,18,-11.003498077392578,-1.8339163462320964,336224058,bert-large-uncased
+a hacksaw is a tool.,hacksaw,tool,19,-3.8401031494140625,-0.4800128936767578,336224058,bert-large-uncased
+a square is a tool.,square,tool,20,-21.948469161987305,-3.658078193664551,336224058,bert-large-uncased
+a bench is a tool.,bench,tool,21,-24.327292442321777,-4.054548740386963,336224058,bert-large-uncased
+a pliers is a tool.,pliers,tool,22,-7.3603973388671875,-1.051485334123884,336224058,bert-large-uncased
+a wrench is a tool.,wrench,tool,23,-3.666372299194336,-0.5237674713134766,336224058,bert-large-uncased
+a ladder is a tool.,ladder,tool,24,-15.928910732269287,-2.6548184553782144,336224058,bert-large-uncased
+a lathe is a tool.,lathe,tool,25,-3.2958154678344727,-0.4708307811192104,336224058,bert-large-uncased
+a vise is a tool.,vise,tool,26,-9.899118423461914,-1.4141597747802734,336224058,bert-large-uncased
+screws are tools.,screws,tool,27,-23.26203155517578,-4.652406311035156,336224058,bert-large-uncased
+a wood is a tool.,wood,tool,28,-21.50560235977173,-3.5842670599619546,336224058,bert-large-uncased
+a wedge is a tool.,wedge,tool,29,-15.606526374816895,-2.601087729136149,336224058,bert-large-uncased
+a lumber is a tool.,lumber,tool,30,-25.7100887298584,-4.285014788309733,336224058,bert-large-uncased
+blueprints are tools.,blueprints,tool,31,-19.000568389892578,-3.1667613983154297,336224058,bert-large-uncased
+a brace is a tool.,brace,tool,32,-21.181519508361816,-3.530253251393636,336224058,bert-large-uncased
+an awl is a tool.,awl,tool,33,-13.199142456054688,-1.885591779436384,336224058,bert-large-uncased
+a crowbar is a tool.,crowbar,tool,34,-3.50936222076416,-0.5013374601091657,336224058,bert-large-uncased
+a hinge is a tool.,hinge,tool,35,-7.756876468658447,-1.1081252098083496,336224058,bert-large-uncased
+a miter box is a tool.,miter box,tool,36,-23.8222918510437,-2.9777864813804626,336224058,bert-large-uncased
+a knife is a tool.,knife,tool,37,-9.006916046142578,-1.5011526743570964,336224058,bert-large-uncased
+a chalk is a tool.,chalk,tool,38,-24.665340423583984,-4.110890070597331,336224058,bert-large-uncased
+nuts are tools.,nuts,tool,39,-25.73723316192627,-6.434308290481567,336224058,bert-large-uncased
+bolts are tools.,bolts,tool,40,-31.213983058929443,-7.803495764732361,336224058,bert-large-uncased
+a plumb line is a tool.,plumb line,tool,41,-15.62065601348877,-1.9525820016860962,336224058,bert-large-uncased
+a brush is a tool.,brush,tool,42,-10.855075359344482,-1.8091792265574138,336224058,bert-large-uncased
+a sledge hammer is a tool.,sledge hammer,tool,43,-5.731131553649902,-0.7163914442062378,336224058,bert-large-uncased
+a glue is a tool.,glue,tool,44,-21.01918601989746,-3.50319766998291,336224058,bert-large-uncased
+a paintbrush is a tool.,paintbrush,tool,45,-7.5564165115356445,-1.0794880730765206,336224058,bert-large-uncased
+a varnish is a tool.,varnish,tool,46,-15.676631450653076,-2.239518778664725,336224058,bert-large-uncased
+an apron is a tool.,apron,tool,47,-19.906064987182617,-3.3176774978637695,336224058,bert-large-uncased
+a stapler is a tool.,stapler,tool,48,-7.541507720947266,-1.0773582458496094,336224058,bert-large-uncased
+an extension cord is a tool.,extension cord,tool,49,-25.52497959136963,-3.646425655909947,336224058,bert-large-uncased
+a soldering iron is a tool.,soldering iron,tool,50,-5.361200332641602,-0.6701500415802002,336224058,bert-large-uncased
+a plaster is a tool.,plaster,tool,51,-24.308760166168213,-4.051460027694702,336224058,bert-large-uncased
+a wheelbarrow is a tool.,wheelbarrow,tool,52,-3.093616485595703,-0.3867020606994629,336224058,bert-large-uncased
+an axe is a tool.,axe,tool,53,-6.244873046875,-1.0408121744791667,336224058,bert-large-uncased
+a slide rule is a tool.,slide rule,tool,54,-22.692245960235596,-3.2417494228907993,336224058,bert-large-uncased
+a cement is a tool.,cement,tool,55,-26.395906925201416,-4.399317820866902,336224058,bert-large-uncased
+an anvil is a tool.,anvil,tool,56,-4.41558837890625,-0.63079833984375,336224058,bert-large-uncased
+a hatchet is a tool.,hatchet,tool,57,-5.15147590637207,-0.7359251294817243,336224058,bert-large-uncased
+rags are tools.,rags,tool,58,-24.549695014953613,-6.137423753738403,336224058,bert-large-uncased
+a scissors is a tool.,scissors,tool,59,-13.731790542602539,-2.2886317571004233,336224058,bert-large-uncased
+a crane is a tool.,crane,tool,60,-16.327523231506348,-2.7212538719177246,336224058,bert-large-uncased
+orange is a fruit.,orange,fruit,1,-15.624505996704102,-3.1249011993408202,336224058,bert-large-uncased
+apple is a fruit.,apple,fruit,2,-11.688563823699951,-2.3377127647399902,336224058,bert-large-uncased
+banana is a fruit.,banana,fruit,3,-13.19926118850708,-2.639852237701416,336224058,bert-large-uncased
+peach is a fruit.,peach,fruit,4,-16.908740997314453,-3.3817481994628906,336224058,bert-large-uncased
+pear is a fruit.,pear,fruit,5,-13.565533638000488,-2.7131067276000977,336224058,bert-large-uncased
+apricot is a fruit.,apricot,fruit,6,-7.52830696105957,-1.07547242300851,336224058,bert-large-uncased
+tangerine is a fruit.,tangerine,fruit,7,-8.087440490722656,-1.3479067484537761,336224058,bert-large-uncased
+plum is a fruit.,plum,fruit,8,-21.715585708618164,-4.343117141723633,336224058,bert-large-uncased
+grapes are fruit.,grapes,fruit,9,-16.567750453948975,-4.141937613487244,336224058,bert-large-uncased
+nectarine is a fruit.,nectarine,fruit,10,-14.434953689575195,-2.405825614929199,336224058,bert-large-uncased
+strawberry is a fruit.,strawberry,fruit,11,-15.808495044708252,-3.1616990089416506,336224058,bert-large-uncased
+grapefruit is a fruit.,grapefruit,fruit,12,-3.3685836791992188,-0.4812262398856027,336224058,bert-large-uncased
+berry is a fruit.,berry,fruit,13,-25.031132698059082,-5.006226539611816,336224058,bert-large-uncased
+cherry is a fruit.,cherry,fruit,14,-19.70889663696289,-3.9417793273925783,336224058,bert-large-uncased
+pineapple is a fruit.,pineapple,fruit,15,-3.746953010559082,-0.6244921684265137,336224058,bert-large-uncased
+blackberry is a fruit.,blackberry,fruit,16,-19.12439489364624,-3.824878978729248,336224058,bert-large-uncased
+melon is a fruit.,melon,fruit,17,-7.850475311279297,-1.3084125518798828,336224058,bert-large-uncased
+blueberry is a fruit.,blueberry,fruit,18,-9.446851253509521,-1.5744752089182537,336224058,bert-large-uncased
+raspberry is a fruit.,raspberry,fruit,19,-5.051267623901367,-0.7216096605573382,336224058,bert-large-uncased
+lemon is a fruit.,lemon,fruit,20,-14.140852928161621,-2.828170585632324,336224058,bert-large-uncased
+black raspberry is a fruit.,black raspberry,fruit,21,-11.938590049743652,-1.4923237562179565,336224058,bert-large-uncased
+boysenberry is a fruit.,boysenberry,fruit,22,-19.392236709594727,-2.7703195299421037,336224058,bert-large-uncased
+watermelon is a fruit.,watermelon,fruit,23,-6.429669380187988,-0.9185241971697126,336224058,bert-large-uncased
+cantaloupe is a fruit.,cantaloupe,fruit,24,-7.915307998657227,-0.9894134998321533,336224058,bert-large-uncased
+lime is a fruit.,lime,fruit,25,-15.63346004486084,-3.126692008972168,336224058,bert-large-uncased
+tangelo is a fruit.,tangelo,fruit,26,-18.494476318359375,-3.0824127197265625,336224058,bert-large-uncased
+papaya is a fruit.,papaya,fruit,27,-8.468626022338867,-1.4114376703898113,336224058,bert-large-uncased
+honeydew is a fruit.,honeydew,fruit,28,-8.387982368469238,-1.1982831954956055,336224058,bert-large-uncased
+fig is a fruit.,fig,fruit,29,-16.37925624847412,-3.275851249694824,336224058,bert-large-uncased
+mango is a fruit.,mango,fruit,30,-12.38059377670288,-2.4761187553405763,336224058,bert-large-uncased
+guava is a fruit.,guava,fruit,31,-6.060976028442383,-1.0101626714070637,336224058,bert-large-uncased
+pomegranate is a fruit.,pomegranate,fruit,32,-6.9365105628967285,-0.8670638203620911,336224058,bert-large-uncased
+cranberry is a fruit.,cranberry,fruit,33,-6.23513650894165,-0.8907337869916644,336224058,bert-large-uncased
+passion fruit is a fruit.,passion fruit,fruit,34,-19.638050079345703,-3.273008346557617,336224058,bert-large-uncased
+prunes are fruit.,prunes,fruit,35,-14.300807476043701,-2.8601614952087404,336224058,bert-large-uncased
+gooseberry is a fruit.,gooseberry,fruit,36,-8.804384231567383,-1.4673973719278972,336224058,bert-large-uncased
+date is a fruit.,date,fruit,37,-26.102825164794922,-5.2205650329589846,336224058,bert-large-uncased
+kumquat is a fruit.,kumquat,fruit,38,-15.930924415588379,-1.9913655519485474,336224058,bert-large-uncased
+raisin is a fruit.,raisin,fruit,39,-8.525163173675537,-1.4208605289459229,336224058,bert-large-uncased
+muskmelon is a fruit.,muskmelon,fruit,40,-8.54089069366455,-1.0676113367080688,336224058,bert-large-uncased
+persimmon is a fruit.,persimmon,fruit,41,-5.978323936462402,-0.854046276637486,336224058,bert-large-uncased
+pawpaw is a fruit.,pawpaw,fruit,42,-10.785967826843262,-1.5408525466918945,336224058,bert-large-uncased
+coconut is a fruit.,coconut,fruit,43,-13.156984806060791,-2.6313969612121584,336224058,bert-large-uncased
+avocado is a fruit.,avocado,fruit,44,-8.821038722991943,-1.260148388998849,336224058,bert-large-uncased
+pumpkin is a fruit.,pumpkin,fruit,45,-17.27555561065674,-3.4551111221313477,336224058,bert-large-uncased
+tomato is a fruit.,tomato,fruit,46,-13.236916542053223,-2.6473833084106446,336224058,bert-large-uncased
+nut is a fruit.,nut,fruit,47,-13.194469928741455,-2.638893985748291,336224058,bert-large-uncased
+gourd is a fruit.,gourd,fruit,48,-7.918956279754639,-1.131279468536377,336224058,bert-large-uncased
+olive is a fruit.,olive,fruit,49,-17.836342811584473,-3.5672685623168947,336224058,bert-large-uncased
+pickle is a fruit.,pickle,fruit,50,-14.982690811157227,-2.497115135192871,336224058,bert-large-uncased
+squash is a fruit.,squash,fruit,51,-18.6281156539917,-3.72562313079834,336224058,bert-large-uncased
+pants are clothes.,pants,clothing,1,-23.102917671203613,-5.775729417800903,336224058,bert-large-uncased
+a shirt is a type of clothing.,shirt,clothing,2,-6.855949401855469,-0.8569936752319336,336224058,bert-large-uncased
+dress are clothes.,dress,clothing,3,-27.527579307556152,-6.881894826889038,336224058,bert-large-uncased
+a skirt is a type of clothing.,skirt,clothing,4,-8.90449047088623,-1.1130613088607788,336224058,bert-large-uncased
+a blouse is a type of clothing.,blouse,clothing,5,-7.395305633544922,-0.9244132041931152,336224058,bert-large-uncased
+a suit is a type of clothing.,suit,clothing,6,-5.607321739196777,-0.7009152173995972,336224058,bert-large-uncased
+slacks are clothes.,slacks,clothing,7,-24.454555988311768,-6.113638997077942,336224058,bert-large-uncased
+a jacket is a type of clothing.,jacket,clothing,8,-5.879704475402832,-0.734963059425354,336224058,bert-large-uncased
+a coat is a type of clothing.,coat,clothing,9,-5.94205379486084,-0.742756724357605,336224058,bert-large-uncased
+a sweater is a type of clothing.,sweater,clothing,10,-7.316703796386719,-0.9145879745483398,336224058,bert-large-uncased
+a sweatshirt is a type of clothing.,sweatshirt,clothing,11,-10.91318130493164,-1.364147663116455,336224058,bert-large-uncased
+underpants are clothes.,underpants,clothing,12,-28.660362243652344,-5.732072448730468,336224058,bert-large-uncased
+a sports jacket is a type of clothing.,sports jacket,clothing,13,-9.953179359436035,-1.105908817715115,336224058,bert-large-uncased
+a jumper is a type of clothing.,jumper,clothing,14,-11.100936889648438,-1.3876171112060547,336224058,bert-large-uncased
+panties are clothes.,panties,clothing,15,-24.39564609527588,-6.09891152381897,336224058,bert-large-uncased
+socks are clothes.,socks,clothing,16,-20.3991060256958,-5.09977650642395,336224058,bert-large-uncased
+a parka is a type of clothing.,parka,clothing,17,-7.921228885650635,-0.8801365428500705,336224058,bert-large-uncased
+pajamas are clothes.,pajamas,clothing,18,-24.27904987335205,-6.069762468338013,336224058,bert-large-uncased
+an undershirt is a type of clothing.,undershirt,clothing,19,-3.9741039276123047,-0.39741039276123047,336224058,bert-large-uncased
+an overcoat is a type of clothing.,overcoat,clothing,20,-3.2940845489501953,-0.3660093943277995,336224058,bert-large-uncased
+a nightgown is a type of clothing.,nightgown,clothing,21,-3.036593437194824,-0.30365934371948244,336224058,bert-large-uncased
+a raincoat is a type of clothing.,raincoat,clothing,22,-5.702554702758789,-0.633617189195421,336224058,bert-large-uncased
+a bathing suit is a type of clothing.,bathing suit,clothing,23,-5.045614242553711,-0.5606238047281901,336224058,bert-large-uncased
+a bathrobe is a type of clothing.,bathrobe,clothing,24,-3.09844970703125,-0.309844970703125,336224058,bert-large-uncased
+a slip is a type of clothing.,slip,clothing,25,-15.42969560623169,-1.9287119507789612,336224058,bert-large-uncased
+a bra is a type of clothing.,bra,clothing,26,-13.366117000579834,-1.6707646250724792,336224058,bert-large-uncased
+shoes are clothes.,shoes,clothing,27,-24.58319616317749,-6.145799040794373,336224058,bert-large-uncased
+a tuxedo is a type of clothing.,tuxedo,clothing,28,-3.560476303100586,-0.3560476303100586,336224058,bert-large-uncased
+stockings are clothes.,stockings,clothing,29,-31.79319953918457,-7.948299884796143,336224058,bert-large-uncased
+a vest is a type of clothing.,vest,clothing,30,-6.068085670471191,-0.7585107088088989,336224058,bert-large-uncased
+nylons are clothes.,nylons,clothing,31,-22.98451566696167,-4.596903133392334,336224058,bert-large-uncased
+a cape is a type of clothing.,cape,clothing,32,-8.71550178527832,-1.08943772315979,336224058,bert-large-uncased
+boots are clothes.,boots,clothing,33,-24.36484670639038,-6.091211676597595,336224058,bert-large-uncased
+sandals are clothes.,sandals,clothing,34,-28.22410774230957,-7.056026935577393,336224058,bert-large-uncased
+a tie is a type of clothing.,tie,clothing,35,-12.341862678527832,-1.542732834815979,336224058,bert-large-uncased
+a girdle is a type of clothing.,girdle,clothing,36,-7.5486555099487305,-0.7548655509948731,336224058,bert-large-uncased
+a belt is a type of clothing.,belt,clothing,37,-14.037675380706787,-1.7547094225883484,336224058,bert-large-uncased
+a scarf is a type of clothing.,scarf,clothing,38,-9.79881238937378,-1.2248515486717224,336224058,bert-large-uncased
+mittens are clothes.,mittens,clothing,39,-20.024555206298828,-4.004911041259765,336224058,bert-large-uncased
+slippers are clothes.,slippers,clothing,40,-18.24690055847168,-3.649380111694336,336224058,bert-large-uncased
+a hat is a type of clothing.,hat,clothing,41,-11.641268730163574,-1.4551585912704468,336224058,bert-large-uncased
+overshoes are clothes.,overshoes,clothing,42,-26.853111267089844,-4.475518544514974,336224058,bert-large-uncased
+gloves are clothes.,gloves,clothing,43,-32.05274295806885,-8.013185739517212,336224058,bert-large-uncased
+an apron is a type of clothing.,apron,clothing,44,-4.000654220581055,-0.5000817775726318,336224058,bert-large-uncased
+earmuffs are clothes.,earmuffs,clothing,45,-18.994836807250977,-3.1658061345418296,336224058,bert-large-uncased
+a handkerchief is a type of clothing.,handkerchief,clothing,46,-14.146732807159424,-1.768341600894928,336224058,bert-large-uncased
+a purse is a type of clothing.,purse,clothing,47,-16.136723041534424,-2.017090380191803,336224058,bert-large-uncased
+a hairband is a type of clothing.,hairband,clothing,48,-18.837585926055908,-2.093065102895101,336224058,bert-large-uncased
+a ring is a type of clothing.,ring,clothing,49,-23.368350982666016,-2.921043872833252,336224058,bert-large-uncased
+earrings are clothes.,earrings,clothing,50,-33.43721961975098,-8.359304904937744,336224058,bert-large-uncased
+a watch is a type of clothing.,watch,clothing,51,-22.051727294921875,-2.7564659118652344,336224058,bert-large-uncased
+cuff links are clothes.,cuff links,clothing,52,-23.31761646270752,-4.6635232925415036,336224058,bert-large-uncased
+a necklace is a type of clothing.,necklace,clothing,53,-19.32552433013916,-2.415690541267395,336224058,bert-large-uncased
+a bracelet is a type of clothing.,bracelet,clothing,54,-18.45548725128174,-2.3069359064102173,336224058,bert-large-uncased
+a cane is a type of clothing.,cane,clothing,55,-22.645534992218018,-2.830691874027252,336224058,bert-large-uncased
+an automobile is a vehicle.,automobile,vehicle,1,-0.8730974197387695,-0.14551623662312826,336224058,bert-large-uncased
+a station wagon is a vehicle.,station wagon,vehicle,2,-1.8717403411865234,-0.2673914773123605,336224058,bert-large-uncased
+a truck is a vehicle.,truck,vehicle,3,-6.32867431640625,-1.054779052734375,336224058,bert-large-uncased
+a car is a vehicle.,car,vehicle,4,-4.240605354309082,-0.7067675590515137,336224058,bert-large-uncased
+bus are vehicles.,bus,vehicle,5,-31.082468032836914,-7.7706170082092285,336224058,bert-large-uncased
+a taxi is a vehicle.,taxi,vehicle,6,-9.517247200012207,-1.5862078666687012,336224058,bert-large-uncased
+a jeep is a vehicle.,jeep,vehicle,7,-8.81141471862793,-1.4685691197713215,336224058,bert-large-uncased
+an ambulance is a vehicle.,ambulance,vehicle,8,-7.868210315704346,-1.3113683859507244,336224058,bert-large-uncased
+a motorcycle is a vehicle.,motorcycle,vehicle,9,-4.218239784240723,-0.7030399640401205,336224058,bert-large-uncased
+a streetcar is a vehicle.,streetcar,vehicle,10,-7.744513034820557,-1.2907521724700928,336224058,bert-large-uncased
+a van is a vehicle.,van,vehicle,11,-6.137948989868164,-1.0229914983113606,336224058,bert-large-uncased
+a Honda is a vehicle.,Honda,vehicle,12,-12.511015892028809,-2.0851693153381348,336224058,bert-large-uncased
+a cable car is a vehicle.,cable car,vehicle,13,-8.971319198608398,-1.2816170283726283,336224058,bert-large-uncased
+a train is a vehicle.,train,vehicle,14,-6.62985897064209,-1.104976495107015,336224058,bert-large-uncased
+a trolley is a vehicle.,trolley,vehicle,15,-7.425468921661377,-1.2375781536102295,336224058,bert-large-uncased
+a bicycle is a vehicle.,bicycle,vehicle,16,-6.813357353210449,-1.1355595588684082,336224058,bert-large-uncased
+a carriage is a vehicle.,carriage,vehicle,17,-3.690347671508789,-0.6150579452514648,336224058,bert-large-uncased
+an airplane is a vehicle.,airplane,vehicle,18,-10.341452598571777,-1.7235754330952961,336224058,bert-large-uncased
+a bike is a vehicle.,bike,vehicle,19,-5.99623966217041,-0.9993732770284017,336224058,bert-large-uncased
+a boat is a vehicle.,boat,vehicle,20,-11.47835636138916,-1.91305939356486,336224058,bert-large-uncased
+a jet is a vehicle.,jet,vehicle,21,-11.774433612823486,-1.9624056021372478,336224058,bert-large-uncased
+a ship is a vehicle.,ship,vehicle,22,-12.454837799072266,-2.0758062998453775,336224058,bert-large-uncased
+a scooter is a vehicle.,scooter,vehicle,23,-2.6553096771240234,-0.33191370964050293,336224058,bert-large-uncased
+a tractor is a vehicle.,tractor,vehicle,24,-5.148784637451172,-0.8581307729085287,336224058,bert-large-uncased
+a wagon is a vehicle.,wagon,vehicle,25,-5.619868278503418,-0.936644713083903,336224058,bert-large-uncased
+a subway is a vehicle.,subway,vehicle,26,-16.175630569458008,-2.6959384282430015,336224058,bert-large-uncased
+a trailer is a vehicle.,trailer,vehicle,27,-7.283180236816406,-1.2138633728027344,336224058,bert-large-uncased
+a cart is a vehicle.,cart,vehicle,28,-5.788713455200195,-0.9647855758666992,336224058,bert-large-uncased
+a wheelchair is a vehicle.,wheelchair,vehicle,29,-11.349618911743164,-1.891603151957194,336224058,bert-large-uncased
+a yacht is a vehicle.,yacht,vehicle,30,-14.137581825256348,-2.3562636375427246,336224058,bert-large-uncased
+a tank is a vehicle.,tank,vehicle,31,-7.123560428619385,-1.1872600714365642,336224058,bert-large-uncased
+a go-cart is a vehicle.,go-cart,vehicle,32,-8.03463077545166,-1.0043288469314575,336224058,bert-large-uncased
+a rowboat is a vehicle.,rowboat,vehicle,33,-11.370990753173828,-1.624427250453404,336224058,bert-large-uncased
+a dogsled is a vehicle.,dogsled,vehicle,34,-12.011510372161865,-1.7159300531659807,336224058,bert-large-uncased
+a tricycle is a vehicle.,tricycle,vehicle,35,-3.999894142150879,-0.5714134488786969,336224058,bert-large-uncased
+a canoe is a vehicle.,canoe,vehicle,36,-11.398834228515625,-1.8998057047526042,336224058,bert-large-uncased
+a raft is a vehicle.,raft,vehicle,37,-15.419327735900879,-2.56988795598348,336224058,bert-large-uncased
+a submarine is a vehicle.,submarine,vehicle,38,-15.217203140258789,-2.536200523376465,336224058,bert-large-uncased
+a sled is a vehicle.,sled,vehicle,39,-2.5438308715820312,-0.36340441022600445,336224058,bert-large-uncased
+a horse is a vehicle.,horse,vehicle,40,-9.132536888122559,-1.5220894813537598,336224058,bert-large-uncased
+a rocket is a vehicle.,rocket,vehicle,41,-11.961188316345215,-1.9935313860575359,336224058,bert-large-uncased
+a blimp is a vehicle.,blimp,vehicle,42,-4.859609603881836,-0.6074512004852295,336224058,bert-large-uncased
+skates are vehicles.,skates,vehicle,43,-26.57582187652588,-5.315164375305176,336224058,bert-large-uncased
+a camel is a vehicle.,camel,vehicle,44,-13.757539749145508,-2.2929232915242515,336224058,bert-large-uncased
+feet are vehicles.,feet,vehicle,45,-27.935877799987793,-6.983969449996948,336224058,bert-large-uncased
+skis are vehicles.,skis,vehicle,46,-23.0976881980896,-4.61953763961792,336224058,bert-large-uncased
+a skateboard is a vehicle.,skateboard,vehicle,47,-8.147161483764648,-1.1638802119663783,336224058,bert-large-uncased
+a wheelbarrow is a vehicle.,wheelbarrow,vehicle,48,-4.692252159118652,-0.5865315198898315,336224058,bert-large-uncased
+a surfboard is a vehicle.,surfboard,vehicle,49,-10.266578674316406,-1.4666540963309151,336224058,bert-large-uncased
+an elevator is a vehicle.,elevator,vehicle,50,-12.920494079589844,-2.1534156799316406,336224058,bert-large-uncased
+a chair is a type of furniture.,chair,furniture,1,-7.302538871765137,-0.9128173589706421,336224058,bert-large-uncased
+a sofa is a type of furniture.,sofa,furniture,2,-6.722378730773926,-0.8402973413467407,336224058,bert-large-uncased
+a couch is a type of furniture.,couch,furniture,3,-8.724912643432617,-1.0906140804290771,336224058,bert-large-uncased
+a table is a type of furniture.,table,furniture,4,-12.571646690368652,-1.5714558362960815,336224058,bert-large-uncased
+an easy chair is a type of furniture.,easy chair,furniture,5,-10.644474983215332,-1.1827194425794814,336224058,bert-large-uncased
+a dresser is a type of furniture.,dresser,furniture,6,-11.325166702270508,-1.4156458377838135,336224058,bert-large-uncased
+a rocking chair is a type of furniture.,rocking chair,furniture,7,-7.906108856201172,-0.878456539577908,336224058,bert-large-uncased
+a coffee table is a type of furniture.,coffee table,furniture,8,-7.792179107666016,-0.8657976786295573,336224058,bert-large-uncased
+a rocker is a type of furniture.,rocker,furniture,9,-13.396575927734375,-1.6745719909667969,336224058,bert-large-uncased
+a love seat is a type of furniture.,love seat,furniture,10,-9.013282775878906,-1.001475863986545,336224058,bert-large-uncased
+chest of drawers are furniture.,chest of drawers,furniture,11,-19.257664680480957,-3.2096107800801597,336224058,bert-large-uncased
+a desk is a type of furniture.,desk,furniture,12,-8.723373413085938,-1.0904216766357422,336224058,bert-large-uncased
+a bed is a type of furniture.,bed,furniture,13,-9.781067371368408,-1.222633421421051,336224058,bert-large-uncased
+a bureau is a type of furniture.,bureau,furniture,14,-16.491000652313232,-2.061375081539154,336224058,bert-large-uncased
+a davenport is a type of furniture.,davenport,furniture,15,-16.543368816375732,-2.0679211020469666,336224058,bert-large-uncased
+an end table is a type of furniture.,end table,furniture,16,-15.083704471588135,-1.6759671635097928,336224058,bert-large-uncased
+a divan is a type of furniture.,divan,furniture,17,-6.91340446472168,-0.7681560516357422,336224058,bert-large-uncased
+a night table is a type of furniture.,night table,furniture,18,-11.951656818389893,-1.3279618687099881,336224058,bert-large-uncased
+a chest is a type of furniture.,chest,furniture,19,-15.64837121963501,-1.9560464024543762,336224058,bert-large-uncased
+a cedar chest is a type of furniture.,cedar chest,furniture,20,-19.0602068901062,-2.1178007655673556,336224058,bert-large-uncased
+a vanity is a type of furniture.,vanity,furniture,21,-16.540798664093018,-2.067599833011627,336224058,bert-large-uncased
+a bookcase is a type of furniture.,bookcase,furniture,22,-8.147772789001465,-0.9053080876668295,336224058,bert-large-uncased
+a lounge is a type of furniture.,lounge,furniture,23,-14.055890083312988,-1.7569862604141235,336224058,bert-large-uncased
+a chaise lounge is a type of furniture.,chaise lounge,furniture,24,-7.235013008117676,-0.7235013008117676,336224058,bert-large-uncased
+an ottoman is a type of furniture.,ottoman,furniture,25,-9.373376846313477,-1.1716721057891846,336224058,bert-large-uncased
+a footstool is a type of furniture.,footstool,furniture,26,-7.614228248596191,-0.7614228248596191,336224058,bert-large-uncased
+a cabinet is a type of furniture.,cabinet,furniture,27,-7.342424392700195,-0.9178030490875244,336224058,bert-large-uncased
+a china closet is a type of furniture.,china closet,furniture,28,-24.897159576416016,-2.766351064046224,336224058,bert-large-uncased
+a bench is a type of furniture.,bench,furniture,29,-11.663625240325928,-1.457953155040741,336224058,bert-large-uncased
+a buffet is a type of furniture.,buffet,furniture,30,-19.03762674331665,-2.3797033429145813,336224058,bert-large-uncased
+a lamp is a type of furniture.,lamp,furniture,31,-18.416208267211914,-2.3020260334014893,336224058,bert-large-uncased
+a stool is a type of furniture.,stool,furniture,32,-9.442138671875,-1.180267333984375,336224058,bert-large-uncased
+a hassock is a type of furniture.,hassock,furniture,33,-8.9805006980896,-0.89805006980896,336224058,bert-large-uncased
+drawers are furniture.,drawers,furniture,34,-27.00843620300293,-6.752109050750732,336224058,bert-large-uncased
+a piano is a type of furniture.,piano,furniture,35,-15.299984455108643,-1.9124980568885803,336224058,bert-large-uncased
+a cushion is a type of furniture.,cushion,furniture,36,-12.284071445465088,-1.535508930683136,336224058,bert-large-uncased
+a magazine rack is a type of furniture.,magazine rack,furniture,37,-19.77607488632202,-2.19734165403578,336224058,bert-large-uncased
+a hi-fi is a type of furniture.,hi-fi,furniture,38,-16.82983160018921,-1.682983160018921,336224058,bert-large-uncased
+a cupboard is a type of furniture.,cupboard,furniture,39,-13.965439796447754,-1.7456799745559692,336224058,bert-large-uncased
+a stereo is a type of furniture.,stereo,furniture,40,-19.1510910987854,-2.393886387348175,336224058,bert-large-uncased
+a mirror is a type of furniture.,mirror,furniture,41,-18.648310661315918,-2.3310388326644897,336224058,bert-large-uncased
+a television is a type of furniture.,television,furniture,42,-21.072353839874268,-2.6340442299842834,336224058,bert-large-uncased
+a bar is a type of furniture.,bar,furniture,43,-15.769207000732422,-1.9711508750915527,336224058,bert-large-uncased
+a shelf is a type of furniture.,shelf,furniture,44,-16.5868239402771,-2.0733529925346375,336224058,bert-large-uncased
+a rug is a type of furniture.,rug,furniture,45,-13.682042121887207,-1.7102552652359009,336224058,bert-large-uncased
+a pillow is a type of furniture.,pillow,furniture,46,-14.200555801391602,-1.7750694751739502,336224058,bert-large-uncased
+a wastebasket is a type of furniture.,wastebasket,furniture,47,-14.182222366333008,-1.575802485148112,336224058,bert-large-uncased
+a radio is a type of furniture.,radio,furniture,48,-25.22946548461914,-3.1536831855773926,336224058,bert-large-uncased
+a sewing machine is a type of furniture.,sewing machine,furniture,49,-19.629780769348145,-2.1810867521497936,336224058,bert-large-uncased
+a stove is a type of furniture.,stove,furniture,50,-17.712675094604492,-2.2140843868255615,336224058,bert-large-uncased
+a counter is a type of furniture.,counter,furniture,51,-19.334900856018066,-2.4168626070022583,336224058,bert-large-uncased
+a clock is a type of furniture.,clock,furniture,52,-22.726656436920166,-2.8408320546150208,336224058,bert-large-uncased
+drapes are furniture.,drapes,furniture,53,-25.85814094543457,-5.171628189086914,336224058,bert-large-uncased
+a refrigerator is a type of furniture.,refrigerator,furniture,54,-16.43369436264038,-2.0542117953300476,336224058,bert-large-uncased
+a picture is a type of furniture.,picture,furniture,55,-22.883636951446533,-2.8604546189308167,336224058,bert-large-uncased
+a closet is a type of furniture.,closet,furniture,56,-16.518736839294434,-2.064842104911804,336224058,bert-large-uncased
+a vase is a type of furniture.,vase,furniture,57,-15.460925579071045,-1.9326156973838806,336224058,bert-large-uncased
+an ashtray is a type of furniture.,ashtray,furniture,58,-8.885578155517578,-0.9872864617241753,336224058,bert-large-uncased
+a fan is a type of furniture.,fan,furniture,59,-16.171693801879883,-2.0214617252349854,336224058,bert-large-uncased
+a telephone is a type of furniture.,telephone,furniture,60,-23.75718402862549,-2.969648003578186,336224058,bert-large-uncased
+a gun is a weapon.,gun,weapon,1,-3.984461784362793,-0.6640769640604655,336224058,bert-large-uncased
+a pistol is a weapon.,pistol,weapon,2,-8.47902774810791,-1.4131712913513184,336224058,bert-large-uncased
+a revolver is a weapon.,revolver,weapon,3,-10.39688491821289,-1.7328141530354817,336224058,bert-large-uncased
+a machine gun is a weapon.,machine gun,weapon,4,-2.3365840911865234,-0.3337977273123605,336224058,bert-large-uncased
+a rifle is a weapon.,rifle,weapon,5,-7.96550989151001,-1.327584981918335,336224058,bert-large-uncased
+a switchblade is a weapon.,switchblade,weapon,6,-5.679329872131348,-0.7099162340164185,336224058,bert-large-uncased
+a knife is a weapon.,knife,weapon,7,-6.703497886657715,-1.1172496477762859,336224058,bert-large-uncased
+a dagger is a weapon.,dagger,weapon,8,-7.965548038482666,-1.327591339747111,336224058,bert-large-uncased
+a shotgun is a weapon.,shotgun,weapon,9,-9.919171333312988,-1.6531952222188313,336224058,bert-large-uncased
+a sword is a weapon.,sword,weapon,10,-4.060237884521484,-0.6767063140869141,336224058,bert-large-uncased
+a bomb is a weapon.,bomb,weapon,11,-8.402767181396484,-1.400461196899414,336224058,bert-large-uncased
+a hand grenade is a weapon.,hand grenade,weapon,12,-5.540844917297363,-0.7915492738996234,336224058,bert-large-uncased
+an A-bomb is a weapon.,A-bomb,weapon,13,-7.604945182800293,-0.9506181478500366,336224058,bert-large-uncased
+a bayonet is a weapon.,bayonet,weapon,14,-2.23232364654541,-0.27904045581817627,336224058,bert-large-uncased
+a spear is a weapon.,spear,weapon,15,-6.854378700256348,-1.1423964500427246,336224058,bert-large-uncased
+a bazooka is a weapon.,bazooka,weapon,16,-2.569122314453125,-0.3211402893066406,336224058,bert-large-uncased
+a cannon is a weapon.,cannon,weapon,17,-9.816946029663086,-1.6361576716105144,336224058,bert-large-uncased
+a bow and arrow is a weapon.,bow and arrow,weapon,18,-3.50162410736084,-0.437703013420105,336224058,bert-large-uncased
+a club is a weapon.,club,weapon,19,-17.205896377563477,-2.8676493962605796,336224058,bert-large-uncased
+a lance is a weapon.,lance,weapon,20,-10.042963981628418,-1.673827330271403,336224058,bert-large-uncased
+brass knuckles are weapons.,brass knuckles,weapon,21,-15.109745025634766,-3.0219490051269533,336224058,bert-large-uncased
+a bullet is a weapon.,bullet,weapon,22,-8.289975643157959,-1.3816626071929932,336224058,bert-large-uncased
+a tomahawk is a weapon.,tomahawk,weapon,23,-7.6214799880981445,-0.9526849985122681,336224058,bert-large-uncased
+a mortar is a weapon.,mortar,weapon,24,-13.604631423950195,-2.2674385706583657,336224058,bert-large-uncased
+an arrow is a weapon.,arrow,weapon,25,-5.490972518920898,-0.9151620864868164,336224058,bert-large-uncased
+a blackjack is a weapon.,blackjack,weapon,26,-13.280136108398438,-1.8971623011997767,336224058,bert-large-uncased
+a tank is a weapon.,tank,weapon,27,-13.96692943572998,-2.3278215726216636,336224058,bert-large-uncased
+teargas are weapons.,teargas,weapon,28,-30.68900728225708,-6.137801456451416,336224058,bert-large-uncased
+a missile is a weapon.,missile,weapon,29,-8.865108013153076,-1.4775180021921794,336224058,bert-large-uncased
+a whip is a weapon.,whip,weapon,30,-11.697568416595459,-1.9495947360992432,336224058,bert-large-uncased
+an ice pick is a weapon.,ice pick,weapon,31,-6.657032012939453,-0.9510045732770648,336224058,bert-large-uncased
+a hatchet is a weapon.,hatchet,weapon,32,-6.383291244506836,-0.9118987492152623,336224058,bert-large-uncased
+a slingshot is a weapon.,slingshot,weapon,33,-2.2579498291015625,-0.3225642613002232,336224058,bert-large-uncased
+a fist is a weapon.,fist,weapon,34,-15.268234729766846,-2.544705788294474,336224058,bert-large-uncased
+an axe is a weapon.,axe,weapon,35,-4.6667585372924805,-0.7777930895487467,336224058,bert-large-uncased
+a bow is a weapon.,bow,weapon,36,-10.20441722869873,-1.7007362047831218,336224058,bert-large-uncased
+a razor is a weapon.,razor,weapon,37,-15.506686210632324,-2.584447701772054,336224058,bert-large-uncased
+a razor blade is a weapon.,razor blade,weapon,38,-6.666019439697266,-0.9522884913853237,336224058,bert-large-uncased
+a rocket is a weapon.,rocket,weapon,39,-13.48923110961914,-2.2482051849365234,336224058,bert-large-uncased
+a judo is a weapon.,judo,weapon,40,-18.753774642944336,-3.125629107157389,336224058,bert-large-uncased
+a stick is a weapon.,stick,weapon,41,-9.589451789855957,-1.598241964975993,336224058,bert-large-uncased
+a poison is a weapon.,poison,weapon,42,-11.176951885223389,-1.8628253142038982,336224058,bert-large-uncased
+a rock is a weapon.,rock,weapon,43,-16.825551509857178,-2.8042585849761963,336224058,bert-large-uncased
+a stone is a weapon.,stone,weapon,44,-16.016340732574463,-2.6693901220957437,336224058,bert-large-uncased
+gas are weapons.,gas,weapon,45,-29.723305702209473,-7.430826425552368,336224058,bert-large-uncased
+a chain is a weapon.,chain,weapon,46,-17.785367965698242,-2.9642279942830405,336224058,bert-large-uncased
+a scissors is a weapon.,scissors,weapon,47,-16.03766632080078,-2.6729443868001304,336224058,bert-large-uncased
+bricks are weapons.,bricks,weapon,48,-20.505671501159668,-5.126417875289917,336224058,bert-large-uncased
+a pitchfork is a weapon.,pitchfork,weapon,49,-14.196989059448242,-2.3661648432413735,336224058,bert-large-uncased
+a hammer is a weapon.,hammer,weapon,50,-9.496752262115479,-1.582792043685913,336224058,bert-large-uncased
+a word is a weapon.,word,weapon,51,-16.851836681365967,-2.8086394468943277,336224058,bert-large-uncased
+a hand is a weapon.,hand,weapon,52,-23.06880807876587,-3.844801346460978,336224058,bert-large-uncased
+a pipe is a weapon.,pipe,weapon,53,-14.78653621673584,-2.4644227027893066,336224058,bert-large-uncased
+a rope is a weapon.,rope,weapon,54,-17.264383792877197,-2.877397298812866,336224058,bert-large-uncased
+an airplane is a weapon.,airplane,weapon,55,-12.434103012084961,-2.07235050201416,336224058,bert-large-uncased
+a foot is a weapon.,foot,weapon,56,-20.849002838134766,-3.4748338063557944,336224058,bert-large-uncased
+a car is a weapon.,car,weapon,57,-16.567580699920654,-2.761263449986776,336224058,bert-large-uncased
+a screwdriver is a weapon.,screwdriver,weapon,58,-8.212845802307129,-1.0266057252883911,336224058,bert-large-uncased
+glass are weapons.,glass,weapon,59,-26.45327854156494,-6.613319635391235,336224058,bert-large-uncased
+a shoe is a weapon.,shoe,weapon,60,-17.629319190979004,-2.9382198651631675,336224058,bert-large-uncased
