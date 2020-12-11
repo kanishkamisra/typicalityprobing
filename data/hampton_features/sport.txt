@@ -1,0 +1,18 @@
+is physical; 31
+is connected with the body; 31
+is a human activity; 30
+is a pastime; 29
+is a recreation; 29
+is done for leisure; 29
+is competitive; 25
+involves physical exertion; 24
+is energetic; 24
+is enjoyed when done; 22
+is not a solitary activity; 18
+has teams; 17
+has spectators; 16
+involves physical skill; 14
+has rules; 10
+uses special equipment; 9
+takes place outdoors; 8
+is exercise; 8

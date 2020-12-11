@@ -1,0 +1,13 @@
+is alive; 32
+flies; 32
+has feathers; 30
+has a beak; 26
+has a bill; 26
+has wings; 25
+has legs and feet; 24
+lays eggs; 20
+has just two legs; 18
+builds nests; 15
+sings; 14
+has claws; 12
+is very lightweight; 8

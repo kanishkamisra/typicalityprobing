@@ -1,0 +1,13 @@
+has a specific function; 32
+is used by humans; 32
+is found in buildings; 30
+is made of wood; 20
+is for sitting on or in; 18
+is attractive; 16
+is for comfort, convenience or satisfaction; 16
+is found in the home; 15
+is man-made; 15
+is manufactured; 15
+is for putting things on or in; 13
+is not just decorative; 12
+has legs; 10

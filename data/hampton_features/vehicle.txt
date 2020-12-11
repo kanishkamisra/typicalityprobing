@@ -1,0 +1,16 @@
+carries people or things; 32
+can move; 32
+moves along; 32
+has wheels; 31
+carries people; 28
+is powered; 28
+has an engine; 28
+uses fuel; 28
+is self-propelled; 21
+has some means of propulsion; 21
+is used for transport; 17
+is steered; 16
+has a driver controlling direction; 16
+has a space for passengers or goods; 10
+moves faster than a person on his own; 6
+is man-made; 4

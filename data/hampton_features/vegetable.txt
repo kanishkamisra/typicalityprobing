@@ -1,0 +1,13 @@
+is edible; 32
+is eaten; 32
+is a plant; 30
+is organic; 30
+is vegetation; 30
+grows underground or close to the ground; 22
+is green; 18
+is cooked; 13
+is eaten for dinner, with meat, salt etc; 12
+has leaves and stalks; 10
+is not sweet; 10
+is savoury or tasteless; 10
+is cultivated; 9

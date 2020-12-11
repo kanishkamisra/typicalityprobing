@@ -1,0 +1,16 @@
+has a specific function; 32
+is used by humans; 32
+is connected with food; 30
+is found in the kitchen; 29
+is for the preparation or cooking of food; 27
+is made of metal in part; 18
+is portable; 18
+can be lifted and held; 18
+is only found in the kitchen; 13
+has a handle; 13
+is efficient, does a job well; 11
+is made of wood in part; 10
+is relatively small; 10
+is manufactured; 10
+is man-made; 10
+is a container; 9

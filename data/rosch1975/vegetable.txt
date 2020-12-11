@@ -1,0 +1,57 @@
+pea
+carrot
+green beans
+string beans
+spinach
+broccoli
+asparagus
+corn
+cauliflower
+brussels
+sprouts
+squash
+lettuce
+celery
+cucumber
+beets
+greens
+tomato
+lima beans
+artichokes
+turnip
+eggplant
+romaine
+green peppers
+okra
+radishes
+onions
+bean
+green onion
+potato
+parsnip
+turnip greens
+collard
+wax beans
+watercress
+black eyed peas
+leek
+peppers
+sweet potato
+yams
+parsley
+endive
+rutabaga
+mushroom
+avocado
+rhubarb
+kale
+escarole
+sauerkraut
+pickles
+baked beans
+pumpkin
+seaweed
+garlic
+dandelion
+peanut
+rice

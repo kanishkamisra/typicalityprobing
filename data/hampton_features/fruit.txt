@@ -1,0 +1,15 @@
+is a plant; 31
+is organic; 31
+is vegetation; 31
+is edible; 30
+is eaten; 30
+contains seeds; 27
+grows above ground, on bushes or trees; 26
+is juicy; 17
+is thirst quenching; 17
+is brightly coloured; 16
+is sweet; 15
+has an outer layer of skin or peel; 13
+is round; 9
+is eaten as a dessert, snack, or on its own; 8
+is a protection for seeds; 7

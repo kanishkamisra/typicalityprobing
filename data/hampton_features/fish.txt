@@ -1,0 +1,16 @@
+is alive; 32
+lives in water; 32
+has fins; 31
+swims; 27
+has gills; 26
+has scales; 23
+has a tail; 20
+breathes water; 18
+is streamlined; 16
+has eyes - large, round, and at the side; 13
+dies out of water; 12
+is cold-blooded; 11
+has no limbs; 11
+is a long oval 'fish-like' shape; 9
+has a mouth; 9
+is edible; 8
