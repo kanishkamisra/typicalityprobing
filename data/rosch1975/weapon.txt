@@ -10,7 +10,7 @@ shotgun
 sword
 bomb
 hand grenade
-A-bomb
+Atom bomb
 bayonet
 spear
 bazooka
@@ -18,7 +18,7 @@ cannon
 bow and arrow
 club
 lance
-brass knuckles
+brass knuckle
 bullet
 tomahawk
 mortar
@@ -44,8 +44,8 @@ rock
 stone
 gas
 chain
-scissors
-bricks
+scissor
+brick
 pitchfork
 hammer
 word

@@ -1,6 +1,6 @@
 # This gitignore file has R and python ignores.
 .DS_Store
-
+data/frequencies/
 # History files
 .Rhistory
 .Rapp.history
@@ -36,7 +36,7 @@ vignettes/*.pdf
 
 # Temporary files created by R markdown
 *.utf8.md
-*.knit.md
+.knit.md
 
 # R Environment Variables
 .Renviron

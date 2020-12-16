@@ -6,7 +6,7 @@ pear
 apricot
 tangerine
 plum
-grapes
+grape
 nectarine
 strawberry
 grapefruit
@@ -32,7 +32,7 @@ guava
 pomegranate
 cranberry
 passion fruit
-prunes
+prune
 gooseberry
 date
 kumquat

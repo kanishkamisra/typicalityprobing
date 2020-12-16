@@ -1,43 +1,43 @@
 pea
 carrot
-green beans
-string beans
+green bean
+string bean
 spinach
 broccoli
 asparagus
 corn
 cauliflower
-brussels
-sprouts
+brussel
+sprout
 squash
 lettuce
 celery
 cucumber
-beets
-greens
+beet
+green
 tomato
-lima beans
-artichokes
+lima bean
+artichoke
 turnip
 eggplant
 romaine
-green peppers
+green pepper
 okra
-radishes
-onions
+radish
+onion
 bean
 green onion
 potato
 parsnip
-turnip greens
+turnip green
 collard
-wax beans
+wax bean
 watercress
-black eyed peas
+black eyed pea
 leek
-peppers
+pepper
 sweet potato
-yams
+yam
 parsley
 endive
 rutabaga
@@ -47,8 +47,8 @@ rhubarb
 kale
 escarole
 sauerkraut
-pickles
-baked beans
+pickle
+baked bean
 pumpkin
 seaweed
 garlic

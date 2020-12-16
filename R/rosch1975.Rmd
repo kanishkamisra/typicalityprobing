@@ -1,0 +1,269 @@
+---
+title: "Typicality Effects in LMs"
+output: github_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+# Loading libraries
+library(tidyverse)
+library(broom)
+library(widyr)
+
+theme_set(theme_bw(base_size = 16))
+```
+
+
+**Loading Data**
+
+```{r}
+
+frequencies <- read_csv("data/frequencies/raw_wiki_counts2.csv")
+
+typicality_results <- fs::dir_ls("data/rosch1975/results/rosch1975/", regexp = "*gpt") %>%
+  map_df(read_csv) %>%
+  mutate(
+    model = str_remove(model, "(google_)"),
+    model = str_remove(model, "\\-generator"),
+    model = str_remove(model, "\\-uncased"),
+    model = str_replace(model, "large", "l"),
+    model = str_replace(model, "medium", "m"),
+    model = str_replace(model, "small", "s"),
+    model = str_replace(model, "base", "b"),
+    model = str_replace(model, "openai\\-", "")
+  ) %>%
+  inner_join(frequencies %>% select(item = word, count)) %>%
+  group_by(model, category) %>% 
+  mutate(rank = row_number()) %>%
+  ungroup()
+
+feature_results <- fs::dir_ls("data/rosch1975/results/rosch1975_features/", regexp = "*gpt") %>%
+  map_df(read_csv) %>%
+  mutate(
+    model = str_remove(model, "(google_)"),
+    model = str_remove(model, "\\-generator"),
+    model = str_remove(model, "\\-uncased"),
+    model = str_replace(model, "large", "l"),
+    model = str_replace(model, "medium", "m"),
+    model = str_replace(model, "small", "s"),
+    model = str_replace(model, "base", "b"),
+    model = str_replace(model, "openai\\-", "")
+  ) %>%
+  inner_join(frequencies %>% select(item = word, count))
+```
+
+
+**Alignment with Humans**
+
+```{r}
+typicality_results %>%
+  pivot_longer(logprob:normalized_logprob, names_to = "metric", values_to = "value") %>%
+  group_by(model, category, params, metric) %>%
+  nest() %>%
+  mutate(
+    corr = map(data, function(x) cor.test(x$rank, -x$value, method = "spearman") %>% tidy())
+  ) %>%
+  select(-data) %>%
+  unnest(corr) %>%
+  filter(metric == "normalized_logprob") %>%
+  ggplot(aes(model, estimate)) + 
+  geom_col(width = 0.7, color = "steelblue", fill = "steelblue", alpha = 0.8) +
+  # geom_smooth(method = "lm") +
+  scale_y_continuous(limits = c(-0.25, 0.6)) +
+  facet_wrap(~category, nrow = 2) +
+  labs(
+    y = "Correlation"
+  ) +
+  theme(
+    axis.text.x = element_text(size = rel(0.9), angle = 10)
+  )
+```
+
+```{r}
+typicality_results %>%
+  group_by(model) %>%
+  mutate(id = row_number()) %>%
+  select(id, model, logprob) %>%
+  pairwise_cor(model, id, logprob, diag = TRUE) %>%
+  ggplot(aes(item1, item2, fill = correlation)) +
+  geom_tile() +
+  scale_fill_distiller(palette = "Blues", direction = 1) + 
+  theme(
+    axis.text.x = element_text(angle = 20)
+  )
+```
+
+```{r}
+set.seed(1234)
+
+groups <- typicality_results %>%
+  distinct(item, category, rank) %>%
+  group_by(category) %>%
+  nest() %>%
+  mutate(
+    data = map(data, function(x) {
+      if(nrow(x) %% 2 != 0) {
+        return(x[-nrow(x),])
+      }
+      else {
+        return(x)
+      }
+    })
+  ) %>%
+  unnest(data) %>%
+  add_count(category) %>%
+  group_by() %>%
+  mutate(
+    group = case_when(
+      rank <= n/2 ~ "typical",
+      TRUE ~ "atypical"
+    )
+  )
+
+atypical <- groups %>%
+  filter(group == "atypical") %>%
+  select(category2 = category, item2 = item) %>%
+  nest_by(category2, .key = "item2")
+
+typical <- groups %>%
+  filter(group == "typical") %>%
+  select(category1 = category, item1 = item) %>%
+  nest_by(category1, .key = "item1")
+
+run_alignment <- function() {
+  experiment1 <- bind_cols(typical, atypical) %>%
+  mutate(
+    item1 = map(item1, function(x) {
+      return(sample(x, length(x)))
+    }),
+    item2 = map(item2, function(x) {
+      return(sample(x, length(x)))
+    })
+  ) %>%
+    unnest(c(item1, item2)) %>%
+    inner_join(typicality_results %>% select(item1 = item, category1 = category, nlp1 = normalized_logprob, lp1 = logprob, model, params, freq1 = count)) %>%
+    inner_join(typicality_results %>% select(item2 = item, category2 = category, nlp2 = normalized_logprob, lp2 = logprob, model, params, freq2 = count)) %>%
+    select(-category2) %>%
+    rename(category = category1)
+  
+  return(experiment1)
+}
+```
+
+```{r}
+exp_setup <- replicate(100, run_alignment(), simplify = FALSE) 
+
+experiment_1 <- exp_setup %>%
+  map(function(x) {
+    x %>%
+      group_by(model, params, category) %>%
+      summarize(
+        alignment_lp = mean(lp1 > lp2),
+        alignment_nlp = mean(nlp1 > nlp2),
+        alignment_freq= mean(freq1 > freq2)
+      )
+  }) %>%
+  bind_rows(.id = "run")
+```
+
+```{r}
+experiment1 %>% 
+  group_by(model, params, category) %>% 
+  summarize(
+    se_lp = 1.96 * plotrix::std.error(alignment_lp),
+    alignment_lp = mean(alignment_lp),
+    high_lp = alignment_lp + se_lp,
+    low_lp = alignment_lp - se_lp,
+    se_nlp = 1.96 * plotrix::std.error(alignment_nlp),
+    alignment_nlp = mean(alignment_nlp),
+    high_nlp = alignment_nlp + se_nlp,
+    low_nlp = alignment_nlp - se_nlp
+  ) %>% 
+  ungroup() %>%
+  mutate(
+    model = fct_reorder(model, params)
+  ) %>%
+  ggplot(aes(model, alignment_nlp)) + 
+  geom_col(color = "steelblue", fill = "steelblue", width = 0.7, alpha = 0.8) + 
+  geom_errorbar(aes(ymin = low_nlp, ymax = high_nlp), width = 0.3) +
+  # geom_hline(yintercept = 0.5, linetype = 17) +
+  scale_y_continuous(limits = c(0, 1.0)) +
+  facet_wrap(~category, nrow = 2) +
+  labs(
+    y = "Alignment"
+  ) +
+  theme(
+    axis.text.x = element_text(size = rel(0.9), angle = 10)
+  )
+```
+
+**Property Agreement**
+
+```{r}
+predict <- function(item1, item2, metric1, metric2) {
+  if(metric1 > metric2){
+    return(item1)
+  }
+  else if (metric2 > metric1) {
+    return(item2)
+  }
+  else {
+    return("equal")
+  }
+}
+
+agreeability_exp <- exp_setup %>%
+  map(function(x) {
+    x %>% 
+      inner_join(feature_results %>% select(item1 = item, category, feature, f_lp1 = logprob, f_nlp1 = normalized_logprob, model, params)) %>%
+      inner_join(feature_results %>% select(item2 = item, category, feature, f_lp2 = logprob, f_nlp2 = normalized_logprob, model, params)) %>%
+      mutate(
+        taxonomic_prediction_lp = pmap_chr(list(item1, item2, lp1, lp2), predict),
+        taxonomic_prediction_nlp = pmap_chr(list(item1, item2, nlp1, nlp2), predict),
+        featural_prediction_lp = pmap_chr(list(item1, item2, f_lp1, f_lp2), predict),
+        featural_prediction_nlp = pmap_chr(list(item1, item2, f_nlp1, f_nlp2), predict)
+      ) %>%
+      group_by(model, params, category, item1, item2) %>%
+      summarize(
+        agreeability_lp = mean(taxonomic_prediction_lp == featural_prediction_lp),
+        agreeability_nlp = mean(taxonomic_prediction_nlp == featural_prediction_nlp)
+      )
+  }) %>%
+  bind_rows(.id = "run") %>%
+  group_by(model, params, category) %>%
+  summarize(
+    se_lp = 1.96 * plotrix::std.error(agreeability_lp),
+    agreeability_lp = mean(agreeability_lp),
+    high_lp = agreeability_lp + se_lp,
+    low_lp = agreeability_lp - se_lp,
+    se_nlp = 1.96 * plotrix::std.error(agreeability_nlp),
+    agreeability_nlp = mean(agreeability_nlp),
+    high_nlp = agreeability_nlp + se_nlp,
+    low_nlp = agreeability_nlp - se_nlp
+  )
+```
+
+```{r}
+agreeability_exp %>%
+  ggplot(aes(model, agreeability_nlp)) +
+  geom_col(color = "steelblue", fill = "steelblue", width = 0.7, alpha = 0.8) + 
+  geom_errorbar(aes(ymin = low_nlp, ymax = high_nlp), width = 0.3) +
+  # geom_hline(yintercept = 0.5, linetype = 17) +
+  scale_y_continuous(limits = c(0, 1.0)) +
+  facet_wrap(~category) +
+  labs(
+    y = "% instances where\nproperty and taxonomic typicality agree"
+  ) +
+  theme(
+    axis.text.x = element_text(size = rel(0.9), angle = 10)
+  )
+```
+
+**Relation with Frequency**
+
+```{r}
+
+```
+

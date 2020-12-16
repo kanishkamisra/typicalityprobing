@@ -3,7 +3,7 @@ hammer
 ruler
 screwdriver
 drill
-nails
+nail
 tape measure
 sawhorse
 sandpaper
@@ -19,16 +19,16 @@ pencil
 hacksaw
 square
 bench
-pliers
+plier
 wrench
 ladder
 lathe
 vise
-screws
+screw
 wood
 wedge
 lumber
-blueprints
+blueprint
 brace
 awl
 crowbar
@@ -36,8 +36,8 @@ hinge
 miter box
 knife
 chalk
-nuts
-bolts
+nut
+bolt
 plumb line
 brush
 sledge hammer
@@ -55,6 +55,6 @@ slide rule
 cement
 anvil
 hatchet
-rags
-scissors
+rag
+scissor
 crane

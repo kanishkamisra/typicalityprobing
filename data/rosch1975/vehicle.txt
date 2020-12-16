@@ -40,10 +40,10 @@ sled
 horse
 rocket
 blimp
-skates
+skate
 camel
 feet
-skis
+ski
 skateboard
 wheelbarrow
 surfboard

@@ -36,7 +36,7 @@ condor
 toucan
 owl
 pelican
-geese
+goose
 vulture
 stork
 buzzard
