@@ -36,9 +36,6 @@ with open(args.dataset, "r") as f:
     for row in reader:
         dataset.append(list(row.values()))
 
-dataset = list(zip(*dataset))
-stimuli = dataset[0]
-
 if lm_type == "masked" or lm_type == "mlm":
     transformer = scorer.MaskedLMScorer(model_name, device)
 elif lm_type == "incremental" or lm_type == "causal":
@@ -47,31 +44,26 @@ elif lm_type == "incremental" or lm_type == "causal":
 if "/" in model_name:
     model_name = model_name.replace("/", "_")
 
-num_params = [sum(p.numel() for p in transformer.model.parameters())] * len(stimuli)
+num_params = [sum(p.numel() for p in transformer.model.parameters())] * len(dataset)
 
-stimuli_loader = DataLoader(stimuli, batch_size = batch_size, num_workers=4)
+stimuli_loader = DataLoader(dataset, batch_size = batch_size, num_workers=8)
 
-# results = []
-lps = []
-normalized_lps = []
+results = []
+
 for batch in tqdm(stimuli_loader):
-    # scores = transformer.score(batch)
-    result = transformer.logprobs(transformer.prepare_text(batch))
-    logprob, _ = list(zip(*result))
-    logprobs = list(map(lambda x: x.sum().tolist(), logprob))
-    normalized_logprobs = list(map(lambda x: x.mean().tolist(), logprob))
-    # results.extend(scores)
-    lps.extend(logprobs)
-    normalized_lps.extend(normalized_logprobs)
+    premise = list(batch[0])
+    conclusion = list(batch[1])
+    scores = transformer.adapt_score(premise, conclusion, torch.sum)
+    results.extend(scores)
 
-# dataset.append(results)
-dataset.append(lps)
-dataset.append(normalized_lps)
+
+dataset = list(zip(*dataset))
+dataset.append(results)
+
 dataset.append(num_params)
-dataset.append([model_name] * len(stimuli))
+dataset.append([model_name] * len(results))
 
-# column_names = column_names + ["score", "params", "model"]
-column_names = column_names + ["logprob", "normalized_logprob", "params", "model"]
+column_names = column_names + ["score", "params", "model"]
 
 with open(results_dir + f"/{model_name}.csv", "w") as f:
     writer = csv.writer(f)
