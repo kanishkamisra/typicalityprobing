@@ -92,7 +92,7 @@ a sandpiper is a bird.,sandpiper,bird,30
 a pheasant is a bird.,pheasant,bird,31
 a catbird is a bird.,catbird,bird,32
 a crane is a bird.,crane,bird,33
-albatross are birds.,albatross,bird,34
+an albatross is a bird.,albatross,bird,34
 a condor is a bird.,condor,bird,35
 a toucan is a bird.,toucan,bird,36
 an owl is a bird.,owl,bird,37
@@ -191,27 +191,27 @@ beets are vegetables.,beets,vegetable,16
 greens are vegetables.,greens,vegetable,17
 tomato is a vegetable.,tomato,vegetable,18
 lima beans are vegetables.,lima beans,vegetable,19
-artichokes are vegetables.,artichokes,vegetable,20
+artichoke is a vegetable.,artichokes,vegetable,20
 turnip is a vegetable.,turnip,vegetable,21
 eggplant is a vegetable.,eggplant,vegetable,22
 romaine is a vegetable.,romaine,vegetable,23
 green peppers are vegetables.,green peppers,vegetable,24
 okra is a vegetable.,okra,vegetable,25
-radishes are vegetables.,radishes,vegetable,26
-onions are vegetables.,onions,vegetable,27
-bean is a vegetable.,bean,vegetable,28
+radish is a vegetable.,radishes,vegetable,26
+onion is a vegetable.,onions,vegetable,27
+beans are vegetables.,bean,vegetable,28
 green onion is a vegetable.,green onion,vegetable,29
-potato is a vegetable.,potato,vegetable,30
+potatoes are vegetables.,potato,vegetable,30
 parsnip is a vegetable.,parsnip,vegetable,31
 turnip greens are vegetables.,turnip greens,vegetable,32
 collard is a vegetable.,collard,vegetable,33
 wax beans are vegetables.,wax beans,vegetable,34
-watercress are vegetables.,watercress,vegetable,35
+watercress is a vegetable.,watercress,vegetable,35
 black eyed peas are vegetables.,black eyed peas,vegetable,36
 leek is a vegetable.,leek,vegetable,37
 peppers are vegetables.,peppers,vegetable,38
-sweet potato is a vegetable.,sweet potato,vegetable,39
-yams are vegetables.,yams,vegetable,40
+sweet potatoes are a vegetables.,sweet potato,vegetable,39
+yam is a vegetable.,yams,vegetable,40
 parsley is a vegetable.,parsley,vegetable,41
 endive is a vegetable.,endive,vegetable,42
 rutabaga is a vegetable.,rutabaga,vegetable,43
@@ -229,16 +229,16 @@ garlic is a vegetable.,garlic,vegetable,54
 dandelion is a vegetable.,dandelion,vegetable,55
 peanut is a vegetable.,peanut,vegetable,56
 rice is a vegetable.,rice,vegetable,57
-a saw is a tool.,saw,tool,1
-a hammer is a tool.,hammer,tool,2
-a ruler is a tool.,ruler,tool,3
-a screwdriver is a tool.,screwdriver,tool,4
-a drill is a tool.,drill,tool,5
+saw is a tool.,saw,tool,1
+hammer is a tool.,hammer,tool,2
+ruler is a tool.,ruler,tool,3
+screwdriver is a tool.,screwdriver,tool,4
+drill is a tool.,drill,tool,5
 nails are tools.,nails,tool,6
-a tape measure is a tool.,tape measure,tool,7
-a sawhorse is a tool.,sawhorse,tool,8
-a sandpaper is a tool.,sandpaper,tool,9
-a sander is a tool.,sander,tool,10
+tape measure is a tool.,tape measure,tool,7
+sawhorse is a tool.,sawhorse,tool,8
+sandpaper is a tool.,sandpaper,tool,9
+sander is a tool.,sander,tool,10
 a level is a tool.,level,tool,11
 a plane is a tool.,plane,tool,12
 a file is a tool.,file,tool,13
@@ -250,18 +250,18 @@ a pencil is a tool.,pencil,tool,18
 a hacksaw is a tool.,hacksaw,tool,19
 a square is a tool.,square,tool,20
 a bench is a tool.,bench,tool,21
-a pliers is a tool.,pliers,tool,22
+pliers is a tool.,pliers,tool,22
 a wrench is a tool.,wrench,tool,23
 a ladder is a tool.,ladder,tool,24
 a lathe is a tool.,lathe,tool,25
 a vise is a tool.,vise,tool,26
-screws are tools.,screws,tool,27
-a wood is a tool.,wood,tool,28
+screw is a tool.,screws,tool,27
+wood is a tool.,wood,tool,28
 a wedge is a tool.,wedge,tool,29
-a lumber is a tool.,lumber,tool,30
+lumber is a tool.,lumber,tool,30
 blueprints are tools.,blueprints,tool,31
-a brace is a tool.,brace,tool,32
-an awl is a tool.,awl,tool,33
+brace is a tool.,brace,tool,32
+awl is a tool.,awl,tool,33
 a crowbar is a tool.,crowbar,tool,34
 a hinge is a tool.,hinge,tool,35
 a miter box is a tool.,miter box,tool,36
@@ -342,7 +342,7 @@ pickle is a fruit.,pickle,fruit,50
 squash is a fruit.,squash,fruit,51
 pants are clothes.,pants,clothing,1
 a shirt is a type of clothing.,shirt,clothing,2
-dress are clothes.,dress,clothing,3
+dress is a type of clothing.,dress,clothing,3
 a skirt is a type of clothing.,skirt,clothing,4
 a blouse is a type of clothing.,blouse,clothing,5
 a suit is a type of clothing.,suit,clothing,6
@@ -389,7 +389,7 @@ a handkerchief is a type of clothing.,handkerchief,clothing,46
 a purse is a type of clothing.,purse,clothing,47
 a hairband is a type of clothing.,hairband,clothing,48
 a ring is a type of clothing.,ring,clothing,49
-earrings are clothes.,earrings,clothing,50
+en arring is a type of clothing.,earrings,clothing,50
 a watch is a type of clothing.,watch,clothing,51
 cuff links are clothes.,cuff links,clothing,52
 a necklace is a type of clothing.,necklace,clothing,53
@@ -440,7 +440,7 @@ a blimp is a vehicle.,blimp,vehicle,42
 skates are vehicles.,skates,vehicle,43
 a camel is a vehicle.,camel,vehicle,44
 feet are vehicles.,feet,vehicle,45
-skis are vehicles.,skis,vehicle,46
+ski is a vehicle.,skis,vehicle,46
 a skateboard is a vehicle.,skateboard,vehicle,47
 a wheelbarrow is a vehicle.,wheelbarrow,vehicle,48
 a surfboard is a vehicle.,surfboard,vehicle,49
@@ -517,7 +517,7 @@ a shotgun is a weapon.,shotgun,weapon,9
 a sword is a weapon.,sword,weapon,10
 a bomb is a weapon.,bomb,weapon,11
 a hand grenade is a weapon.,hand grenade,weapon,12
-an A-bomb is a weapon.,A-bomb,weapon,13
+an atom bomb is a weapon.,atom bomb,weapon,13
 a bayonet is a weapon.,bayonet,weapon,14
 a spear is a weapon.,spear,weapon,15
 a bazooka is a weapon.,bazooka,weapon,16
@@ -532,7 +532,7 @@ a mortar is a weapon.,mortar,weapon,24
 an arrow is a weapon.,arrow,weapon,25
 a blackjack is a weapon.,blackjack,weapon,26
 a tank is a weapon.,tank,weapon,27
-teargas are weapons.,teargas,weapon,28
+teargas is a weapon.,teargas,weapon,28
 a missile is a weapon.,missile,weapon,29
 a whip is a weapon.,whip,weapon,30
 an ice pick is a weapon.,ice pick,weapon,31
@@ -549,19 +549,19 @@ a stick is a weapon.,stick,weapon,41
 a poison is a weapon.,poison,weapon,42
 a rock is a weapon.,rock,weapon,43
 a stone is a weapon.,stone,weapon,44
-gas are weapons.,gas,weapon,45
+gas is a weapon.,gas,weapon,45
 a chain is a weapon.,chain,weapon,46
 a scissors is a weapon.,scissors,weapon,47
-bricks are weapons.,bricks,weapon,48
+a brick is a weapon.,bricks,weapon,48
 a pitchfork is a weapon.,pitchfork,weapon,49
 a hammer is a weapon.,hammer,weapon,50
-a word is a weapon.,word,weapon,51
-a hand is a weapon.,hand,weapon,52
+words are weapons.,word,weapon,51
+hands are weapons.,hand,weapon,52
 a pipe is a weapon.,pipe,weapon,53
 a rope is a weapon.,rope,weapon,54
 an airplane is a weapon.,airplane,weapon,55
-a foot is a weapon.,foot,weapon,56
+feet are weapons.,foot,weapon,56
 a car is a weapon.,car,weapon,57
 a screwdriver is a weapon.,screwdriver,weapon,58
-glass are weapons.,glass,weapon,59
+a glass is a weapon.,glass,weapon,59
 a shoe is a weapon.,shoe,weapon,60
