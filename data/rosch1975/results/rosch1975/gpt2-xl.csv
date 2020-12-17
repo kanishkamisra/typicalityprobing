@@ -92,7 +92,7 @@ a sandpiper is a bird.,sandpiper,bird,30,-42.96614599227905,-4.774016221364339,1
 a pheasant is a bird.,pheasant,bird,31,-38.62922430038452,-4.292136033376058,1557612800,gpt2-xl
 a catbird is a bird.,catbird,bird,32,-42.19095849990845,-5.273869812488556,1557612800,gpt2-xl
 a crane is a bird.,crane,bird,33,-43.398797035217285,-6.199828147888184,1557612800,gpt2-xl
-albatross are birds.,albatross,bird,34,-40.67898464202881,-5.811283520289829,1557612800,gpt2-xl
+an albatross is a bird.,albatross,bird,34,-39.24866724014282,-4.360963026682536,1557612800,gpt2-xl
 a condor is a bird.,condor,bird,35,-39.040093421936035,-4.880011677742004,1557612800,gpt2-xl
 a toucan is a bird.,toucan,bird,36,-39.696468353271484,-4.9620585441589355,1557612800,gpt2-xl
 an owl is a bird.,owl,bird,37,-36.93533992767334,-5.276477132524763,1557612800,gpt2-xl
@@ -181,8 +181,7 @@ broccoli is a vegetable.,broccoli,vegetable,6,-31.896625995635986,-4.55666085651
 asparagus are vegetables.,asparagus,vegetable,7,-39.01518630981445,-5.5735980442592075,1557612800,gpt2-xl
 corn is a vegetable.,corn,vegetable,8,-33.987982749938965,-5.664663791656494,1557612800,gpt2-xl
 cauliflower is a vegetable.,cauliflower,vegetable,9,-34.36521911621094,-4.295652389526367,1557612800,gpt2-xl
-brussels are vegetables.,brussels,vegetable,10,-47.10325479507446,-6.729036399296352,1557612800,gpt2-xl
-sprouts are vegetables.,sprouts,vegetable,11,-38.5631365776062,-6.427189429601033,1557612800,gpt2-xl
+brussels sprouts are vegetables.,brussels sprouts,vegetable,10,-37.19676446914673,-4.132973829905192,1557612800,gpt2-xl
 squash is a vegetable.,squash,vegetable,12,-41.89103603363037,-5.984433719090053,1557612800,gpt2-xl
 lettuce is a vegetable.,lettuce,vegetable,13,-32.02431392669678,-4.574901989528111,1557612800,gpt2-xl
 celery is a vegetable.,celery,vegetable,14,-39.010770320892334,-5.572967188698905,1557612800,gpt2-xl
@@ -191,27 +190,27 @@ beets are vegetables.,beets,vegetable,16,-36.66326189041138,-6.1105436484018965,
 greens are vegetables.,greens,vegetable,17,-40.38515615463257,-6.730859359105428,1557612800,gpt2-xl
 tomato is a vegetable.,tomato,vegetable,18,-34.80341100692749,-4.9719158581324985,1557612800,gpt2-xl
 lima beans are vegetables.,lima beans,vegetable,19,-47.41709280014038,-6.773870400020054,1557612800,gpt2-xl
-artichokes are vegetables.,artichokes,vegetable,20,-38.459431648254395,-5.494204521179199,1557612800,gpt2-xl
+artichoke is a vegetable.,artichokes,vegetable,20,-37.75944709777832,-4.71993088722229,1557612800,gpt2-xl
 turnip is a vegetable.,turnip,vegetable,21,-37.3613862991333,-5.337340899876186,1557612800,gpt2-xl
 eggplant is a vegetable.,eggplant,vegetable,22,-32.28806972503662,-4.612581389290946,1557612800,gpt2-xl
 romaine is a vegetable.,romaine,vegetable,23,-45.517494201660156,-6.502499171665737,1557612800,gpt2-xl
 green peppers are vegetables.,green peppers,vegetable,24,-40.43671131134033,-6.739451885223389,1557612800,gpt2-xl
 okra is a vegetable.,okra,vegetable,25,-35.73306655883789,-5.104723794119699,1557612800,gpt2-xl
-radishes are vegetables.,radishes,vegetable,26,-39.94417905807495,-6.657363176345825,1557612800,gpt2-xl
-onions are vegetables.,onions,vegetable,27,-36.85189437866211,-6.141982396443685,1557612800,gpt2-xl
-bean is a vegetable.,bean,vegetable,28,-41.33852577209473,-6.889754295349121,1557612800,gpt2-xl
+radish is a vegetable.,radishes,vegetable,26,-41.32040071487427,-5.902914387839181,1557612800,gpt2-xl
+onion is a vegetable.,onions,vegetable,27,-41.4862265586853,-5.9266037940979,1557612800,gpt2-xl
+beans are vegetables.,bean,vegetable,28,-36.76230478286743,-7.352460956573486,1557612800,gpt2-xl
 green onion is a vegetable.,green onion,vegetable,29,-40.393868923187256,-5.7705527033124655,1557612800,gpt2-xl
-potato is a vegetable.,potato,vegetable,30,-37.06270790100098,-5.294672557285854,1557612800,gpt2-xl
+potatoes are vegetables.,potato,vegetable,30,-34.220162868499756,-5.703360478083293,1557612800,gpt2-xl
 parsnip is a vegetable.,parsnip,vegetable,31,-46.95488405227661,-5.217209339141846,1557612800,gpt2-xl
 turnip greens are vegetables.,turnip greens,vegetable,32,-43.0062780380249,-6.143754005432129,1557612800,gpt2-xl
 collard is a vegetable.,collard,vegetable,33,-39.29858160018921,-5.614083085741315,1557612800,gpt2-xl
 wax beans are vegetables.,wax beans,vegetable,34,-46.354679107666016,-6.622097015380859,1557612800,gpt2-xl
-watercress are vegetables.,watercress,vegetable,35,-42.39164638519287,-6.055949483598981,1557612800,gpt2-xl
+watercress is a vegetable.,watercress,vegetable,35,-38.27632236480713,-4.784540295600891,1557612800,gpt2-xl
 black eyed peas are vegetables.,black eyed peas,vegetable,36,-40.986244678497314,-5.855177811213902,1557612800,gpt2-xl
 leek is a vegetable.,leek,vegetable,37,-35.49173164367676,-5.0702473776681085,1557612800,gpt2-xl
 peppers are vegetables.,peppers,vegetable,38,-37.37968921661377,-6.229948202768962,1557612800,gpt2-xl
-sweet potato is a vegetable.,sweet potato,vegetable,39,-35.874733448028564,-5.124961921146938,1557612800,gpt2-xl
-yams are vegetables.,yams,vegetable,40,-36.41322469711304,-6.068870782852173,1557612800,gpt2-xl
+sweet potatoes are a vegetables.,sweet potato,vegetable,39,-42.329017162323,-6.047002451760428,1557612800,gpt2-xl
+yam is a vegetable.,yams,vegetable,40,-45.78377103805542,-6.5405387197222025,1557612800,gpt2-xl
 parsley is a vegetable.,parsley,vegetable,41,-35.5289249420166,-4.441115617752075,1557612800,gpt2-xl
 endive is a vegetable.,endive,vegetable,42,-36.39006042480469,-5.198580060686384,1557612800,gpt2-xl
 rutabaga is a vegetable.,rutabaga,vegetable,43,-34.70175075531006,-3.85575008392334,1557612800,gpt2-xl
@@ -229,16 +228,16 @@ garlic is a vegetable.,garlic,vegetable,54,-33.86489772796631,-4.837842532566616
 dandelion is a vegetable.,dandelion,vegetable,55,-38.562901973724365,-4.820362746715546,1557612800,gpt2-xl
 peanut is a vegetable.,peanut,vegetable,56,-38.31576108932495,-5.47368015561785,1557612800,gpt2-xl
 rice is a vegetable.,rice,vegetable,57,-35.15379238128662,-5.8589653968811035,1557612800,gpt2-xl
-a saw is a tool.,saw,tool,1,-38.38790512084961,-5.483986445835659,1557612800,gpt2-xl
-a hammer is a tool.,hammer,tool,2,-35.93138790130615,-5.133055414472308,1557612800,gpt2-xl
-a ruler is a tool.,ruler,tool,3,-38.70843744277954,-5.529776777539935,1557612800,gpt2-xl
-a screwdriver is a tool.,screwdriver,tool,4,-38.80639457702637,-4.850799322128296,1557612800,gpt2-xl
-a drill is a tool.,drill,tool,5,-40.34722852706909,-5.763889789581299,1557612800,gpt2-xl
+saw is a tool.,saw,tool,1,-39.46855545043945,-6.578092575073242,1557612800,gpt2-xl
+hammer is a tool.,hammer,tool,2,-36.13705825805664,-6.02284304300944,1557612800,gpt2-xl
+ruler is a tool.,ruler,tool,3,-40.38003492355347,-5.768576417650495,1557612800,gpt2-xl
+screwdriver is a tool.,screwdriver,tool,4,-36.75443458557129,-4.594304323196411,1557612800,gpt2-xl
+drill is a tool.,drill,tool,5,-38.13103628158569,-5.447290897369385,1557612800,gpt2-xl
 nails are tools.,nails,tool,6,-35.71199560165405,-5.951999266942342,1557612800,gpt2-xl
-a tape measure is a tool.,tape measure,tool,7,-40.60347032546997,-5.075433790683746,1557612800,gpt2-xl
-a sawhorse is a tool.,sawhorse,tool,8,-44.09109830856323,-4.899010923173693,1557612800,gpt2-xl
-a sandpaper is a tool.,sandpaper,tool,9,-46.118855476379395,-5.764856934547424,1557612800,gpt2-xl
-a sander is a tool.,sander,tool,10,-45.91477727890015,-5.739347159862518,1557612800,gpt2-xl
+tape measure is a tool.,tape measure,tool,7,-40.39108324050903,-5.048885405063629,1557612800,gpt2-xl
+sawhorse is a tool.,sawhorse,tool,8,-46.564547538757324,-6.652078219822475,1557612800,gpt2-xl
+sandpaper is a tool.,sandpaper,tool,9,-39.06545352935791,-5.580779075622559,1557612800,gpt2-xl
+sander is a tool.,sander,tool,10,-42.33199501037598,-6.04742785862514,1557612800,gpt2-xl
 a level is a tool.,level,tool,11,-43.07806348800659,-6.154009069715228,1557612800,gpt2-xl
 a plane is a tool.,plane,tool,12,-38.452940464019775,-5.493277209145682,1557612800,gpt2-xl
 a file is a tool.,file,tool,13,-39.85223579406738,-5.693176542009626,1557612800,gpt2-xl
@@ -249,19 +248,19 @@ a rasp is a tool.,rasp,tool,17,-44.364601135253906,-5.545575141906738,1557612800
 a pencil is a tool.,pencil,tool,18,-37.11296987533569,-5.30185283933367,1557612800,gpt2-xl
 a hacksaw is a tool.,hacksaw,tool,19,-41.83004570007324,-5.228755712509155,1557612800,gpt2-xl
 a square is a tool.,square,tool,20,-41.40243148803711,-5.914633069719587,1557612800,gpt2-xl
-a bench is a tool.,bench,tool,21,-40.83015489578247,-5.8328792708260675,1557612800,gpt2-xl
-a pliers is a tool.,pliers,tool,22,-42.54078912734985,-5.317598640918732,1557612800,gpt2-xl
+a bench is a tool.,bench,tool,21,-40.83015584945679,-5.832879407065255,1557612800,gpt2-xl
+pliers is a tool.,pliers,tool,22,-37.73576498031616,-5.390823568616595,1557612800,gpt2-xl
 a wrench is a tool.,wrench,tool,23,-37.68398952484131,-5.383427074977329,1557612800,gpt2-xl
 a ladder is a tool.,ladder,tool,24,-38.767430782318115,-5.538204397474017,1557612800,gpt2-xl
 a lathe is a tool.,lathe,tool,25,-43.17053508758545,-5.396316885948181,1557612800,gpt2-xl
 a vise is a tool.,vise,tool,26,-41.08207702636719,-5.135259628295898,1557612800,gpt2-xl
-screws are tools.,screws,tool,27,-40.10170936584473,-5.728815623692104,1557612800,gpt2-xl
-a wood is a tool.,wood,tool,28,-39.065536975860596,-5.580790996551514,1557612800,gpt2-xl
+screw is a tool.,screws,tool,27,-38.74077129364014,-5.534395899091448,1557612800,gpt2-xl
+wood is a tool.,wood,tool,28,-36.62274885177612,-6.1037914752960205,1557612800,gpt2-xl
 a wedge is a tool.,wedge,tool,29,-41.79454946517944,-5.970649923597064,1557612800,gpt2-xl
-a lumber is a tool.,lumber,tool,30,-43.63669681549072,-6.233813830784389,1557612800,gpt2-xl
+lumber is a tool.,lumber,tool,30,-37.965641498565674,-5.423663071223667,1557612800,gpt2-xl
 blueprints are tools.,blueprints,tool,31,-39.669915199279785,-6.611652533213298,1557612800,gpt2-xl
-a brace is a tool.,brace,tool,32,-41.371731758117676,-5.910247394016811,1557612800,gpt2-xl
-an awl is a tool.,awl,tool,33,-41.29196882247925,-5.161496102809906,1557612800,gpt2-xl
+brace is a tool.,brace,tool,32,-38.66592502593994,-6.444320837656657,1557612800,gpt2-xl
+awl is a tool.,awl,tool,33,-41.482924461364746,-5.92613206590925,1557612800,gpt2-xl
 a crowbar is a tool.,crowbar,tool,34,-38.98860025405884,-4.873575031757355,1557612800,gpt2-xl
 a hinge is a tool.,hinge,tool,35,-43.21462154388428,-6.1735173634120395,1557612800,gpt2-xl
 a miter box is a tool.,miter box,tool,36,-45.485554695129395,-5.053950521681044,1557612800,gpt2-xl
@@ -299,7 +298,7 @@ tangerine is a fruit.,tangerine,fruit,7,-39.92219305038452,-4.990274131298065,15
 plum is a fruit.,plum,fruit,8,-41.04574489593506,-5.863677842276437,1557612800,gpt2-xl
 grapes are fruit.,grapes,fruit,9,-38.43982267379761,-5.491403239113944,1557612800,gpt2-xl
 nectarine is a fruit.,nectarine,fruit,10,-47.49159383773804,-6.784513405391148,1557612800,gpt2-xl
-strawberry is a fruit.,strawberry,fruit,11,-35.885233879089355,-4.485654234886169,1557612800,gpt2-xl
+strawberry is a fruit.,strawberry,fruit,11,-35.88522481918335,-4.485653102397919,1557612800,gpt2-xl
 grapefruit is a fruit.,grapefruit,fruit,12,-33.079819202423096,-4.134977400302887,1557612800,gpt2-xl
 berry is a fruit.,berry,fruit,13,-36.309163093566895,-6.051527182261149,1557612800,gpt2-xl
 cherry is a fruit.,cherry,fruit,14,-39.063257694244385,-5.580465384892055,1557612800,gpt2-xl
@@ -342,14 +341,14 @@ pickle is a fruit.,pickle,fruit,50,-42.77534008026123,-6.110762868608747,1557612
 squash is a fruit.,squash,fruit,51,-42.16822099685669,-6.024031570979527,1557612800,gpt2-xl
 pants are clothes.,pants,clothing,1,-36.32118606567383,-7.2642372131347654,1557612800,gpt2-xl
 a shirt is a type of clothing.,shirt,clothing,2,-38.67316150665283,-4.297017945183648,1557612800,gpt2-xl
-dress are clothes.,dress,clothing,3,-40.333505630493164,-8.066701126098632,1557612800,gpt2-xl
+dress is a type of clothing.,dress,clothing,3,-38.211238384246826,-4.776404798030853,1557612800,gpt2-xl
 a skirt is a type of clothing.,skirt,clothing,4,-40.503591537475586,-4.500399059719509,1557612800,gpt2-xl
 a blouse is a type of clothing.,blouse,clothing,5,-43.38593149185181,-4.338593149185181,1557612800,gpt2-xl
 a suit is a type of clothing.,suit,clothing,6,-38.1193790435791,-4.235486560397678,1557612800,gpt2-xl
 slacks are clothes.,slacks,clothing,7,-39.63546133041382,-6.605910221735637,1557612800,gpt2-xl
 a jacket is a type of clothing.,jacket,clothing,8,-38.563597679138184,-4.2848441865709095,1557612800,gpt2-xl
 a coat is a type of clothing.,coat,clothing,9,-38.94759178161621,-4.3275101979573565,1557612800,gpt2-xl
-a sweater is a type of clothing.,sweater,clothing,10,-38.88396692276001,-4.320440769195557,1557612800,gpt2-xl
+a sweater is a type of clothing.,sweater,clothing,10,-38.8839750289917,-4.320441669887966,1557612800,gpt2-xl
 a sweatshirt is a type of clothing.,sweatshirt,clothing,11,-41.14717769622803,-4.114717769622803,1557612800,gpt2-xl
 underpants are clothes.,underpants,clothing,12,-40.177743911743164,-6.696290651957194,1557612800,gpt2-xl
 a sports jacket is a type of clothing.,sports jacket,clothing,13,-44.27953767776489,-4.427953767776489,1557612800,gpt2-xl
@@ -389,7 +388,7 @@ a handkerchief is a type of clothing.,handkerchief,clothing,46,-42.5753145217895
 a purse is a type of clothing.,purse,clothing,47,-43.36995840072632,-4.818884266747369,1557612800,gpt2-xl
 a hairband is a type of clothing.,hairband,clothing,48,-45.066630840301514,-4.506663084030151,1557612800,gpt2-xl
 a ring is a type of clothing.,ring,clothing,49,-44.482712268829346,-4.942523585425483,1557612800,gpt2-xl
-earrings are clothes.,earrings,clothing,50,-41.84103059768677,-6.973505099614461,1557612800,gpt2-xl
+en arring is a type of clothing.,earrings,clothing,50,-61.67187213897705,-6.167187213897705,1557612800,gpt2-xl
 a watch is a type of clothing.,watch,clothing,51,-42.819804191589355,-4.757756021287706,1557612800,gpt2-xl
 cuff links are clothes.,cuff links,clothing,52,-43.935731410980225,-6.27653305871146,1557612800,gpt2-xl
 a necklace is a type of clothing.,necklace,clothing,53,-44.68893051147461,-4.965436723497179,1557612800,gpt2-xl
@@ -399,107 +398,107 @@ an automobile is a vehicle.,automobile,vehicle,1,-38.72832918167114,-5.532618454
 a station wagon is a vehicle.,station wagon,vehicle,2,-42.63551616668701,-5.3294395208358765,1557612800,gpt2-xl
 a truck is a vehicle.,truck,vehicle,3,-38.390544414520264,-5.484363487788609,1557612800,gpt2-xl
 a car is a vehicle.,car,vehicle,4,-34.865689754486084,-4.98081282206944,1557612800,gpt2-xl
-bus are vehicles.,bus,vehicle,5,-43.88791275024414,-8.777582550048828,1557612800,gpt2-xl
-a taxi is a vehicle.,taxi,vehicle,6,-38.13474655151367,-5.447820935930524,1557612800,gpt2-xl
-a jeep is a vehicle.,jeep,vehicle,7,-38.44659233093262,-4.805824041366577,1557612800,gpt2-xl
-an ambulance is a vehicle.,ambulance,vehicle,8,-38.15440845489502,-5.4506297792707175,1557612800,gpt2-xl
+bus are vehicles.,bus,vehicle,5,-43.887901306152344,-8.777580261230469,1557612800,gpt2-xl
+a taxi is a vehicle.,taxi,vehicle,6,-38.134727001190186,-5.4478181430271695,1557612800,gpt2-xl
+a jeep is a vehicle.,jeep,vehicle,7,-38.44658708572388,-4.805823385715485,1557612800,gpt2-xl
+an ambulance is a vehicle.,ambulance,vehicle,8,-38.154415130615234,-5.450630732945034,1557612800,gpt2-xl
 a motorcycle is a vehicle.,motorcycle,vehicle,9,-38.4473032951355,-5.492471899305071,1557612800,gpt2-xl
-a streetcar is a vehicle.,streetcar,vehicle,10,-42.24268627166748,-6.034669467381069,1557612800,gpt2-xl
-a van is a vehicle.,van,vehicle,11,-37.943161487579346,-5.420451641082764,1557612800,gpt2-xl
-a Honda is a vehicle.,Honda,vehicle,12,-42.36263656616211,-6.0518052237374445,1557612800,gpt2-xl
-a cable car is a vehicle.,cable car,vehicle,13,-44.61283731460571,-5.576604664325714,1557612800,gpt2-xl
-a train is a vehicle.,train,vehicle,14,-37.57692289352417,-5.3681318419320245,1557612800,gpt2-xl
-a trolley is a vehicle.,trolley,vehicle,15,-40.01752805709839,-5.002191007137299,1557612800,gpt2-xl
-a bicycle is a vehicle.,bicycle,vehicle,16,-34.94475603103638,-4.992108004433768,1557612800,gpt2-xl
-a carriage is a vehicle.,carriage,vehicle,17,-38.95629692077637,-5.565185274396624,1557612800,gpt2-xl
-an airplane is a vehicle.,airplane,vehicle,18,-37.54678535461426,-5.3638264792306085,1557612800,gpt2-xl
-a bike is a vehicle.,bike,vehicle,19,-36.32368803024292,-5.1890982900347025,1557612800,gpt2-xl
+a streetcar is a vehicle.,streetcar,vehicle,10,-42.242680072784424,-6.034668581826346,1557612800,gpt2-xl
+a van is a vehicle.,van,vehicle,11,-37.9431586265564,-5.4204512323652,1557612800,gpt2-xl
+a Honda is a vehicle.,Honda,vehicle,12,-42.36264419555664,-6.051806313650949,1557612800,gpt2-xl
+a cable car is a vehicle.,cable car,vehicle,13,-44.61283588409424,-5.57660448551178,1557612800,gpt2-xl
+a train is a vehicle.,train,vehicle,14,-37.576924324035645,-5.368132046290806,1557612800,gpt2-xl
+a trolley is a vehicle.,trolley,vehicle,15,-40.017536640167236,-5.0021920800209045,1557612800,gpt2-xl
+a bicycle is a vehicle.,bicycle,vehicle,16,-34.94475030899048,-4.9921071869986395,1557612800,gpt2-xl
+a carriage is a vehicle.,carriage,vehicle,17,-38.9562931060791,-5.5651847294398715,1557612800,gpt2-xl
+an airplane is a vehicle.,airplane,vehicle,18,-37.546783447265625,-5.363826206752232,1557612800,gpt2-xl
+a bike is a vehicle.,bike,vehicle,19,-36.323678493499756,-5.189096927642822,1557612800,gpt2-xl
 a boat is a vehicle.,boat,vehicle,20,-37.479673862457275,-5.354239123208182,1557612800,gpt2-xl
-a jet is a vehicle.,jet,vehicle,21,-41.09588813781738,-5.87084116254534,1557612800,gpt2-xl
-a ship is a vehicle.,ship,vehicle,22,-37.98344802856445,-5.426206861223493,1557612800,gpt2-xl
-a scooter is a vehicle.,scooter,vehicle,23,-40.509201526641846,-5.063650190830231,1557612800,gpt2-xl
-a tractor is a vehicle.,tractor,vehicle,24,-39.84519052505493,-5.692170075007847,1557612800,gpt2-xl
-a wagon is a vehicle.,wagon,vehicle,25,-41.70772886276245,-5.958246980394636,1557612800,gpt2-xl
-a subway is a vehicle.,subway,vehicle,26,-42.52946853637695,-6.075638362339565,1557612800,gpt2-xl
-a trailer is a vehicle.,trailer,vehicle,27,-41.82536840438843,-5.975052629198347,1557612800,gpt2-xl
-a cart is a vehicle.,cart,vehicle,28,-37.81336164474487,-5.401908806392124,1557612800,gpt2-xl
-a wheelchair is a vehicle.,wheelchair,vehicle,29,-37.86800813674927,-5.409715448107038,1557612800,gpt2-xl
-a yacht is a vehicle.,yacht,vehicle,30,-41.93351984024048,-5.990502834320068,1557612800,gpt2-xl
-a tank is a vehicle.,tank,vehicle,31,-38.9052095413208,-5.557887077331543,1557612800,gpt2-xl
-a go-cart is a vehicle.,go-cart,vehicle,32,-43.81708240509033,-4.8685647116767035,1557612800,gpt2-xl
-a rowboat is a vehicle.,rowboat,vehicle,33,-46.6653208732605,-5.833165109157562,1557612800,gpt2-xl
-a dogsled is a vehicle.,dogsled,vehicle,34,-45.599191188812256,-5.699898898601532,1557612800,gpt2-xl
-a tricycle is a vehicle.,tricycle,vehicle,35,-43.34390592575073,-5.4179882407188416,1557612800,gpt2-xl
-a canoe is a vehicle.,canoe,vehicle,36,-41.857239723205566,-5.979605674743652,1557612800,gpt2-xl
-a raft is a vehicle.,raft,vehicle,37,-42.13633441925049,-6.019476345607212,1557612800,gpt2-xl
-a submarine is a vehicle.,submarine,vehicle,38,-39.55865430831909,-5.65123632975987,1557612800,gpt2-xl
-a sled is a vehicle.,sled,vehicle,39,-41.44183301925659,-5.920261859893799,1557612800,gpt2-xl
-a horse is a vehicle.,horse,vehicle,40,-38.12580108642578,-5.44654301234654,1557612800,gpt2-xl
-a rocket is a vehicle.,rocket,vehicle,41,-39.48142623901367,-5.640203748430524,1557612800,gpt2-xl
-a blimp is a vehicle.,blimp,vehicle,42,-43.72142267227173,-5.465177834033966,1557612800,gpt2-xl
-skates are vehicles.,skates,vehicle,43,-44.049965381622314,-7.341660896937053,1557612800,gpt2-xl
-a camel is a vehicle.,camel,vehicle,44,-39.73392295837402,-5.676274708339146,1557612800,gpt2-xl
-feet are vehicles.,feet,vehicle,45,-41.53373622894287,-8.306747245788575,1557612800,gpt2-xl
-skis are vehicles.,skis,vehicle,46,-42.90017604827881,-7.150029341379802,1557612800,gpt2-xl
-a skateboard is a vehicle.,skateboard,vehicle,47,-40.60814094543457,-5.076017618179321,1557612800,gpt2-xl
-a wheelbarrow is a vehicle.,wheelbarrow,vehicle,48,-41.769593238830566,-4.641065915425618,1557612800,gpt2-xl
-a surfboard is a vehicle.,surfboard,vehicle,49,-41.766311168670654,-5.220788896083832,1557612800,gpt2-xl
-an elevator is a vehicle.,elevator,vehicle,50,-41.788453102111816,-5.969779014587402,1557612800,gpt2-xl
-a chair is a type of furniture.,chair,furniture,1,-36.44314622879028,-4.049238469865587,1557612800,gpt2-xl
-a sofa is a type of furniture.,sofa,furniture,2,-38.45460796356201,-4.272734218173557,1557612800,gpt2-xl
-a couch is a type of furniture.,couch,furniture,3,-38.74110555648804,-4.304567284054226,1557612800,gpt2-xl
-a table is a type of furniture.,table,furniture,4,-40.46138048171997,-4.49570894241333,1557612800,gpt2-xl
-an easy chair is a type of furniture.,easy chair,furniture,5,-48.535133838653564,-4.853513383865357,1557612800,gpt2-xl
-a dresser is a type of furniture.,dresser,furniture,6,-40.43826961517334,-4.043826961517334,1557612800,gpt2-xl
-a rocking chair is a type of furniture.,rocking chair,furniture,7,-38.91725254058838,-3.891725254058838,1557612800,gpt2-xl
-a coffee table is a type of furniture.,coffee table,furniture,8,-41.43332529067993,-4.143332529067993,1557612800,gpt2-xl
-a rocker is a type of furniture.,rocker,furniture,9,-42.51258707046509,-4.251258707046508,1557612800,gpt2-xl
-a love seat is a type of furniture.,love seat,furniture,10,-43.95569181442261,-4.39556918144226,1557612800,gpt2-xl
-chest of drawers are furniture.,chest of drawers,furniture,11,-46.12271451950073,-5.7653393149375916,1557612800,gpt2-xl
-a desk is a type of furniture.,desk,furniture,12,-41.321284770965576,-4.5912538634406195,1557612800,gpt2-xl
-a bed is a type of furniture.,bed,furniture,13,-40.32872295379639,-4.480969217088488,1557612800,gpt2-xl
-a bureau is a type of furniture.,bureau,furniture,14,-47.953782081604004,-5.328198009067112,1557612800,gpt2-xl
-a davenport is a type of furniture.,davenport,furniture,15,-50.30257511138916,-4.572961373762651,1557612800,gpt2-xl
-an end table is a type of furniture.,end table,furniture,16,-45.89501762390137,-4.589501762390137,1557612800,gpt2-xl
-a divan is a type of furniture.,divan,furniture,17,-44.856568336486816,-4.485656833648681,1557612800,gpt2-xl
-a night table is a type of furniture.,night table,furniture,18,-48.37079858779907,-4.837079858779907,1557612800,gpt2-xl
-a chest is a type of furniture.,chest,furniture,19,-44.17996072769165,-4.908884525299072,1557612800,gpt2-xl
-a cedar chest is a type of furniture.,cedar chest,furniture,20,-47.324485778808594,-4.30222597989169,1557612800,gpt2-xl
-a vanity is a type of furniture.,vanity,furniture,21,-49.142174243927,-5.460241582658556,1557612800,gpt2-xl
-a bookcase is a type of furniture.,bookcase,furniture,22,-41.15758228302002,-4.115758228302002,1557612800,gpt2-xl
-a lounge is a type of furniture.,lounge,furniture,23,-44.13564729690552,-4.90396081076728,1557612800,gpt2-xl
-a chaise lounge is a type of furniture.,chaise lounge,furniture,24,-45.35895919799805,-4.12354174527255,1557612800,gpt2-xl
-an ottoman is a type of furniture.,ottoman,furniture,25,-41.21973276138306,-3.7472484328530054,1557612800,gpt2-xl
-a footstool is a type of furniture.,footstool,furniture,26,-42.26144075393677,-3.841949159448797,1557612800,gpt2-xl
-a cabinet is a type of furniture.,cabinet,furniture,27,-40.88877534866333,-4.543197260962592,1557612800,gpt2-xl
-a china closet is a type of furniture.,china closet,furniture,28,-54.42971134185791,-4.948155576532537,1557612800,gpt2-xl
-a bench is a type of furniture.,bench,furniture,29,-42.284743309020996,-4.698304812113444,1557612800,gpt2-xl
-a buffet is a type of furniture.,buffet,furniture,30,-49.36635160446167,-5.485150178273519,1557612800,gpt2-xl
-a lamp is a type of furniture.,lamp,furniture,31,-41.78300619125366,-4.6425562434726295,1557612800,gpt2-xl
-a stool is a type of furniture.,stool,furniture,32,-38.48997116088867,-4.276663462320964,1557612800,gpt2-xl
-a hassock is a type of furniture.,hassock,furniture,33,-55.079792976379395,-5.007253906943581,1557612800,gpt2-xl
-drawers are furniture.,drawers,furniture,34,-41.05908536911011,-6.843180894851685,1557612800,gpt2-xl
-a piano is a type of furniture.,piano,furniture,35,-44.51192378997803,-4.945769309997559,1557612800,gpt2-xl
-a cushion is a type of furniture.,cushion,furniture,36,-42.348238468170166,-4.705359829796685,1557612800,gpt2-xl
-a magazine rack is a type of furniture.,magazine rack,furniture,37,-45.86154890060425,-4.586154890060425,1557612800,gpt2-xl
-a hi-fi is a type of furniture.,hi-fi,furniture,38,-47.005369663238525,-4.273215423930775,1557612800,gpt2-xl
-a cupboard is a type of furniture.,cupboard,furniture,39,-42.49118137359619,-4.249118137359619,1557612800,gpt2-xl
-a stereo is a type of furniture.,stereo,furniture,40,-48.564083099365234,-5.396009233262804,1557612800,gpt2-xl
-a mirror is a type of furniture.,mirror,furniture,41,-43.92891836166382,-4.880990929073757,1557612800,gpt2-xl
-a television is a type of furniture.,television,furniture,42,-46.375197410583496,-5.152799712287055,1557612800,gpt2-xl
-a bar is a type of furniture.,bar,furniture,43,-44.22597360610962,-4.913997067345513,1557612800,gpt2-xl
-a shelf is a type of furniture.,shelf,furniture,44,-42.63249921798706,-4.736944357554118,1557612800,gpt2-xl
-a rug is a type of furniture.,rug,furniture,45,-38.3222131729126,-4.258023685879177,1557612800,gpt2-xl
-a pillow is a type of furniture.,pillow,furniture,46,-42.24802923202515,-4.694225470225017,1557612800,gpt2-xl
-a wastebasket is a type of furniture.,wastebasket,furniture,47,-47.05705165863037,-4.277913787148216,1557612800,gpt2-xl
-a radio is a type of furniture.,radio,furniture,48,-47.60712814331055,-5.289680904812283,1557612800,gpt2-xl
-a sewing machine is a type of furniture.,sewing machine,furniture,49,-44.96459484100342,-4.496459484100342,1557612800,gpt2-xl
-a stove is a type of furniture.,stove,furniture,50,-45.144733905792236,-5.016081545088026,1557612800,gpt2-xl
-a counter is a type of furniture.,counter,furniture,51,-46.62377977371216,-5.180419974856907,1557612800,gpt2-xl
-a clock is a type of furniture.,clock,furniture,52,-46.48810958862305,-5.165345509847005,1557612800,gpt2-xl
-drapes are furniture.,drapes,furniture,53,-43.76560974121094,-6.252229963030134,1557612800,gpt2-xl
-a refrigerator is a type of furniture.,refrigerator,furniture,54,-44.10635805130005,-4.90070645014445,1557612800,gpt2-xl
-a picture is a type of furniture.,picture,furniture,55,-47.85520267486572,-5.317244741651747,1557612800,gpt2-xl
+a jet is a vehicle.,jet,vehicle,21,-41.09589099884033,-5.870841571262905,1557612800,gpt2-xl
+a ship is a vehicle.,ship,vehicle,22,-37.98344898223877,-5.426206997462681,1557612800,gpt2-xl
+a scooter is a vehicle.,scooter,vehicle,23,-40.50920009613037,-5.063650012016296,1557612800,gpt2-xl
+a tractor is a vehicle.,tractor,vehicle,24,-39.84518814086914,-5.692169734409878,1557612800,gpt2-xl
+a wagon is a vehicle.,wagon,vehicle,25,-41.70772647857666,-5.958246639796665,1557612800,gpt2-xl
+a subway is a vehicle.,subway,vehicle,26,-42.529470443725586,-6.075638634817941,1557612800,gpt2-xl
+a trailer is a vehicle.,trailer,vehicle,27,-41.825374126434326,-5.975053446633475,1557612800,gpt2-xl
+a cart is a vehicle.,cart,vehicle,28,-37.81335496902466,-5.401907852717808,1557612800,gpt2-xl
+a wheelchair is a vehicle.,wheelchair,vehicle,29,-37.868003368377686,-5.409714766911098,1557612800,gpt2-xl
+a yacht is a vehicle.,yacht,vehicle,30,-41.93352556228638,-5.990503651755197,1557612800,gpt2-xl
+a tank is a vehicle.,tank,vehicle,31,-38.90521478652954,-5.557887826647077,1557612800,gpt2-xl
+a go-cart is a vehicle.,go-cart,vehicle,32,-43.81707954406738,-4.868564393785265,1557612800,gpt2-xl
+a rowboat is a vehicle.,rowboat,vehicle,33,-46.66532516479492,-5.833165645599365,1557612800,gpt2-xl
+a dogsled is a vehicle.,dogsled,vehicle,34,-45.59917593002319,-5.699896991252899,1557612800,gpt2-xl
+a tricycle is a vehicle.,tricycle,vehicle,35,-43.343900203704834,-5.417987525463104,1557612800,gpt2-xl
+a canoe is a vehicle.,canoe,vehicle,36,-41.85724449157715,-5.979606355939593,1557612800,gpt2-xl
+a raft is a vehicle.,raft,vehicle,37,-42.13632345199585,-6.01947477885655,1557612800,gpt2-xl
+a submarine is a vehicle.,submarine,vehicle,38,-39.558645248413086,-5.651235035487583,1557612800,gpt2-xl
+a sled is a vehicle.,sled,vehicle,39,-41.4418363571167,-5.920262336730957,1557612800,gpt2-xl
+a horse is a vehicle.,horse,vehicle,40,-38.12579679489136,-5.446542399270194,1557612800,gpt2-xl
+a rocket is a vehicle.,rocket,vehicle,41,-39.48142051696777,-5.640202930995396,1557612800,gpt2-xl
+a blimp is a vehicle.,blimp,vehicle,42,-43.721420764923096,-5.465177595615387,1557612800,gpt2-xl
+skates are vehicles.,skates,vehicle,43,-44.04996585845947,-7.341660976409912,1557612800,gpt2-xl
+a camel is a vehicle.,camel,vehicle,44,-39.733914852142334,-5.676273550306048,1557612800,gpt2-xl
+feet are vehicles.,feet,vehicle,45,-41.533737659454346,-8.306747531890869,1557612800,gpt2-xl
+ski is a vehicle.,skis,vehicle,46,-42.00498056411743,-7.000830094019572,1557612800,gpt2-xl
+a skateboard is a vehicle.,skateboard,vehicle,47,-40.60813045501709,-5.076016306877136,1557612800,gpt2-xl
+a wheelbarrow is a vehicle.,wheelbarrow,vehicle,48,-41.76959037780762,-4.64106559753418,1557612800,gpt2-xl
+a surfboard is a vehicle.,surfboard,vehicle,49,-41.7662992477417,-5.220787405967712,1557612800,gpt2-xl
+an elevator is a vehicle.,elevator,vehicle,50,-41.78845977783203,-5.969779968261719,1557612800,gpt2-xl
+a chair is a type of furniture.,chair,furniture,1,-36.44314002990723,-4.049237781100803,1557612800,gpt2-xl
+a sofa is a type of furniture.,sofa,furniture,2,-38.45460605621338,-4.272734006245931,1557612800,gpt2-xl
+a couch is a type of furniture.,couch,furniture,3,-38.74109601974487,-4.304566224416097,1557612800,gpt2-xl
+a table is a type of furniture.,table,furniture,4,-40.461373805999756,-4.495708200666639,1557612800,gpt2-xl
+an easy chair is a type of furniture.,easy chair,furniture,5,-48.53512763977051,-4.853512763977051,1557612800,gpt2-xl
+a dresser is a type of furniture.,dresser,furniture,6,-40.438260555267334,-4.043826055526734,1557612800,gpt2-xl
+a rocking chair is a type of furniture.,rocking chair,furniture,7,-38.917261600494385,-3.8917261600494384,1557612800,gpt2-xl
+a coffee table is a type of furniture.,coffee table,furniture,8,-41.43331718444824,-4.143331718444824,1557612800,gpt2-xl
+a rocker is a type of furniture.,rocker,furniture,9,-42.512598514556885,-4.251259851455688,1557612800,gpt2-xl
+a love seat is a type of furniture.,love seat,furniture,10,-43.955697536468506,-4.395569753646851,1557612800,gpt2-xl
+a chest of drawers is a type of furniture.,chest of drawers,furniture,11,-44.61949825286865,-3.7182915210723877,1557612800,gpt2-xl
+a desk is a type of furniture.,desk,furniture,12,-41.321287631988525,-4.591254181332058,1557612800,gpt2-xl
+a bed is a type of furniture.,bed,furniture,13,-40.3287296295166,-4.480969958835178,1557612800,gpt2-xl
+a bureau is a type of furniture.,bureau,furniture,14,-47.9537787437439,-5.328197638193767,1557612800,gpt2-xl
+a davenport is a type of furniture.,davenport,furniture,15,-50.302571296691895,-4.57296102697199,1557612800,gpt2-xl
+an end table is a type of furniture.,end table,furniture,16,-45.89500713348389,-4.5895007133483885,1557612800,gpt2-xl
+a divan is a type of furniture.,divan,furniture,17,-44.85655975341797,-4.485655975341797,1557612800,gpt2-xl
+a night table is a type of furniture.,night table,furniture,18,-48.37079191207886,-4.837079191207886,1557612800,gpt2-xl
+a chest is a type of furniture.,chest,furniture,19,-44.179965019226074,-4.9088850021362305,1557612800,gpt2-xl
+a cedar chest is a type of furniture.,cedar chest,furniture,20,-47.32448148727417,-4.302225589752197,1557612800,gpt2-xl
+a vanity is a type of furniture.,vanity,furniture,21,-49.142165660858154,-5.46024062898424,1557612800,gpt2-xl
+a bookcase is a type of furniture.,bookcase,furniture,22,-41.157577991485596,-4.115757799148559,1557612800,gpt2-xl
+a lounge is a type of furniture.,lounge,furniture,23,-44.13563108444214,-4.90395900938246,1557612800,gpt2-xl
+a chaise lounge is a type of furniture.,chaise lounge,furniture,24,-45.35894155502319,-4.123540141365745,1557612800,gpt2-xl
+an ottoman is a type of furniture.,ottoman,furniture,25,-41.21974277496338,-3.747249343178489,1557612800,gpt2-xl
+a footstool is a type of furniture.,footstool,furniture,26,-42.26143932342529,-3.8419490294022993,1557612800,gpt2-xl
+a cabinet is a type of furniture.,cabinet,furniture,27,-40.88876295089722,-4.543195883433024,1557612800,gpt2-xl
+a china closet is a type of furniture.,china closet,furniture,28,-54.42968416213989,-4.948153105649081,1557612800,gpt2-xl
+a bench is a type of furniture.,bench,furniture,29,-42.284764766693115,-4.698307196299235,1557612800,gpt2-xl
+a buffet is a type of furniture.,buffet,furniture,30,-49.36636447906494,-5.485151608784993,1557612800,gpt2-xl
+a lamp is a type of furniture.,lamp,furniture,31,-41.78300714492798,-4.642556349436442,1557612800,gpt2-xl
+a stool is a type of furniture.,stool,furniture,32,-38.48997783660889,-4.276664204067654,1557612800,gpt2-xl
+a hassock is a type of furniture.,hassock,furniture,33,-55.079819679260254,-5.007256334478205,1557612800,gpt2-xl
+drawers are furniture.,drawers,furniture,34,-41.05907583236694,-6.84317930539449,1557612800,gpt2-xl
+a piano is a type of furniture.,piano,furniture,35,-44.51190900802612,-4.945767667558458,1557612800,gpt2-xl
+a cushion is a type of furniture.,cushion,furniture,36,-42.34823656082153,-4.7053596178690595,1557612800,gpt2-xl
+a magazine rack is a type of furniture.,magazine rack,furniture,37,-45.861531257629395,-4.586153125762939,1557612800,gpt2-xl
+a hi-fi is a type of furniture.,hi-fi,furniture,38,-47.005367279052734,-4.273215207186612,1557612800,gpt2-xl
+a cupboard is a type of furniture.,cupboard,furniture,39,-42.49116277694702,-4.249116277694702,1557612800,gpt2-xl
+a stereo is a type of furniture.,stereo,furniture,40,-48.564069747924805,-5.3960077497694225,1557612800,gpt2-xl
+a mirror is a type of furniture.,mirror,furniture,41,-43.92892837524414,-4.880992041693793,1557612800,gpt2-xl
+a television is a type of furniture.,television,furniture,42,-46.37517976760864,-5.152797751956516,1557612800,gpt2-xl
+a bar is a type of furniture.,bar,furniture,43,-44.22596025466919,-4.913995583852132,1557612800,gpt2-xl
+a shelf is a type of furniture.,shelf,furniture,44,-42.632503509521484,-4.736944834391276,1557612800,gpt2-xl
+a rug is a type of furniture.,rug,furniture,45,-38.322203159332275,-4.258022573259142,1557612800,gpt2-xl
+a pillow is a type of furniture.,pillow,furniture,46,-42.248018741607666,-4.694224304623074,1557612800,gpt2-xl
+a wastebasket is a type of furniture.,wastebasket,furniture,47,-47.057053089141846,-4.277913917194713,1557612800,gpt2-xl
+a radio is a type of furniture.,radio,furniture,48,-47.607128620147705,-5.2896809577941895,1557612800,gpt2-xl
+a sewing machine is a type of furniture.,sewing machine,furniture,49,-44.96459770202637,-4.4964597702026365,1557612800,gpt2-xl
+a stove is a type of furniture.,stove,furniture,50,-45.144734382629395,-5.016081598069933,1557612800,gpt2-xl
+a counter is a type of furniture.,counter,furniture,51,-46.62377309799194,-5.180419233110216,1557612800,gpt2-xl
+a clock is a type of furniture.,clock,furniture,52,-46.48812532424927,-5.165347258249919,1557612800,gpt2-xl
+drapes are furniture.,drapes,furniture,53,-43.76561164855957,-6.25223023550851,1557612800,gpt2-xl
+a refrigerator is a type of furniture.,refrigerator,furniture,54,-44.10636043548584,-4.900706715053982,1557612800,gpt2-xl
+a picture is a type of furniture.,picture,furniture,55,-47.85519075393677,-5.317243417104085,1557612800,gpt2-xl
 a closet is a type of furniture.,closet,furniture,56,-44.1694221496582,-4.907713572184245,1557612800,gpt2-xl
 a vase is a type of furniture.,vase,furniture,57,-46.2419548034668,-4.62419548034668,1557612800,gpt2-xl
 an ashtray is a type of furniture.,ashtray,furniture,58,-46.347514629364014,-4.213410420851274,1557612800,gpt2-xl
@@ -517,7 +516,7 @@ a shotgun is a weapon.,shotgun,weapon,9,-40.06477975845337,-5.723539965493338,15
 a sword is a weapon.,sword,weapon,10,-35.593525409698486,-5.084789344242641,1557612800,gpt2-xl
 a bomb is a weapon.,bomb,weapon,11,-35.819223403930664,-5.117031914847238,1557612800,gpt2-xl
 a hand grenade is a weapon.,hand grenade,weapon,12,-40.64673948287964,-5.080842435359955,1557612800,gpt2-xl
-an A-bomb is a weapon.,A-bomb,weapon,13,-43.463552474975586,-4.829283608330621,1557612800,gpt2-xl
+an atom bomb is a weapon.,atom bomb,weapon,13,-41.0122013092041,-5.126525163650513,1557612800,gpt2-xl
 a bayonet is a weapon.,bayonet,weapon,14,-40.07101774215698,-5.008877217769623,1557612800,gpt2-xl
 a spear is a weapon.,spear,weapon,15,-38.72711229324341,-5.532444613320487,1557612800,gpt2-xl
 a bazooka is a weapon.,bazooka,weapon,16,-41.997488498687744,-4.199748849868774,1557612800,gpt2-xl
@@ -532,7 +531,7 @@ a mortar is a weapon.,mortar,weapon,24,-40.87527656555176,-5.839325223650251,155
 an arrow is a weapon.,arrow,weapon,25,-38.23790693283081,-5.4625581332615445,1557612800,gpt2-xl
 a blackjack is a weapon.,blackjack,weapon,26,-47.408485889434814,-5.926060736179352,1557612800,gpt2-xl
 a tank is a weapon.,tank,weapon,27,-40.88266563415527,-5.840380804879325,1557612800,gpt2-xl
-teargas are weapons.,teargas,weapon,28,-45.09615707397461,-6.4423081534249445,1557612800,gpt2-xl
+teargas is a weapon.,teargas,weapon,28,-44.14431381225586,-5.518039226531982,1557612800,gpt2-xl
 a missile is a weapon.,missile,weapon,29,-38.74122619628906,-5.534460885184152,1557612800,gpt2-xl
 a whip is a weapon.,whip,weapon,30,-40.296788692474365,-5.756684098924909,1557612800,gpt2-xl
 an ice pick is a weapon.,ice pick,weapon,31,-43.445743560791016,-5.430717945098877,1557612800,gpt2-xl
@@ -549,19 +548,19 @@ a stick is a weapon.,stick,weapon,41,-37.82509756088257,-5.4035853658403665,1557
 a poison is a weapon.,poison,weapon,42,-42.14488458633423,-6.020697798047747,1557612800,gpt2-xl
 a rock is a weapon.,rock,weapon,43,-40.592751026153564,-5.798964432307652,1557612800,gpt2-xl
 a stone is a weapon.,stone,weapon,44,-39.387688636779785,-5.626812662397112,1557612800,gpt2-xl
-gas are weapons.,gas,weapon,45,-41.58723735809326,-8.317447471618653,1557612800,gpt2-xl
-a chain is a weapon.,chain,weapon,46,-42.97267007827759,-6.13895286832537,1557612800,gpt2-xl
-a scissors is a weapon.,scissors,weapon,47,-43.76779127120972,-6.252541610172817,1557612800,gpt2-xl
-bricks are weapons.,bricks,weapon,48,-39.93239498138428,-6.655399163564046,1557612800,gpt2-xl
-a pitchfork is a weapon.,pitchfork,weapon,49,-40.34033823013306,-5.042542278766632,1557612800,gpt2-xl
-a hammer is a weapon.,hammer,weapon,50,-38.13729381561279,-5.448184830801828,1557612800,gpt2-xl
-a word is a weapon.,word,weapon,51,-39.606276512145996,-5.658039501735142,1557612800,gpt2-xl
-a hand is a weapon.,hand,weapon,52,-38.062867164611816,-5.437552452087402,1557612800,gpt2-xl
-a pipe is a weapon.,pipe,weapon,53,-41.42961835861206,-5.918516908373151,1557612800,gpt2-xl
-a rope is a weapon.,rope,weapon,54,-39.78064489364624,-5.682949270520892,1557612800,gpt2-xl
-an airplane is a weapon.,airplane,weapon,55,-39.29588985443115,-5.613698550633022,1557612800,gpt2-xl
-a foot is a weapon.,foot,weapon,56,-43.03180503845215,-6.1474007197788785,1557612800,gpt2-xl
-a car is a weapon.,car,weapon,57,-37.44721031188965,-5.349601473127093,1557612800,gpt2-xl
-a screwdriver is a weapon.,screwdriver,weapon,58,-41.28688192367554,-5.160860240459442,1557612800,gpt2-xl
-glass are weapons.,glass,weapon,59,-39.73026704788208,-7.946053409576416,1557612800,gpt2-xl
-a shoe is a weapon.,shoe,weapon,60,-41.06006574630737,-5.865723678043911,1557612800,gpt2-xl
+gas is a weapon.,gas,weapon,45,-39.76534700393677,-6.627557833989461,1557612800,gpt2-xl
+a chain is a weapon.,chain,weapon,46,-42.97266864776611,-6.138952663966587,1557612800,gpt2-xl
+a scissors is a weapon.,scissors,weapon,47,-43.767802715301514,-6.252543245043073,1557612800,gpt2-xl
+a brick is a weapon.,bricks,weapon,48,-43.10619020462036,-6.158027172088623,1557612800,gpt2-xl
+a pitchfork is a weapon.,pitchfork,weapon,49,-40.34033966064453,-5.042542457580566,1557612800,gpt2-xl
+a hammer is a weapon.,hammer,weapon,50,-38.13728904724121,-5.448184149605887,1557612800,gpt2-xl
+words are weapons.,word,weapon,51,-37.01529121398926,-7.403058242797852,1557612800,gpt2-xl
+hands are weapons.,hand,weapon,52,-37.39643907546997,-7.479287815093994,1557612800,gpt2-xl
+a pipe is a weapon.,pipe,weapon,53,-41.429625034332275,-5.918517862047468,1557612800,gpt2-xl
+a rope is a weapon.,rope,weapon,54,-39.780648708343506,-5.682949815477643,1557612800,gpt2-xl
+an airplane is a weapon.,airplane,weapon,55,-39.29589653015137,-5.6136995043073386,1557612800,gpt2-xl
+feet are weapons.,foot,weapon,56,-39.4631462097168,-7.892629241943359,1557612800,gpt2-xl
+a car is a weapon.,car,weapon,57,-37.447211265563965,-5.349601609366281,1557612800,gpt2-xl
+a screwdriver is a weapon.,screwdriver,weapon,58,-41.286885261535645,-5.160860657691956,1557612800,gpt2-xl
+a glass is a weapon.,glass,weapon,59,-41.078227519989014,-5.8683182171412875,1557612800,gpt2-xl
+a shoe is a weapon.,shoe,weapon,60,-41.06006860733032,-5.865724086761475,1557612800,gpt2-xl

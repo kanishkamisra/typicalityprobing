@@ -32,12 +32,12 @@ a sandpiper is alive.,sandpiper,bird,1
 a pheasant is alive.,pheasant,bird,1
 a catbird is alive.,catbird,bird,1
 a crane is alive.,crane,bird,1
-albatross are alive.,albatross,bird,1
+an albatross is alive.,albatross,bird,1
 a condor is alive.,condor,bird,1
 a toucan is alive.,toucan,bird,1
 an owl is alive.,owl,bird,1
 a pelican is alive.,pelican,bird,1
-geese are alive.,geese,bird,1
+a goose is alive.,geese,bird,1
 a vulture is alive.,vulture,bird,1
 a stork is alive.,stork,bird,1
 a buzzard is alive.,buzzard,bird,1
@@ -86,12 +86,12 @@ a sandpiper flies.,sandpiper,bird,2
 a pheasant flies.,pheasant,bird,2
 a catbird flies.,catbird,bird,2
 a crane flies.,crane,bird,2
-albatross fly.,albatross,bird,2
+an albatross flies.,albatross,bird,2
 a condor flies.,condor,bird,2
 a toucan flies.,toucan,bird,2
 an owl flies.,owl,bird,2
 a pelican flies.,pelican,bird,2
-geese fly.,geese,bird,2
+a goose flies.,geese,bird,2
 a vulture flies.,vulture,bird,2
 a stork flies.,stork,bird,2
 a buzzard flies.,buzzard,bird,2
@@ -140,7 +140,7 @@ a sandpiper has feathers.,sandpiper,bird,3
 a pheasant has feathers.,pheasant,bird,3
 a catbird has feathers.,catbird,bird,3
 a crane has feathers.,crane,bird,3
-albatross have feathers.,albatross,bird,3
+an albatross has feathers.,albatross,bird,3
 a condor has feathers.,condor,bird,3
 a toucan has feathers.,toucan,bird,3
 an owl has feathers.,owl,bird,3
@@ -194,7 +194,7 @@ a sandpiper has a beak.,sandpiper,bird,4
 a pheasant has a beak.,pheasant,bird,4
 a catbird has a beak.,catbird,bird,4
 a crane has a beak.,crane,bird,4
-albatross have a beak.,albatross,bird,4
+an albatross has a beak.,albatross,bird,4
 a condor has a beak.,condor,bird,4
 a toucan has a beak.,toucan,bird,4
 an owl has a beak.,owl,bird,4
@@ -248,7 +248,7 @@ a sandpiper has a bill.,sandpiper,bird,5
 a pheasant has a bill.,pheasant,bird,5
 a catbird has a bill.,catbird,bird,5
 a crane has a bill.,crane,bird,5
-albatross have a bill.,albatross,bird,5
+an albatross has a bill.,albatross,bird,5
 a condor has a bill.,condor,bird,5
 a toucan has a bill.,toucan,bird,5
 an owl has a bill.,owl,bird,5
@@ -302,7 +302,7 @@ a sandpiper has wings.,sandpiper,bird,6
 a pheasant has wings.,pheasant,bird,6
 a catbird has wings.,catbird,bird,6
 a crane has wings.,crane,bird,6
-albatross have wings.,albatross,bird,6
+an albatross has wings.,albatross,bird,6
 a condor has wings.,condor,bird,6
 a toucan has wings.,toucan,bird,6
 an owl has wings.,owl,bird,6
@@ -356,7 +356,7 @@ a sandpiper has legs and feet.,sandpiper,bird,7
 a pheasant has legs and feet.,pheasant,bird,7
 a catbird has legs and feet.,catbird,bird,7
 a crane has legs and feet.,crane,bird,7
-albatross have legs and feet.,albatross,bird,7
+an albatross has legs and feet.,albatross,bird,7
 a condor has legs and feet.,condor,bird,7
 a toucan has legs and feet.,toucan,bird,7
 an owl has legs and feet.,owl,bird,7
@@ -410,7 +410,7 @@ a sandpiper lays eggs.,sandpiper,bird,8
 a pheasant lays eggs.,pheasant,bird,8
 a catbird lays eggs.,catbird,bird,8
 a crane lays eggs.,crane,bird,8
-albatross lay eggs.,albatross,bird,8
+an albatross lays eggs.,albatross,bird,8
 a condor lays eggs.,condor,bird,8
 a toucan lays eggs.,toucan,bird,8
 an owl lays eggs.,owl,bird,8
@@ -464,7 +464,7 @@ a sandpiper has just two legs.,sandpiper,bird,9
 a pheasant has just two legs.,pheasant,bird,9
 a catbird has just two legs.,catbird,bird,9
 a crane has just two legs.,crane,bird,9
-albatross have just two legs.,albatross,bird,9
+an albatross has just two legs.,albatross,bird,9
 a condor has just two legs.,condor,bird,9
 a toucan has just two legs.,toucan,bird,9
 an owl has just two legs.,owl,bird,9
@@ -518,7 +518,7 @@ a sandpiper builds nests.,sandpiper,bird,10
 a pheasant builds nests.,pheasant,bird,10
 a catbird builds nests.,catbird,bird,10
 a crane builds nests.,crane,bird,10
-albatross build nests.,albatross,bird,10
+an albatross builds nests.,albatross,bird,10
 a condor builds nests.,condor,bird,10
 a toucan builds nests.,toucan,bird,10
 an owl builds nests.,owl,bird,10
@@ -572,7 +572,7 @@ a sandpiper sings.,sandpiper,bird,11
 a pheasant sings.,pheasant,bird,11
 a catbird sings.,catbird,bird,11
 a crane sings.,crane,bird,11
-albatross sing.,albatross,bird,11
+an albatross sings.,albatross,bird,11
 a condor sings.,condor,bird,11
 a toucan sings.,toucan,bird,11
 an owl sings.,owl,bird,11
@@ -626,7 +626,7 @@ a sandpiper has claws.,sandpiper,bird,12
 a pheasant has claws.,pheasant,bird,12
 a catbird has claws.,catbird,bird,12
 a crane has claws.,crane,bird,12
-albatross have claws.,albatross,bird,12
+an albatross has claws.,albatross,bird,12
 a condor has claws.,condor,bird,12
 a toucan has claws.,toucan,bird,12
 an owl has claws.,owl,bird,12
@@ -680,7 +680,7 @@ a sandpiper is very lightweight.,sandpiper,bird,13
 a pheasant is very lightweight.,pheasant,bird,13
 a catbird is very lightweight.,catbird,bird,13
 a crane is very lightweight.,crane,bird,13
-albatross are very lightweight.,albatross,bird,13
+an albatross is very lightweight.,albatross,bird,13
 a condor is very lightweight.,condor,bird,13
 a toucan is very lightweight.,toucan,bird,13
 an owl is very lightweight.,owl,bird,13
@@ -1772,8 +1772,7 @@ broccoli is edible.,broccoli,vegetable,1
 asparagus are edible.,asparagus,vegetable,1
 corn is edible.,corn,vegetable,1
 cauliflower is edible.,cauliflower,vegetable,1
-brussels are edible.,brussels,vegetable,1
-sprouts are edible.,sprouts,vegetable,1
+brussels sprouts are edible.,brussels sprouts,vegetable,1
 squash is edible.,squash,vegetable,1
 lettuce is edible.,lettuce,vegetable,1
 celery is edible.,celery,vegetable,1
@@ -1788,7 +1787,7 @@ eggplant is edible.,eggplant,vegetable,1
 romaine is edible.,romaine,vegetable,1
 green peppers are edible.,green peppers,vegetable,1
 okra is edible.,okra,vegetable,1
-radishes are edible.,radishes,vegetable,1
+radish is edible.,radishes,vegetable,1
 onions are edible.,onions,vegetable,1
 bean is edible.,bean,vegetable,1
 green onion is edible.,green onion,vegetable,1
@@ -1797,7 +1796,7 @@ parsnip is edible.,parsnip,vegetable,1
 turnip greens are edible.,turnip greens,vegetable,1
 collard is edible.,collard,vegetable,1
 wax beans are edible.,wax beans,vegetable,1
-watercress are edible.,watercress,vegetable,1
+watercress is edible.,watercress,vegetable,1
 black eyed peas are edible.,black eyed peas,vegetable,1
 leek is edible.,leek,vegetable,1
 peppers are edible.,peppers,vegetable,1
@@ -1829,8 +1828,7 @@ broccoli is eaten.,broccoli,vegetable,2
 asparagus are eaten.,asparagus,vegetable,2
 corn is eaten.,corn,vegetable,2
 cauliflower is eaten.,cauliflower,vegetable,2
-brussels are eaten.,brussels,vegetable,2
-sprouts are eaten.,sprouts,vegetable,2
+brussels sprouts are eaten.,brussels sprouts,vegetable,2
 squash is eaten.,squash,vegetable,2
 lettuce is eaten.,lettuce,vegetable,2
 celery is eaten.,celery,vegetable,2
@@ -1845,7 +1843,7 @@ eggplant is eaten.,eggplant,vegetable,2
 romaine is eaten.,romaine,vegetable,2
 green peppers are eaten.,green peppers,vegetable,2
 okra is eaten.,okra,vegetable,2
-radishes are eaten.,radishes,vegetable,2
+radish is eaten.,radishes,vegetable,2
 onions are eaten.,onions,vegetable,2
 bean is eaten.,bean,vegetable,2
 green onion is eaten.,green onion,vegetable,2
@@ -1854,7 +1852,7 @@ parsnip is eaten.,parsnip,vegetable,2
 turnip greens are eaten.,turnip greens,vegetable,2
 collard is eaten.,collard,vegetable,2
 wax beans are eaten.,wax beans,vegetable,2
-watercress are eaten.,watercress,vegetable,2
+watercress is eaten.,watercress,vegetable,2
 black eyed peas are eaten.,black eyed peas,vegetable,2
 leek is eaten.,leek,vegetable,2
 peppers are eaten.,peppers,vegetable,2
@@ -1879,44 +1877,43 @@ peanut is eaten.,peanut,vegetable,2
 rice is eaten.,rice,vegetable,2
 pea is a plant.,pea,vegetable,3
 carrot is a plant.,carrot,vegetable,3
-green beans are a plant.,green beans,vegetable,3
-string beans are a plant.,string beans,vegetable,3
+green beans are plants.,green beans,vegetable,3
+string beans are plants.,string beans,vegetable,3
 spinach is a plant.,spinach,vegetable,3
 broccoli is a plant.,broccoli,vegetable,3
-asparagus are a plant.,asparagus,vegetable,3
+asparagus are plants.,asparagus,vegetable,3
 corn is a plant.,corn,vegetable,3
 cauliflower is a plant.,cauliflower,vegetable,3
-brussels are a plant.,brussels,vegetable,3
-sprouts are a plant.,sprouts,vegetable,3
+brussels sprouts are plants.,brussels sprouts,vegetable,3
 squash is a plant.,squash,vegetable,3
 lettuce is a plant.,lettuce,vegetable,3
 celery is a plant.,celery,vegetable,3
 cucumber is a plant.,cucumber,vegetable,3
-beets are a plant.,beets,vegetable,3
-greens are a plant.,greens,vegetable,3
+beets are plants.,beets,vegetable,3
+greens are plants.,greens,vegetable,3
 tomato is a plant.,tomato,vegetable,3
-lima beans are a plant.,lima beans,vegetable,3
-artichokes are a plant.,artichokes,vegetable,3
+lima beans are plants.,lima beans,vegetable,3
+artichokes are plants.,artichokes,vegetable,3
 turnip is a plant.,turnip,vegetable,3
 eggplant is a plant.,eggplant,vegetable,3
 romaine is a plant.,romaine,vegetable,3
-green peppers are a plant.,green peppers,vegetable,3
+green peppers are plants.,green peppers,vegetable,3
 okra is a plant.,okra,vegetable,3
-radishes are a plant.,radishes,vegetable,3
-onions are a plant.,onions,vegetable,3
+radish is a plant.,radishes,vegetable,3
+onions are plants.,onions,vegetable,3
 bean is a plant.,bean,vegetable,3
 green onion is a plant.,green onion,vegetable,3
 potato is a plant.,potato,vegetable,3
 parsnip is a plant.,parsnip,vegetable,3
-turnip greens are a plant.,turnip greens,vegetable,3
+turnip greens are plants.,turnip greens,vegetable,3
 collard is a plant.,collard,vegetable,3
-wax beans are a plant.,wax beans,vegetable,3
-watercress are a plant.,watercress,vegetable,3
-black eyed peas are a plant.,black eyed peas,vegetable,3
+wax beans are plants.,wax beans,vegetable,3
+watercress is a plant.,watercress,vegetable,3
+black eyed peas are plants.,black eyed peas,vegetable,3
 leek is a plant.,leek,vegetable,3
-peppers are a plant.,peppers,vegetable,3
+peppers are plants.,peppers,vegetable,3
 sweet potato is a plant.,sweet potato,vegetable,3
-yams are a plant.,yams,vegetable,3
+yams are plants.,yams,vegetable,3
 parsley is a plant.,parsley,vegetable,3
 endive is a plant.,endive,vegetable,3
 rutabaga is a plant.,rutabaga,vegetable,3
@@ -1926,8 +1923,8 @@ rhubarb is a plant.,rhubarb,vegetable,3
 kale is a plant.,kale,vegetable,3
 escarole is a plant.,escarole,vegetable,3
 sauerkraut is a plant.,sauerkraut,vegetable,3
-pickles are a plant.,pickles,vegetable,3
-baked beans are a plant.,baked beans,vegetable,3
+pickles are plants.,pickles,vegetable,3
+baked beans are plants.,baked beans,vegetable,3
 pumpkin is a plant.,pumpkin,vegetable,3
 seaweed is a plant.,seaweed,vegetable,3
 garlic is a plant.,garlic,vegetable,3
@@ -1943,8 +1940,7 @@ broccoli is organic.,broccoli,vegetable,4
 asparagus are organic.,asparagus,vegetable,4
 corn is organic.,corn,vegetable,4
 cauliflower is organic.,cauliflower,vegetable,4
-brussels are organic.,brussels,vegetable,4
-sprouts are organic.,sprouts,vegetable,4
+brussels sprouts are organic.,brussels sprouts,vegetable,4
 squash is organic.,squash,vegetable,4
 lettuce is organic.,lettuce,vegetable,4
 celery is organic.,celery,vegetable,4
@@ -1959,7 +1955,7 @@ eggplant is organic.,eggplant,vegetable,4
 romaine is organic.,romaine,vegetable,4
 green peppers are organic.,green peppers,vegetable,4
 okra is organic.,okra,vegetable,4
-radishes are organic.,radishes,vegetable,4
+radish is organic.,radishes,vegetable,4
 onions are organic.,onions,vegetable,4
 bean is organic.,bean,vegetable,4
 green onion is organic.,green onion,vegetable,4
@@ -1968,7 +1964,7 @@ parsnip is organic.,parsnip,vegetable,4
 turnip greens are organic.,turnip greens,vegetable,4
 collard is organic.,collard,vegetable,4
 wax beans are organic.,wax beans,vegetable,4
-watercress are organic.,watercress,vegetable,4
+watercress is organic.,watercress,vegetable,4
 black eyed peas are organic.,black eyed peas,vegetable,4
 leek is organic.,leek,vegetable,4
 peppers are organic.,peppers,vegetable,4
@@ -2000,8 +1996,7 @@ broccoli is vegetation.,broccoli,vegetable,5
 asparagus are vegetation.,asparagus,vegetable,5
 corn is vegetation.,corn,vegetable,5
 cauliflower is vegetation.,cauliflower,vegetable,5
-brussels are vegetation.,brussels,vegetable,5
-sprouts are vegetation.,sprouts,vegetable,5
+brussels sprouts are vegetation.,brussels sprouts,vegetable,5
 squash is vegetation.,squash,vegetable,5
 lettuce is vegetation.,lettuce,vegetable,5
 celery is vegetation.,celery,vegetable,5
@@ -2016,7 +2011,7 @@ eggplant is vegetation.,eggplant,vegetable,5
 romaine is vegetation.,romaine,vegetable,5
 green peppers are vegetation.,green peppers,vegetable,5
 okra is vegetation.,okra,vegetable,5
-radishes are vegetation.,radishes,vegetable,5
+radish is vegetation.,radishes,vegetable,5
 onions are vegetation.,onions,vegetable,5
 bean is vegetation.,bean,vegetable,5
 green onion is vegetation.,green onion,vegetable,5
@@ -2025,7 +2020,7 @@ parsnip is vegetation.,parsnip,vegetable,5
 turnip greens are vegetation.,turnip greens,vegetable,5
 collard is vegetation.,collard,vegetable,5
 wax beans are vegetation.,wax beans,vegetable,5
-watercress are vegetation.,watercress,vegetable,5
+watercress is vegetation.,watercress,vegetable,5
 black eyed peas are vegetation.,black eyed peas,vegetable,5
 leek is vegetation.,leek,vegetable,5
 peppers are vegetation.,peppers,vegetable,5
@@ -2057,8 +2052,7 @@ broccoli grows underground or close to the ground.,broccoli,vegetable,6
 asparagus grow underground or close to the ground.,asparagus,vegetable,6
 corn grows underground or close to the ground.,corn,vegetable,6
 cauliflower grows underground or close to the ground.,cauliflower,vegetable,6
-brussels grow underground or close to the ground.,brussels,vegetable,6
-sprouts grow underground or close to the ground.,sprouts,vegetable,6
+brussels sprouts grow underground or close to the ground.,brussels sprouts,vegetable,6
 squash grows underground or close to the ground.,squash,vegetable,6
 lettuce grows underground or close to the ground.,lettuce,vegetable,6
 celery grows underground or close to the ground.,celery,vegetable,6
@@ -2082,7 +2076,7 @@ parsnip grows underground or close to the ground.,parsnip,vegetable,6
 turnip greens grow underground or close to the ground.,turnip greens,vegetable,6
 collard grows underground or close to the ground.,collard,vegetable,6
 wax beans grow underground or close to the ground.,wax beans,vegetable,6
-watercress grow underground or close to the ground.,watercress,vegetable,6
+watercress grows underground or close to the ground.,watercress,vegetable,6
 black eyed peas grow underground or close to the ground.,black eyed peas,vegetable,6
 leek grows underground or close to the ground.,leek,vegetable,6
 peppers grow underground or close to the ground.,peppers,vegetable,6
@@ -2114,8 +2108,7 @@ broccoli is green.,broccoli,vegetable,7
 asparagus are green.,asparagus,vegetable,7
 corn is green.,corn,vegetable,7
 cauliflower is green.,cauliflower,vegetable,7
-brussels are green.,brussels,vegetable,7
-sprouts are green.,sprouts,vegetable,7
+brussels sprouts are green.,brussels sprouts,vegetable,7
 squash is green.,squash,vegetable,7
 lettuce is green.,lettuce,vegetable,7
 celery is green.,celery,vegetable,7
@@ -2130,7 +2123,7 @@ eggplant is green.,eggplant,vegetable,7
 romaine is green.,romaine,vegetable,7
 green peppers are green.,green peppers,vegetable,7
 okra is green.,okra,vegetable,7
-radishes are green.,radishes,vegetable,7
+radish is green.,radishes,vegetable,7
 onions are green.,onions,vegetable,7
 bean is green.,bean,vegetable,7
 green onion is green.,green onion,vegetable,7
@@ -2139,7 +2132,7 @@ parsnip is green.,parsnip,vegetable,7
 turnip greens are green.,turnip greens,vegetable,7
 collard is green.,collard,vegetable,7
 wax beans are green.,wax beans,vegetable,7
-watercress are green.,watercress,vegetable,7
+watercress is green.,watercress,vegetable,7
 black eyed peas are green.,black eyed peas,vegetable,7
 leek is green.,leek,vegetable,7
 peppers are green.,peppers,vegetable,7
@@ -2171,8 +2164,7 @@ broccoli is cooked.,broccoli,vegetable,8
 asparagus are cooked.,asparagus,vegetable,8
 corn is cooked.,corn,vegetable,8
 cauliflower is cooked.,cauliflower,vegetable,8
-brussels are cooked.,brussels,vegetable,8
-sprouts are cooked.,sprouts,vegetable,8
+brussels sprouts are cooked.,brussels sprouts,vegetable,8
 squash is cooked.,squash,vegetable,8
 lettuce is cooked.,lettuce,vegetable,8
 celery is cooked.,celery,vegetable,8
@@ -2187,7 +2179,7 @@ eggplant is cooked.,eggplant,vegetable,8
 romaine is cooked.,romaine,vegetable,8
 green peppers are cooked.,green peppers,vegetable,8
 okra is cooked.,okra,vegetable,8
-radishes are cooked.,radishes,vegetable,8
+radish is cooked.,radishes,vegetable,8
 onions are cooked.,onions,vegetable,8
 bean is cooked.,bean,vegetable,8
 green onion is cooked.,green onion,vegetable,8
@@ -2196,7 +2188,7 @@ parsnip is cooked.,parsnip,vegetable,8
 turnip greens are cooked.,turnip greens,vegetable,8
 collard is cooked.,collard,vegetable,8
 wax beans are cooked.,wax beans,vegetable,8
-watercress are cooked.,watercress,vegetable,8
+watercress is cooked.,watercress,vegetable,8
 black eyed peas are cooked.,black eyed peas,vegetable,8
 leek is cooked.,leek,vegetable,8
 peppers are cooked.,peppers,vegetable,8
@@ -2228,7 +2220,7 @@ rice is cooked.,rice,vegetable,8
 "asparagus are eaten for dinner, with meat, salt etc.",asparagus,vegetable,9
 "corn is eaten for dinner, with meat, salt etc.",corn,vegetable,9
 "cauliflower is eaten for dinner, with meat, salt etc.",cauliflower,vegetable,9
-"brussels are eaten for dinner, with meat, salt etc.",brussels,vegetable,9
+"brussels sprouts are eaten for dinner, with meat, salt etc.",brussels sprouts,vegetable,9
 "sprouts are eaten for dinner, with meat, salt etc.",sprouts,vegetable,9
 "squash is eaten for dinner, with meat, salt etc.",squash,vegetable,9
 "lettuce is eaten for dinner, with meat, salt etc.",lettuce,vegetable,9
@@ -2244,7 +2236,7 @@ rice is cooked.,rice,vegetable,8
 "romaine is eaten for dinner, with meat, salt etc.",romaine,vegetable,9
 "green peppers are eaten for dinner, with meat, salt etc.",green peppers,vegetable,9
 "okra is eaten for dinner, with meat, salt etc.",okra,vegetable,9
-"radishes are eaten for dinner, with meat, salt etc.",radishes,vegetable,9
+"radish is eaten for dinner, with meat, salt etc.",radishes,vegetable,9
 "onions are eaten for dinner, with meat, salt etc.",onions,vegetable,9
 "bean is eaten for dinner, with meat, salt etc.",bean,vegetable,9
 "green onion is eaten for dinner, with meat, salt etc.",green onion,vegetable,9
@@ -2253,7 +2245,7 @@ rice is cooked.,rice,vegetable,8
 "turnip greens are eaten for dinner, with meat, salt etc.",turnip greens,vegetable,9
 "collard is eaten for dinner, with meat, salt etc.",collard,vegetable,9
 "wax beans are eaten for dinner, with meat, salt etc.",wax beans,vegetable,9
-"watercress are eaten for dinner, with meat, salt etc.",watercress,vegetable,9
+"watercress is eaten for dinner, with meat, salt etc.",watercress,vegetable,9
 "black eyed peas are eaten for dinner, with meat, salt etc.",black eyed peas,vegetable,9
 "leek is eaten for dinner, with meat, salt etc.",leek,vegetable,9
 "peppers are eaten for dinner, with meat, salt etc.",peppers,vegetable,9
@@ -2285,8 +2277,7 @@ broccoli has leaves and stalks.,broccoli,vegetable,10
 asparagus have leaves and stalks.,asparagus,vegetable,10
 corn has leaves and stalks.,corn,vegetable,10
 cauliflower has leaves and stalks.,cauliflower,vegetable,10
-brussels have leaves and stalks.,brussels,vegetable,10
-sprouts have leaves and stalks.,sprouts,vegetable,10
+brussels sprouts have leaves and stalks.,brussels sprouts,vegetable,10
 squash has leaves and stalks.,squash,vegetable,10
 lettuce has leaves and stalks.,lettuce,vegetable,10
 celery has leaves and stalks.,celery,vegetable,10
@@ -2310,7 +2301,7 @@ parsnip has leaves and stalks.,parsnip,vegetable,10
 turnip greens have leaves and stalks.,turnip greens,vegetable,10
 collard has leaves and stalks.,collard,vegetable,10
 wax beans have leaves and stalks.,wax beans,vegetable,10
-watercress have leaves and stalks.,watercress,vegetable,10
+watercress has leaves and stalks.,watercress,vegetable,10
 black eyed peas have leaves and stalks.,black eyed peas,vegetable,10
 leek has leaves and stalks.,leek,vegetable,10
 peppers have leaves and stalks.,peppers,vegetable,10
@@ -2342,8 +2333,7 @@ broccoli is not sweet.,broccoli,vegetable,11
 asparagus are not sweet.,asparagus,vegetable,11
 corn is not sweet.,corn,vegetable,11
 cauliflower is not sweet.,cauliflower,vegetable,11
-brussels are not sweet.,brussels,vegetable,11
-sprouts are not sweet.,sprouts,vegetable,11
+brussels sprouts are not sweet.,brussels sprouts,vegetable,11
 squash is not sweet.,squash,vegetable,11
 lettuce is not sweet.,lettuce,vegetable,11
 celery is not sweet.,celery,vegetable,11
@@ -2358,7 +2348,7 @@ eggplant is not sweet.,eggplant,vegetable,11
 romaine is not sweet.,romaine,vegetable,11
 green peppers are not sweet.,green peppers,vegetable,11
 okra is not sweet.,okra,vegetable,11
-radishes are not sweet.,radishes,vegetable,11
+radish is not sweet.,radishes,vegetable,11
 onions are not sweet.,onions,vegetable,11
 bean is not sweet.,bean,vegetable,11
 green onion is not sweet.,green onion,vegetable,11
@@ -2367,7 +2357,7 @@ parsnip is not sweet.,parsnip,vegetable,11
 turnip greens are not sweet.,turnip greens,vegetable,11
 collard is not sweet.,collard,vegetable,11
 wax beans are not sweet.,wax beans,vegetable,11
-watercress are not sweet.,watercress,vegetable,11
+watercress is not sweet.,watercress,vegetable,11
 black eyed peas are not sweet.,black eyed peas,vegetable,11
 leek is not sweet.,leek,vegetable,11
 peppers are not sweet.,peppers,vegetable,11
@@ -2399,8 +2389,7 @@ broccoli is savoury or tasteless.,broccoli,vegetable,12
 asparagus are savoury or tasteless.,asparagus,vegetable,12
 corn is savoury or tasteless.,corn,vegetable,12
 cauliflower is savoury or tasteless.,cauliflower,vegetable,12
-brussels are savoury or tasteless.,brussels,vegetable,12
-sprouts are savoury or tasteless.,sprouts,vegetable,12
+brussels sprouts are savoury or tasteless.,brussels sprouts,vegetable,12
 squash is savoury or tasteless.,squash,vegetable,12
 lettuce is savoury or tasteless.,lettuce,vegetable,12
 celery is savoury or tasteless.,celery,vegetable,12
@@ -2415,7 +2404,7 @@ eggplant is savoury or tasteless.,eggplant,vegetable,12
 romaine is savoury or tasteless.,romaine,vegetable,12
 green peppers are savoury or tasteless.,green peppers,vegetable,12
 okra is savoury or tasteless.,okra,vegetable,12
-radishes are savoury or tasteless.,radishes,vegetable,12
+radish is savoury or tasteless.,radishes,vegetable,12
 onions are savoury or tasteless.,onions,vegetable,12
 bean is savoury or tasteless.,bean,vegetable,12
 green onion is savoury or tasteless.,green onion,vegetable,12
@@ -2424,7 +2413,7 @@ parsnip is savoury or tasteless.,parsnip,vegetable,12
 turnip greens are savoury or tasteless.,turnip greens,vegetable,12
 collard is savoury or tasteless.,collard,vegetable,12
 wax beans are savoury or tasteless.,wax beans,vegetable,12
-watercress are savoury or tasteless.,watercress,vegetable,12
+watercress is savoury or tasteless.,watercress,vegetable,12
 black eyed peas are savoury or tasteless.,black eyed peas,vegetable,12
 leek is savoury or tasteless.,leek,vegetable,12
 peppers are savoury or tasteless.,peppers,vegetable,12
@@ -2456,8 +2445,7 @@ broccoli is cultivated.,broccoli,vegetable,13
 asparagus are cultivated.,asparagus,vegetable,13
 corn is cultivated.,corn,vegetable,13
 cauliflower is cultivated.,cauliflower,vegetable,13
-brussels are cultivated.,brussels,vegetable,13
-sprouts are cultivated.,sprouts,vegetable,13
+brussels sprouts are cultivated.,brussels sprouts,vegetable,13
 squash is cultivated.,squash,vegetable,13
 lettuce is cultivated.,lettuce,vegetable,13
 celery is cultivated.,celery,vegetable,13
@@ -2472,7 +2460,7 @@ eggplant is cultivated.,eggplant,vegetable,13
 romaine is cultivated.,romaine,vegetable,13
 green peppers are cultivated.,green peppers,vegetable,13
 okra is cultivated.,okra,vegetable,13
-radishes are cultivated.,radishes,vegetable,13
+radish is cultivated.,radishes,vegetable,13
 onions are cultivated.,onions,vegetable,13
 bean is cultivated.,bean,vegetable,13
 green onion is cultivated.,green onion,vegetable,13
@@ -2481,7 +2469,7 @@ parsnip is cultivated.,parsnip,vegetable,13
 turnip greens are cultivated.,turnip greens,vegetable,13
 collard is cultivated.,collard,vegetable,13
 wax beans are cultivated.,wax beans,vegetable,13
-watercress are cultivated.,watercress,vegetable,13
+watercress is cultivated.,watercress,vegetable,13
 black eyed peas are cultivated.,black eyed peas,vegetable,13
 leek is cultivated.,leek,vegetable,13
 peppers are cultivated.,peppers,vegetable,13
@@ -2512,7 +2500,7 @@ pear is a plant.,pear,fruit,1
 apricot is a plant.,apricot,fruit,1
 tangerine is a plant.,tangerine,fruit,1
 plum is a plant.,plum,fruit,1
-grapes are a plant.,grapes,fruit,1
+grapes are plants.,grapes,fruit,1
 nectarine is a plant.,nectarine,fruit,1
 strawberry is a plant.,strawberry,fruit,1
 grapefruit is a plant.,grapefruit,fruit,1
@@ -2538,7 +2526,7 @@ guava is a plant.,guava,fruit,1
 pomegranate is a plant.,pomegranate,fruit,1
 cranberry is a plant.,cranberry,fruit,1
 passion fruit is a plant.,passion fruit,fruit,1
-prunes are a plant.,prunes,fruit,1
+prunes are plants.,prunes,fruit,1
 gooseberry is a plant.,gooseberry,fruit,1
 date is a plant.,date,fruit,1
 kumquat is a plant.,kumquat,fruit,1

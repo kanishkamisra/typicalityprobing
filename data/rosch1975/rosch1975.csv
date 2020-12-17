@@ -181,8 +181,7 @@ broccoli is a vegetable.,broccoli,vegetable,6
 asparagus are vegetables.,asparagus,vegetable,7
 corn is a vegetable.,corn,vegetable,8
 cauliflower is a vegetable.,cauliflower,vegetable,9
-brussels are vegetables.,brussels,vegetable,10
-sprouts are vegetables.,sprouts,vegetable,11
+brussels sprouts are vegetables.,brussels sprouts,vegetable,10
 squash is a vegetable.,squash,vegetable,12
 lettuce is a vegetable.,lettuce,vegetable,13
 celery is a vegetable.,celery,vegetable,14
@@ -455,7 +454,7 @@ a rocking chair is a type of furniture.,rocking chair,furniture,7
 a coffee table is a type of furniture.,coffee table,furniture,8
 a rocker is a type of furniture.,rocker,furniture,9
 a love seat is a type of furniture.,love seat,furniture,10
-chest of drawers are furniture.,chest of drawers,furniture,11
+a chest of drawers is a type of furniture.,chest of drawers,furniture,11
 a desk is a type of furniture.,desk,furniture,12
 a bed is a type of furniture.,bed,furniture,13
 a bureau is a type of furniture.,bureau,furniture,14
