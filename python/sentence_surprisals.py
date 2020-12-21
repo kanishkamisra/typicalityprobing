@@ -13,6 +13,7 @@ parser.add_argument("--dataset", type = str)
 parser.add_argument("--model", default = 'distilbert-base', type = str)
 parser.add_argument("--batchsize", default = 10, type = int)
 parser.add_argument("--device", default = 'cpu', type = str)
+parser.add_argument("--stimuli", default = 0, type = int)
 parser.add_argument("--lmtype", default = 'masked', choices = ['mlm', 'masked', 'causal', 'incremental'], type = str)
 args = parser.parse_args()
 
@@ -21,6 +22,7 @@ model_name = args.model
 batch_size = args.batchsize
 device = args.device
 lm_type = args.lmtype
+idx = args.stimuli
 
 # make results dir: ../data/typicality/results/(dataset)/model_name.csv
 components = inpath.split("/")
@@ -37,7 +39,7 @@ with open(args.dataset, "r") as f:
         dataset.append(list(row.values()))
 
 dataset = list(zip(*dataset))
-stimuli = dataset[0]
+stimuli = dataset[idx]
 
 if lm_type == "masked" or lm_type == "mlm":
     transformer = scorer.MaskedLMScorer(model_name, device)

@@ -1,0 +1,196 @@
+conclusion,category,blankpredicate,category_word,predicate_id,argument_id
+All vehicles are vorpal.,vehicle,are,vehicles,3,4
+All vegetables are mimsy.,vegetable,are,vegetables,2,3
+All tools can be daxed.,tool,can be,tools,2,1
+All furniture can be blicked.,furniture,can be,furniture,2,3
+All weapons are mimsy.,weapon,are,weapons,3,3
+All vegetables have jabberwocks.,vegetable,have,vegetables,3,4
+All furniture have wugs.,furniture,have,furniture,5,1
+All fruits can be daxed.,fruit,can be,fruits,1,1
+All vehicles can gyre.,vehicle,can,vehicles,1,4
+All vehicles can be gimbled.,vehicle,can be,vehicles,2,5
+All furniture use a jabberwock.,furniture,use a,furniture,4,4
+All tools use a fep.,tool,use a,tools,4,2
+All furniture can be wiffed.,furniture,can be,furniture,2,2
+All weapons can blick.,weapon,can,weapons,1,3
+All fruits have toves.,fruit,have,fruits,3,5
+All birds can wif.,bird,can,birds,1,2
+All furniture can gimble.,furniture,can,furniture,1,5
+All birds love jabberwocks.,bird,love,birds,5,4
+All birds can gyre.,bird,can,birds,1,4
+All vegetables are frabjous.,vegetable,are,vegetables,2,5
+All furniture can dax.,furniture,can,furniture,1,1
+All tools have feps.,tool,have,tools,5,2
+All weapons are beamish.,weapon,are,weapons,3,1
+All vehicles can dax.,vehicle,can,vehicles,1,1
+All tools use a wug.,tool,use a,tools,4,1
+All fruits are slithy.,fruit,are,fruits,2,2
+All tools can be gyred.,tool,can be,tools,2,4
+All birds can blick.,bird,can,birds,1,3
+All furniture use a blicket.,furniture,use a,furniture,4,3
+All birds use a fep.,bird,use a,birds,4,2
+All tools can be blicked.,tool,can be,tools,2,3
+All sports require gimbling.,sport,requires,sports,2,5
+All fruits can be gyred.,fruit,can be,fruits,1,4
+All tools use a blicket.,tool,use a,tools,4,3
+All vegetables can be gyred.,vegetable,can be,vegetables,1,4
+All birds are mimsy.,bird,are,birds,3,3
+All weapons are frabjous.,weapon,are,weapons,3,5
+All furniture are mimsy.,furniture,are,furniture,3,3
+All weapons can be gyred.,weapon,can be,weapons,2,4
+All fruits are frabjous.,fruit,are,fruits,2,5
+All weapons have jabberwocks.,weapon,have,weapons,5,4
+All birds are beamish.,bird,are,birds,3,1
+All clothes have blickets.,clothing,have,clothes,3,3
+All tools can gimble.,tool,can,tools,1,5
+All fruits have jabberwocks.,fruit,have,fruits,3,4
+All clothes can be gimbled.,clothing,can be,clothes,1,5
+All tools use a jabberwock.,tool,use a,tools,4,4
+All vehicles are beamish.,vehicle,are,vehicles,3,1
+All sports require wiffing.,sport,requires,sports,2,2
+All sports are frabjous.,sport,is,sports,4,5
+All fruits can be gimbled.,fruit,can be,fruits,1,5
+All vegetables can be blicked.,vegetable,can be,vegetables,1,3
+All fruits can be blicked.,fruit,can be,fruits,1,3
+All vehicles have wugs.,vehicle,have,vehicles,5,1
+All clothes are vorpal.,clothing,are,clothes,2,4
+All vehicles have blickets.,vehicle,have,vehicles,5,3
+All sports require daxing.,sport,requires,sports,2,1
+All birds love wugs.,bird,love,birds,5,1
+All vehicles have jabberwocks.,vehicle,have,vehicles,5,4
+All tools are slithy.,tool,are,tools,3,2
+All vehicles can wif.,vehicle,can,vehicles,1,2
+All birds use a tove.,bird,use a,birds,4,5
+All vehicles use a jabberwock.,vehicle,use a,vehicles,4,4
+All vehicles are frabjous.,vehicle,are,vehicles,3,5
+All weapons have wugs.,weapon,have,weapons,5,1
+All vehicles can be daxed.,vehicle,can be,vehicles,2,1
+All furniture are beamish.,furniture,are,furniture,3,1
+All vehicles have toves.,vehicle,have,vehicles,5,5
+All birds use a blicket.,bird,use a,birds,4,3
+All furniture have blickets.,furniture,have,furniture,5,3
+All weapons have blickets.,weapon,have,weapons,5,3
+All furniture can be daxed.,furniture,can be,furniture,2,1
+All birds have toves.,bird,have,birds,6,5
+All sports include blicking.,sport,includes,sports,3,3
+All clothes are slithy.,clothing,are,clothes,2,2
+All vegetables are slithy.,vegetable,are,vegetables,2,2
+All weapons use a fep.,weapon,use a,weapons,4,2
+All tools are mimsy.,tool,are,tools,3,3
+All birds love blickets.,bird,love,birds,5,3
+All vehicles are mimsy.,vehicle,are,vehicles,3,3
+All birds are slithy.,bird,are,birds,3,2
+All furniture use a fep.,furniture,use a,furniture,4,2
+All weapons are slithy.,weapon,are,weapons,3,2
+All birds love feps.,bird,love,birds,5,2
+All weapons use a blicket.,weapon,use a,weapons,4,3
+All sports are beamish.,sport,is,sports,4,1
+All sports include gyring.,sport,includes,sports,3,4
+All furniture are frabjous.,furniture,are,furniture,3,5
+All vehicles can gimble.,vehicle,can,vehicles,1,5
+All furniture use a tove.,furniture,use a,furniture,4,5
+All clothes can be blicked.,clothing,can be,clothes,1,3
+All clothes are frabjous.,clothing,are,clothes,2,5
+All tools can be gimbled.,tool,can be,tools,2,5
+All birds have blickets.,bird,have,birds,6,3
+All sports involve wiffing.,sport,involves,sports,1,2
+All vehicles can be blicked.,vehicle,can be,vehicles,2,3
+All tools are frabjous.,tool,are,tools,3,5
+All sports involve gyring.,sport,involves,sports,1,4
+All clothes can be daxed.,clothing,can be,clothes,1,1
+All clothes are mimsy.,clothing,are,clothes,2,3
+All vehicles use a wug.,vehicle,use a,vehicles,4,1
+All furniture have jabberwocks.,furniture,have,furniture,5,4
+All fruits are beamish.,fruit,are,fruits,2,1
+All sports include wiffing.,sport,includes,sports,3,2
+All sports involve daxing.,sport,involves,sports,1,1
+All tools have wugs.,tool,have,tools,5,1
+All fruits have blickets.,fruit,have,fruits,3,3
+All tools use a tove.,tool,use a,tools,4,5
+All vehicles can be gyred.,vehicle,can be,vehicles,2,4
+All furniture have feps.,furniture,have,furniture,5,2
+All furniture can be gimbled.,furniture,can be,furniture,2,5
+All birds can be gimbled.,bird,can be,birds,2,5
+All birds have feps.,bird,have,birds,6,2
+All vegetables can be gimbled.,vegetable,can be,vegetables,1,5
+All weapons use a tove.,weapon,use a,weapons,4,5
+All vehicles are slithy.,vehicle,are,vehicles,3,2
+All clothes can be wiffed.,clothing,can be,clothes,1,2
+All sports require blicking.,sport,requires,sports,2,3
+All weapons have toves.,weapon,have,weapons,5,5
+All birds love toves.,bird,love,birds,5,5
+All vehicles use a tove.,vehicle,use a,vehicles,4,5
+All birds can be wiffed.,bird,can be,birds,2,2
+All sports are vorpal.,sport,is,sports,4,4
+All furniture are slithy.,furniture,are,furniture,3,2
+All sports are slithy.,sport,is,sports,4,2
+All vehicles have feps.,vehicle,have,vehicles,5,2
+All clothes have toves.,clothing,have,clothes,3,5
+All tools can gyre.,tool,can,tools,1,4
+All weapons can be daxed.,weapon,can be,weapons,2,1
+All fruits can be wiffed.,fruit,can be,fruits,1,2
+All fruits have feps.,fruit,have,fruits,3,2
+All weapons use a wug.,weapon,use a,weapons,4,1
+All birds can gimble.,bird,can,birds,1,5
+All tools have toves.,tool,have,tools,5,5
+All vegetables are beamish.,vegetable,are,vegetables,2,1
+All weapons can be blicked.,weapon,can be,weapons,2,3
+All vegetables are vorpal.,vegetable,are,vegetables,2,4
+All tools are vorpal.,tool,are,tools,3,4
+All weapons can gimble.,weapon,can,weapons,1,5
+All tools can blick.,tool,can,tools,1,3
+All tools are beamish.,tool,are,tools,3,1
+All furniture can gyre.,furniture,can,furniture,1,4
+All weapons are vorpal.,weapon,are,weapons,3,4
+All clothes are beamish.,clothing,are,clothes,2,1
+All sports require gyring.,sport,requires,sports,2,4
+All sports involve gimbling.,sport,involves,sports,1,5
+All birds are vorpal.,bird,are,birds,3,4
+All sports include gimbling.,sport,includes,sports,3,5
+All sports involve blicking.,sport,involves,sports,1,3
+All vehicles can blick.,vehicle,can,vehicles,1,3
+All vehicles use a fep.,vehicle,use a,vehicles,4,2
+All birds have jabberwocks.,bird,have,birds,6,4
+All furniture have toves.,furniture,have,furniture,5,5
+All weapons can be gimbled.,weapon,can be,weapons,2,5
+All weapons can dax.,weapon,can,weapons,1,1
+All sports are mimsy.,sport,is,sports,4,3
+All clothes can be gyred.,clothing,can be,clothes,1,4
+All clothes have feps.,clothing,have,clothes,3,2
+All birds have wugs.,bird,have,birds,6,1
+All fruits are vorpal.,fruit,are,fruits,2,4
+All tools have blickets.,tool,have,tools,5,3
+All birds can dax.,bird,can,birds,1,1
+All furniture use a wug.,furniture,use a,furniture,4,1
+All furniture can blick.,furniture,can,furniture,1,3
+All birds use a jabberwock.,bird,use a,birds,4,4
+All birds use a wug.,bird,use a,birds,4,1
+All birds can be daxed.,bird,can be,birds,2,1
+All vegetables can be wiffed.,vegetable,can be,vegetables,1,2
+All vegetables have feps.,vegetable,have,vegetables,3,2
+All vegetables can be daxed.,vegetable,can be,vegetables,1,1
+All birds can be blicked.,bird,can be,birds,2,3
+All vehicles can be wiffed.,vehicle,can be,vehicles,2,2
+All weapons use a jabberwock.,weapon,use a,weapons,4,4
+All tools have jabberwocks.,tool,have,tools,5,4
+All furniture can be gyred.,furniture,can be,furniture,2,4
+All weapons have feps.,weapon,have,weapons,5,2
+All vehicles use a blicket.,vehicle,use a,vehicles,4,3
+All furniture are vorpal.,furniture,are,furniture,3,4
+All sports include daxing.,sport,includes,sports,3,1
+All weapons can be wiffed.,weapon,can be,weapons,2,2
+All clothes have wugs.,clothing,have,clothes,3,1
+All tools can dax.,tool,can,tools,1,1
+All tools can be wiffed.,tool,can be,tools,2,2
+All weapons can gyre.,weapon,can,weapons,1,4
+All vegetables have toves.,vegetable,have,vegetables,3,5
+All weapons can wif.,weapon,can,weapons,1,2
+All fruits have wugs.,fruit,have,fruits,3,1
+All fruits are mimsy.,fruit,are,fruits,2,3
+All clothes have jabberwocks.,clothing,have,clothes,3,4
+All vegetables have wugs.,vegetable,have,vegetables,3,1
+All vegetables have blickets.,vegetable,have,vegetables,3,3
+All birds can be gyred.,bird,can be,birds,2,4
+All furniture can wif.,furniture,can,furniture,1,2
+All birds are frabjous.,bird,are,birds,3,5
+All tools can wif.,tool,can,tools,1,2

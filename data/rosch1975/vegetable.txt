@@ -7,8 +7,7 @@ broccoli
 asparagus
 corn
 cauliflower
-brussel
-sprout
+brussels sprouts
 squash
 lettuce
 celery
