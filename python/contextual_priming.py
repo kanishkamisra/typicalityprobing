@@ -49,21 +49,25 @@ num_params = [sum(p.numel() for p in transformer.model.parameters())] * len(data
 stimuli_loader = DataLoader(dataset, batch_size = batch_size, num_workers=8)
 
 results = []
+conclusion_only = []
 
 for batch in tqdm(stimuli_loader):
     premise = list(batch[0])
     conclusion = list(batch[1])
-    scores = transformer.adapt_score(premise, conclusion, torch.sum)
-    results.extend(scores)
+    priming_scores = transformer.adapt_score(premise, conclusion, torch.sum)
+    conclusion_scores = transformer.score(conclusion, torch.sum)
+    results.extend(priming_scores)
+    conclusion_only.extend(conclusion_scores)
 
 
 dataset = list(zip(*dataset))
 dataset.append(results)
+dataset.append(conclusion_only)
 
 dataset.append(num_params)
 dataset.append([model_name] * len(results))
 
-column_names = column_names + ["score", "params", "model"]
+column_names = column_names + ["score", "conclusion_only", "params", "model"]
 
 with open(results_dir + f"/{model_name}.csv", "w") as f:
     writer = csv.writer(f)

@@ -1,0 +1,196 @@
+conclusion,category,blankpredicate,category_word,predicate_id,argument_id,logprob,normalized_logprob,params,model
+All vehicles are vorpal.,vehicle,are,vehicles,3,4,-98.20064878463745,-14.028664112091064,110104890,bert-base-uncased
+All vegetables are mimsy.,vegetable,are,vegetables,2,3,-93.589430809021,-13.369918687002999,110104890,bert-base-uncased
+All tools can be daxed.,tool,can be,tools,2,1,-92.1143388748169,-13.159191267830986,110104890,bert-base-uncased
+All furniture can be blicked.,furniture,can be,furniture,2,3,-115.90506887435913,-14.488133609294891,110104890,bert-base-uncased
+All weapons are mimsy.,weapon,are,weapons,3,3,-94.62401247024536,-13.51771606717791,110104890,bert-base-uncased
+All vegetables have jabberwocks.,vegetable,have,vegetables,3,4,-128.2663493156433,-16.033293664455414,110104890,bert-base-uncased
+All furniture have wugs.,furniture,have,furniture,5,1,-89.92565822601318,-14.987609704335531,110104890,bert-base-uncased
+All fruits can be daxed.,fruit,can be,fruits,1,1,-87.48173952102661,-12.49739136014666,110104890,bert-base-uncased
+All vehicles can gyre.,vehicle,can,vehicles,1,4,-82.57526540756226,-13.76254423459371,110104890,bert-base-uncased
+All vehicles can be gimbled.,vehicle,can be,vehicles,2,5,-95.3526177406311,-13.621802534375872,110104890,bert-base-uncased
+All furniture use a jabberwock.,furniture,use a,furniture,4,4,-134.98785495758057,-14.998650550842285,110104890,bert-base-uncased
+All tools use a fep.,tool,use a,tools,4,2,-92.65677738189697,-13.236682483128138,110104890,bert-base-uncased
+All furniture can be wiffed.,furniture,can be,furniture,2,2,-109.02318525314331,-15.574740750449044,110104890,bert-base-uncased
+All weapons can blick.,weapon,can,weapons,1,3,-74.44064140319824,-12.406773567199707,110104890,bert-base-uncased
+All fruits have toves.,fruit,have,fruits,3,5,-80.37730312347412,-13.396217187245687,110104890,bert-base-uncased
+All birds can wif.,bird,can,birds,1,2,-76.19405508041382,-12.69900918006897,110104890,bert-base-uncased
+All furniture can gimble.,furniture,can,furniture,1,5,-89.43745994567871,-14.906243324279785,110104890,bert-base-uncased
+All birds love jabberwocks.,bird,love,birds,5,4,-111.19500494003296,-13.89937561750412,110104890,bert-base-uncased
+All birds can gyre.,bird,can,birds,1,4,-76.2390308380127,-12.706505139668783,110104890,bert-base-uncased
+All vegetables are frabjous.,vegetable,are,vegetables,2,5,-114.76036405563354,-14.345045506954193,110104890,bert-base-uncased
+All furniture can dax.,furniture,can,furniture,1,1,-70.30701065063477,-14.061402130126954,110104890,bert-base-uncased
+All tools have feps.,tool,have,tools,5,2,-90.9730224609375,-15.16217041015625,110104890,bert-base-uncased
+All weapons are beamish.,weapon,are,weapons,3,1,-79.03222703933716,-13.172037839889526,110104890,bert-base-uncased
+All vehicles can dax.,vehicle,can,vehicles,1,1,-67.8993239402771,-13.57986478805542,110104890,bert-base-uncased
+All tools use a wug.,tool,use a,tools,4,1,-95.66741275787354,-13.666773251124791,110104890,bert-base-uncased
+All fruits are slithy.,fruit,are,fruits,2,2,-75.20350170135498,-12.53391695022583,110104890,bert-base-uncased
+All tools can be gyred.,tool,can be,tools,2,4,-106.84838008880615,-13.356047511100769,110104890,bert-base-uncased
+All birds can blick.,bird,can,birds,1,3,-66.02162790298462,-11.003604650497437,110104890,bert-base-uncased
+All furniture use a blicket.,furniture,use a,furniture,4,3,-103.78709363937378,-12.973386704921722,110104890,bert-base-uncased
+All birds use a fep.,bird,use a,birds,4,2,-96.85161399841309,-13.835944856916155,110104890,bert-base-uncased
+All tools can be blicked.,tool,can be,tools,2,3,-104.77885627746582,-13.097357034683228,110104890,bert-base-uncased
+All sports require gimbling.,sport,requires,sports,2,5,-87.02420282363892,-14.50403380393982,110104890,bert-base-uncased
+All fruits can be gyred.,fruit,can be,fruits,1,4,-105.21328687667847,-13.151660859584808,110104890,bert-base-uncased
+All tools use a blicket.,tool,use a,tools,4,3,-99.81613826751709,-12.477017283439636,110104890,bert-base-uncased
+All vegetables can be gyred.,vegetable,can be,vegetables,1,4,-116.64228439331055,-14.580285549163818,110104890,bert-base-uncased
+All birds are mimsy.,bird,are,birds,3,3,-90.11770153045654,-12.873957361493792,110104890,bert-base-uncased
+All weapons are frabjous.,weapon,are,weapons,3,5,-112.9275016784668,-14.11593770980835,110104890,bert-base-uncased
+All furniture are mimsy.,furniture,are,furniture,3,3,-92.420401096344,-13.202914442334857,110104890,bert-base-uncased
+All weapons can be gyred.,weapon,can be,weapons,2,4,-107.88166284561157,-13.485207855701447,110104890,bert-base-uncased
+All fruits are frabjous.,fruit,are,fruits,2,5,-108.06151151657104,-13.50768893957138,110104890,bert-base-uncased
+All weapons have jabberwocks.,weapon,have,weapons,5,4,-120.38247346878052,-15.047809183597565,110104890,bert-base-uncased
+All birds are beamish.,bird,are,birds,3,1,-72.66370296478271,-12.11061716079712,110104890,bert-base-uncased
+All clothes have blickets.,clothing,have,clothes,3,3,-95.79735231399536,-13.68533604485648,110104890,bert-base-uncased
+All tools can gimble.,tool,can,tools,1,5,-80.50260496139526,-13.41710082689921,110104890,bert-base-uncased
+All fruits have jabberwocks.,fruit,have,fruits,3,4,-117.98989915847778,-14.748737394809723,110104890,bert-base-uncased
+All clothes can be gimbled.,clothing,can be,clothes,1,5,-102.89145612716675,-14.698779446738106,110104890,bert-base-uncased
+All tools use a jabberwock.,tool,use a,tools,4,4,-132.83011150360107,-14.758901278177897,110104890,bert-base-uncased
+All vehicles are beamish.,vehicle,are,vehicles,3,1,-72.48407411575317,-12.080679019292196,110104890,bert-base-uncased
+All sports require wiffing.,sport,requires,sports,2,2,-99.85358810424805,-14.264798300606865,110104890,bert-base-uncased
+All sports are frabjous.,sport,is,sports,4,5,-118.53904342651367,-14.817380428314209,110104890,bert-base-uncased
+All fruits can be gimbled.,fruit,can be,fruits,1,5,-92.57060956954956,-13.224372795649938,110104890,bert-base-uncased
+All vegetables can be blicked.,vegetable,can be,vegetables,1,3,-113.01962471008301,-14.127453088760376,110104890,bert-base-uncased
+All fruits can be blicked.,fruit,can be,fruits,1,3,-105.632577419281,-13.204072177410126,110104890,bert-base-uncased
+All vehicles have wugs.,vehicle,have,vehicles,5,1,-94.40201044082642,-15.733668406804403,110104890,bert-base-uncased
+All clothes are vorpal.,clothing,are,clothes,2,4,-94.89588689804077,-13.556555271148682,110104890,bert-base-uncased
+All vehicles have blickets.,vehicle,have,vehicles,5,3,-103.32976245880127,-14.76139463697161,110104890,bert-base-uncased
+All sports require daxing.,sport,requires,sports,2,1,-82.8861722946167,-13.814362049102783,110104890,bert-base-uncased
+All birds love wugs.,bird,love,birds,5,1,-77.46729898452759,-12.911216497421265,110104890,bert-base-uncased
+All vehicles have jabberwocks.,vehicle,have,vehicles,5,4,-126.14070844650269,-15.767588555812836,110104890,bert-base-uncased
+All tools are slithy.,tool,are,tools,3,2,-83.44945335388184,-13.908242225646973,110104890,bert-base-uncased
+All vehicles can wif.,vehicle,can,vehicles,1,2,-77.518057346344,-12.919676224390665,110104890,bert-base-uncased
+All birds use a tove.,bird,use a,birds,4,5,-89.14005184173584,-12.734293120247978,110104890,bert-base-uncased
+All vehicles use a jabberwock.,vehicle,use a,vehicles,4,4,-131.19665384292603,-14.577405982547337,110104890,bert-base-uncased
+All vehicles are frabjous.,vehicle,are,vehicles,3,5,-111.96565246582031,-13.995706558227539,110104890,bert-base-uncased
+All weapons have wugs.,weapon,have,weapons,5,1,-88.74900913238525,-14.791501522064209,110104890,bert-base-uncased
+All vehicles can be daxed.,vehicle,can be,vehicles,2,1,-95.4541974067688,-13.636313915252686,110104890,bert-base-uncased
+All furniture are beamish.,furniture,are,furniture,3,1,-75.76757717132568,-12.627929528554281,110104890,bert-base-uncased
+All vehicles have toves.,vehicle,have,vehicles,5,5,-85.04426002502441,-14.174043337504068,110104890,bert-base-uncased
+All birds use a blicket.,bird,use a,birds,4,3,-103.25801086425781,-12.907251358032227,110104890,bert-base-uncased
+All furniture have blickets.,furniture,have,furniture,5,3,-97.35136365890503,-13.907337665557861,110104890,bert-base-uncased
+All weapons have blickets.,weapon,have,weapons,5,3,-94.31522846221924,-13.473604066031319,110104890,bert-base-uncased
+All furniture can be daxed.,furniture,can be,furniture,2,1,-106.49835777282715,-15.214051110403878,110104890,bert-base-uncased
+All birds have toves.,bird,have,birds,6,5,-78.20195007324219,-13.033658345540365,110104890,bert-base-uncased
+All sports include blicking.,sport,includes,sports,3,3,-87.44522142410278,-12.49217448915754,110104890,bert-base-uncased
+All clothes are slithy.,clothing,are,clothes,2,2,-82.84849834442139,-13.808083057403564,110104890,bert-base-uncased
+All vegetables are slithy.,vegetable,are,vegetables,2,2,-89.73473787307739,-14.9557896455129,110104890,bert-base-uncased
+All weapons use a fep.,weapon,use a,weapons,4,2,-82.77734518051147,-11.825335025787354,110104890,bert-base-uncased
+All tools are mimsy.,tool,are,tools,3,3,-93.8096694946289,-13.401381356375557,110104890,bert-base-uncased
+All birds love blickets.,bird,love,birds,5,3,-83.603346824646,-11.943335260663714,110104890,bert-base-uncased
+All vehicles are mimsy.,vehicle,are,vehicles,3,3,-89.34520101547241,-12.763600145067487,110104890,bert-base-uncased
+All birds are slithy.,bird,are,birds,3,2,-79.6640305519104,-13.2773384253184,110104890,bert-base-uncased
+All furniture use a fep.,furniture,use a,furniture,4,2,-87.20915126800537,-12.458450181143624,110104890,bert-base-uncased
+All weapons are slithy.,weapon,are,weapons,3,2,-86.33850812911987,-14.389751354853312,110104890,bert-base-uncased
+All birds love feps.,bird,love,birds,5,2,-77.48412799835205,-12.914021333058676,110104890,bert-base-uncased
+All weapons use a blicket.,weapon,use a,weapons,4,3,-104.87825107574463,-13.109781384468079,110104890,bert-base-uncased
+All sports are beamish.,sport,is,sports,4,1,-71.87333488464355,-11.978889147440592,110104890,bert-base-uncased
+All sports include gyring.,sport,includes,sports,3,4,-80.38177967071533,-11.483111381530762,110104890,bert-base-uncased
+All furniture are frabjous.,furniture,are,furniture,3,5,-112.98256254196167,-14.122820317745209,110104890,bert-base-uncased
+All vehicles can gimble.,vehicle,can,vehicles,1,5,-83.74398803710938,-13.957331339518229,110104890,bert-base-uncased
+All furniture use a tove.,furniture,use a,furniture,4,5,-90.21111679077148,-12.88730239868164,110104890,bert-base-uncased
+All clothes can be blicked.,clothing,can be,clothes,1,3,-110.21222400665283,-13.776528000831604,110104890,bert-base-uncased
+All clothes are frabjous.,clothing,are,clothes,2,5,-114.47041606903076,-14.308802008628845,110104890,bert-base-uncased
+All tools can be gimbled.,tool,can be,tools,2,5,-100.60657167434692,-14.37236738204956,110104890,bert-base-uncased
+All birds have blickets.,bird,have,birds,6,3,-89.41479110717773,-12.773541586739677,110104890,bert-base-uncased
+All sports involve wiffing.,sport,involves,sports,1,2,-97.28852081298828,-13.898360116141182,110104890,bert-base-uncased
+All vehicles can be blicked.,vehicle,can be,vehicles,2,3,-108.76990175247192,-13.59623771905899,110104890,bert-base-uncased
+All tools are frabjous.,tool,are,tools,3,5,-110.4026231765747,-13.800327897071838,110104890,bert-base-uncased
+All sports involve gyring.,sport,involves,sports,1,4,-83.78928232192993,-11.969897474561419,110104890,bert-base-uncased
+All clothes can be daxed.,clothing,can be,clothes,1,1,-105.02943897247314,-15.004205567496163,110104890,bert-base-uncased
+All clothes are mimsy.,clothing,are,clothes,2,3,-89.57537746429443,-12.796482494899205,110104890,bert-base-uncased
+All vehicles use a wug.,vehicle,use a,vehicles,4,1,-96.9061632156372,-13.843737602233887,110104890,bert-base-uncased
+All furniture have jabberwocks.,furniture,have,furniture,5,4,-127.94289779663086,-15.992862224578857,110104890,bert-base-uncased
+All fruits are beamish.,fruit,are,fruits,2,1,-69.00709581375122,-11.501182635625204,110104890,bert-base-uncased
+All sports include wiffing.,sport,includes,sports,3,2,-90.81169414520264,-12.973099163600377,110104890,bert-base-uncased
+All sports involve daxing.,sport,involves,sports,1,1,-80.27776432037354,-13.379627386728922,110104890,bert-base-uncased
+All tools have wugs.,tool,have,tools,5,1,-92.76480293273926,-15.460800488789877,110104890,bert-base-uncased
+All fruits have blickets.,fruit,have,fruits,3,3,-93.46509742736816,-13.35215677533831,110104890,bert-base-uncased
+All tools use a tove.,tool,use a,tools,4,5,-87.9641547203064,-12.566307817186628,110104890,bert-base-uncased
+All vehicles can be gyred.,vehicle,can be,vehicles,2,4,-106.43662452697754,-13.304578065872192,110104890,bert-base-uncased
+All furniture have feps.,furniture,have,furniture,5,2,-80.57096338272095,-13.428493897120157,110104890,bert-base-uncased
+All furniture can be gimbled.,furniture,can be,furniture,2,5,-104.05329322814941,-14.864756175449916,110104890,bert-base-uncased
+All birds can be gimbled.,bird,can be,birds,2,5,-101.29194164276123,-14.470277377537318,110104890,bert-base-uncased
+All birds have feps.,bird,have,birds,6,2,-85.09345006942749,-14.182241678237915,110104890,bert-base-uncased
+All vegetables can be gimbled.,vegetable,can be,vegetables,1,5,-101.7400164604187,-14.534288065774101,110104890,bert-base-uncased
+All weapons use a tove.,weapon,use a,weapons,4,5,-84.35409736633301,-12.050585338047572,110104890,bert-base-uncased
+All vehicles are slithy.,vehicle,are,vehicles,3,2,-94.65329217910767,-15.775548696517944,110104890,bert-base-uncased
+All clothes can be wiffed.,clothing,can be,clothes,1,2,-99.35497808456421,-14.193568297794886,110104890,bert-base-uncased
+All sports require blicking.,sport,requires,sports,2,3,-88.63390922546387,-12.661987032209124,110104890,bert-base-uncased
+All weapons have toves.,weapon,have,weapons,5,5,-82.6996021270752,-13.7832670211792,110104890,bert-base-uncased
+All birds love toves.,bird,love,birds,5,5,-71.43124389648438,-11.905207316080729,110104890,bert-base-uncased
+All vehicles use a tove.,vehicle,use a,vehicles,4,5,-86.15094470977783,-12.307277815682548,110104890,bert-base-uncased
+All birds can be wiffed.,bird,can be,birds,2,2,-94.93106603622437,-13.561580862317767,110104890,bert-base-uncased
+All sports are vorpal.,sport,is,sports,4,4,-94.50659894943237,-13.500942707061768,110104890,bert-base-uncased
+All furniture are slithy.,furniture,are,furniture,3,2,-87.62526988983154,-14.604211648305258,110104890,bert-base-uncased
+All sports are slithy.,sport,is,sports,4,2,-70.68589115142822,-11.780981858571371,110104890,bert-base-uncased
+All vehicles have feps.,vehicle,have,vehicles,5,2,-85.15188837051392,-14.191981395085653,110104890,bert-base-uncased
+All clothes have toves.,clothing,have,clothes,3,5,-85.16735744476318,-14.194559574127197,110104890,bert-base-uncased
+All tools can gyre.,tool,can,tools,1,4,-78.36477184295654,-13.060795307159424,110104890,bert-base-uncased
+All weapons can be daxed.,weapon,can be,weapons,2,1,-92.77608823776245,-13.253726891108922,110104890,bert-base-uncased
+All fruits can be wiffed.,fruit,can be,fruits,1,2,-88.27574348449707,-12.610820497785296,110104890,bert-base-uncased
+All fruits have feps.,fruit,have,fruits,3,2,-85.13248825073242,-14.188748041788736,110104890,bert-base-uncased
+All weapons use a wug.,weapon,use a,weapons,4,1,-90.08504819869995,-12.869292599814278,110104890,bert-base-uncased
+All birds can gimble.,bird,can,birds,1,5,-81.62812423706055,-13.604687372843424,110104890,bert-base-uncased
+All tools have toves.,tool,have,tools,5,5,-90.53022718429565,-15.088371197382608,110104890,bert-base-uncased
+All vegetables are beamish.,vegetable,are,vegetables,2,1,-74.0125503540039,-12.33542505900065,110104890,bert-base-uncased
+All weapons can be blicked.,weapon,can be,weapons,2,3,-108.17038488388062,-13.521298110485077,110104890,bert-base-uncased
+All vegetables are vorpal.,vegetable,are,vegetables,2,4,-94.2325029373169,-13.461786133902413,110104890,bert-base-uncased
+All tools are vorpal.,tool,are,tools,3,4,-99.36970615386963,-14.195672307695661,110104890,bert-base-uncased
+All weapons can gimble.,weapon,can,weapons,1,5,-80.37994384765625,-13.396657307942709,110104890,bert-base-uncased
+All tools can blick.,tool,can,tools,1,3,-65.88072538375854,-10.98012089729309,110104890,bert-base-uncased
+All tools are beamish.,tool,are,tools,3,1,-74.27524423599243,-12.379207372665405,110104890,bert-base-uncased
+All furniture can gyre.,furniture,can,furniture,1,4,-84.2317476272583,-14.03862460454305,110104890,bert-base-uncased
+All weapons are vorpal.,weapon,are,weapons,3,4,-97.67529106140137,-13.953613008771624,110104890,bert-base-uncased
+All clothes are beamish.,clothing,are,clothes,2,1,-71.8365888595581,-11.972764809926352,110104890,bert-base-uncased
+All sports require gyring.,sport,requires,sports,2,4,-83.88807106018066,-11.984010151454381,110104890,bert-base-uncased
+All sports involve gimbling.,sport,involves,sports,1,5,-84.80575370788574,-14.134292284647623,110104890,bert-base-uncased
+All birds are vorpal.,bird,are,birds,3,4,-89.72757148742676,-12.818224498203822,110104890,bert-base-uncased
+All sports include gimbling.,sport,includes,sports,3,5,-77.4951753616333,-12.915862560272217,110104890,bert-base-uncased
+All sports involve blicking.,sport,involves,sports,1,3,-93.18465375900269,-13.312093394143242,110104890,bert-base-uncased
+All vehicles can blick.,vehicle,can,vehicles,1,3,-67.37313079833984,-11.22885513305664,110104890,bert-base-uncased
+All vehicles use a fep.,vehicle,use a,vehicles,4,2,-88.06855583190918,-12.581222261701312,110104890,bert-base-uncased
+All birds have jabberwocks.,bird,have,birds,6,4,-118.27697706222534,-14.784622132778168,110104890,bert-base-uncased
+All furniture have toves.,furniture,have,furniture,5,5,-88.66101360321045,-14.776835600535074,110104890,bert-base-uncased
+All weapons can be gimbled.,weapon,can be,weapons,2,5,-94.6703519821167,-13.524335997445244,110104890,bert-base-uncased
+All weapons can dax.,weapon,can,weapons,1,1,-55.65806722640991,-11.131613445281982,110104890,bert-base-uncased
+All sports are mimsy.,sport,is,sports,4,3,-89.88887023925781,-12.84126717703683,110104890,bert-base-uncased
+All clothes can be gyred.,clothing,can be,clothes,1,4,-109.60847806930542,-13.701059758663177,110104890,bert-base-uncased
+All clothes have feps.,clothing,have,clothes,3,2,-81.721764087677,-13.620294014612833,110104890,bert-base-uncased
+All birds have wugs.,bird,have,birds,6,1,-89.5661187171936,-14.9276864528656,110104890,bert-base-uncased
+All fruits are vorpal.,fruit,are,fruits,2,4,-89.14199256896973,-12.734570366995674,110104890,bert-base-uncased
+All tools have blickets.,tool,have,tools,5,3,-96.5201416015625,-13.788591657366071,110104890,bert-base-uncased
+All birds can dax.,bird,can,birds,1,1,-63.22547197341919,-12.645094394683838,110104890,bert-base-uncased
+All furniture use a wug.,furniture,use a,furniture,4,1,-91.86019325256348,-13.122884750366211,110104890,bert-base-uncased
+All furniture can blick.,furniture,can,furniture,1,3,-72.42506122589111,-12.07084353764852,110104890,bert-base-uncased
+All birds use a jabberwock.,bird,use a,birds,4,4,-130.4989457130432,-14.4998828570048,110104890,bert-base-uncased
+All birds use a wug.,bird,use a,birds,4,1,-97.59991025924683,-13.942844322749547,110104890,bert-base-uncased
+All birds can be daxed.,bird,can be,birds,2,1,-100.98119258880615,-14.425884655543737,110104890,bert-base-uncased
+All vegetables can be wiffed.,vegetable,can be,vegetables,1,2,-100.42412185668945,-14.346303122384208,110104890,bert-base-uncased
+All vegetables have feps.,vegetable,have,vegetables,3,2,-99.0333080291748,-16.5055513381958,110104890,bert-base-uncased
+All vegetables can be daxed.,vegetable,can be,vegetables,1,1,-100.46325159072876,-14.351893084389824,110104890,bert-base-uncased
+All birds can be blicked.,bird,can be,birds,2,3,-109.4308910369873,-13.678861379623413,110104890,bert-base-uncased
+All vehicles can be wiffed.,vehicle,can be,vehicles,2,2,-97.03215074539185,-13.861735820770264,110104890,bert-base-uncased
+All weapons use a jabberwock.,weapon,use a,weapons,4,4,-125.06479740142822,-13.896088600158691,110104890,bert-base-uncased
+All tools have jabberwocks.,tool,have,tools,5,4,-125.44421243667603,-15.680526554584503,110104890,bert-base-uncased
+All furniture can be gyred.,furniture,can be,furniture,2,4,-108.29540729522705,-13.536925911903381,110104890,bert-base-uncased
+All weapons have feps.,weapon,have,weapons,5,2,-81.10388278961182,-13.517313798268637,110104890,bert-base-uncased
+All vehicles use a blicket.,vehicle,use a,vehicles,4,3,-106.03520345687866,-13.254400432109833,110104890,bert-base-uncased
+All furniture are vorpal.,furniture,are,furniture,3,4,-101.824303150177,-14.546329021453857,110104890,bert-base-uncased
+All sports include daxing.,sport,includes,sports,3,1,-71.17219924926758,-11.862033208211264,110104890,bert-base-uncased
+All weapons can be wiffed.,weapon,can be,weapons,2,2,-98.54339981079102,-14.077628544398717,110104890,bert-base-uncased
+All clothes have wugs.,clothing,have,clothes,3,1,-87.82389307022095,-14.637315511703491,110104890,bert-base-uncased
+All tools can dax.,tool,can,tools,1,1,-65.13045644760132,-13.026091289520263,110104890,bert-base-uncased
+All tools can be wiffed.,tool,can be,tools,2,2,-99.94007444381714,-14.277153491973877,110104890,bert-base-uncased
+All weapons can gyre.,weapon,can,weapons,1,4,-79.10713338851929,-13.184522231419882,110104890,bert-base-uncased
+All vegetables have toves.,vegetable,have,vegetables,3,5,-92.73283672332764,-15.455472787221273,110104890,bert-base-uncased
+All weapons can wif.,weapon,can,weapons,1,2,-80.64547061920166,-13.440911769866943,110104890,bert-base-uncased
+All fruits have wugs.,fruit,have,fruits,3,1,-91.76765203475952,-15.29460867245992,110104890,bert-base-uncased
+All fruits are mimsy.,fruit,are,fruits,2,3,-97.10973691940308,-13.872819559914726,110104890,bert-base-uncased
+All clothes have jabberwocks.,clothing,have,clothes,3,4,-121.84104919433594,-15.230131149291992,110104890,bert-base-uncased
+All vegetables have wugs.,vegetable,have,vegetables,3,1,-102.04020643234253,-17.006701072057087,110104890,bert-base-uncased
+All vegetables have blickets.,vegetable,have,vegetables,3,3,-103.8357605934143,-14.833680084773473,110104890,bert-base-uncased
+All birds can be gyred.,bird,can be,birds,2,4,-104.94749736785889,-13.11843717098236,110104890,bert-base-uncased
+All furniture can wif.,furniture,can,furniture,1,2,-80.96983194351196,-13.494971990585327,110104890,bert-base-uncased
+All birds are frabjous.,bird,are,birds,3,5,-113.2564287185669,-14.157053589820862,110104890,bert-base-uncased
+All tools can wif.,tool,can,tools,1,2,-81.65665245056152,-13.609442075093588,110104890,bert-base-uncased
