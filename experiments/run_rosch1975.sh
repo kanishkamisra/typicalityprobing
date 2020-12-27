@@ -19,6 +19,10 @@ do
     python ../python/sentence_surprisals.py --model ${model} --device cuda:1 --lmtype incremental --batchsize 50 --dataset ../data/rosch1975/rosch1975.csv
 done
 
+echo "Running experiments on ngram language models"
+
+python ../python/ngram_surprisals.py --dataset ../data/rosch1975/rosch1975.csv
+
 
 echo "Running experiments on Masked Language Models for Features"
 
@@ -35,4 +39,8 @@ do
     echo "Running experiments for ${model}!"
     python ../python/sentence_surprisals.py --model ${model} --device cuda:1 --lmtype incremental --batchsize 50 --dataset ../data/rosch1975/rosch1975_features.csv
 done
+
+echo "Running experiments on ngram language models"
+
+python ../python/ngram_surprisals.py --dataset ../data/rosch1975/rosch1975_features.csv
 

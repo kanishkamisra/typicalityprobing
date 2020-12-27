@@ -1,4 +1,5 @@
 ﻿params,model,family,color,fill,alpha
+0,5gram,ngram,#595959,#595959,1
 11812272,albert-b-v1,ALBERT,#73a2c6,#0278ae,0.25
 17845424,albert-l-v1,ALBERT,#5d8abd,#0278ae,0.5
 59017392,albert-xl-v1,ALBERT,#4771b2,#0278ae,0.75

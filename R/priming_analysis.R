@@ -18,9 +18,9 @@ model_meta <- read_csv("data/meta.csv") %>%
     model = str_replace(model, "\\-v1", "")
   ) 
 
-levels = c('albert-b', 'albert-l', 'albert-xl', 'albert-xxl', 'distilbert-b', 'bert-b', 'bert-l', 'electra-s', 'electra-b', 'electra-l', 'distilgpt2', 'gpt', 'gpt2', 'gpt2-m', 'gpt2-l', 'gpt2-xl', 'distilroberta-b', 'roberta-b', 'roberta-l')
+levels = c('5gram', 'albert-b', 'albert-l', 'albert-xl', 'albert-xxl', 'distilbert-b', 'bert-b', 'bert-l', 'electra-s', 'electra-b', 'electra-l', 'distilgpt2', 'gpt', 'gpt2', 'gpt2-m', 'gpt2-l', 'gpt2-xl', 'distilroberta-b', 'roberta-b', 'roberta-l')
 
-colors <- c('#73a2c6','#5d8abd','#4771b2','#2e59a8','#ffca68','#ffc14c','#fdb827','#92338c','#800080','#a35298','#ff9895','#f4777f','#e4576b','#cf3759','#b41648','#93003a','#adcf90','#75af00','#008000')
+colors <- c('gray', '#73a2c6','#5d8abd','#4771b2','#2e59a8','#ffca68','#ffc14c','#fdb827','#92338c','#800080','#a35298','#ff9895','#f4777f','#e4576b','#cf3759','#b41648','#93003a','#adcf90','#75af00','#008000')
 
 induction <- dir_ls("data/results/premiseconclusion/", regexp = "*.csv") %>%
   map_df(read_csv) %>%
@@ -57,6 +57,7 @@ induction %>%
   facet_wrap(~family, scales = "free")
 
 cor_truth <- induction %>%
+  filter(model != "5gram") %>%
   group_by(model, params, category, predicate_id, argument_id) %>%
   mutate(
     standardized_logprob = (score - min(score))/(max(score) - min(score))
@@ -90,3 +91,5 @@ cor_truth %>%
   scale_y_continuous(limits = c(-0.2, 0.6)) +
   scale_color_identity(aesthetics = c("fill", "color")) +
   facet_wrap(~category)
+
+
