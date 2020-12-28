@@ -1,6 +1,9 @@
 # This gitignore file has R and python ignores.
 .DS_Store
 data/frequencies/
+.vscode/
+
+data/results/*/similarities/
 # History files
 .Rhistory
 .Rapp.history
