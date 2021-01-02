@@ -1,566 +1,566 @@
-stimulus,item,category,rank,logprob,normalized_logprob,params,model
-a doll is a toy.,doll,toy,1,-141.46204376220703,-23.577007293701172,125288025,roberta-base
-a top is a toy.,top,toy,2,-134.725172996521,-22.454195499420166,125288025,roberta-base
-a jack-in-the-box is a toy.,jack-in-the-box,toy,3,-274.80011463165283,-22.900009552637737,125288025,roberta-base
-a toy soldier is a toy.,toy soldier,toy,4,-146.91925144195557,-20.988464491707937,125288025,roberta-base
-a yo-yo is a toy.,yo-yo,toy,5,-172.7252712249756,-21.59065890312195,125288025,roberta-base
-a block is a toy.,block,toy,6,-140.9698371887207,-23.494972864786785,125288025,roberta-base
-marbles are toys.,marbles,toy,7,-105.23781871795654,-21.047563743591308,125288025,roberta-base
-a rattle is a toy.,rattle,toy,8,-160.3835277557373,-22.9119325365339,125288025,roberta-base
-a stuffed animal is a toy.,stuffed animal,toy,9,-165.60572624206543,-23.657960891723633,125288025,roberta-base
-a water pistol is a toy.,water pistol,toy,10,-149.88885498046875,-21.412693568638392,125288025,roberta-base
-a teddy bear is a toy.,teddy bear,toy,11,-182.46517372131348,-22.808146715164185,125288025,roberta-base
-a rocking horse is a toy.,rocking horse,toy,12,-151.6456470489502,-21.663663864135742,125288025,roberta-base
-a doll house is a toy.,doll house,toy,13,-146.9573860168457,-20.993912288120814,125288025,roberta-base
-a ball is a toy.,ball,toy,14,-141.29422187805176,-23.549036979675293,125288025,roberta-base
-jacks are toys.,jacks,toy,15,-101.21396541595459,-20.242793083190918,125288025,roberta-base
-paper dolls are toys.,paper dolls,toy,16,-105.45248126983643,-21.090496253967284,125288025,roberta-base
-an erector set is a toy.,erector set,toy,17,-153.54744911193848,-19.19343113899231,125288025,roberta-base
-a hula hoop is a toy.,hula hoop,toy,18,-171.1949405670166,-21.399367570877075,125288025,roberta-base
-a jump rope is a toy.,jump rope,toy,19,-147.6868076324463,-21.098115376063756,125288025,roberta-base
-a pogo stick is a toy.,pogo stick,toy,20,-173.10075759887695,-21.63759469985962,125288025,roberta-base
-a clay is a toy.,clay,toy,21,-130.41962242126465,-21.73660373687744,125288025,roberta-base
-a wagon is a toy.,wagon,toy,22,-137.33152389526367,-22.888587315877277,125288025,roberta-base
-a kite is a toy.,kite,toy,23,-156.1521120071411,-22.30744457244873,125288025,roberta-base
-a train is a toy.,train,toy,24,-141.50204849243164,-23.583674748738606,125288025,roberta-base
-a tricycle is a toy.,tricycle,toy,25,-158.4542007446289,-22.636314392089844,125288025,roberta-base
-a coloring book is a toy.,coloring book,toy,26,-151.3265609741211,-21.618080139160156,125288025,roberta-base
-crayons are toys.,crayons,toy,27,-130.64660453796387,-21.774434089660645,125288025,roberta-base
-a truck is a toy.,truck,toy,28,-134.116455078125,-22.352742513020832,125288025,roberta-base
-a puzzle is a toy.,puzzle,toy,29,-145.19139099121094,-24.198565165201824,125288025,roberta-base
-a fire engine is a toy.,fire engine,toy,30,-154.77752876281738,-22.11107553754534,125288025,roberta-base
-a balloon is a toy.,balloon,toy,31,-139.6726474761963,-23.278774579366047,125288025,roberta-base
-skates are toys.,skates,toy,32,-110.16382884979248,-22.032765769958495,125288025,roberta-base
-a baseball is a toy.,baseball,toy,33,-139.0520534515381,-23.175342241923016,125288025,roberta-base
-a drum is a toy.,drum,toy,34,-138.61560249328613,-23.102600415547688,125288025,roberta-base
-a football is a toy.,football,toy,35,-138.7564926147461,-23.126082102457683,125288025,roberta-base
-a game is a toy.,game,toy,36,-144.50736045837402,-24.08456007639567,125288025,roberta-base
-a swing is a toy.,swing,toy,37,-142.45598030090332,-23.742663383483887,125288025,roberta-base
-a boat is a toy.,boat,toy,38,-137.33181476593018,-22.888635794321697,125288025,roberta-base
-a monopoly is a toy.,monopoly,toy,39,-134.59960556030273,-22.43326759338379,125288025,roberta-base
-a sled is a toy.,sled,toy,40,-135.265775680542,-22.544295946757,125288025,roberta-base
-a seesaw is a toy.,seesaw,toy,41,-156.91758728027344,-22.416798182896205,125288025,roberta-base
-stilts are toys.,stilts,toy,42,-107.22697257995605,-21.44539451599121,125288025,roberta-base
-checkers are toys.,checkers,toy,43,-102.70269584655762,-20.540539169311522,125288025,roberta-base
-a bat is a toy.,bat,toy,44,-138.4956760406494,-23.08261267344157,125288025,roberta-base
-a car is a toy.,car,toy,45,-139.96425437927246,-23.327375729878742,125288025,roberta-base
-an airplane is a toy.,airplane,toy,46,-136.0893154144287,-22.681552569071453,125288025,roberta-base
-a bicycle is a toy.,bicycle,toy,47,-140.06822967529297,-23.34470494588216,125288025,roberta-base
-a tractor is a toy.,tractor,toy,48,-136.78176307678223,-22.79696051279704,125288025,roberta-base
-a sandbox is a toy.,sandbox,toy,49,-131.23329639434814,-21.87221606572469,125288025,roberta-base
-a bike is a toy.,bike,toy,50,-140.45330238342285,-23.408883730570476,125288025,roberta-base
-a bow and arrow is a toy.,bow and arrow,toy,51,-174.9121265411377,-21.864015817642212,125288025,roberta-base
-a rope is a toy.,rope,toy,52,-140.78637313842773,-23.46439552307129,125288025,roberta-base
-dishes are toys.,dishes,toy,53,-105.83395671844482,-21.166791343688963,125288025,roberta-base
-cards are toys.,cards,toy,54,-88.94533824920654,-22.236334562301636,125288025,roberta-base
-a mitt is a toy.,mitt,toy,55,-152.72582721710205,-21.817975316728866,125288025,roberta-base
-a horse is a toy.,horse,toy,56,-139.3330020904541,-23.222167015075684,125288025,roberta-base
-a gun is a toy.,gun,toy,57,-143.76718139648438,-23.961196899414062,125288025,roberta-base
-animals are toys.,animals,toy,58,-118.44117546081543,-23.688235092163087,125288025,roberta-base
-a tennis racket is a toy.,tennis racket,toy,59,-142.66100788116455,-20.38014398302351,125288025,roberta-base
-books are toys.,books,toy,60,-96.73144912719727,-24.182862281799316,125288025,roberta-base
-a robin is a bird.,robin,bird,1,-146.69939041137695,-20.95705577305385,125288025,roberta-base
-a sparrow is a bird.,sparrow,bird,2,-153.65596771240234,-21.95085253034319,125288025,roberta-base
-a bluejay is a bird.,bluejay,bird,3,-142.74049377441406,-20.39149911063058,125288025,roberta-base
-a bluebird is a bird.,bluebird,bird,4,-150.79866409301758,-21.542666299002512,125288025,roberta-base
-a canary is a bird.,canary,bird,5,-153.05637645721436,-21.86519663674491,125288025,roberta-base
-a blackbird is a bird.,blackbird,bird,6,-156.0460443496704,-22.292292049952916,125288025,roberta-base
-a dove is a bird.,dove,bird,7,-130.69416427612305,-21.782360712687176,125288025,roberta-base
-a lark is a bird.,lark,bird,8,-152.38855934143066,-21.76979419163295,125288025,roberta-base
-a swallow is a bird.,swallow,bird,9,-124.63768577575684,-20.772947629292805,125288025,roberta-base
-a parakeet is a bird.,parakeet,bird,10,-167.15734100341797,-20.894667625427246,125288025,roberta-base
-an oriole is a bird.,oriole,bird,11,-138.67595386505127,-19.810850552150182,125288025,roberta-base
-a mockingbird is a bird.,mockingbird,bird,12,-152.2038230895996,-21.74340329851423,125288025,roberta-base
-a redbird is a bird.,redbird,bird,13,-150.79179668426514,-21.541685240609304,125288025,roberta-base
-a wren is a bird.,wren,bird,14,-145.41930484771729,-20.774186406816757,125288025,roberta-base
-a finch is a bird.,finch,bird,15,-147.5264129638672,-21.075201851981028,125288025,roberta-base
-a starling is a bird.,starling,bird,16,-149.0422248840332,-21.291746412004745,125288025,roberta-base
-a cardinal is a bird.,cardinal,bird,17,-127.03057861328125,-21.171763102213543,125288025,roberta-base
-an eagle is a bird.,eagle,bird,18,-118.71610641479492,-19.786017735799152,125288025,roberta-base
-a hummingbird is a bird.,hummingbird,bird,19,-152.9077844619751,-21.843969208853586,125288025,roberta-base
-a seagull is a bird.,seagull,bird,20,-181.8019609451294,-22.725245118141174,125288025,roberta-base
-a woodpecker is a bird.,woodpecker,bird,21,-167.22464084625244,-20.903080105781555,125288025,roberta-base
-a pigeon is a bird.,pigeon,bird,22,-130.56543254852295,-21.760905424753826,125288025,roberta-base
-a thrush is a bird.,thrush,bird,23,-147.35193347930908,-21.05027621132987,125288025,roberta-base
-a falcon is a bird.,falcon,bird,24,-153.3327236175537,-21.904674802507675,125288025,roberta-base
-a crow is a bird.,crow,bird,25,-132.47731590270996,-22.07955265045166,125288025,roberta-base
-a hawk is a bird.,hawk,bird,26,-127.33121395111084,-21.221868991851807,125288025,roberta-base
-a raven is a bird.,raven,bird,27,-126.62499809265137,-21.104166348775227,125288025,roberta-base
-a goldfinch is a bird.,goldfinch,bird,28,-160.4400453567505,-20.05500566959381,125288025,roberta-base
-a parrot is a bird.,parrot,bird,29,-157.74119758605957,-22.53445679800851,125288025,roberta-base
-a sandpiper is a bird.,sandpiper,bird,30,-168.8991413116455,-21.11239266395569,125288025,roberta-base
-a pheasant is a bird.,pheasant,bird,31,-175.6814022064209,-21.960175275802612,125288025,roberta-base
-a catbird is a bird.,catbird,bird,32,-139.66576385498047,-19.952251979282924,125288025,roberta-base
-a crane is a bird.,crane,bird,33,-129.53693008422852,-21.589488347371418,125288025,roberta-base
-an albatross is a bird.,albatross,bird,34,-164.87710285186768,-20.60963785648346,125288025,roberta-base
-a condor is a bird.,condor,bird,35,-148.86174774169922,-21.26596396309989,125288025,roberta-base
-a toucan is a bird.,toucan,bird,36,-147.6944637298584,-21.099209104265487,125288025,roberta-base
-an owl is a bird.,owl,bird,37,-122.96787452697754,-20.494645754496258,125288025,roberta-base
-a pelican is a bird.,pelican,bird,38,-146.52669525146484,-20.93238503592355,125288025,roberta-base
-geese are birds.,geese,bird,39,-89.98078918457031,-17.996157836914062,125288025,roberta-base
-a vulture is a bird.,vulture,bird,40,-158.79474925994873,-22.684964179992676,125288025,roberta-base
-a stork is a bird.,stork,bird,41,-152.76246738433838,-21.823209626334055,125288025,roberta-base
-a buzzard is a bird.,buzzard,bird,42,-147.93722915649414,-21.13388987949916,125288025,roberta-base
-a swan is a bird.,swan,bird,43,-145.21563720703125,-20.745091029575892,125288025,roberta-base
-a flamingo is a bird.,flamingo,bird,44,-144.26780700683594,-20.609686715262278,125288025,roberta-base
-a duck is a bird.,duck,bird,45,-131.1336908340454,-21.85561513900757,125288025,roberta-base
-a peacock is a bird.,peacock,bird,46,-148.19441986083984,-21.170631408691406,125288025,roberta-base
-an egret is a bird.,egret,bird,47,-145.28680610656738,-20.755258015223912,125288025,roberta-base
-a chicken is a bird.,chicken,bird,48,-125.74631214141846,-20.95771869023641,125288025,roberta-base
-a turkey is a bird.,turkey,bird,49,-125.2876968383789,-20.881282806396484,125288025,roberta-base
-an ostrich is a bird.,ostrich,bird,50,-134.07659912109375,-19.153799874441965,125288025,roberta-base
-a titmouse is a bird.,titmouse,bird,51,-147.85122108459473,-21.12160301208496,125288025,roberta-base
-an emu is a bird.,emu,bird,52,-128.06314849853516,-18.294735499790736,125288025,roberta-base
-a penguin is a bird.,penguin,bird,53,-149.7447910308838,-21.39211300441197,125288025,roberta-base
-a bat is a bird.,bat,bird,54,-133.59339714050293,-22.26556619008382,125288025,roberta-base
-football is a sport.,football,sport,1,-106.7383041381836,-21.34766082763672,125288025,roberta-base
-baseball is a sport.,baseball,sport,2,-125.50068187713623,-20.916780312856037,125288025,roberta-base
-basketball is a sport.,basketball,sport,3,-102.48224830627441,-20.496449661254882,125288025,roberta-base
-tennis is a sport.,tennis,sport,4,-120.53418731689453,-20.089031219482422,125288025,roberta-base
-softball is a sport.,softball,sport,5,-118.19988822937012,-19.699981371561687,125288025,roberta-base
-canoeing is a sport.,canoeing,sport,6,-140.94059371948242,-20.13437053135463,125288025,roberta-base
-handball is a sport.,handball,sport,7,-111.21089744567871,-18.535149574279785,125288025,roberta-base
-rugby is a sport.,rugby,sport,8,-125.48776721954346,-20.91462786992391,125288025,roberta-base
-hockey is a sport.,hockey,sport,9,-124.61395740509033,-20.76899290084839,125288025,roberta-base
-ice hockey is a sport.,ice hockey,sport,10,-116.39163780212402,-19.398606300354004,125288025,roberta-base
-swimming is a sport.,swimming,sport,11,-126.1777286529541,-21.029621442159016,125288025,roberta-base
-track is a sport.,track,sport,12,-93.52253913879395,-18.70450782775879,125288025,roberta-base
-boxing is a sport.,boxing,sport,13,-106.25446510314941,-21.25089302062988,125288025,roberta-base
-volleyball is a sport.,volleyball,sport,14,-141.12768077850342,-20.161097254071915,125288025,roberta-base
-lacrosse is a sport.,lacrosse,sport,15,-137.33424949645996,-19.61917849949428,125288025,roberta-base
-skiing is a sport.,skiing,sport,16,-115.0352668762207,-19.172544479370117,125288025,roberta-base
-golf is a sport.,golf,sport,17,-122.275146484375,-20.379191080729168,125288025,roberta-base
-polo is a sport.,polo,sport,18,-118.88961029052734,-19.814935048421223,125288025,roberta-base
-surfing is a sport.,surfing,sport,19,-123.86499118804932,-20.64416519800822,125288025,roberta-base
-wrestling is a sport.,wrestling,sport,20,-124.48413181304932,-20.747355302174885,125288025,roberta-base
-gymnastics is a sport.,gymnastics,sport,21,-130.06092739105225,-18.580132484436035,125288025,roberta-base
-cricket is a sport.,cricket,sport,22,-153.91514015197754,-21.98787716456822,125288025,roberta-base
-squash is a sport.,squash,sport,23,-127.81643676757812,-21.30273946126302,125288025,roberta-base
-badminton is a sport.,badminton,sport,24,-141.57987213134766,-20.22569601876395,125288025,roberta-base
-racing is a sport.,racing,sport,25,-122.92274856567383,-20.487124760945637,125288025,roberta-base
-pole vault is a sport.,pole vault,sport,26,-120.53805541992188,-20.089675903320312,125288025,roberta-base
-fencing is a sport.,fencing,sport,27,-130.10222816467285,-21.68370469411214,125288025,roberta-base
-bowling is a sport.,bowling,sport,28,-122.62539386749268,-20.43756564458211,125288025,roberta-base
-water skiing is a sport.,water skiing,sport,29,-119.41224670410156,-19.90204111735026,125288025,roberta-base
-ice skating is a sport.,ice skating,sport,30,-118.85268878936768,-19.80878146489461,125288025,roberta-base
-jai alai is a sport.,jai alai,sport,31,-159.5903720855713,-19.94879651069641,125288025,roberta-base
-skating is a sport.,skating,sport,32,-121.90287494659424,-20.317145824432373,125288025,roberta-base
-skindiving is a sport.,skindiving,sport,33,-140.08170890808105,-20.011672701154435,125288025,roberta-base
-sailing is a sport.,sailing,sport,34,-125.34738731384277,-20.891231218973797,125288025,roberta-base
-diving is a sport.,diving,sport,35,-123.18414115905762,-20.53069019317627,125288025,roberta-base
-archery is a sport.,archery,sport,36,-119.148850440979,-19.858141740163166,125288025,roberta-base
-judo is a sport.,judo,sport,37,-128.11057472229004,-21.351762453715008,125288025,roberta-base
-car racing is a sport.,car racing,sport,38,-109.80051708221436,-18.30008618036906,125288025,roberta-base
-ping pong is a sport.,ping pong,sport,39,-129.33693599700928,-18.476705142429896,125288025,roberta-base
-rowing is a sport.,rowing,sport,40,-96.573899269104,-19.314779853820802,125288025,roberta-base
-fishing is a sport.,fishing,sport,41,-126.88503074645996,-21.147505124409992,125288025,roberta-base
-horseback riding is a sport.,horseback riding,sport,42,-123.82237243652344,-17.688910348074778,125288025,roberta-base
-running is a sport.,running,sport,43,-108.22887992858887,-21.645775985717773,125288025,roberta-base
-horse racing is a sport.,horse racing,sport,44,-115.9803638458252,-19.330060640970867,125288025,roberta-base
-hiking is a sport.,hiking,sport,45,-130.1090030670166,-21.684833844502766,125288025,roberta-base
-weight lifting is a sport.,weight lifting,sport,46,-111.51651382446289,-18.58608563741048,125288025,roberta-base
-croquet is a sport.,croquet,sport,47,-119.01425647735596,-19.83570941289266,125288025,roberta-base
-horseshoes is a sport.,horseshoes,sport,48,-164.54577922821045,-20.568222403526306,125288025,roberta-base
-boating is a sport.,boating,sport,49,-126.41527080535889,-21.069211800893147,125288025,roberta-base
-pool is a sport.,pool,sport,50,-94.42626190185547,-18.885252380371092,125288025,roberta-base
-billiards is a sport.,billiards,sport,51,-124.50423526763916,-17.78631932394845,125288025,roberta-base
-hunting is a sport.,hunting,sport,52,-126.95677375793457,-21.159462292989094,125288025,roberta-base
-jump rope is a sport.,jump rope,sport,53,-118.52867889404297,-19.754779815673828,125288025,roberta-base
-camping is a sport.,camping,sport,54,-123.54383373260498,-20.590638955434162,125288025,roberta-base
-chess is a sport.,chess,sport,55,-115.92004776000977,-19.32000796000163,125288025,roberta-base
-dancing is a sport.,dancing,sport,56,-125.05858707427979,-20.8430978457133,125288025,roberta-base
-checkers is a sport.,checkers,sport,57,-113.66025733947754,-18.943376223246258,125288025,roberta-base
-cards is a sport.,cards,sport,58,-97.3631706237793,-19.47263412475586,125288025,roberta-base
-sunbathing is a sport.,sunbathing,sport,59,-127.58155250549316,-18.225936072213308,125288025,roberta-base
-pea is a vegetable.,pea,vegetable,1,-120.73122215270996,-20.121870358784992,125288025,roberta-base
-carrot is a vegetable.,carrot,vegetable,2,-122.01250743865967,-20.33541790644328,125288025,roberta-base
-green beans are vegetables.,green beans,vegetable,3,-104.82889175415039,-20.965778350830078,125288025,roberta-base
-string beans are vegetables.,string beans,vegetable,4,-103.7428560256958,-20.74857120513916,125288025,roberta-base
-spinach is a vegetable.,spinach,vegetable,5,-125.66800117492676,-20.944666862487793,125288025,roberta-base
-broccoli is a vegetable.,broccoli,vegetable,6,-123.07748603820801,-20.512914339701336,125288025,roberta-base
-asparagus are vegetables.,asparagus,vegetable,7,-106.62008380889893,-17.770013968149822,125288025,roberta-base
-corn is a vegetable.,corn,vegetable,8,-100.17771339416504,-20.035542678833007,125288025,roberta-base
-cauliflower is a vegetable.,cauliflower,vegetable,9,-137.7745304107666,-19.68207577296666,125288025,roberta-base
-brussels sprouts are vegetables.,brussels sprouts,vegetable,10,-200.77172660827637,-25.096465826034546,125288025,roberta-base
-squash is a vegetable.,squash,vegetable,12,-128.65603828430176,-21.442673047383625,125288025,roberta-base
-lettuce is a vegetable.,lettuce,vegetable,13,-122.5090446472168,-20.418174107869465,125288025,roberta-base
-celery is a vegetable.,celery,vegetable,14,-113.69165515899658,-18.948609193166096,125288025,roberta-base
-cucumber is a vegetable.,cucumber,vegetable,15,-132.70885753631592,-18.958408219473704,125288025,roberta-base
-beets are vegetables.,beets,vegetable,16,-123.87140464782715,-24.77428092956543,125288025,roberta-base
-greens are vegetables.,greens,vegetable,17,-109.30411720275879,-21.86082344055176,125288025,roberta-base
-tomato is a vegetable.,tomato,vegetable,18,-137.8156795501709,-22.969279925028484,125288025,roberta-base
-lima beans are vegetables.,lima beans,vegetable,19,-116.54176330566406,-19.423627217610676,125288025,roberta-base
-artichoke is a vegetable.,artichokes,vegetable,20,-136.78807735443115,-19.54115390777588,125288025,roberta-base
-turnip is a vegetable.,turnip,vegetable,21,-113.66654396057129,-18.944423993428547,125288025,roberta-base
-eggplant is a vegetable.,eggplant,vegetable,22,-119.66857719421387,-19.944762865702312,125288025,roberta-base
-romaine is a vegetable.,romaine,vegetable,23,-121.5728874206543,-20.262147903442383,125288025,roberta-base
-green peppers are vegetables.,green peppers,vegetable,24,-104.04201602935791,-20.80840320587158,125288025,roberta-base
-okra is a vegetable.,okra,vegetable,25,-115.66249179840088,-19.277081966400146,125288025,roberta-base
-radish is a vegetable.,radishes,vegetable,26,-122.29066181182861,-20.381776968638103,125288025,roberta-base
-onion is a vegetable.,onions,vegetable,27,-116.21329116821289,-19.368881861368816,125288025,roberta-base
-beans are vegetables.,bean,vegetable,28,-83.84852313995361,-20.962130784988403,125288025,roberta-base
-green onion is a vegetable.,green onion,vegetable,29,-116.5744218826294,-19.429070313771565,125288025,roberta-base
-potatoes are vegetables.,potato,vegetable,30,-108.27600574493408,-21.655201148986816,125288025,roberta-base
-parsnip is a vegetable.,parsnip,vegetable,31,-157.45290565490723,-19.681613206863403,125288025,roberta-base
-turnip greens are vegetables.,turnip greens,vegetable,32,-125.54994773864746,-20.924991289774578,125288025,roberta-base
-collard is a vegetable.,collard,vegetable,33,-128.57799911499023,-21.42966651916504,125288025,roberta-base
-wax beans are vegetables.,wax beans,vegetable,34,-118.32804679870605,-19.721341133117676,125288025,roberta-base
-watercress is a vegetable.,watercress,vegetable,35,-142.67392826080322,-20.38198975154332,125288025,roberta-base
-black eyed peas are vegetables.,black eyed peas,vegetable,36,-126.11907577514648,-21.019845962524414,125288025,roberta-base
-leek is a vegetable.,leek,vegetable,37,-120.4910306930542,-20.081838448842365,125288025,roberta-base
-peppers are vegetables.,peppers,vegetable,38,-110.91102313995361,-22.18220462799072,125288025,roberta-base
-sweet potatoes are a vegetables.,sweet potato,vegetable,39,-115.79608154296875,-19.299346923828125,125288025,roberta-base
-yam is a vegetable.,yams,vegetable,40,-109.65944766998291,-18.27657461166382,125288025,roberta-base
-parsley is a vegetable.,parsley,vegetable,41,-138.50430297851562,-19.786328996930802,125288025,roberta-base
-endive is a vegetable.,endive,vegetable,42,-108.77806186676025,-18.129676977793377,125288025,roberta-base
-rutabaga is a vegetable.,rutabaga,vegetable,43,-149.23050117492676,-18.653812646865845,125288025,roberta-base
-mushroom is a vegetable.,mushroom,vegetable,44,-145.96151733398438,-20.85164533342634,125288025,roberta-base
-avocado is a vegetable.,avocado,vegetable,45,-121.24977970123291,-20.20829661687215,125288025,roberta-base
-rhubarb is a vegetable.,rhubarb,vegetable,46,-134.45201110839844,-19.207430158342635,125288025,roberta-base
-kale is a vegetable.,kale,vegetable,47,-123.50202751159668,-20.58367125193278,125288025,roberta-base
-escarole is a vegetable.,escarole,vegetable,48,-150.95208835601807,-21.564584050859725,125288025,roberta-base
-sauerkraut is a vegetable.,sauerkraut,vegetable,49,-184.00850868225098,-20.445389853583443,125288025,roberta-base
-pickles are vegetables.,pickles,vegetable,50,-108.74705028533936,-21.74941005706787,125288025,roberta-base
-baked beans are vegetables.,baked beans,vegetable,51,-122.8984785079956,-20.4830797513326,125288025,roberta-base
-pumpkin is a vegetable.,pumpkin,vegetable,52,-129.68480396270752,-18.526400566101074,125288025,roberta-base
-seaweed is a vegetable.,seaweed,vegetable,53,-146.67518424987793,-20.95359774998256,125288025,roberta-base
-garlic is a vegetable.,garlic,vegetable,54,-131.18723106384277,-21.86453851064046,125288025,roberta-base
-dandelion is a vegetable.,dandelion,vegetable,55,-138.81048393249512,-19.830069133213588,125288025,roberta-base
-peanut is a vegetable.,peanut,vegetable,56,-117.80020046234131,-19.633366743723553,125288025,roberta-base
-rice is a vegetable.,rice,vegetable,57,-102.80051517486572,-20.560103034973146,125288025,roberta-base
-saw is a tool.,saw,tool,1,-90.9643726348877,-18.19287452697754,125288025,roberta-base
-hammer is a tool.,hammer,tool,2,-88.56246566772461,-17.71249313354492,125288025,roberta-base
-ruler is a tool.,ruler,tool,3,-113.24767971038818,-18.874613285064697,125288025,roberta-base
-screwdriver is a tool.,screwdriver,tool,4,-124.08144569396973,-17.725920813424246,125288025,roberta-base
-drill is a tool.,drill,tool,5,-107.57082653045654,-17.928471088409424,125288025,roberta-base
-nails are tools.,nails,tool,6,-101.3450927734375,-20.2690185546875,125288025,roberta-base
-tape measure is a tool.,tape measure,tool,7,-111.90610790252686,-15.986586843218122,125288025,roberta-base
-sawhorse is a tool.,sawhorse,tool,8,-110.30197429656982,-18.38366238276164,125288025,roberta-base
-sandpaper is a tool.,sandpaper,tool,9,-111.16558742523193,-18.527597904205322,125288025,roberta-base
-sander is a tool.,sander,tool,10,-107.43865966796875,-17.906443277994793,125288025,roberta-base
-a level is a tool.,level,tool,11,-120.90857791900635,-20.151429653167725,125288025,roberta-base
-a plane is a tool.,plane,tool,12,-127.12292861938477,-21.18715476989746,125288025,roberta-base
-a file is a tool.,file,tool,13,-127.55719947814941,-21.259533246358234,125288025,roberta-base
-a toolbox is a tool.,toolbox,tool,14,-140.01921272277832,-20.002744674682617,125288025,roberta-base
-a T-square is a tool.,T-square,tool,15,-147.31184768676758,-18.413980960845947,125288025,roberta-base
-a chisel is a tool.,chisel,tool,16,-150.86427116394043,-21.552038737705775,125288025,roberta-base
-a rasp is a tool.,rasp,tool,17,-129.8993263244629,-18.55704661778041,125288025,roberta-base
-a pencil is a tool.,pencil,tool,18,-134.4211769104004,-22.40352948506673,125288025,roberta-base
-a hacksaw is a tool.,hacksaw,tool,19,-149.3239688873291,-21.33199555533273,125288025,roberta-base
-a square is a tool.,square,tool,20,-131.97055435180664,-21.995092391967773,125288025,roberta-base
-a bench is a tool.,bench,tool,21,-123.51287269592285,-20.58547878265381,125288025,roberta-base
-pliers is a tool.,pliers,tool,22,-108.08920574188232,-18.014867623647053,125288025,roberta-base
-a wrench is a tool.,wrench,tool,23,-135.39341068267822,-22.565568447113037,125288025,roberta-base
-a ladder is a tool.,ladder,tool,24,-134.70966339111328,-22.451610565185547,125288025,roberta-base
-a lathe is a tool.,lathe,tool,25,-141.76965236663818,-20.252807480948313,125288025,roberta-base
-a vise is a tool.,vise,tool,26,-130.6233196258545,-18.660474232264928,125288025,roberta-base
-screw is a tool.,screws,tool,27,-105.61400508880615,-17.602334181467693,125288025,roberta-base
-wood is a tool.,wood,tool,28,-94.30370998382568,-18.860741996765135,125288025,roberta-base
-a wedge is a tool.,wedge,tool,29,-132.40919399261475,-22.068198998769123,125288025,roberta-base
-lumber is a tool.,lumber,tool,30,-110.64844512939453,-18.441407521565754,125288025,roberta-base
-blueprints are tools.,blueprints,tool,31,-106.12689399719238,-21.225378799438477,125288025,roberta-base
-brace is a tool.,brace,tool,32,-89.79591083526611,-17.95918216705322,125288025,roberta-base
-awl is a tool.,awl,tool,33,-101.8320484161377,-16.97200806935628,125288025,roberta-base
-a crowbar is a tool.,crowbar,tool,34,-157.39159393310547,-22.484513419015066,125288025,roberta-base
-a hinge is a tool.,hinge,tool,35,-125.70286083221436,-20.95047680536906,125288025,roberta-base
-a miter box is a tool.,miter box,tool,36,-156.7495231628418,-19.593690395355225,125288025,roberta-base
-a knife is a tool.,knife,tool,37,-133.484037399292,-22.247339566548664,125288025,roberta-base
-a chalk is a tool.,chalk,tool,38,-117.3642406463623,-19.56070677439372,125288025,roberta-base
-nuts are tools.,nuts,tool,39,-79.8330888748169,-19.958272218704224,125288025,roberta-base
-bolts are tools.,bolts,tool,40,-103.6027603149414,-20.720552062988283,125288025,roberta-base
-a plumb line is a tool.,plumb line,tool,41,-147.18931102752686,-18.398663878440857,125288025,roberta-base
-a brush is a tool.,brush,tool,42,-133.41621494293213,-22.23603582382202,125288025,roberta-base
-a sledge hammer is a tool.,sledge hammer,tool,43,-164.79604148864746,-20.599505186080933,125288025,roberta-base
-a glue is a tool.,glue,tool,44,-121.56566715240479,-20.2609445254008,125288025,roberta-base
-a paintbrush is a tool.,paintbrush,tool,45,-159.77894020080566,-22.82556288582938,125288025,roberta-base
-a varnish is a tool.,varnish,tool,46,-160.8314323425293,-20.103929042816162,125288025,roberta-base
-an apron is a tool.,apron,tool,47,-144.1216516494751,-20.588807378496444,125288025,roberta-base
-a stapler is a tool.,stapler,tool,48,-165.5085573196411,-20.68856966495514,125288025,roberta-base
-an extension cord is a tool.,extension cord,tool,49,-148.56018447875977,-21.222883496965682,125288025,roberta-base
-a soldering iron is a tool.,soldering iron,tool,50,-153.56435203552246,-19.195544004440308,125288025,roberta-base
-a plaster is a tool.,plaster,tool,51,-123.64809703826904,-20.60801617304484,125288025,roberta-base
-a wheelbarrow is a tool.,wheelbarrow,tool,52,-179.8385353088379,-22.479816913604736,125288025,roberta-base
-an axe is a tool.,axe,tool,53,-128.27398490905762,-21.378997484842937,125288025,roberta-base
-a slide rule is a tool.,slide rule,tool,54,-130.4687156677246,-18.63838795253209,125288025,roberta-base
-a cement is a tool.,cement,tool,55,-114.01437473297119,-19.002395788828533,125288025,roberta-base
-an anvil is a tool.,anvil,tool,56,-127.0829496383667,-18.15470709119524,125288025,roberta-base
-a hatchet is a tool.,hatchet,tool,57,-149.24263381958008,-21.320376259940012,125288025,roberta-base
-rags are tools.,rags,tool,58,-99.10435676574707,-19.820871353149414,125288025,roberta-base
-a scissors is a tool.,scissors,tool,59,-118.98383808135986,-19.830639680226643,125288025,roberta-base
-a crane is a tool.,crane,tool,60,-133.0625457763672,-22.177090962727863,125288025,roberta-base
-orange is a fruit.,orange,fruit,1,-103.23695755004883,-20.647391510009765,125288025,roberta-base
-apple is a fruit.,apple,fruit,2,-93.04650783538818,-18.609301567077637,125288025,roberta-base
-banana is a fruit.,banana,fruit,3,-113.95602321624756,-18.99267053604126,125288025,roberta-base
-peach is a fruit.,peach,fruit,4,-118.97647094726562,-19.82941182454427,125288025,roberta-base
-pear is a fruit.,pear,fruit,5,-116.1547441482544,-19.359124024709065,125288025,roberta-base
-apricot is a fruit.,apricot,fruit,6,-120.05067157745361,-17.15009593963623,125288025,roberta-base
-tangerine is a fruit.,tangerine,fruit,7,-135.07828330993652,-19.296897615705216,125288025,roberta-base
-plum is a fruit.,plum,fruit,8,-113.28033447265625,-18.880055745442707,125288025,roberta-base
-grapes are fruit.,grapes,fruit,9,-118.95779037475586,-19.826298395792644,125288025,roberta-base
-nectarine is a fruit.,nectarine,fruit,10,-119.95957469940186,-19.99326244990031,125288025,roberta-base
-strawberry is a fruit.,strawberry,fruit,11,-129.6901683807373,-18.5271669115339,125288025,roberta-base
-grapefruit is a fruit.,grapefruit,fruit,12,-128.9127779006958,-18.416111128670828,125288025,roberta-base
-berry is a fruit.,berry,fruit,13,-90.9950475692749,-18.199009513854982,125288025,roberta-base
-cherry is a fruit.,cherry,fruit,14,-117.72589302062988,-19.62098217010498,125288025,roberta-base
-pineapple is a fruit.,pineapple,fruit,15,-115.1998119354248,-19.199968655904133,125288025,roberta-base
-blackberry is a fruit.,blackberry,fruit,16,-116.05889320373535,-19.343148867289226,125288025,roberta-base
-melon is a fruit.,melon,fruit,17,-90.71117973327637,-18.142235946655273,125288025,roberta-base
-blueberry is a fruit.,blueberry,fruit,18,-113.33919715881348,-18.88986619313558,125288025,roberta-base
-raspberry is a fruit.,raspberry,fruit,19,-108.47057342529297,-18.078428904215496,125288025,roberta-base
-lemon is a fruit.,lemon,fruit,20,-110.66255283355713,-18.443758805592854,125288025,roberta-base
-black raspberry is a fruit.,black raspberry,fruit,21,-109.57203388214111,-18.262005647023518,125288025,roberta-base
-boysenberry is a fruit.,boysenberry,fruit,22,-122.92741394042969,-17.561059134347097,125288025,roberta-base
-watermelon is a fruit.,watermelon,fruit,23,-110.513503074646,-18.418917179107666,125288025,roberta-base
-cantaloupe is a fruit.,cantaloupe,fruit,24,-171.408784866333,-19.045420540703667,125288025,roberta-base
-lime is a fruit.,lime,fruit,25,-98.58889389038086,-19.717778778076173,125288025,roberta-base
-tangelo is a fruit.,tangelo,fruit,26,-105.69468021392822,-17.615780035654705,125288025,roberta-base
-papaya is a fruit.,papaya,fruit,27,-124.3792781829834,-17.76846831185477,125288025,roberta-base
-honeydew is a fruit.,honeydew,fruit,28,-149.17350482940674,-18.646688103675842,125288025,roberta-base
-fig is a fruit.,fig,fruit,29,-91.65717029571533,-18.331434059143067,125288025,roberta-base
-mango is a fruit.,mango,fruit,30,-110.11637115478516,-18.352728525797527,125288025,roberta-base
-guava is a fruit.,guava,fruit,31,-110.09443855285645,-18.349073092142742,125288025,roberta-base
-pomegranate is a fruit.,pomegranate,fruit,32,-163.16090393066406,-20.395112991333008,125288025,roberta-base
-cranberry is a fruit.,cranberry,fruit,33,-141.82421779632568,-20.26060254233224,125288025,roberta-base
-passion fruit is a fruit.,passion fruit,fruit,34,-123.90259265899658,-17.700370379856654,125288025,roberta-base
-prunes are fruit.,prunes,fruit,35,-100.4324083328247,-20.086481666564943,125288025,roberta-base
-gooseberry is a fruit.,gooseberry,fruit,36,-134.5868148803711,-19.226687840053014,125288025,roberta-base
-date is a fruit.,date,fruit,37,-93.42016792297363,-18.684033584594726,125288025,roberta-base
-kumquat is a fruit.,kumquat,fruit,38,-150.21167469024658,-18.776459336280823,125288025,roberta-base
-raisin is a fruit.,raisin,fruit,39,-115.85372734069824,-19.30895455678304,125288025,roberta-base
-muskmelon is a fruit.,muskmelon,fruit,40,-135.36804103851318,-16.921005129814148,125288025,roberta-base
-persimmon is a fruit.,persimmon,fruit,41,-134.46661567687988,-19.209516525268555,125288025,roberta-base
-pawpaw is a fruit.,pawpaw,fruit,42,-141.33322143554688,-17.66665267944336,125288025,roberta-base
-coconut is a fruit.,coconut,fruit,43,-127.38139533996582,-18.19734219142369,125288025,roberta-base
-avocado is a fruit.,avocado,fruit,44,-111.50037384033203,-18.58339564005534,125288025,roberta-base
-pumpkin is a fruit.,pumpkin,fruit,45,-125.53824996948242,-17.93403570992606,125288025,roberta-base
-tomato is a fruit.,tomato,fruit,46,-127.97374725341797,-21.32895787556966,125288025,roberta-base
-nut is a fruit.,nut,fruit,47,-85.19079208374023,-17.038158416748047,125288025,roberta-base
-gourd is a fruit.,gourd,fruit,48,-132.4759340286255,-18.925133432660783,125288025,roberta-base
-olive is a fruit.,olive,fruit,49,-112.85138893127441,-18.80856482187907,125288025,roberta-base
-pickle is a fruit.,pickle,fruit,50,-118.80285263061523,-19.80047543843587,125288025,roberta-base
-squash is a fruit.,squash,fruit,51,-116.78382778167725,-19.46397129694621,125288025,roberta-base
-pants are clothes.,pants,clothing,1,-77.95611190795898,-19.489027976989746,125288025,roberta-base
-a shirt is a type of clothing.,shirt,clothing,2,-162.9545383453369,-20.369317293167114,125288025,roberta-base
-dress is a type of clothing.,dress,clothing,3,-137.9349765777588,-19.70499665396554,125288025,roberta-base
-a skirt is a type of clothing.,skirt,clothing,4,-161.30588340759277,-20.163235425949097,125288025,roberta-base
-a blouse is a type of clothing.,blouse,clothing,5,-192.6899299621582,-21.409992218017578,125288025,roberta-base
-a suit is a type of clothing.,suit,clothing,6,-168.70968437194824,-21.08871054649353,125288025,roberta-base
-slacks are clothes.,slacks,clothing,7,-104.11738300323486,-20.823476600646973,125288025,roberta-base
-a jacket is a type of clothing.,jacket,clothing,8,-163.6192512512207,-20.452406406402588,125288025,roberta-base
-a coat is a type of clothing.,coat,clothing,9,-167.00125885009766,-20.875157356262207,125288025,roberta-base
-a sweater is a type of clothing.,sweater,clothing,10,-168.8412628173828,-21.10515785217285,125288025,roberta-base
-a sweatshirt is a type of clothing.,sweatshirt,clothing,11,-193.8875846862793,-21.543064965142143,125288025,roberta-base
-underpants are clothes.,underpants,clothing,12,-101.55749797821045,-20.31149959564209,125288025,roberta-base
-a sports jacket is a type of clothing.,sports jacket,clothing,13,-186.0644931793213,-20.673832575480144,125288025,roberta-base
-a jumper is a type of clothing.,jumper,clothing,14,-162.39568519592285,-20.299460649490356,125288025,roberta-base
-panties are clothes.,panties,clothing,15,-128.71124362945557,-21.451873938242596,125288025,roberta-base
-socks are clothes.,socks,clothing,16,-102.19868278503418,-20.439736557006835,125288025,roberta-base
-a parka is a type of clothing.,parka,clothing,17,-177.3566379547119,-19.7062931060791,125288025,roberta-base
-pajamas are clothes.,pajamas,clothing,18,-124.00188159942627,-20.666980266571045,125288025,roberta-base
-an undershirt is a type of clothing.,undershirt,clothing,19,-186.60038375854492,-20.733375973171658,125288025,roberta-base
-an overcoat is a type of clothing.,overcoat,clothing,20,-190.4157257080078,-21.157302856445312,125288025,roberta-base
-a nightgown is a type of clothing.,nightgown,clothing,21,-220.3607406616211,-22.036074066162108,125288025,roberta-base
-a raincoat is a type of clothing.,raincoat,clothing,22,-194.7711238861084,-21.64123598734538,125288025,roberta-base
-a bathing suit is a type of clothing.,bathing suit,clothing,23,-191.10753631591797,-21.23417070176866,125288025,roberta-base
-a bathrobe is a type of clothing.,bathrobe,clothing,24,-196.5430793762207,-21.83811993069119,125288025,roberta-base
-a slip is a type of clothing.,slip,clothing,25,-171.01962089538574,-21.377452611923218,125288025,roberta-base
-a bra is a type of clothing.,bra,clothing,26,-161.57657051086426,-20.197071313858032,125288025,roberta-base
-shoes are clothes.,shoes,clothing,27,-102.21261405944824,-20.44252281188965,125288025,roberta-base
-a tuxedo is a type of clothing.,tuxedo,clothing,28,-218.6874828338623,-21.868748283386232,125288025,roberta-base
-stockings are clothes.,stockings,clothing,29,-111.41369152069092,-22.282738304138185,125288025,roberta-base
-a vest is a type of clothing.,vest,clothing,30,-159.61305046081543,-19.95163130760193,125288025,roberta-base
-nylons are clothes.,nylons,clothing,31,-123.54182243347168,-20.590303738911945,125288025,roberta-base
-a cape is a type of clothing.,cape,clothing,32,-166.13837051391602,-20.767296314239502,125288025,roberta-base
-boots are clothes.,boots,clothing,33,-111.17910861968994,-22.23582172393799,125288025,roberta-base
-sandals are clothes.,sandals,clothing,34,-90.67150497436523,-18.134300994873048,125288025,roberta-base
-a tie is a type of clothing.,tie,clothing,35,-165.29495429992676,-20.661869287490845,125288025,roberta-base
-a girdle is a type of clothing.,girdle,clothing,36,-209.89361953735352,-20.98936195373535,125288025,roberta-base
-a belt is a type of clothing.,belt,clothing,37,-159.59437561035156,-19.949296951293945,125288025,roberta-base
-a scarf is a type of clothing.,scarf,clothing,38,-164.68046951293945,-20.58505868911743,125288025,roberta-base
-mittens are clothes.,mittens,clothing,39,-101.30388069152832,-20.260776138305665,125288025,roberta-base
-slippers are clothes.,slippers,clothing,40,-109.83743190765381,-21.96748638153076,125288025,roberta-base
-a hat is a type of clothing.,hat,clothing,41,-165.9832363128662,-20.747904539108276,125288025,roberta-base
-overshoes are clothes.,overshoes,clothing,42,-120.39655685424805,-20.06609280904134,125288025,roberta-base
-gloves are clothes.,gloves,clothing,43,-110.00927829742432,-22.001855659484864,125288025,roberta-base
-an apron is a type of clothing.,apron,clothing,44,-190.08803176879883,-21.120892418755425,125288025,roberta-base
-earmuffs are clothes.,earmuffs,clothing,45,-109.67196083068848,-18.27866013844808,125288025,roberta-base
-a handkerchief is a type of clothing.,handkerchief,clothing,46,-227.56017303466797,-22.7560173034668,125288025,roberta-base
-a purse is a type of clothing.,purse,clothing,47,-170.87658309936523,-21.359572887420654,125288025,roberta-base
-a hairband is a type of clothing.,hairband,clothing,48,-188.5705280303955,-20.952280892266167,125288025,roberta-base
-a ring is a type of clothing.,ring,clothing,49,-166.0841884613037,-20.760523557662964,125288025,roberta-base
-en arring is a type of clothing.,earrings,clothing,50,-173.13576698303223,-19.237307442559135,125288025,roberta-base
-a watch is a type of clothing.,watch,clothing,51,-170.3474578857422,-21.293432235717773,125288025,roberta-base
-cuff links are clothes.,cuff links,clothing,52,-111.31071186065674,-18.551785310109455,125288025,roberta-base
-a necklace is a type of clothing.,necklace,clothing,53,-165.58287811279297,-20.69785976409912,125288025,roberta-base
-a bracelet is a type of clothing.,bracelet,clothing,54,-168.06234550476074,-21.007793188095093,125288025,roberta-base
-a cane is a type of clothing.,cane,clothing,55,-166.95484352111816,-20.86935544013977,125288025,roberta-base
-an automobile is a vehicle.,automobile,vehicle,1,-126.96505355834961,-21.160842259724934,125288025,roberta-base
-a station wagon is a vehicle.,station wagon,vehicle,2,-135.06232452392578,-19.294617789132253,125288025,roberta-base
-a truck is a vehicle.,truck,vehicle,3,-125.17208480834961,-20.862014134724934,125288025,roberta-base
-a car is a vehicle.,car,vehicle,4,-127.06333446502686,-21.17722241083781,125288025,roberta-base
-bus are vehicles.,bus,vehicle,5,-74.37941455841064,-18.59485363960266,125288025,roberta-base
-a taxi is a vehicle.,taxi,vehicle,6,-129.75669956207275,-21.62611659367879,125288025,roberta-base
-a jeep is a vehicle.,jeep,vehicle,7,-142.92967319488525,-20.418524742126465,125288025,roberta-base
-an ambulance is a vehicle.,ambulance,vehicle,8,-125.73780632019043,-20.95630105336507,125288025,roberta-base
-a motorcycle is a vehicle.,motorcycle,vehicle,9,-123.79684925079346,-20.632808208465576,125288025,roberta-base
-a streetcar is a vehicle.,streetcar,vehicle,10,-122.87975311279297,-20.47995885213216,125288025,roberta-base
-a van is a vehicle.,van,vehicle,11,-119.8598985671997,-19.97664976119995,125288025,roberta-base
-a Honda is a vehicle.,Honda,vehicle,12,-118.25516605377197,-19.70919434229533,125288025,roberta-base
-a cable car is a vehicle.,cable car,vehicle,13,-128.84431838989258,-18.40633119855608,125288025,roberta-base
-a train is a vehicle.,train,vehicle,14,-126.09618759155273,-21.01603126525879,125288025,roberta-base
-a trolley is a vehicle.,trolley,vehicle,15,-145.4645175933838,-20.7806453704834,125288025,roberta-base
-a bicycle is a vehicle.,bicycle,vehicle,16,-129.54496097564697,-21.590826829274494,125288025,roberta-base
-a carriage is a vehicle.,carriage,vehicle,17,-133.83151626586914,-22.30525271097819,125288025,roberta-base
-an airplane is a vehicle.,airplane,vehicle,18,-129.18393325805664,-21.53065554300944,125288025,roberta-base
-a bike is a vehicle.,bike,vehicle,19,-130.40910243988037,-21.73485040664673,125288025,roberta-base
-a boat is a vehicle.,boat,vehicle,20,-127.62265110015869,-21.270441850026447,125288025,roberta-base
-a jet is a vehicle.,jet,vehicle,21,-129.53331184387207,-21.58888530731201,125288025,roberta-base
-a ship is a vehicle.,ship,vehicle,22,-130.24685859680176,-21.707809766133625,125288025,roberta-base
-a scooter is a vehicle.,scooter,vehicle,23,-148.1581449508667,-21.16544927869524,125288025,roberta-base
-a tractor is a vehicle.,tractor,vehicle,24,-126.67514705657959,-21.11252450942993,125288025,roberta-base
-a wagon is a vehicle.,wagon,vehicle,25,-126.53427219390869,-21.089045365651447,125288025,roberta-base
-a subway is a vehicle.,subway,vehicle,26,-118.97158718109131,-19.828597863515217,125288025,roberta-base
-a trailer is a vehicle.,trailer,vehicle,27,-123.66055011749268,-20.61009168624878,125288025,roberta-base
-a cart is a vehicle.,cart,vehicle,28,-122.33676242828369,-20.389460404713947,125288025,roberta-base
-a wheelchair is a vehicle.,wheelchair,vehicle,29,-123.97914505004883,-20.663190841674805,125288025,roberta-base
-a yacht is a vehicle.,yacht,vehicle,30,-129.884840965271,-21.647473494211834,125288025,roberta-base
-a tank is a vehicle.,tank,vehicle,31,-120.41808319091797,-20.06968053181966,125288025,roberta-base
-a go-cart is a vehicle.,go-cart,vehicle,32,-169.46788883209229,-21.183486104011536,125288025,roberta-base
-a rowboat is a vehicle.,rowboat,vehicle,33,-154.04846572875977,-22.00692367553711,125288025,roberta-base
-a dogsled is a vehicle.,dogsled,vehicle,34,-129.8966703414917,-18.556667191641672,125288025,roberta-base
-a tricycle is a vehicle.,tricycle,vehicle,35,-151.16913890838623,-21.595591272626603,125288025,roberta-base
-a canoe is a vehicle.,canoe,vehicle,36,-127.36256790161133,-21.227094650268555,125288025,roberta-base
-a raft is a vehicle.,raft,vehicle,37,-118.18098449707031,-19.69683074951172,125288025,roberta-base
-a submarine is a vehicle.,submarine,vehicle,38,-124.99106216430664,-20.831843694051106,125288025,roberta-base
-a sled is a vehicle.,sled,vehicle,39,-124.40530967712402,-20.73421827952067,125288025,roberta-base
-a horse is a vehicle.,horse,vehicle,40,-128.97602653503418,-21.496004422505695,125288025,roberta-base
-a rocket is a vehicle.,rocket,vehicle,41,-127.89376163482666,-21.315626939137776,125288025,roberta-base
-a blimp is a vehicle.,blimp,vehicle,42,-151.1623878479004,-21.594626835414342,125288025,roberta-base
-skates are vehicles.,skates,vehicle,43,-103.04353523254395,-20.60870704650879,125288025,roberta-base
-a camel is a vehicle.,camel,vehicle,44,-121.51012134552002,-20.251686890920002,125288025,roberta-base
-feet are vehicles.,feet,vehicle,45,-77.71527099609375,-19.428817749023438,125288025,roberta-base
-ski is a vehicle.,skis,vehicle,46,-97.83731746673584,-19.56746349334717,125288025,roberta-base
-a skateboard is a vehicle.,skateboard,vehicle,47,-153.86722373962402,-21.98103196280343,125288025,roberta-base
-a wheelbarrow is a vehicle.,wheelbarrow,vehicle,48,-174.96996021270752,-21.87124502658844,125288025,roberta-base
-a surfboard is a vehicle.,surfboard,vehicle,49,-147.0616912841797,-21.008813040597097,125288025,roberta-base
-an elevator is a vehicle.,elevator,vehicle,50,-118.30569362640381,-19.717615604400635,125288025,roberta-base
-a chair is a type of furniture.,chair,furniture,1,-172.36515617370605,-21.545644521713257,125288025,roberta-base
-a sofa is a type of furniture.,sofa,furniture,2,-169.06586074829102,-21.133232593536377,125288025,roberta-base
-a couch is a type of furniture.,couch,furniture,3,-168.25197982788086,-21.031497478485107,125288025,roberta-base
-a table is a type of furniture.,table,furniture,4,-176.47193717956543,-22.05899214744568,125288025,roberta-base
-an easy chair is a type of furniture.,easy chair,furniture,5,-176.54338455200195,-19.615931616889107,125288025,roberta-base
-a dresser is a type of furniture.,dresser,furniture,6,-199.02862167358398,-22.114291297064888,125288025,roberta-base
-a rocking chair is a type of furniture.,rocking chair,furniture,7,-185.12819290161133,-20.569799211290146,125288025,roberta-base
-a coffee table is a type of furniture.,coffee table,furniture,8,-176.00750732421875,-19.55638970269097,125288025,roberta-base
-a rocker is a type of furniture.,rocker,furniture,9,-200.19570541381836,-22.24396726820204,125288025,roberta-base
-a love seat is a type of furniture.,love seat,furniture,10,-184.5968780517578,-20.51076422797309,125288025,roberta-base
-a chest of drawers is a type of furniture.,chest of drawers,furniture,11,-255.4118137359619,-23.219255794178356,125288025,roberta-base
-a desk is a type of furniture.,desk,furniture,12,-169.1898651123047,-21.148733139038086,125288025,roberta-base
-a bed is a type of furniture.,bed,furniture,13,-167.35159873962402,-20.918949842453003,125288025,roberta-base
-a bureau is a type of furniture.,bureau,furniture,14,-168.86468124389648,-21.10808515548706,125288025,roberta-base
-a davenport is a type of furniture.,davenport,furniture,15,-194.0552568435669,-19.40552568435669,125288025,roberta-base
-an end table is a type of furniture.,end table,furniture,16,-183.5736026763916,-20.39706696404351,125288025,roberta-base
-a divan is a type of furniture.,divan,furniture,17,-184.82841300964355,-20.53649033440484,125288025,roberta-base
-a night table is a type of furniture.,night table,furniture,18,-180.2678346633911,-20.029759407043457,125288025,roberta-base
-a chest is a type of furniture.,chest,furniture,19,-167.6134262084961,-20.95167827606201,125288025,roberta-base
-a cedar chest is a type of furniture.,cedar chest,furniture,20,-213.33418655395508,-21.33341865539551,125288025,roberta-base
-a vanity is a type of furniture.,vanity,furniture,21,-174.93615436553955,-21.867019295692444,125288025,roberta-base
-a bookcase is a type of furniture.,bookcase,furniture,22,-206.12377548217773,-22.90264172024197,125288025,roberta-base
-a lounge is a type of furniture.,lounge,furniture,23,-166.18781852722168,-20.77347731590271,125288025,roberta-base
-a chaise lounge is a type of furniture.,chaise lounge,furniture,24,-202.11680793762207,-20.211680793762206,125288025,roberta-base
-an ottoman is a type of furniture.,ottoman,furniture,25,-209.93058395385742,-20.99305839538574,125288025,roberta-base
-a footstool is a type of furniture.,footstool,furniture,26,-219.36797332763672,-21.93679733276367,125288025,roberta-base
-a cabinet is a type of furniture.,cabinet,furniture,27,-172.1276969909668,-21.51596212387085,125288025,roberta-base
-a china closet is a type of furniture.,china closet,furniture,28,-212.0466022491455,-21.20466022491455,125288025,roberta-base
-a bench is a type of furniture.,bench,furniture,29,-168.20810508728027,-21.026013135910034,125288025,roberta-base
-a buffet is a type of furniture.,buffet,furniture,30,-172.01274490356445,-21.501593112945557,125288025,roberta-base
-a lamp is a type of furniture.,lamp,furniture,31,-165.02199745178223,-20.62774968147278,125288025,roberta-base
-a stool is a type of furniture.,stool,furniture,32,-168.24373817443848,-21.03046727180481,125288025,roberta-base
-a hassock is a type of furniture.,hassock,furniture,33,-196.33154296875,-19.633154296875,125288025,roberta-base
-drawers are furniture.,drawers,furniture,34,-113.99852657318115,-22.79970531463623,125288025,roberta-base
-a piano is a type of furniture.,piano,furniture,35,-169.52873992919922,-21.191092491149902,125288025,roberta-base
-a cushion is a type of furniture.,cushion,furniture,36,-160.17688941955566,-20.022111177444458,125288025,roberta-base
-a magazine rack is a type of furniture.,magazine rack,furniture,37,-172.10616397857666,-19.12290710873074,125288025,roberta-base
-a hi-fi is a type of furniture.,hi-fi,furniture,38,-207.00068473815918,-20.700068473815918,125288025,roberta-base
-a cupboard is a type of furniture.,cupboard,furniture,39,-201.4731845855713,-22.38590939839681,125288025,roberta-base
-a stereo is a type of furniture.,stereo,furniture,40,-162.02127361297607,-20.25265920162201,125288025,roberta-base
-a mirror is a type of furniture.,mirror,furniture,41,-170.74539375305176,-21.34317421913147,125288025,roberta-base
-a television is a type of furniture.,television,furniture,42,-169.65637493133545,-21.20704686641693,125288025,roberta-base
-a bar is a type of furniture.,bar,furniture,43,-166.43796253204346,-20.804745316505432,125288025,roberta-base
-a shelf is a type of furniture.,shelf,furniture,44,-165.0976104736328,-20.6372013092041,125288025,roberta-base
-a rug is a type of furniture.,rug,furniture,45,-166.2095489501953,-20.776193618774414,125288025,roberta-base
-a pillow is a type of furniture.,pillow,furniture,46,-164.66649913787842,-20.583312392234802,125288025,roberta-base
-a wastebasket is a type of furniture.,wastebasket,furniture,47,-221.26365852355957,-22.126365852355956,125288025,roberta-base
-a radio is a type of furniture.,radio,furniture,48,-165.2794532775879,-20.659931659698486,125288025,roberta-base
-a sewing machine is a type of furniture.,sewing machine,furniture,49,-181.45208263397217,-20.161342514885796,125288025,roberta-base
-a stove is a type of furniture.,stove,furniture,50,-163.05072593688965,-20.381340742111206,125288025,roberta-base
-a counter is a type of furniture.,counter,furniture,51,-177.50666427612305,-22.18833303451538,125288025,roberta-base
-a clock is a type of furniture.,clock,furniture,52,-169.1895236968994,-21.148690462112427,125288025,roberta-base
-drapes are furniture.,drapes,furniture,53,-128.74701595306396,-21.457835992177326,125288025,roberta-base
-a refrigerator is a type of furniture.,refrigerator,furniture,54,-167.57404899597168,-20.94675612449646,125288025,roberta-base
-a picture is a type of furniture.,picture,furniture,55,-162.06426429748535,-20.25803303718567,125288025,roberta-base
-a closet is a type of furniture.,closet,furniture,56,-173.2289810180664,-21.6536226272583,125288025,roberta-base
-a vase is a type of furniture.,vase,furniture,57,-192.18221282958984,-21.35357920328776,125288025,roberta-base
-an ashtray is a type of furniture.,ashtray,furniture,58,-209.41869354248047,-20.94186935424805,125288025,roberta-base
-a fan is a type of furniture.,fan,furniture,59,-171.74562549591064,-21.46820318698883,125288025,roberta-base
-a telephone is a type of furniture.,telephone,furniture,60,-171.5343132019043,-21.441789150238037,125288025,roberta-base
-a gun is a weapon.,gun,weapon,1,-137.38535118103027,-22.89755853017171,125288025,roberta-base
-a pistol is a weapon.,pistol,weapon,2,-130.05871963500977,-21.67645327250163,125288025,roberta-base
-a revolver is a weapon.,revolver,weapon,3,-135.90585327148438,-22.650975545247395,125288025,roberta-base
-a machine gun is a weapon.,machine gun,weapon,4,-146.59758853912354,-20.94251264844622,125288025,roberta-base
-a rifle is a weapon.,rifle,weapon,5,-137.23260688781738,-22.872101147969563,125288025,roberta-base
-a switchblade is a weapon.,switchblade,weapon,6,-160.28495979309082,-22.897851399012975,125288025,roberta-base
-a knife is a weapon.,knife,weapon,7,-137.74863815307617,-22.958106358846027,125288025,roberta-base
-a dagger is a weapon.,dagger,weapon,8,-141.15089797973633,-23.525149663289387,125288025,roberta-base
-a shotgun is a weapon.,shotgun,weapon,9,-137.5820026397705,-22.930333773295086,125288025,roberta-base
-a sword is a weapon.,sword,weapon,10,-139.2029151916504,-23.200485865275066,125288025,roberta-base
-a bomb is a weapon.,bomb,weapon,11,-136.83688163757324,-22.80614693959554,125288025,roberta-base
-a hand grenade is a weapon.,hand grenade,weapon,12,-161.1890411376953,-23.027005876813615,125288025,roberta-base
-an atom bomb is a weapon.,atom bomb,weapon,13,-138.60918521881104,-19.80131217411586,125288025,roberta-base
-a bayonet is a weapon.,bayonet,weapon,14,-167.82887077331543,-23.97555296761649,125288025,roberta-base
-a spear is a weapon.,spear,weapon,15,-138.36485862731934,-23.06080977121989,125288025,roberta-base
-a bazooka is a weapon.,bazooka,weapon,16,-201.16857719421387,-22.35206413269043,125288025,roberta-base
-a cannon is a weapon.,cannon,weapon,17,-128.4640769958496,-21.41067949930827,125288025,roberta-base
-a bow and arrow is a weapon.,bow and arrow,weapon,18,-171.7690486907959,-21.471131086349487,125288025,roberta-base
-a club is a weapon.,club,weapon,19,-142.8896942138672,-23.81494903564453,125288025,roberta-base
-a lance is a weapon.,lance,weapon,20,-149.7337760925293,-21.3905394417899,125288025,roberta-base
-brass knuckles are weapons.,brass knuckles,weapon,21,-154.60050582885742,-22.08578654697963,125288025,roberta-base
-a bullet is a weapon.,bullet,weapon,22,-140.95782089233398,-23.492970148722332,125288025,roberta-base
-a tomahawk is a weapon.,tomahawk,weapon,23,-177.82528495788574,-22.228160619735718,125288025,roberta-base
-a mortar is a weapon.,mortar,weapon,24,-133.51713371276855,-22.252855618794758,125288025,roberta-base
-an arrow is a weapon.,arrow,weapon,25,-134.2546625137329,-22.37577708562215,125288025,roberta-base
-a blackjack is a weapon.,blackjack,weapon,26,-159.99442291259766,-22.856346130371094,125288025,roberta-base
-a tank is a weapon.,tank,weapon,27,-137.9455394744873,-22.990923245747883,125288025,roberta-base
-teargas is a weapon.,teargas,weapon,28,-120.38901901245117,-17.198431287493026,125288025,roberta-base
-a missile is a weapon.,missile,weapon,29,-135.2923755645752,-22.54872926076253,125288025,roberta-base
-a whip is a weapon.,whip,weapon,30,-138.66897583007812,-23.111495971679688,125288025,roberta-base
-an ice pick is a weapon.,ice pick,weapon,31,-142.61597537994385,-20.373710768563406,125288025,roberta-base
-a hatchet is a weapon.,hatchet,weapon,32,-160.26593399047852,-22.895133427211217,125288025,roberta-base
-a slingshot is a weapon.,slingshot,weapon,33,-175.93515014648438,-21.991893768310547,125288025,roberta-base
-a fist is a weapon.,fist,weapon,34,-138.80455589294434,-23.134092648824055,125288025,roberta-base
-an axe is a weapon.,axe,weapon,35,-128.8807430267334,-21.4801238377889,125288025,roberta-base
-a bow is a weapon.,bow,weapon,36,-138.4124526977539,-23.068742116292317,125288025,roberta-base
-a razor is a weapon.,razor,weapon,37,-137.7905044555664,-22.965084075927734,125288025,roberta-base
-a razor blade is a weapon.,razor blade,weapon,38,-146.01909255981445,-20.85987036568778,125288025,roberta-base
-a rocket is a weapon.,rocket,weapon,39,-138.3801326751709,-23.063355445861816,125288025,roberta-base
-a judo is a weapon.,judo,weapon,40,-151.10337352752686,-21.586196218218124,125288025,roberta-base
-a stick is a weapon.,stick,weapon,41,-142.9649887084961,-23.827498118082683,125288025,roberta-base
-a poison is a weapon.,poison,weapon,42,-131.07238483428955,-21.845397472381592,125288025,roberta-base
-a rock is a weapon.,rock,weapon,43,-149.1419906616211,-24.856998443603516,125288025,roberta-base
-a stone is a weapon.,stone,weapon,44,-145.9404468536377,-24.323407808939617,125288025,roberta-base
-gas is a weapon.,gas,weapon,45,-105.76496505737305,-21.15299301147461,125288025,roberta-base
-a chain is a weapon.,chain,weapon,46,-141.1315402984619,-23.521923383076984,125288025,roberta-base
-a scissors is a weapon.,scissors,weapon,47,-128.17699432373047,-21.36283238728841,125288025,roberta-base
-a brick is a weapon.,bricks,weapon,48,-143.7008514404297,-23.95014190673828,125288025,roberta-base
-a pitchfork is a weapon.,pitchfork,weapon,49,-165.04924392700195,-23.578463418143137,125288025,roberta-base
-a hammer is a weapon.,hammer,weapon,50,-135.91075801849365,-22.651793003082275,125288025,roberta-base
-words are weapons.,word,weapon,51,-82.42376708984375,-20.605941772460938,125288025,roberta-base
-hands are weapons.,hand,weapon,52,-87.93949794769287,-21.984874486923218,125288025,roberta-base
-a pipe is a weapon.,pipe,weapon,53,-135.24194717407227,-22.540324529012043,125288025,roberta-base
-a rope is a weapon.,rope,weapon,54,-142.7384738922119,-23.789745648701984,125288025,roberta-base
-an airplane is a weapon.,airplane,weapon,55,-135.64221000671387,-22.607035001118977,125288025,roberta-base
-feet are weapons.,foot,weapon,56,-81.98643493652344,-20.49660873413086,125288025,roberta-base
-a car is a weapon.,car,weapon,57,-142.0961151123047,-23.68268585205078,125288025,roberta-base
-a screwdriver is a weapon.,screwdriver,weapon,58,-160.72941207885742,-22.96134458269392,125288025,roberta-base
-a glass is a weapon.,glass,weapon,59,-130.365647315979,-21.727607885996502,125288025,roberta-base
-a shoe is a weapon.,shoe,weapon,60,-140.66592979431152,-23.444321632385254,125288025,roberta-base
+preamble,stimulus,item,category,rank,score,params,model
+A doll,is a toy.,doll,toy,1,-4.779208183288574,125288025,roberta-base
+A top,is a toy.,top,toy,2,-15.227568626403809,125288025,roberta-base
+A jack-in-the-box,is a toy.,jack-in-the-box,toy,3,-9.763091087341309,125288025,roberta-base
+A toy soldier,is a toy.,toy soldier,toy,4,-7.73236083984375,125288025,roberta-base
+A yo-yo,is a toy.,yo-yo,toy,5,-5.025338172912598,125288025,roberta-base
+A block,is a toy.,block,toy,6,-12.124208450317383,125288025,roberta-base
+Marbles,are toys.,marbles,toy,7,-10.129499912261963,125288025,roberta-base
+A rattle,is a toy.,rattle,toy,8,-7.799360275268555,125288025,roberta-base
+A stuffed animal,is a toy.,stuffed animal,toy,9,-5.646451950073242,125288025,roberta-base
+A water pistol,is a toy.,water pistol,toy,10,-7.277472496032715,125288025,roberta-base
+A teddy bear,is a toy.,teddy bear,toy,11,-6.301918029785156,125288025,roberta-base
+A rocking horse,is a toy.,rocking horse,toy,12,-7.824316024780273,125288025,roberta-base
+A doll house,is a toy.,doll house,toy,13,-6.299257278442383,125288025,roberta-base
+A ball,is a toy.,ball,toy,14,-8.318232536315918,125288025,roberta-base
+Jacks,are toys.,jacks,toy,15,-11.84532880783081,125288025,roberta-base
+Paper dolls,are toys.,paper dolls,toy,16,-11.081313133239746,125288025,roberta-base
+An erector set,is a toy.,erector set,toy,17,-13.961677551269531,125288025,roberta-base
+A hula hoop,is a toy.,hula hoop,toy,18,-6.3467206954956055,125288025,roberta-base
+A jump rope,is a toy.,jump rope,toy,19,-7.572528839111328,125288025,roberta-base
+A pogo stick,is a toy.,pogo stick,toy,20,-5.594595909118652,125288025,roberta-base
+A clay,is a toy.,clay,toy,21,-8.933553695678711,125288025,roberta-base
+A wagon,is a toy.,wagon,toy,22,-8.874302864074707,125288025,roberta-base
+A kite,is a toy.,kite,toy,23,-8.366717338562012,125288025,roberta-base
+A train,is a toy.,train,toy,24,-8.046526908874512,125288025,roberta-base
+A tricycle,is a toy.,tricycle,toy,25,-7.119732856750488,125288025,roberta-base
+A coloring book,is a toy.,coloring book,toy,26,-8.28541374206543,125288025,roberta-base
+Crayons,are toys.,crayons,toy,27,-10.406352043151855,125288025,roberta-base
+A truck,is a toy.,truck,toy,28,-8.153412818908691,125288025,roberta-base
+A puzzle,is a toy.,puzzle,toy,29,-10.554976463317871,125288025,roberta-base
+A fire engine,is a toy.,fire engine,toy,30,-8.385828971862793,125288025,roberta-base
+A balloon,is a toy.,balloon,toy,31,-9.225956916809082,125288025,roberta-base
+Skates,are toys.,skates,toy,32,-13.137252807617188,125288025,roberta-base
+A baseball,is a toy.,baseball,toy,33,-9.12447738647461,125288025,roberta-base
+A drum,is a toy.,drum,toy,34,-7.637970924377441,125288025,roberta-base
+A football,is a toy.,football,toy,35,-8.290751457214355,125288025,roberta-base
+A game,is a toy.,game,toy,36,-11.02860164642334,125288025,roberta-base
+A swing,is a toy.,swing,toy,37,-11.359644889831543,125288025,roberta-base
+A boat,is a toy.,boat,toy,38,-9.151555061340332,125288025,roberta-base
+A monopoly,is a toy.,monopoly,toy,39,-15.772819519042969,125288025,roberta-base
+A sled,is a toy.,sled,toy,40,-7.342877388000488,125288025,roberta-base
+A seesaw,is a toy.,seesaw,toy,41,-12.2987060546875,125288025,roberta-base
+Stilts,are toys.,stilts,toy,42,-12.62364387512207,125288025,roberta-base
+Checkers,are toys.,checkers,toy,43,-14.825174331665039,125288025,roberta-base
+A bat,is a toy.,bat,toy,44,-10.515421867370605,125288025,roberta-base
+A car,is a toy.,car,toy,45,-7.362090110778809,125288025,roberta-base
+An airplane,is a toy.,airplane,toy,46,-7.77094841003418,125288025,roberta-base
+A bicycle,is a toy.,bicycle,toy,47,-9.159758567810059,125288025,roberta-base
+A tractor,is a toy.,tractor,toy,48,-7.892226219177246,125288025,roberta-base
+A sandbox,is a toy.,sandbox,toy,49,-8.536104202270508,125288025,roberta-base
+A bike,is a toy.,bike,toy,50,-9.438809394836426,125288025,roberta-base
+A bow and arrow,is a toy.,bow and arrow,toy,51,-6.885002136230469,125288025,roberta-base
+A rope,is a toy.,rope,toy,52,-11.590302467346191,125288025,roberta-base
+Dishes,are toys.,dishes,toy,53,-16.70374584197998,125288025,roberta-base
+Cards,are toys.,cards,toy,54,-18.30194091796875,125288025,roberta-base
+A mitt,is a toy.,mitt,toy,55,-11.400130271911621,125288025,roberta-base
+A horse,is a toy.,horse,toy,56,-9.683178901672363,125288025,roberta-base
+A gun,is a toy.,gun,toy,57,-8.429882049560547,125288025,roberta-base
+Animals,are toys.,animals,toy,58,-9.798758506774902,125288025,roberta-base
+A tennis racket,is a toy.,tennis racket,toy,59,-6.30157470703125,125288025,roberta-base
+Books,are toys.,books,toy,60,-10.384832382202148,125288025,roberta-base
+A robin,is a bird.,robin,bird,1,-3.758340835571289,125288025,roberta-base
+A sparrow,is a bird.,sparrow,bird,2,-3.3045310974121094,125288025,roberta-base
+A bluejay,is a bird.,bluejay,bird,3,-5.811761856079102,125288025,roberta-base
+A bluebird,is a bird.,bluebird,bird,4,-2.319978713989258,125288025,roberta-base
+A canary,is a bird.,canary,bird,5,-4.9106597900390625,125288025,roberta-base
+A blackbird,is a bird.,blackbird,bird,6,-2.8401708602905273,125288025,roberta-base
+A dove,is a bird.,dove,bird,7,-7.005127906799316,125288025,roberta-base
+A lark,is a bird.,lark,bird,8,-6.1807146072387695,125288025,roberta-base
+A swallow,is a bird.,swallow,bird,9,-8.785582542419434,125288025,roberta-base
+A parakeet,is a bird.,parakeet,bird,10,-5.562231063842773,125288025,roberta-base
+An oriole,is a bird.,oriole,bird,11,-6.076379776000977,125288025,roberta-base
+A mockingbird,is a bird.,mockingbird,bird,12,-2.2776737213134766,125288025,roberta-base
+A redbird,is a bird.,redbird,bird,13,-2.6913862228393555,125288025,roberta-base
+A wren,is a bird.,wren,bird,14,-6.274605751037598,125288025,roberta-base
+A finch,is a bird.,finch,bird,15,-6.131329536437988,125288025,roberta-base
+A starling,is a bird.,starling,bird,16,-9.815817832946777,125288025,roberta-base
+A cardinal,is a bird.,cardinal,bird,17,-7.946076393127441,125288025,roberta-base
+An eagle,is a bird.,eagle,bird,18,-2.6110706329345703,125288025,roberta-base
+A hummingbird,is a bird.,hummingbird,bird,19,-2.03533935546875,125288025,roberta-base
+A seagull,is a bird.,seagull,bird,20,-4.783639907836914,125288025,roberta-base
+A woodpecker,is a bird.,woodpecker,bird,21,-6.8122100830078125,125288025,roberta-base
+A pigeon,is a bird.,pigeon,bird,22,-3.170482635498047,125288025,roberta-base
+A thrush,is a bird.,thrush,bird,23,-9.045830726623535,125288025,roberta-base
+A falcon,is a bird.,falcon,bird,24,-5.838198661804199,125288025,roberta-base
+A crow,is a bird.,crow,bird,25,-4.792929649353027,125288025,roberta-base
+A hawk,is a bird.,hawk,bird,26,-4.2323760986328125,125288025,roberta-base
+A raven,is a bird.,raven,bird,27,-3.126376152038574,125288025,roberta-base
+A goldfinch,is a bird.,goldfinch,bird,28,-5.062784194946289,125288025,roberta-base
+A parrot,is a bird.,parrot,bird,29,-3.304149627685547,125288025,roberta-base
+A sandpiper,is a bird.,sandpiper,bird,30,-7.17185115814209,125288025,roberta-base
+A pheasant,is a bird.,pheasant,bird,31,-4.761325836181641,125288025,roberta-base
+A catbird,is a bird.,catbird,bird,32,-2.522266387939453,125288025,roberta-base
+A crane,is a bird.,crane,bird,33,-14.106460571289062,125288025,roberta-base
+An albatross,is a bird.,albatross,bird,34,-6.783962249755859,125288025,roberta-base
+A condor,is a bird.,condor,bird,35,-4.739803314208984,125288025,roberta-base
+A toucan,is a bird.,toucan,bird,36,-7.558608055114746,125288025,roberta-base
+An owl,is a bird.,owl,bird,37,-3.448807716369629,125288025,roberta-base
+A pelican,is a bird.,pelican,bird,38,-7.037179946899414,125288025,roberta-base
+A goose,is a bird.,goose,bird,39,-5.19454288482666,125288025,roberta-base
+A vulture,is a bird.,vulture,bird,40,-7.437808990478516,125288025,roberta-base
+A stork,is a bird.,stork,bird,41,-4.659628868103027,125288025,roberta-base
+A buzzard,is a bird.,buzzard,bird,42,-4.551608085632324,125288025,roberta-base
+A swan,is a bird.,swan,bird,43,-6.189213752746582,125288025,roberta-base
+A flamingo,is a bird.,flamingo,bird,44,-5.033254623413086,125288025,roberta-base
+A duck,is a bird.,duck,bird,45,-7.139481544494629,125288025,roberta-base
+A peacock,is a bird.,peacock,bird,46,-2.7147207260131836,125288025,roberta-base
+An egret,is a bird.,egret,bird,47,-5.974527359008789,125288025,roberta-base
+A chicken,is a bird.,chicken,bird,48,-4.968014717102051,125288025,roberta-base
+A turkey,is a bird.,turkey,bird,49,-3.51236629486084,125288025,roberta-base
+An ostrich,is a bird.,ostrich,bird,50,-4.422477722167969,125288025,roberta-base
+A titmouse,is a bird.,titmouse,bird,51,-8.233646392822266,125288025,roberta-base
+An emu,is a bird.,emu,bird,52,-8.373470306396484,125288025,roberta-base
+A penguin,is a bird.,penguin,bird,53,-6.01185417175293,125288025,roberta-base
+A bat,is a bird.,bat,bird,54,-12.439181327819824,125288025,roberta-base
+Football,is a sport.,football,sport,1,-3.9418277740478516,125288025,roberta-base
+Baseball,is a sport.,baseball,sport,2,-2.9176712036132812,125288025,roberta-base
+Basketball,is a sport.,basketball,sport,3,-3.4210243225097656,125288025,roberta-base
+Tennis,is a sport.,tennis,sport,4,-2.6834564208984375,125288025,roberta-base
+Softball,is a sport.,softball,sport,5,-3.504605293273926,125288025,roberta-base
+Canoeing,is a sport.,canoeing,sport,6,-5.065903663635254,125288025,roberta-base
+Handball,is a sport.,handball,sport,7,-4.487239837646484,125288025,roberta-base
+Rugby,is a sport.,rugby,sport,8,-3.2520694732666016,125288025,roberta-base
+Hockey,is a sport.,hockey,sport,9,-3.119457244873047,125288025,roberta-base
+Ice hockey,is a sport.,ice hockey,sport,10,-4.8250532150268555,125288025,roberta-base
+Swimming,is a sport.,swimming,sport,11,-3.820176124572754,125288025,roberta-base
+Track,is a sport.,track,sport,12,-4.164280891418457,125288025,roberta-base
+Boxing,is a sport.,boxing,sport,13,-3.3480587005615234,125288025,roberta-base
+Volleyball,is a sport.,volleyball,sport,14,-3.983304977416992,125288025,roberta-base
+Lacrosse,is a sport.,lacrosse,sport,15,-2.914041519165039,125288025,roberta-base
+Skiing,is a sport.,skiing,sport,16,-5.095640182495117,125288025,roberta-base
+Golf,is a sport.,golf,sport,17,-3.018291473388672,125288025,roberta-base
+Polo,is a sport.,polo,sport,18,-7.513766288757324,125288025,roberta-base
+Surfing,is a sport.,surfing,sport,19,-5.2904767990112305,125288025,roberta-base
+Wrestling,is a sport.,wrestling,sport,20,-2.963364601135254,125288025,roberta-base
+Gymnastics,is a sport.,gymnastics,sport,21,-4.3736982345581055,125288025,roberta-base
+Cricket,is a sport.,cricket,sport,22,-2.972370147705078,125288025,roberta-base
+Squash,is a sport.,squash,sport,23,-6.292882919311523,125288025,roberta-base
+Badminton,is a sport.,badminton,sport,24,-3.288153648376465,125288025,roberta-base
+Racing,is a sport.,racing,sport,25,-3.7088708877563477,125288025,roberta-base
+Pole vault,is a sport.,pole vault,sport,26,-9.384455680847168,125288025,roberta-base
+Fencing,is a sport.,fencing,sport,27,-5.333639144897461,125288025,roberta-base
+Bowling,is a sport.,bowling,sport,28,-3.7438440322875977,125288025,roberta-base
+Water skiing,is a sport.,water skiing,sport,29,-6.07443904876709,125288025,roberta-base
+Ice skating,is a sport.,ice skating,sport,30,-4.523423194885254,125288025,roberta-base
+Jai alai,is a sport.,jai alai,sport,31,-15.024847030639648,125288025,roberta-base
+Skating,is a sport.,skating,sport,32,-3.6828813552856445,125288025,roberta-base
+Skindiving,is a sport.,skindiving,sport,33,-7.28251838684082,125288025,roberta-base
+Sailing,is a sport.,sailing,sport,34,-4.711325645446777,125288025,roberta-base
+Diving,is a sport.,diving,sport,35,-4.832737922668457,125288025,roberta-base
+Archery,is a sport.,archery,sport,36,-5.995330810546875,125288025,roberta-base
+Judo,is a sport.,judo,sport,37,-9.226219177246094,125288025,roberta-base
+Car racing,is a sport.,car racing,sport,38,-2.452810287475586,125288025,roberta-base
+Ping pong,is a sport.,ping pong,sport,39,-5.527947425842285,125288025,roberta-base
+Rowing,is a sport.,rowing,sport,40,-4.458722114562988,125288025,roberta-base
+Fishing,is a sport.,fishing,sport,41,-4.572770118713379,125288025,roberta-base
+Horseback riding,is a sport.,horseback riding,sport,42,-5.350587844848633,125288025,roberta-base
+Running,is a sport.,running,sport,43,-4.253093719482422,125288025,roberta-base
+Horse racing,is a sport.,horse racing,sport,44,-3.924074172973633,125288025,roberta-base
+Hiking,is a sport.,hiking,sport,45,-5.738941192626953,125288025,roberta-base
+Weight lifting,is a sport.,weight lifting,sport,46,-4.614315986633301,125288025,roberta-base
+Croquet,is a sport.,croquet,sport,47,-4.327871322631836,125288025,roberta-base
+Horseshoes,is a sport.,horseshoes,sport,48,-10.25901985168457,125288025,roberta-base
+Boating,is a sport.,boating,sport,49,-4.413870811462402,125288025,roberta-base
+Pool,is a sport.,pool,sport,50,-6.916436195373535,125288025,roberta-base
+Billiards,is a sport.,billiards,sport,51,-10.858928680419922,125288025,roberta-base
+Hunting,is a sport.,hunting,sport,52,-5.355822563171387,125288025,roberta-base
+Jump rope,is a sport.,jump rope,sport,53,-7.506532669067383,125288025,roberta-base
+Camping,is a sport.,camping,sport,54,-4.941865921020508,125288025,roberta-base
+Chess,is a sport.,chess,sport,55,-4.0701093673706055,125288025,roberta-base
+Dancing,is a sport.,dancing,sport,56,-4.984012603759766,125288025,roberta-base
+Checkers,is a sport.,checkers,sport,57,-10.310643196105957,125288025,roberta-base
+Cards,is a sport.,cards,sport,58,-11.894762992858887,125288025,roberta-base
+Sunbathing,is a sport.,sunbathing,sport,59,-6.893209457397461,125288025,roberta-base
+Pea,is a vegetable.,pea,vegetable,1,-5.044532775878906,125288025,roberta-base
+Carrot,is a vegetable.,carrot,vegetable,2,-3.3717241287231445,125288025,roberta-base
+Green bean,is a vegetable.,green bean,vegetable,3,-3.9622621536254883,125288025,roberta-base
+String bean,is a vegetable.,string bean,vegetable,4,-8.565261840820312,125288025,roberta-base
+Spinach,is a vegetable.,spinach,vegetable,5,-6.033191680908203,125288025,roberta-base
+Broccoli,is a vegetable.,broccoli,vegetable,6,-3.448394775390625,125288025,roberta-base
+Asparagus,is a vegetable.,asparagus,vegetable,7,-4.286262512207031,125288025,roberta-base
+Corn,is a vegetable.,corn,vegetable,8,-3.598330497741699,125288025,roberta-base
+Cauliflower,is a vegetable.,cauliflower,vegetable,9,-3.9842233657836914,125288025,roberta-base
+Brussels sprouts,are vegetables.,brussels sprouts,vegetable,10,-15.662641525268555,125288025,roberta-base
+Squash,is a vegetable.,squash,vegetable,11,-5.9545698165893555,125288025,roberta-base
+Lettuce,is a vegetable.,lettuce,vegetable,12,-3.447463035583496,125288025,roberta-base
+Celery,is a vegetable.,celery,vegetable,13,-8.189128875732422,125288025,roberta-base
+Cucumber,is a vegetable.,cucumber,vegetable,14,-4.651699066162109,125288025,roberta-base
+Beet,is a vegetable.,beet,vegetable,15,-4.5705413818359375,125288025,roberta-base
+Green,is a vegetable.,green,vegetable,16,-4.671745300292969,125288025,roberta-base
+Tomato,is a vegetable.,tomato,vegetable,17,-6.684430122375488,125288025,roberta-base
+Lima bean,is a vegetable.,lima bean,vegetable,18,-6.471203804016113,125288025,roberta-base
+Artichoke,is a vegetable.,artichoke,vegetable,19,-5.485010147094727,125288025,roberta-base
+Turnip,is a vegetable.,turnip,vegetable,20,-7.570456504821777,125288025,roberta-base
+Eggplant,is a vegetable.,eggplant,vegetable,21,-4.789116859436035,125288025,roberta-base
+Romaine,is a vegetable.,romaine,vegetable,22,-8.54506778717041,125288025,roberta-base
+Green pepper,is a vegetable.,green pepper,vegetable,23,-3.712630271911621,125288025,roberta-base
+Okra,is a vegetable.,okra,vegetable,24,-8.869725227355957,125288025,roberta-base
+Radish,is a vegetable.,radish,vegetable,25,-9.26048469543457,125288025,roberta-base
+Onion,is a vegetable.,onion,vegetable,26,-4.220620155334473,125288025,roberta-base
+Bean,is a vegetable.,bean,vegetable,27,-7.74444580078125,125288025,roberta-base
+Green onion,is a vegetable.,green onion,vegetable,28,-3.20098876953125,125288025,roberta-base
+Potato,is a vegetable.,potato,vegetable,29,-4.309354782104492,125288025,roberta-base
+Parsnip,is a vegetable.,parsnip,vegetable,30,-6.6593523025512695,125288025,roberta-base
+Turnip green,is a vegetable.,turnip green,vegetable,31,-4.590826034545898,125288025,roberta-base
+Collard,is a vegetable.,collard,vegetable,32,-10.662899017333984,125288025,roberta-base
+Wax bean,is a vegetable.,wax bean,vegetable,33,-6.381268501281738,125288025,roberta-base
+Watercress,is a vegetable.,watercress,vegetable,34,-7.177331924438477,125288025,roberta-base
+Black eyed pea,is a vegetable.,black eyed pea,vegetable,35,-6.737231254577637,125288025,roberta-base
+Leek,is a vegetable.,leek,vegetable,36,-8.253870010375977,125288025,roberta-base
+Pepper,is a vegetable.,pepper,vegetable,37,-5.419897079467773,125288025,roberta-base
+Sweet potato,is a vegetable.,sweet potato,vegetable,38,-3.8115530014038086,125288025,roberta-base
+Yam,is a vegetable.,yam,vegetable,39,-9.078301429748535,125288025,roberta-base
+Parsley,is a vegetable.,parsley,vegetable,40,-10.155133247375488,125288025,roberta-base
+Endive,is a vegetable.,endive,vegetable,41,-10.516039848327637,125288025,roberta-base
+Rutabaga,is a vegetable.,rutabaga,vegetable,42,-8.740755081176758,125288025,roberta-base
+Mushroom,is a vegetable.,mushroom,vegetable,43,-9.10092830657959,125288025,roberta-base
+Avocado,is a vegetable.,avocado,vegetable,44,-4.002716064453125,125288025,roberta-base
+Rhubarb,is a vegetable.,rhubarb,vegetable,45,-5.197226524353027,125288025,roberta-base
+Kale,is a vegetable.,kale,vegetable,46,-7.902276039123535,125288025,roberta-base
+Escarole,is a vegetable.,escarole,vegetable,47,-8.3953218460083,125288025,roberta-base
+Sauerkraut,is a vegetable.,sauerkraut,vegetable,48,-6.377336502075195,125288025,roberta-base
+Pickle,is a vegetable.,pickle,vegetable,49,-3.4437294006347656,125288025,roberta-base
+Baked bean,is a vegetable.,baked bean,vegetable,50,-7.847921371459961,125288025,roberta-base
+Pumpkin,is a vegetable.,pumpkin,vegetable,51,-6.39112663269043,125288025,roberta-base
+Seaweed,is a vegetable.,seaweed,vegetable,52,-8.430577278137207,125288025,roberta-base
+Garlic,is a vegetable.,garlic,vegetable,53,-3.5833263397216797,125288025,roberta-base
+Dandelion,is a vegetable.,dandelion,vegetable,54,-5.6756439208984375,125288025,roberta-base
+Peanut,is a vegetable.,peanut,vegetable,55,-6.488369941711426,125288025,roberta-base
+Rice,is a vegetable.,rice,vegetable,56,-6.713469505310059,125288025,roberta-base
+A saw,is a tool.,saw,tool,1,-6.924809455871582,125288025,roberta-base
+A hammer,is a tool.,hammer,tool,2,-4.557246208190918,125288025,roberta-base
+A ruler,is a tool.,ruler,tool,3,-7.899140357971191,125288025,roberta-base
+A screwdriver,is a tool.,screwdriver,tool,4,-2.6565122604370117,125288025,roberta-base
+A drill,is a tool.,drill,tool,5,-8.790899276733398,125288025,roberta-base
+A nail,is a tool.,nail,tool,6,-10.782230377197266,125288025,roberta-base
+A tape measure,is a tool.,tape measure,tool,7,-6.698063850402832,125288025,roberta-base
+A sawhorse,is a tool.,sawhorse,tool,8,-9.326613903045654,125288025,roberta-base
+A sandpaper,is a tool.,sandpaper,tool,9,-5.142237663269043,125288025,roberta-base
+A sander,is a tool.,sander,tool,10,-6.529539108276367,125288025,roberta-base
+A level,is a tool.,level,tool,11,-8.899689674377441,125288025,roberta-base
+A plane,is a tool.,plane,tool,12,-9.658101081848145,125288025,roberta-base
+A file,is a tool.,file,tool,13,-7.49946403503418,125288025,roberta-base
+A toolbox,is a tool.,toolbox,tool,14,-4.672824859619141,125288025,roberta-base
+A t-square,is a tool.,T-square,tool,15,-10.664700508117676,125288025,roberta-base
+A chisel,is a tool.,chisel,tool,16,-4.895608901977539,125288025,roberta-base
+A rasp,is a tool.,rasp,tool,17,-7.952164649963379,125288025,roberta-base
+A pencil,is a tool.,pencil,tool,18,-5.4227142333984375,125288025,roberta-base
+A hacksaw,is a tool.,hacksaw,tool,19,-2.7816362380981445,125288025,roberta-base
+A square,is a tool.,square,tool,20,-13.414146423339844,125288025,roberta-base
+A bench,is a tool.,bench,tool,21,-8.901995658874512,125288025,roberta-base
+A plier,is a tool.,plier,tool,22,-11.566953659057617,125288025,roberta-base
+A wrench,is a tool.,wrench,tool,23,-5.669558525085449,125288025,roberta-base
+A ladder,is a tool.,ladder,tool,24,-10.428092002868652,125288025,roberta-base
+A lathe,is a tool.,lathe,tool,25,-6.0269622802734375,125288025,roberta-base
+A vise,is a tool.,vise,tool,26,-9.383689880371094,125288025,roberta-base
+A screw,is a tool.,screw,tool,27,-4.478163719177246,125288025,roberta-base
+A wood,is a tool.,wood,tool,28,-6.506522178649902,125288025,roberta-base
+A wedge,is a tool.,wedge,tool,29,-8.019885063171387,125288025,roberta-base
+A lumber,is a tool.,lumber,tool,30,-7.137442588806152,125288025,roberta-base
+A blueprint,is a tool.,blueprint,tool,31,-7.530246734619141,125288025,roberta-base
+A brace,is a tool.,brace,tool,32,-7.133654594421387,125288025,roberta-base
+An awl,is a tool.,awl,tool,33,-7.655208587646484,125288025,roberta-base
+A crowbar,is a tool.,crowbar,tool,34,-4.373867988586426,125288025,roberta-base
+A hinge,is a tool.,hinge,tool,35,-9.435222625732422,125288025,roberta-base
+A miter box,is a tool.,miter box,tool,36,-8.577356338500977,125288025,roberta-base
+A knife,is a tool.,knife,tool,37,-4.001195907592773,125288025,roberta-base
+A chalk,is a tool.,chalk,tool,38,-5.377415657043457,125288025,roberta-base
+A nut,is a tool.,nut,tool,39,-10.47607135772705,125288025,roberta-base
+A bolt,is a tool.,bolt,tool,40,-7.566652297973633,125288025,roberta-base
+A plumb line,is a tool.,plumb line,tool,41,-12.150741577148438,125288025,roberta-base
+A brush,is a tool.,brush,tool,42,-3.6434574127197266,125288025,roberta-base
+A sledge hammer,is a tool.,sledge hammer,tool,43,-6.169233322143555,125288025,roberta-base
+A glue,is a tool.,glue,tool,44,-6.8221940994262695,125288025,roberta-base
+A paintbrush,is a tool.,paintbrush,tool,45,-3.9332618713378906,125288025,roberta-base
+A varnish,is a tool.,varnish,tool,46,-7.950762748718262,125288025,roberta-base
+An apron,is a tool.,apron,tool,47,-10.540681838989258,125288025,roberta-base
+A stapler,is a tool.,stapler,tool,48,-6.3158721923828125,125288025,roberta-base
+An extension cord,is a tool.,extension cord,tool,49,-8.811257362365723,125288025,roberta-base
+A soldering iron,is a tool.,soldering iron,tool,50,-8.069023132324219,125288025,roberta-base
+A plaster,is a tool.,plaster,tool,51,-10.073382377624512,125288025,roberta-base
+A wheelbarrow,is a tool.,wheelbarrow,tool,52,-6.170221328735352,125288025,roberta-base
+An axe,is a tool.,axe,tool,53,-4.611627578735352,125288025,roberta-base
+A slide rule,is a tool.,slide rule,tool,54,-11.442975044250488,125288025,roberta-base
+A cement,is a tool.,cement,tool,55,-9.207560539245605,125288025,roberta-base
+An anvil,is a tool.,anvil,tool,56,-7.603224754333496,125288025,roberta-base
+A hatchet,is a tool.,hatchet,tool,57,-3.397404670715332,125288025,roberta-base
+A rag,is a tool.,rag,tool,58,-7.582378387451172,125288025,roberta-base
+A scissor,is a tool.,scissor,tool,59,-5.13410758972168,125288025,roberta-base
+A crane,is a tool.,crane,tool,60,-12.944747924804688,125288025,roberta-base
+Orange,is a fruit.,orange,fruit,1,-6.934576988220215,125288025,roberta-base
+Apple,is a fruit.,apple,fruit,2,-9.64527416229248,125288025,roberta-base
+Banana,is a fruit.,banana,fruit,3,-7.477846145629883,125288025,roberta-base
+Peach,is a fruit.,peach,fruit,4,-10.30957841873169,125288025,roberta-base
+Pear,is a fruit.,pear,fruit,5,-8.488592147827148,125288025,roberta-base
+Apricot,is a fruit.,apricot,fruit,6,-5.810151100158691,125288025,roberta-base
+Tangerine,is a fruit.,tangerine,fruit,7,-6.1783294677734375,125288025,roberta-base
+Plum,is a fruit.,plum,fruit,8,-4.858713150024414,125288025,roberta-base
+Grape,is a fruit.,grape,fruit,9,-5.778722763061523,125288025,roberta-base
+Nectarine,is a fruit.,nectarine,fruit,10,-5.85067081451416,125288025,roberta-base
+Strawberry,is a fruit.,strawberry,fruit,11,-7.353117942810059,125288025,roberta-base
+Grapefruit,is a fruit.,grapefruit,fruit,12,-8.122652053833008,125288025,roberta-base
+Berry,is a fruit.,berry,fruit,13,-10.738929748535156,125288025,roberta-base
+Cherry,is a fruit.,cherry,fruit,14,-6.358311653137207,125288025,roberta-base
+Pineapple,is a fruit.,pineapple,fruit,15,-6.040920257568359,125288025,roberta-base
+Blackberry,is a fruit.,blackberry,fruit,16,-8.047603607177734,125288025,roberta-base
+Melon,is a fruit.,melon,fruit,17,-11.313077926635742,125288025,roberta-base
+Blueberry,is a fruit.,blueberry,fruit,18,-5.678504943847656,125288025,roberta-base
+Raspberry,is a fruit.,raspberry,fruit,19,-7.240144729614258,125288025,roberta-base
+Lemon,is a fruit.,lemon,fruit,20,-8.629491806030273,125288025,roberta-base
+Black raspberry,is a fruit.,black raspberry,fruit,21,-9.331583023071289,125288025,roberta-base
+Boysenberry,is a fruit.,boysenberry,fruit,22,-10.914563179016113,125288025,roberta-base
+Watermelon,is a fruit.,watermelon,fruit,23,-6.859265327453613,125288025,roberta-base
+Cantaloupe,is a fruit.,cantaloupe,fruit,24,-8.69761848449707,125288025,roberta-base
+Lime,is a fruit.,lime,fruit,25,-7.220577239990234,125288025,roberta-base
+Tangelo,is a fruit.,tangelo,fruit,26,-15.734967231750488,125288025,roberta-base
+Papaya,is a fruit.,papaya,fruit,27,-8.040343284606934,125288025,roberta-base
+Honeydew,is a fruit.,honeydew,fruit,28,-10.418922424316406,125288025,roberta-base
+Fig,is a fruit.,fig,fruit,29,-13.454512596130371,125288025,roberta-base
+Mango,is a fruit.,mango,fruit,30,-6.592426300048828,125288025,roberta-base
+Guava,is a fruit.,guava,fruit,31,-8.533324241638184,125288025,roberta-base
+Pomegranate,is a fruit.,pomegranate,fruit,32,-5.661592483520508,125288025,roberta-base
+Cranberry,is a fruit.,cranberry,fruit,33,-7.832845687866211,125288025,roberta-base
+Passion fruit,is a fruit.,passion fruit,fruit,34,-10.021516799926758,125288025,roberta-base
+Prune,is a fruit.,prune,fruit,35,-7.616543769836426,125288025,roberta-base
+Gooseberry,is a fruit.,gooseberry,fruit,36,-7.625540733337402,125288025,roberta-base
+Dates,is a fruit.,dates,fruit,37,-18.0316743850708,125288025,roberta-base
+Kumquat,is a fruit.,kumquat,fruit,38,-10.0524320602417,125288025,roberta-base
+Raisin,is a fruit.,raisin,fruit,39,-13.589598655700684,125288025,roberta-base
+Muskmelon,is a fruit.,muskmelon,fruit,40,-12.720924854278564,125288025,roberta-base
+Persimmon,is a fruit.,persimmon,fruit,41,-7.343225479125977,125288025,roberta-base
+Pawpaw,is a fruit.,pawpaw,fruit,42,-16.035386085510254,125288025,roberta-base
+Coconut,is a fruit.,coconut,fruit,43,-7.031275749206543,125288025,roberta-base
+Avocado,is a fruit.,avocado,fruit,44,-6.382133483886719,125288025,roberta-base
+Pumpkin,is a fruit.,pumpkin,fruit,45,-9.598002433776855,125288025,roberta-base
+Tomato,is a fruit.,tomato,fruit,46,-10.74905014038086,125288025,roberta-base
+Nut,is a fruit.,nut,fruit,47,-8.914169311523438,125288025,roberta-base
+Gourd,is a fruit.,gourd,fruit,48,-9.375754833221436,125288025,roberta-base
+Olive,is a fruit.,olive,fruit,49,-9.822176933288574,125288025,roberta-base
+Pickle,is a fruit.,pickle,fruit,50,-7.206644058227539,125288025,roberta-base
+Squash,is a fruit.,squash,fruit,51,-8.544326782226562,125288025,roberta-base
+A pant,is a type of clothing.,pant,clothing,1,-7.155016899108887,125288025,roberta-base
+A shirt,is a type of clothing.,shirt,clothing,2,-8.778212547302246,125288025,roberta-base
+A dress,is a type of clothing.,dress,clothing,3,-7.538151741027832,125288025,roberta-base
+A skirt,is a type of clothing.,skirt,clothing,4,-8.919958114624023,125288025,roberta-base
+A blouse,is a type of clothing.,blouse,clothing,5,-8.232584953308105,125288025,roberta-base
+A suit,is a type of clothing.,suit,clothing,6,-7.758069038391113,125288025,roberta-base
+A slack,is a type of clothing.,slack,clothing,7,-15.27639102935791,125288025,roberta-base
+A jacket,is a type of clothing.,jacket,clothing,8,-7.792707443237305,125288025,roberta-base
+A coat,is a type of clothing.,coat,clothing,9,-6.845580101013184,125288025,roberta-base
+A sweater,is a type of clothing.,sweater,clothing,10,-7.966493606567383,125288025,roberta-base
+A sweatshirt,is a type of clothing.,sweatshirt,clothing,11,-7.868962287902832,125288025,roberta-base
+An underpant,is a type of clothing.,underpant,clothing,12,-12.138420104980469,125288025,roberta-base
+A sports jacket,is a type of clothing.,sports jacket,clothing,13,-8.672140121459961,125288025,roberta-base
+A jumper,is a type of clothing.,jumper,clothing,14,-7.675511360168457,125288025,roberta-base
+A panty,is a type of clothing.,panty,clothing,15,-8.777789115905762,125288025,roberta-base
+A sock,is a type of clothing.,sock,clothing,16,-11.368176460266113,125288025,roberta-base
+A parka,is a type of clothing.,parka,clothing,17,-8.791278839111328,125288025,roberta-base
+A pajama,is a type of clothing.,pajama,clothing,18,-8.298247337341309,125288025,roberta-base
+An undershirt,is a type of clothing.,undershirt,clothing,19,-9.126143455505371,125288025,roberta-base
+An overcoat,is a type of clothing.,overcoat,clothing,20,-9.584672927856445,125288025,roberta-base
+A nightgown,is a type of clothing.,nightgown,clothing,21,-6.666967391967773,125288025,roberta-base
+A raincoat,is a type of clothing.,raincoat,clothing,22,-9.130891799926758,125288025,roberta-base
+A bathing suit,is a type of clothing.,bathing suit,clothing,23,-7.670707702636719,125288025,roberta-base
+A bathrobe,is a type of clothing.,bathrobe,clothing,24,-9.058101654052734,125288025,roberta-base
+A slip,is a type of clothing.,slip,clothing,25,-14.135494232177734,125288025,roberta-base
+A bra,is a type of clothing.,bra,clothing,26,-8.314743041992188,125288025,roberta-base
+A shoe,is a type of clothing.,shoe,clothing,27,-9.46843147277832,125288025,roberta-base
+A tuxedo,is a type of clothing.,tuxedo,clothing,28,-8.74488353729248,125288025,roberta-base
+A stocking,is a type of clothing.,stocking,clothing,29,-10.13196849822998,125288025,roberta-base
+A vest,is a type of clothing.,vest,clothing,30,-7.918342590332031,125288025,roberta-base
+A nylon,is a type of clothing.,nylon,clothing,31,-8.547491073608398,125288025,roberta-base
+A cape,is a type of clothing.,cape,clothing,32,-10.324148178100586,125288025,roberta-base
+A boot,is a type of clothing.,boot,clothing,33,-14.11186695098877,125288025,roberta-base
+A sandal,is a type of clothing.,sandal,clothing,34,-10.860998153686523,125288025,roberta-base
+A tie,is a type of clothing.,tie,clothing,35,-11.810351371765137,125288025,roberta-base
+A girdle,is a type of clothing.,girdle,clothing,36,-12.741517066955566,125288025,roberta-base
+A belt,is a type of clothing.,belt,clothing,37,-13.356903076171875,125288025,roberta-base
+A scarf,is a type of clothing.,scarf,clothing,38,-9.491856575012207,125288025,roberta-base
+A mitten,is a type of clothing.,mitten,clothing,39,-11.926169395446777,125288025,roberta-base
+A slipper,is a type of clothing.,slipper,clothing,40,-13.894025325775146,125288025,roberta-base
+A hat,is a type of clothing.,hat,clothing,41,-10.829483985900879,125288025,roberta-base
+An overshoe,is a type of clothing.,overshoe,clothing,42,-11.735382080078125,125288025,roberta-base
+A glove,is a type of clothing.,glove,clothing,43,-10.920334815979004,125288025,roberta-base
+An apron,is a type of clothing.,apron,clothing,44,-10.489080429077148,125288025,roberta-base
+An earmuff,is a type of clothing.,earmuff,clothing,45,-15.172928810119629,125288025,roberta-base
+A handkerchief,is a type of clothing.,handkerchief,clothing,46,-12.670553207397461,125288025,roberta-base
+A purse,is a type of clothing.,purse,clothing,47,-12.340394020080566,125288025,roberta-base
+A hairband,is a type of clothing.,hairband,clothing,48,-11.829389572143555,125288025,roberta-base
+A ring,is a type of clothing.,ring,clothing,49,-15.183334350585938,125288025,roberta-base
+An earring,is a type of clothing.,earring,clothing,50,-14.920595169067383,125288025,roberta-base
+A watch,is a type of clothing.,watch,clothing,51,-12.801053047180176,125288025,roberta-base
+A cuff link,is a type of clothing.,cuff link,clothing,52,-19.058805465698242,125288025,roberta-base
+A necklace,is a type of clothing.,necklace,clothing,53,-13.072624206542969,125288025,roberta-base
+A bracelet,is a type of clothing.,bracelet,clothing,54,-11.88027572631836,125288025,roberta-base
+A cane,is a type of clothing.,cane,clothing,55,-19.250054359436035,125288025,roberta-base
+An automobile,is a vehicle.,automobile,vehicle,1,-3.019537925720215,125288025,roberta-base
+A station wagon,is a vehicle.,station wagon,vehicle,2,-7.363670349121094,125288025,roberta-base
+A truck,is a vehicle.,truck,vehicle,3,-8.902050971984863,125288025,roberta-base
+A car,is a vehicle.,car,vehicle,4,-5.223896026611328,125288025,roberta-base
+A bus,is a vehicle.,bus,vehicle,5,-10.235994338989258,125288025,roberta-base
+A taxi,is a vehicle.,taxi,vehicle,6,-10.129467964172363,125288025,roberta-base
+A jeep,is a vehicle.,jeep,vehicle,7,-8.561307907104492,125288025,roberta-base
+An ambulance,is a vehicle.,ambulance,vehicle,8,-11.025717735290527,125288025,roberta-base
+A motorcycle,is a vehicle.,motorcycle,vehicle,9,-11.355076789855957,125288025,roberta-base
+A streetcar,is a vehicle.,streetcar,vehicle,10,-8.846336364746094,125288025,roberta-base
+A van,is a vehicle.,van,vehicle,11,-8.365477561950684,125288025,roberta-base
+A honda,is a vehicle.,Honda,vehicle,12,-8.183722496032715,125288025,roberta-base
+A cable car,is a vehicle.,cable car,vehicle,13,-8.084604263305664,125288025,roberta-base
+A train,is a vehicle.,train,vehicle,14,-11.092401504516602,125288025,roberta-base
+A trolley,is a vehicle.,trolley,vehicle,15,-8.385540962219238,125288025,roberta-base
+A bicycle,is a vehicle.,bicycle,vehicle,16,-10.046127319335938,125288025,roberta-base
+A carriage,is a vehicle.,carriage,vehicle,17,-8.012124061584473,125288025,roberta-base
+An airplane,is a vehicle.,airplane,vehicle,18,-10.883915901184082,125288025,roberta-base
+A bike,is a vehicle.,bike,vehicle,19,-9.00797176361084,125288025,roberta-base
+A boat,is a vehicle.,boat,vehicle,20,-11.863110542297363,125288025,roberta-base
+A jet,is a vehicle.,jet,vehicle,21,-13.975561141967773,125288025,roberta-base
+A ship,is a vehicle.,ship,vehicle,22,-11.069929122924805,125288025,roberta-base
+A scooter,is a vehicle.,scooter,vehicle,23,-9.93459701538086,125288025,roberta-base
+A tractor,is a vehicle.,tractor,vehicle,24,-11.677590370178223,125288025,roberta-base
+A wagon,is a vehicle.,wagon,vehicle,25,-6.569689750671387,125288025,roberta-base
+A subway,is a vehicle.,subway,vehicle,26,-12.78603458404541,125288025,roberta-base
+A trailer,is a vehicle.,trailer,vehicle,27,-12.487481117248535,125288025,roberta-base
+A cart,is a vehicle.,cart,vehicle,28,-9.3451509475708,125288025,roberta-base
+A wheelchair,is a vehicle.,wheelchair,vehicle,29,-10.421606063842773,125288025,roberta-base
+A yacht,is a vehicle.,yacht,vehicle,30,-10.734905242919922,125288025,roberta-base
+A tank,is a vehicle.,tank,vehicle,31,-11.105985641479492,125288025,roberta-base
+A go-cart,is a vehicle.,go-cart,vehicle,32,-6.3050689697265625,125288025,roberta-base
+A rowboat,is a vehicle.,rowboat,vehicle,33,-11.511063575744629,125288025,roberta-base
+A dogsled,is a vehicle.,dogsled,vehicle,34,-13.991305351257324,125288025,roberta-base
+A tricycle,is a vehicle.,tricycle,vehicle,35,-9.905760765075684,125288025,roberta-base
+A canoe,is a vehicle.,canoe,vehicle,36,-12.152761459350586,125288025,roberta-base
+A raft,is a vehicle.,raft,vehicle,37,-11.260780334472656,125288025,roberta-base
+A submarine,is a vehicle.,submarine,vehicle,38,-11.521451950073242,125288025,roberta-base
+A sled,is a vehicle.,sled,vehicle,39,-8.996341705322266,125288025,roberta-base
+A horse,is a vehicle.,horse,vehicle,40,-15.01201057434082,125288025,roberta-base
+A rocket,is a vehicle.,rocket,vehicle,41,-12.268905639648438,125288025,roberta-base
+A blimp,is a vehicle.,blimp,vehicle,42,-11.518999099731445,125288025,roberta-base
+A skate,is a vehicle.,skate,vehicle,43,-12.996183395385742,125288025,roberta-base
+A camel,is a vehicle.,camel,vehicle,44,-16.105202674865723,125288025,roberta-base
+Feet,are vehicles.,feet,vehicle,45,-22.882559776306152,125288025,roberta-base
+A ski,is a vehicle.,ski,vehicle,46,-14.800756454467773,125288025,roberta-base
+A skateboard,is a vehicle.,skateboard,vehicle,47,-8.719109535217285,125288025,roberta-base
+A wheelbarrow,is a vehicle.,wheelbarrow,vehicle,48,-10.238831520080566,125288025,roberta-base
+A surfboard,is a vehicle.,surfboard,vehicle,49,-11.945964813232422,125288025,roberta-base
+An elevator,is a vehicle.,elevator,vehicle,50,-11.469877243041992,125288025,roberta-base
+A chair,is a type of furniture.,chair,furniture,1,-10.62452507019043,125288025,roberta-base
+A sofa,is a type of furniture.,sofa,furniture,2,-8.63873291015625,125288025,roberta-base
+A couch,is a type of furniture.,couch,furniture,3,-9.559097290039062,125288025,roberta-base
+A table,is a type of furniture.,table,furniture,4,-16.97055721282959,125288025,roberta-base
+An easy chair,is a type of furniture.,easy chair,furniture,5,-13.755105972290039,125288025,roberta-base
+A dresser,is a type of furniture.,dresser,furniture,6,-11.604643821716309,125288025,roberta-base
+A rocking chair,is a type of furniture.,rocking chair,furniture,7,-11.515616416931152,125288025,roberta-base
+A coffee table,is a type of furniture.,coffee table,furniture,8,-11.661154747009277,125288025,roberta-base
+A rocker,is a type of furniture.,rocker,furniture,9,-22.757850646972656,125288025,roberta-base
+A love seat,is a type of furniture.,love seat,furniture,10,-14.380703926086426,125288025,roberta-base
+Chest of drawers,are furniture.,chest of drawers,furniture,11,-19.739288330078125,125288025,roberta-base
+A desk,is a type of furniture.,desk,furniture,12,-11.54165267944336,125288025,roberta-base
+A bed,is a type of furniture.,bed,furniture,13,-10.722768783569336,125288025,roberta-base
+A bureau,is a type of furniture.,bureau,furniture,14,-16.703116416931152,125288025,roberta-base
+A davenport,is a type of furniture.,davenport,furniture,15,-15.107650756835938,125288025,roberta-base
+An end table,is a type of furniture.,end table,furniture,16,-19.81979274749756,125288025,roberta-base
+A divan,is a type of furniture.,divan,furniture,17,-14.424722671508789,125288025,roberta-base
+A night table,is a type of furniture.,night table,furniture,18,-13.58137035369873,125288025,roberta-base
+A chest,is a type of furniture.,chest,furniture,19,-16.08892250061035,125288025,roberta-base
+A cedar chest,is a type of furniture.,cedar chest,furniture,20,-13.49109935760498,125288025,roberta-base
+A vanity,is a type of furniture.,vanity,furniture,21,-15.880005836486816,125288025,roberta-base
+A bookcase,is a type of furniture.,bookcase,furniture,22,-12.357686996459961,125288025,roberta-base
+A lounge,is a type of furniture.,lounge,furniture,23,-15.030326843261719,125288025,roberta-base
+A chaise lounge,is a type of furniture.,chaise lounge,furniture,24,-16.483073234558105,125288025,roberta-base
+An ottoman,is a type of furniture.,ottoman,furniture,25,-10.276360511779785,125288025,roberta-base
+A footstool,is a type of furniture.,footstool,furniture,26,-12.319175720214844,125288025,roberta-base
+A cabinet,is a type of furniture.,cabinet,furniture,27,-9.781716346740723,125288025,roberta-base
+A china closet,is a type of furniture.,china closet,furniture,28,-13.453215599060059,125288025,roberta-base
+A bench,is a type of furniture.,bench,furniture,29,-10.73318099975586,125288025,roberta-base
+A buffet,is a type of furniture.,buffet,furniture,30,-15.518109321594238,125288025,roberta-base
+A lamp,is a type of furniture.,lamp,furniture,31,-13.394431114196777,125288025,roberta-base
+A stool,is a type of furniture.,stool,furniture,32,-13.199471473693848,125288025,roberta-base
+A hassock,is a type of furniture.,hassock,furniture,33,-16.541223526000977,125288025,roberta-base
+A drawer,is a type of furniture.,drawer,furniture,34,-13.866625785827637,125288025,roberta-base
+A piano,is a type of furniture.,piano,furniture,35,-15.388044357299805,125288025,roberta-base
+A cushion,is a type of furniture.,cushion,furniture,36,-11.990513801574707,125288025,roberta-base
+A magazine rack,is a type of furniture.,magazine rack,furniture,37,-14.782072067260742,125288025,roberta-base
+A hi-fi,is a type of furniture.,hi-fi,furniture,38,-14.592747688293457,125288025,roberta-base
+A cupboard,is a type of furniture.,cupboard,furniture,39,-12.740303993225098,125288025,roberta-base
+A stereo,is a type of furniture.,stereo,furniture,40,-16.672642707824707,125288025,roberta-base
+A mirror,is a type of furniture.,mirror,furniture,41,-16.146930694580078,125288025,roberta-base
+A television,is a type of furniture.,television,furniture,42,-15.449577331542969,125288025,roberta-base
+A bar,is a type of furniture.,bar,furniture,43,-14.401898384094238,125288025,roberta-base
+A shelf,is a type of furniture.,shelf,furniture,44,-12.103982925415039,125288025,roberta-base
+A rug,is a type of furniture.,rug,furniture,45,-11.693099021911621,125288025,roberta-base
+A pillow,is a type of furniture.,pillow,furniture,46,-13.583822250366211,125288025,roberta-base
+A wastebasket,is a type of furniture.,wastebasket,furniture,47,-13.6820707321167,125288025,roberta-base
+A radio,is a type of furniture.,radio,furniture,48,-18.147003173828125,125288025,roberta-base
+A sewing machine,is a type of furniture.,sewing machine,furniture,49,-18.264578819274902,125288025,roberta-base
+A stove,is a type of furniture.,stove,furniture,50,-13.884881973266602,125288025,roberta-base
+A counter,is a type of furniture.,counter,furniture,51,-19.151996612548828,125288025,roberta-base
+A clock,is a type of furniture.,clock,furniture,52,-19.753725051879883,125288025,roberta-base
+A drape,is a type of furniture.,drape,furniture,53,-15.738814353942871,125288025,roberta-base
+A refrigerator,is a type of furniture.,refrigerator,furniture,54,-12.843560218811035,125288025,roberta-base
+A picture,is a type of furniture.,picture,furniture,55,-25.850245475769043,125288025,roberta-base
+A closet,is a type of furniture.,closet,furniture,56,-12.742979049682617,125288025,roberta-base
+A vase,is a type of furniture.,vase,furniture,57,-13.667060852050781,125288025,roberta-base
+An ashtray,is a type of furniture.,ashtray,furniture,58,-13.251687049865723,125288025,roberta-base
+A fan,is a type of furniture.,fan,furniture,59,-22.79123306274414,125288025,roberta-base
+A telephone,is a type of furniture.,telephone,furniture,60,-18.69034767150879,125288025,roberta-base
+A gun,is a weapon.,gun,weapon,1,-2.758790969848633,125288025,roberta-base
+A pistol,is a weapon.,pistol,weapon,2,-2.8698196411132812,125288025,roberta-base
+A revolver,is a weapon.,revolver,weapon,3,-3.230558395385742,125288025,roberta-base
+A machine gun,is a weapon.,machine gun,weapon,4,-2.535454750061035,125288025,roberta-base
+A rifle,is a weapon.,rifle,weapon,5,-2.3436384201049805,125288025,roberta-base
+A switchblade,is a weapon.,switchblade,weapon,6,-3.4873924255371094,125288025,roberta-base
+A knife,is a weapon.,knife,weapon,7,-1.4732418060302734,125288025,roberta-base
+A dagger,is a weapon.,dagger,weapon,8,-2.3777523040771484,125288025,roberta-base
+A shotgun,is a weapon.,shotgun,weapon,9,-3.583230972290039,125288025,roberta-base
+A sword,is a weapon.,sword,weapon,10,-2.0649280548095703,125288025,roberta-base
+A bomb,is a weapon.,bomb,weapon,11,-5.382648468017578,125288025,roberta-base
+A hand grenade,is a weapon.,hand grenade,weapon,12,-4.707945823669434,125288025,roberta-base
+An atom bomb,is a weapon.,Atom bomb,weapon,13,-5.457889556884766,125288025,roberta-base
+A bayonet,is a weapon.,bayonet,weapon,14,-2.5692358016967773,125288025,roberta-base
+A spear,is a weapon.,spear,weapon,15,-2.7445430755615234,125288025,roberta-base
+A bazooka,is a weapon.,bazooka,weapon,16,-8.763362884521484,125288025,roberta-base
+A cannon,is a weapon.,cannon,weapon,17,-3.6795740127563477,125288025,roberta-base
+A bow and arrow,is a weapon.,bow and arrow,weapon,18,-2.6803388595581055,125288025,roberta-base
+A club,is a weapon.,club,weapon,19,-11.362447738647461,125288025,roberta-base
+A lance,is a weapon.,lance,weapon,20,-4.374882698059082,125288025,roberta-base
+A brass knuckle,is a weapon.,brass knuckle,weapon,21,-6.268851280212402,125288025,roberta-base
+A bullet,is a weapon.,bullet,weapon,22,-6.547574043273926,125288025,roberta-base
+A tomahawk,is a weapon.,tomahawk,weapon,23,-3.609381675720215,125288025,roberta-base
+A mortar,is a weapon.,mortar,weapon,24,-4.37148380279541,125288025,roberta-base
+An arrow,is a weapon.,arrow,weapon,25,-4.9274444580078125,125288025,roberta-base
+A blackjack,is a weapon.,blackjack,weapon,26,-12.683385848999023,125288025,roberta-base
+A tank,is a weapon.,tank,weapon,27,-6.536174774169922,125288025,roberta-base
+Teargas,is a weapon.,teargas,weapon,28,-8.136146545410156,125288025,roberta-base
+A missile,is a weapon.,missile,weapon,29,-3.6156063079833984,125288025,roberta-base
+A whip,is a weapon.,whip,weapon,30,-6.693324089050293,125288025,roberta-base
+An ice pick,is a weapon.,ice pick,weapon,31,-5.893516540527344,125288025,roberta-base
+A hatchet,is a weapon.,hatchet,weapon,32,-2.2046403884887695,125288025,roberta-base
+A slingshot,is a weapon.,slingshot,weapon,33,-3.945498466491699,125288025,roberta-base
+A fist,is a weapon.,fist,weapon,34,-7.522974014282227,125288025,roberta-base
+An axe,is a weapon.,axe,weapon,35,-2.5177927017211914,125288025,roberta-base
+A bow,is a weapon.,bow,weapon,36,-2.9774398803710938,125288025,roberta-base
+A razor,is a weapon.,razor,weapon,37,-4.094357490539551,125288025,roberta-base
+A razor blade,is a weapon.,razor blade,weapon,38,-3.449352264404297,125288025,roberta-base
+A rocket,is a weapon.,rocket,weapon,39,-6.420627593994141,125288025,roberta-base
+A judo,is a weapon.,judo,weapon,40,-6.383252143859863,125288025,roberta-base
+A stick,is a weapon.,stick,weapon,41,-5.955397605895996,125288025,roberta-base
+A poison,is a weapon.,poison,weapon,42,-6.481005668640137,125288025,roberta-base
+A rock,is a weapon.,rock,weapon,43,-10.247838973999023,125288025,roberta-base
+A stone,is a weapon.,stone,weapon,44,-6.964024543762207,125288025,roberta-base
+Gas,is a weapon.,gas,weapon,45,-5.003747940063477,125288025,roberta-base
+A chain,is a weapon.,chain,weapon,46,-7.890702247619629,125288025,roberta-base
+A scissor,is a weapon.,scissor,weapon,47,-5.2885332107543945,125288025,roberta-base
+A brick,is a weapon.,brick,weapon,48,-12.25426959991455,125288025,roberta-base
+A pitchfork,is a weapon.,pitchfork,weapon,49,-4.216568946838379,125288025,roberta-base
+A hammer,is a weapon.,hammer,weapon,50,-4.531003952026367,125288025,roberta-base
+A word,is a weapon.,word,weapon,51,-10.349477767944336,125288025,roberta-base
+A hand,is a weapon.,hand,weapon,52,-12.216232299804688,125288025,roberta-base
+A pipe,is a weapon.,pipe,weapon,53,-10.977587699890137,125288025,roberta-base
+A rope,is a weapon.,rope,weapon,54,-8.129522323608398,125288025,roberta-base
+An airplane,is a weapon.,airplane,weapon,55,-5.846863746643066,125288025,roberta-base
+A foot,is a weapon.,foot,weapon,56,-9.460923194885254,125288025,roberta-base
+A car,is a weapon.,car,weapon,57,-9.997369766235352,125288025,roberta-base
+A screwdriver,is a weapon.,screwdriver,weapon,58,-5.765974044799805,125288025,roberta-base
+Glass,is a weapon.,glass,weapon,59,-5.314342498779297,125288025,roberta-base
+A shoe,is a weapon.,shoe,weapon,60,-7.492060661315918,125288025,roberta-base

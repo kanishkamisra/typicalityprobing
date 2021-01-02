@@ -1,0 +1,566 @@
+stimulus,item,category,rank,logprob,normalized_logprob,params,model
+a doll is a toy.,doll,toy,1,-34.45729637145996,-4.922470910208566,774031360,gpt2-large
+a top is a toy.,top,toy,2,-42.289631366729736,-6.041375909532819,774031360,gpt2-large
+a jack-in-the-box is a toy.,jack-in-the-box,toy,3,-41.3488450050354,-3.180680385002723,774031360,gpt2-large
+a toy soldier is a toy.,toy soldier,toy,4,-42.40694618225098,-5.300868272781372,774031360,gpt2-large
+a yo-yo is a toy.,yo-yo,toy,5,-37.67228412628174,-4.185809347364637,774031360,gpt2-large
+a block is a toy.,block,toy,6,-40.8418550491333,-5.834550721304757,774031360,gpt2-large
+marbles are toys.,marbles,toy,7,-37.48746728897095,-6.247911214828491,774031360,gpt2-large
+a rattle is a toy.,rattle,toy,8,-39.17219161987305,-4.896523952484131,774031360,gpt2-large
+a stuffed animal is a toy.,stuffed animal,toy,9,-37.960790157318115,-4.745098769664764,774031360,gpt2-large
+a water pistol is a toy.,water pistol,toy,10,-44.030460357666016,-5.503807544708252,774031360,gpt2-large
+a teddy bear is a toy.,teddy bear,toy,11,-36.149571895599365,-4.016619099511041,774031360,gpt2-large
+a rocking horse is a toy.,rocking horse,toy,12,-44.58408880233765,-5.573011100292206,774031360,gpt2-large
+a doll house is a toy.,doll house,toy,13,-41.42986726760864,-5.17873340845108,774031360,gpt2-large
+a ball is a toy.,ball,toy,14,-36.358484745025635,-5.1940692492893765,774031360,gpt2-large
+jacks are toys.,jacks,toy,15,-40.901448249816895,-6.816908041636149,774031360,gpt2-large
+paper dolls are toys.,paper dolls,toy,16,-41.372525691986084,-6.895420948664348,774031360,gpt2-large
+an erector set is a toy.,erector set,toy,17,-45.192030906677246,-5.021336767408583,774031360,gpt2-large
+a hula hoop is a toy.,hula hoop,toy,18,-41.77938938140869,-4.642154375712077,774031360,gpt2-large
+a jump rope is a toy.,jump rope,toy,19,-43.559194564819336,-5.444899320602417,774031360,gpt2-large
+a pogo stick is a toy.,pogo stick,toy,20,-37.071136474609375,-4.119015163845486,774031360,gpt2-large
+a clay is a toy.,clay,toy,21,-41.74271774291992,-5.963245391845703,774031360,gpt2-large
+a wagon is a toy.,wagon,toy,22,-41.96659708023071,-5.995228154318673,774031360,gpt2-large
+a kite is a toy.,kite,toy,23,-37.983989238739014,-4.747998654842377,774031360,gpt2-large
+a train is a toy.,train,toy,24,-39.408363819122314,-5.629766259874616,774031360,gpt2-large
+a tricycle is a toy.,tricycle,toy,25,-40.280842304229736,-5.035105288028717,774031360,gpt2-large
+a coloring book is a toy.,coloring book,toy,26,-39.728108406066895,-4.966013550758362,774031360,gpt2-large
+crayons are toys.,crayons,toy,27,-36.83560132980347,-5.262228761400495,774031360,gpt2-large
+a truck is a toy.,truck,toy,28,-39.16690635681152,-5.59527233668736,774031360,gpt2-large
+a puzzle is a toy.,puzzle,toy,29,-39.31647300720215,-5.6166390010288785,774031360,gpt2-large
+a fire engine is a toy.,fire engine,toy,30,-41.45720958709717,-5.182151198387146,774031360,gpt2-large
+a balloon is a toy.,balloon,toy,31,-37.104586601257324,-5.300655228751046,774031360,gpt2-large
+skates are toys.,skates,toy,32,-40.61499309539795,-6.769165515899658,774031360,gpt2-large
+a baseball is a toy.,baseball,toy,33,-37.88717842102051,-5.4124540601457864,774031360,gpt2-large
+a drum is a toy.,drum,toy,34,-39.43060874938965,-5.632944107055664,774031360,gpt2-large
+a football is a toy.,football,toy,35,-36.60642433166504,-5.229489190237863,774031360,gpt2-large
+a game is a toy.,game,toy,36,-35.700456619262695,-5.100065231323242,774031360,gpt2-large
+a swing is a toy.,swing,toy,37,-40.96495723724365,-5.8521367481776645,774031360,gpt2-large
+a boat is a toy.,boat,toy,38,-37.671706676483154,-5.381672382354736,774031360,gpt2-large
+a monopoly is a toy.,monopoly,toy,39,-42.630860328674316,-6.090122904096331,774031360,gpt2-large
+a sled is a toy.,sled,toy,40,-40.161038398742676,-5.737291199820382,774031360,gpt2-large
+a seesaw is a toy.,seesaw,toy,41,-42.57007837295532,-5.321259796619415,774031360,gpt2-large
+stilts are toys.,stilts,toy,42,-42.76386022567749,-7.127310037612915,774031360,gpt2-large
+checkers are toys.,checkers,toy,43,-43.46955394744873,-7.244925657908122,774031360,gpt2-large
+a bat is a toy.,bat,toy,44,-40.576181411743164,-5.796597344534738,774031360,gpt2-large
+a car is a toy.,car,toy,45,-34.705735206604004,-4.957962172372,774031360,gpt2-large
+an airplane is a toy.,airplane,toy,46,-37.45839786529541,-5.351199695042202,774031360,gpt2-large
+a bicycle is a toy.,bicycle,toy,47,-35.24226427078247,-5.034609181540353,774031360,gpt2-large
+a tractor is a toy.,tractor,toy,48,-41.413936138153076,-5.916276591164725,774031360,gpt2-large
+a sandbox is a toy.,sandbox,toy,49,-41.80119609832764,-5.971599442618234,774031360,gpt2-large
+a bike is a toy.,bike,toy,50,-35.61022233963013,-5.087174619947161,774031360,gpt2-large
+a bow and arrow is a toy.,bow and arrow,toy,51,-39.76144552230835,-4.417938391367595,774031360,gpt2-large
+a rope is a toy.,rope,toy,52,-39.87366056442261,-5.696237223488944,774031360,gpt2-large
+dishes are toys.,dishes,toy,53,-42.49420881271362,-7.0823681354522705,774031360,gpt2-large
+cards are toys.,cards,toy,54,-36.02864456176758,-7.205728912353516,774031360,gpt2-large
+a mitt is a toy.,mitt,toy,55,-41.92520523071289,-5.240650653839111,774031360,gpt2-large
+a horse is a toy.,horse,toy,56,-35.28491401672363,-5.04070200238909,774031360,gpt2-large
+a gun is a toy.,gun,toy,57,-34.65693712234497,-4.950991017477853,774031360,gpt2-large
+animals are toys.,animals,toy,58,-34.65910816192627,-5.776518026987712,774031360,gpt2-large
+a tennis racket is a toy.,tennis racket,toy,59,-38.148860454559326,-4.768607556819916,774031360,gpt2-large
+books are toys.,books,toy,60,-40.98526191711426,-8.197052383422852,774031360,gpt2-large
+a robin is a bird.,robin,bird,1,-33.902228355407715,-4.237778544425964,774031360,gpt2-large
+a sparrow is a bird.,sparrow,bird,2,-32.21625518798828,-4.027031898498535,774031360,gpt2-large
+a bluejay is a bird.,bluejay,bird,3,-39.88079118728638,-4.985098898410797,774031360,gpt2-large
+a bluebird is a bird.,bluebird,bird,4,-35.64790201187134,-4.455987751483917,774031360,gpt2-large
+a canary is a bird.,canary,bird,5,-35.439488887786865,-4.429936110973358,774031360,gpt2-large
+a blackbird is a bird.,blackbird,bird,6,-34.92156744003296,-4.36519593000412,774031360,gpt2-large
+a dove is a bird.,dove,bird,7,-33.31482124328613,-4.759260177612305,774031360,gpt2-large
+a lark is a bird.,lark,bird,8,-42.23063564300537,-5.278829455375671,774031360,gpt2-large
+a swallow is a bird.,swallow,bird,9,-34.461912631988525,-4.923130375998361,774031360,gpt2-large
+a parakeet is a bird.,parakeet,bird,10,-35.84910869598389,-3.9832342995537653,774031360,gpt2-large
+an oriole is a bird.,oriole,bird,11,-39.78929567337036,-4.973661959171295,774031360,gpt2-large
+a mockingbird is a bird.,mockingbird,bird,12,-38.91796684265137,-4.864745855331421,774031360,gpt2-large
+a redbird is a bird.,redbird,bird,13,-38.066481590270996,-4.7583101987838745,774031360,gpt2-large
+a wren is a bird.,wren,bird,14,-35.087088108062744,-4.385886013507843,774031360,gpt2-large
+a finch is a bird.,finch,bird,15,-35.19609498977661,-4.399511873722076,774031360,gpt2-large
+a starling is a bird.,starling,bird,16,-33.99398469924927,-4.2492480874061584,774031360,gpt2-large
+a cardinal is a bird.,cardinal,bird,17,-36.39914131164551,-5.199877330235073,774031360,gpt2-large
+an eagle is a bird.,eagle,bird,18,-34.30117464065552,-4.900167805807931,774031360,gpt2-large
+a hummingbird is a bird.,hummingbird,bird,19,-34.175623416900635,-4.271952927112579,774031360,gpt2-large
+a seagull is a bird.,seagull,bird,20,-35.77021646499634,-3.9744684961107044,774031360,gpt2-large
+a woodpecker is a bird.,woodpecker,bird,21,-33.86522054672241,-3.7628022829691568,774031360,gpt2-large
+a pigeon is a bird.,pigeon,bird,22,-32.344276905059814,-4.620610986437116,774031360,gpt2-large
+a thrush is a bird.,thrush,bird,23,-38.271273612976074,-4.783909201622009,774031360,gpt2-large
+a falcon is a bird.,falcon,bird,24,-33.65750741958618,-4.207188427448273,774031360,gpt2-large
+a crow is a bird.,crow,bird,25,-33.863741874694824,-4.837677410670689,774031360,gpt2-large
+a hawk is a bird.,hawk,bird,26,-33.56839084625244,-4.795484406607492,774031360,gpt2-large
+a raven is a bird.,raven,bird,27,-33.99065923690796,-4.855808462415423,774031360,gpt2-large
+a goldfinch is a bird.,goldfinch,bird,28,-37.02896547317505,-4.11432949701945,774031360,gpt2-large
+a parrot is a bird.,parrot,bird,29,-32.972919940948486,-4.121614992618561,774031360,gpt2-large
+a sandpiper is a bird.,sandpiper,bird,30,-36.948537826538086,-4.105393091837565,774031360,gpt2-large
+a pheasant is a bird.,pheasant,bird,31,-34.052405834198,-3.783600648244222,774031360,gpt2-large
+a catbird is a bird.,catbird,bird,32,-38.132405281066895,-4.766550660133362,774031360,gpt2-large
+a crane is a bird.,crane,bird,33,-38.45657539367676,-5.493796484810965,774031360,gpt2-large
+an albatross is a bird.,albatross,bird,34,-35.29845428466797,-3.9220504760742188,774031360,gpt2-large
+a condor is a bird.,condor,bird,35,-34.481361389160156,-4.3101701736450195,774031360,gpt2-large
+a toucan is a bird.,toucan,bird,36,-34.09927034378052,-4.262408792972565,774031360,gpt2-large
+an owl is a bird.,owl,bird,37,-33.191227436065674,-4.741603919437954,774031360,gpt2-large
+a pelican is a bird.,pelican,bird,38,-34.55006647109985,-4.318758308887482,774031360,gpt2-large
+geese are birds.,geese,bird,39,-36.32518196105957,-6.054196993509929,774031360,gpt2-large
+a vulture is a bird.,vulture,bird,40,-34.671764850616455,-4.333970606327057,774031360,gpt2-large
+a stork is a bird.,stork,bird,41,-35.901517391204834,-4.487689673900604,774031360,gpt2-large
+a buzzard is a bird.,buzzard,bird,42,-33.985289096832275,-4.248161137104034,774031360,gpt2-large
+a swan is a bird.,swan,bird,43,-34.12652921676636,-4.265816152095795,774031360,gpt2-large
+a flamingo is a bird.,flamingo,bird,44,-34.61296892166138,-4.326621115207672,774031360,gpt2-large
+a duck is a bird.,duck,bird,45,-32.27872610092163,-4.611246585845947,774031360,gpt2-large
+a peacock is a bird.,peacock,bird,46,-34.61111259460449,-4.3263890743255615,774031360,gpt2-large
+an egret is a bird.,egret,bird,47,-36.69334697723389,-4.586668372154236,774031360,gpt2-large
+a chicken is a bird.,chicken,bird,48,-33.84373092651367,-4.8348187037876675,774031360,gpt2-large
+a turkey is a bird.,turkey,bird,49,-34.962934494018555,-4.994704927716937,774031360,gpt2-large
+an ostrich is a bird.,ostrich,bird,50,-34.42663240432739,-4.303329050540924,774031360,gpt2-large
+a titmouse is a bird.,titmouse,bird,51,-39.967777729034424,-4.995972216129303,774031360,gpt2-large
+an emu is a bird.,emu,bird,52,-35.591618061065674,-4.448952257633209,774031360,gpt2-large
+a penguin is a bird.,penguin,bird,53,-33.10792398452759,-4.1384904980659485,774031360,gpt2-large
+a bat is a bird.,bat,bird,54,-33.94734191894531,-4.849620274135044,774031360,gpt2-large
+football is a sport.,football,sport,1,-33.04787826538086,-5.50797971089681,774031360,gpt2-large
+baseball is a sport.,baseball,sport,2,-32.47674608230591,-4.63953515461513,774031360,gpt2-large
+basketball is a sport.,basketball,sport,3,-34.17806625366211,-5.696344375610352,774031360,gpt2-large
+tennis is a sport.,tennis,sport,4,-32.76701545715332,-4.68100220816476,774031360,gpt2-large
+softball is a sport.,softball,sport,5,-37.63255071640015,-5.37607867377145,774031360,gpt2-large
+canoeing is a sport.,canoeing,sport,6,-36.162081241607666,-4.520260155200958,774031360,gpt2-large
+handball is a sport.,handball,sport,7,-38.22157382965088,-5.460224832807269,774031360,gpt2-large
+rugby is a sport.,rugby,sport,8,-34.45907163619995,-4.922724519457136,774031360,gpt2-large
+hockey is a sport.,hockey,sport,9,-32.43181085586548,-4.633115836552212,774031360,gpt2-large
+ice hockey is a sport.,ice hockey,sport,10,-38.6298508644104,-5.5185501234872,774031360,gpt2-large
+swimming is a sport.,swimming,sport,11,-33.479817390441895,-4.782831055777414,774031360,gpt2-large
+track is a sport.,track,sport,12,-39.349202156066895,-6.558200359344482,774031360,gpt2-large
+boxing is a sport.,boxing,sport,13,-35.37443208694458,-5.89573868115743,774031360,gpt2-large
+volleyball is a sport.,volleyball,sport,14,-34.90525531768799,-4.3631569147109985,774031360,gpt2-large
+lacrosse is a sport.,lacrosse,sport,15,-37.20249366760254,-4.650311708450317,774031360,gpt2-large
+skiing is a sport.,skiing,sport,16,-34.38159132003784,-4.911655902862549,774031360,gpt2-large
+golf is a sport.,golf,sport,17,-33.1075644493103,-4.729652064187186,774031360,gpt2-large
+polo is a sport.,polo,sport,18,-41.082961082458496,-5.868994440351214,774031360,gpt2-large
+surfing is a sport.,surfing,sport,19,-33.82402229309082,-4.83200318472726,774031360,gpt2-large
+wrestling is a sport.,wrestling,sport,20,-35.09342670440674,-5.0133466720581055,774031360,gpt2-large
+gymnastics is a sport.,gymnastics,sport,21,-37.62657356262207,-4.703321695327759,774031360,gpt2-large
+cricket is a sport.,cricket,sport,22,-32.402281284332275,-4.050285160541534,774031360,gpt2-large
+squash is a sport.,squash,sport,23,-38.23249530792236,-5.461785043988909,774031360,gpt2-large
+badminton is a sport.,badminton,sport,24,-37.00457811355591,-4.6255722641944885,774031360,gpt2-large
+racing is a sport.,racing,sport,25,-35.41492795944214,-5.059275422777448,774031360,gpt2-large
+pole vault is a sport.,pole vault,sport,26,-44.378427505493164,-6.339775357927595,774031360,gpt2-large
+fencing is a sport.,fencing,sport,27,-33.603665828704834,-4.800523689814976,774031360,gpt2-large
+bowling is a sport.,bowling,sport,28,-36.85997724533081,-5.265711035047259,774031360,gpt2-large
+water skiing is a sport.,water skiing,sport,29,-40.94144630432129,-5.84877804347447,774031360,gpt2-large
+ice skating is a sport.,ice skating,sport,30,-37.99537372589111,-5.427910532270159,774031360,gpt2-large
+jai alai is a sport.,jai alai,sport,31,-47.58548307418823,-5.287275897132026,774031360,gpt2-large
+skating is a sport.,skating,sport,32,-35.9694881439209,-5.138498306274414,774031360,gpt2-large
+skindiving is a sport.,skindiving,sport,33,-46.13627099990845,-5.767033874988556,774031360,gpt2-large
+sailing is a sport.,sailing,sport,34,-35.49301719665527,-5.07043102809361,774031360,gpt2-large
+diving is a sport.,diving,sport,35,-35.234046459198,-5.033435208456857,774031360,gpt2-large
+archery is a sport.,archery,sport,36,-39.987202167510986,-5.712457452501569,774031360,gpt2-large
+judo is a sport.,judo,sport,37,-37.017433643341064,-5.2882048061915805,774031360,gpt2-large
+car racing is a sport.,car racing,sport,38,-36.77064752578735,-5.25294964654105,774031360,gpt2-large
+ping pong is a sport.,ping pong,sport,39,-37.136301040649414,-4.642037630081177,774031360,gpt2-large
+rowing is a sport.,rowing,sport,40,-38.392269134521484,-6.398711522420247,774031360,gpt2-large
+fishing is a sport.,fishing,sport,41,-34.7558650970459,-4.965123585292271,774031360,gpt2-large
+horseback riding is a sport.,horseback riding,sport,42,-36.36353778839111,-4.545442223548889,774031360,gpt2-large
+running is a sport.,running,sport,43,-34.481836795806885,-5.7469727993011475,774031360,gpt2-large
+horse racing is a sport.,horse racing,sport,44,-38.67958688735962,-5.525655269622803,774031360,gpt2-large
+hiking is a sport.,hiking,sport,45,-35.73817491531372,-5.105453559330532,774031360,gpt2-large
+weight lifting is a sport.,weight lifting,sport,46,-38.01880359649658,-5.4312576566423685,774031360,gpt2-large
+croquet is a sport.,croquet,sport,47,-36.612361907958984,-5.230337415422712,774031360,gpt2-large
+horseshoes is a sport.,horseshoes,sport,48,-40.87544918060303,-4.541716575622559,774031360,gpt2-large
+boating is a sport.,boating,sport,49,-35.65999984741211,-5.0942856924874445,774031360,gpt2-large
+pool is a sport.,pool,sport,50,-40.45731258392334,-6.74288543065389,774031360,gpt2-large
+billiards is a sport.,billiards,sport,51,-37.23623514175415,-4.654529392719269,774031360,gpt2-large
+hunting is a sport.,hunting,sport,52,-35.54623031616211,-5.078032902308872,774031360,gpt2-large
+jump rope is a sport.,jump rope,sport,53,-39.30067014694214,-5.6143814495631625,774031360,gpt2-large
+camping is a sport.,camping,sport,54,-38.88574981689453,-5.555107116699219,774031360,gpt2-large
+chess is a sport.,chess,sport,55,-34.05685806274414,-4.865265437534878,774031360,gpt2-large
+dancing is a sport.,dancing,sport,56,-33.98501205444336,-4.855001722063337,774031360,gpt2-large
+checkers is a sport.,checkers,sport,57,-41.91040086746216,-5.987200123923166,774031360,gpt2-large
+cards is a sport.,cards,sport,58,-40.85307455062866,-6.80884575843811,774031360,gpt2-large
+sunbathing is a sport.,sunbathing,sport,59,-40.61479187011719,-5.076848983764648,774031360,gpt2-large
+pea is a vegetable.,pea,vegetable,1,-35.01460266113281,-5.002086094447544,774031360,gpt2-large
+carrot is a vegetable.,carrot,vegetable,2,-36.621418476104736,-5.231631210872105,774031360,gpt2-large
+green beans are vegetables.,green beans,vegetable,3,-37.773908615112305,-6.295651435852051,774031360,gpt2-large
+string beans are vegetables.,string beans,vegetable,4,-45.21367311477661,-7.535612185796102,774031360,gpt2-large
+spinach is a vegetable.,spinach,vegetable,5,-37.108802318573,-5.301257474081857,774031360,gpt2-large
+broccoli is a vegetable.,broccoli,vegetable,6,-33.00217962265015,-4.714597088950021,774031360,gpt2-large
+asparagus are vegetables.,asparagus,vegetable,7,-37.010345458984375,-5.287192208426339,774031360,gpt2-large
+corn is a vegetable.,corn,vegetable,8,-35.38416290283203,-5.897360483805339,774031360,gpt2-large
+cauliflower is a vegetable.,cauliflower,vegetable,9,-35.52678108215332,-4.440847635269165,774031360,gpt2-large
+brussels sprouts are vegetables.,brussels sprouts,vegetable,10,-36.952980041503906,-4.105886671278212,774031360,gpt2-large
+squash is a vegetable.,squash,vegetable,12,-34.91494417190552,-4.987849167415074,774031360,gpt2-large
+lettuce is a vegetable.,lettuce,vegetable,13,-31.986226558685303,-4.569460936955044,774031360,gpt2-large
+celery is a vegetable.,celery,vegetable,14,-37.57318067550659,-5.367597239358084,774031360,gpt2-large
+cucumber is a vegetable.,cucumber,vegetable,15,-34.50458765029907,-4.313073456287384,774031360,gpt2-large
+beets are vegetables.,beets,vegetable,16,-34.2552056312561,-5.709200938542684,774031360,gpt2-large
+greens are vegetables.,greens,vegetable,17,-39.55634260177612,-6.5927237669626875,774031360,gpt2-large
+tomato is a vegetable.,tomato,vegetable,18,-34.26478290557861,-4.8949689865112305,774031360,gpt2-large
+lima beans are vegetables.,lima beans,vegetable,19,-44.84673070907593,-6.406675815582275,774031360,gpt2-large
+artichoke is a vegetable.,artichokes,vegetable,20,-36.69063329696655,-4.586329162120819,774031360,gpt2-large
+turnip is a vegetable.,turnip,vegetable,21,-36.74126720428467,-5.248752457754953,774031360,gpt2-large
+eggplant is a vegetable.,eggplant,vegetable,22,-32.6018271446228,-4.657403877803257,774031360,gpt2-large
+romaine is a vegetable.,romaine,vegetable,23,-38.8757004737854,-5.553671496255057,774031360,gpt2-large
+green peppers are vegetables.,green peppers,vegetable,24,-40.035722732543945,-6.672620455423991,774031360,gpt2-large
+okra is a vegetable.,okra,vegetable,25,-38.368441104888916,-5.481205872126988,774031360,gpt2-large
+radish is a vegetable.,radishes,vegetable,26,-36.38780641555786,-5.198258059365409,774031360,gpt2-large
+onion is a vegetable.,onions,vegetable,27,-39.30232381820679,-5.614617688315255,774031360,gpt2-large
+beans are vegetables.,bean,vegetable,28,-36.8552303314209,-7.37104606628418,774031360,gpt2-large
+green onion is a vegetable.,green onion,vegetable,29,-37.09496879577637,-5.299281256539481,774031360,gpt2-large
+potatoes are vegetables.,potato,vegetable,30,-34.21701145172119,-5.702835241953532,774031360,gpt2-large
+parsnip is a vegetable.,parsnip,vegetable,31,-45.130900859832764,-5.014544539981419,774031360,gpt2-large
+turnip greens are vegetables.,turnip greens,vegetable,32,-43.211814403533936,-6.173116343361991,774031360,gpt2-large
+collard is a vegetable.,collard,vegetable,33,-39.962058544158936,-5.7088655063084195,774031360,gpt2-large
+wax beans are vegetables.,wax beans,vegetable,34,-46.089510917663574,-6.584215845380511,774031360,gpt2-large
+watercress is a vegetable.,watercress,vegetable,35,-38.0181040763855,-4.752263009548187,774031360,gpt2-large
+black eyed peas are vegetables.,black eyed peas,vegetable,36,-42.35688924789429,-6.050984178270612,774031360,gpt2-large
+leek is a vegetable.,leek,vegetable,37,-36.116918087005615,-5.159559726715088,774031360,gpt2-large
+peppers are vegetables.,peppers,vegetable,38,-37.35997295379639,-6.2266621589660645,774031360,gpt2-large
+sweet potatoes are a vegetables.,sweet potato,vegetable,39,-41.83311223983765,-5.976158891405378,774031360,gpt2-large
+yam is a vegetable.,yams,vegetable,40,-41.7659797668457,-5.966568538120815,774031360,gpt2-large
+parsley is a vegetable.,parsley,vegetable,41,-41.15720081329346,-5.144650101661682,774031360,gpt2-large
+endive is a vegetable.,endive,vegetable,42,-37.4097466468811,-5.3442495209830145,774031360,gpt2-large
+rutabaga is a vegetable.,rutabaga,vegetable,43,-37.6519889831543,-4.183554331461589,774031360,gpt2-large
+mushroom is a vegetable.,mushroom,vegetable,44,-38.01797914505005,-4.752247393131256,774031360,gpt2-large
+avocado is a vegetable.,avocado,vegetable,45,-34.882182598114014,-4.983168942587716,774031360,gpt2-large
+rhubarb is a vegetable.,rhubarb,vegetable,46,-37.969887256622314,-4.746235907077789,774031360,gpt2-large
+kale is a vegetable.,kale,vegetable,47,-37.731961727142334,-5.390280246734619,774031360,gpt2-large
+escarole is a vegetable.,escarole,vegetable,48,-51.64348602294922,-6.455435752868652,774031360,gpt2-large
+sauerkraut is a vegetable.,sauerkraut,vegetable,49,-37.93179368972778,-3.7931793689727784,774031360,gpt2-large
+pickles are vegetables.,pickles,vegetable,50,-35.21266508102417,-5.868777513504028,774031360,gpt2-large
+baked beans are vegetables.,baked beans,vegetable,51,-40.40836429595947,-5.772623470851353,774031360,gpt2-large
+pumpkin is a vegetable.,pumpkin,vegetable,52,-34.84983587265015,-4.356229484081268,774031360,gpt2-large
+seaweed is a vegetable.,seaweed,vegetable,53,-36.49236345291138,-4.561545431613922,774031360,gpt2-large
+garlic is a vegetable.,garlic,vegetable,54,-33.948923110961914,-4.849846158708845,774031360,gpt2-large
+dandelion is a vegetable.,dandelion,vegetable,55,-36.925617694854736,-4.615702211856842,774031360,gpt2-large
+peanut is a vegetable.,peanut,vegetable,56,-37.306756019592285,-5.329536574227469,774031360,gpt2-large
+rice is a vegetable.,rice,vegetable,57,-33.562289237976074,-5.593714872996013,774031360,gpt2-large
+saw is a tool.,saw,tool,1,-38.72788143157959,-6.454646905263265,774031360,gpt2-large
+hammer is a tool.,hammer,tool,2,-36.076711654663086,-6.012785275777181,774031360,gpt2-large
+ruler is a tool.,ruler,tool,3,-38.334758281707764,-5.476394040243966,774031360,gpt2-large
+screwdriver is a tool.,screwdriver,tool,4,-37.218154430389404,-4.6522693037986755,774031360,gpt2-large
+drill is a tool.,drill,tool,5,-37.516321659088135,-5.3594745227268765,774031360,gpt2-large
+nails are tools.,nails,tool,6,-38.39154767990112,-6.3985912799835205,774031360,gpt2-large
+tape measure is a tool.,tape measure,tool,7,-41.74729585647583,-5.218411982059479,774031360,gpt2-large
+sawhorse is a tool.,sawhorse,tool,8,-45.478519439697266,-6.4969313485281805,774031360,gpt2-large
+sandpaper is a tool.,sandpaper,tool,9,-41.26421117782593,-5.89488731111799,774031360,gpt2-large
+sander is a tool.,sander,tool,10,-39.886048793792725,-5.698006970541818,774031360,gpt2-large
+a level is a tool.,level,tool,11,-41.18409824371338,-5.883442606244769,774031360,gpt2-large
+a plane is a tool.,plane,tool,12,-36.64044809341431,-5.234349727630615,774031360,gpt2-large
+a file is a tool.,file,tool,13,-39.47943925857544,-5.6399198940822055,774031360,gpt2-large
+a toolbox is a tool.,toolbox,tool,14,-37.53423070907593,-4.691778838634491,774031360,gpt2-large
+a T-square is a tool.,T-square,tool,15,-44.505871295928955,-4.9450968106587725,774031360,gpt2-large
+a chisel is a tool.,chisel,tool,16,-37.20442819595337,-4.650553524494171,774031360,gpt2-large
+a rasp is a tool.,rasp,tool,17,-42.72408723831177,-5.340510904788971,774031360,gpt2-large
+a pencil is a tool.,pencil,tool,18,-36.22235631942749,-5.174622331346784,774031360,gpt2-large
+a hacksaw is a tool.,hacksaw,tool,19,-39.71016025543213,-4.963770031929016,774031360,gpt2-large
+a square is a tool.,square,tool,20,-38.20314359664917,-5.4575919423784525,774031360,gpt2-large
+a bench is a tool.,bench,tool,21,-38.75921106338501,-5.537030151912144,774031360,gpt2-large
+pliers is a tool.,pliers,tool,22,-38.345876693725586,-5.477982384817941,774031360,gpt2-large
+a wrench is a tool.,wrench,tool,23,-34.55446195602417,-4.9363517080034525,774031360,gpt2-large
+a ladder is a tool.,ladder,tool,24,-38.15551137924194,-5.450787339891706,774031360,gpt2-large
+a lathe is a tool.,lathe,tool,25,-39.484363079071045,-4.935545384883881,774031360,gpt2-large
+a vise is a tool.,vise,tool,26,-38.96059322357178,-4.870074152946472,774031360,gpt2-large
+screw is a tool.,screws,tool,27,-39.36289930343628,-5.623271329062326,774031360,gpt2-large
+wood is a tool.,wood,tool,28,-37.16058874130249,-6.193431456883748,774031360,gpt2-large
+a wedge is a tool.,wedge,tool,29,-36.42793035507202,-5.203990050724575,774031360,gpt2-large
+lumber is a tool.,lumber,tool,30,-41.235777854919434,-5.890825407845633,774031360,gpt2-large
+blueprints are tools.,blueprints,tool,31,-39.547611236572266,-6.591268539428711,774031360,gpt2-large
+brace is a tool.,brace,tool,32,-38.289907932281494,-6.381651322046916,774031360,gpt2-large
+awl is a tool.,awl,tool,33,-39.187265396118164,-5.598180770874023,774031360,gpt2-large
+a crowbar is a tool.,crowbar,tool,34,-36.827589988708496,-4.603448748588562,774031360,gpt2-large
+a hinge is a tool.,hinge,tool,35,-42.39358711242676,-6.05622673034668,774031360,gpt2-large
+a miter box is a tool.,miter box,tool,36,-43.65102815628052,-4.850114239586724,774031360,gpt2-large
+a knife is a tool.,knife,tool,37,-32.987425804138184,-4.712489400591169,774031360,gpt2-large
+a chalk is a tool.,chalk,tool,38,-42.94450092315674,-6.1349287033081055,774031360,gpt2-large
+nuts are tools.,nuts,tool,39,-38.47282791137695,-7.6945655822753904,774031360,gpt2-large
+bolts are tools.,bolts,tool,40,-39.86205053329468,-6.643675088882446,774031360,gpt2-large
+a plumb line is a tool.,plumb line,tool,41,-43.293190002441406,-4.810354444715712,774031360,gpt2-large
+a brush is a tool.,brush,tool,42,-35.537575244903564,-5.076796463557652,774031360,gpt2-large
+a sledge hammer is a tool.,sledge hammer,tool,43,-39.21779489517212,-4.357532766130236,774031360,gpt2-large
+a glue is a tool.,glue,tool,44,-42.35253572463989,-6.050362246377127,774031360,gpt2-large
+a paintbrush is a tool.,paintbrush,tool,45,-37.723448276519775,-4.715431034564972,774031360,gpt2-large
+a varnish is a tool.,varnish,tool,46,-44.96255588531494,-4.995839542812771,774031360,gpt2-large
+an apron is a tool.,apron,tool,47,-41.592483043670654,-5.199060380458832,774031360,gpt2-large
+a stapler is a tool.,stapler,tool,48,-40.7135796546936,-4.523731072743733,774031360,gpt2-large
+an extension cord is a tool.,extension cord,tool,49,-47.13043260574341,-5.891304075717926,774031360,gpt2-large
+a soldering iron is a tool.,soldering iron,tool,50,-40.123863220214844,-4.458207024468316,774031360,gpt2-large
+a plaster is a tool.,plaster,tool,51,-44.12320327758789,-6.303314753941128,774031360,gpt2-large
+a wheelbarrow is a tool.,wheelbarrow,tool,52,-40.349963665008545,-4.4833292961120605,774031360,gpt2-large
+an axe is a tool.,axe,tool,53,-35.12065839767456,-5.017236913953509,774031360,gpt2-large
+a slide rule is a tool.,slide rule,tool,54,-40.28348922729492,-5.035436153411865,774031360,gpt2-large
+a cement is a tool.,cement,tool,55,-45.10148477554321,-6.44306925364903,774031360,gpt2-large
+an anvil is a tool.,anvil,tool,56,-37.49016809463501,-4.686271011829376,774031360,gpt2-large
+a hatchet is a tool.,hatchet,tool,57,-36.24134349822998,-4.530167937278748,774031360,gpt2-large
+rags are tools.,rags,tool,58,-38.54558706283569,-6.424264510472615,774031360,gpt2-large
+a scissors is a tool.,scissors,tool,59,-40.08270215988159,-5.726100308554513,774031360,gpt2-large
+a crane is a tool.,crane,tool,60,-38.48518705368042,-5.497883864811489,774031360,gpt2-large
+orange is a fruit.,orange,fruit,1,-36.76849031448364,-6.128081719080607,774031360,gpt2-large
+apple is a fruit.,apple,fruit,2,-35.56830406188965,-5.928050676981608,774031360,gpt2-large
+banana is a fruit.,banana,fruit,3,-33.73095464706421,-4.8187078067234586,774031360,gpt2-large
+peach is a fruit.,peach,fruit,4,-35.01105499267578,-5.001579284667969,774031360,gpt2-large
+pear is a fruit.,pear,fruit,5,-37.21142053604126,-5.315917219434466,774031360,gpt2-large
+apricot is a fruit.,apricot,fruit,6,-40.65390205383301,-5.081737756729126,774031360,gpt2-large
+tangerine is a fruit.,tangerine,fruit,7,-39.618653297424316,-4.9523316621780396,774031360,gpt2-large
+plum is a fruit.,plum,fruit,8,-38.6699857711792,-5.524283681597028,774031360,gpt2-large
+grapes are fruit.,grapes,fruit,9,-35.156532764434814,-5.022361823490688,774031360,gpt2-large
+nectarine is a fruit.,nectarine,fruit,10,-42.832072734832764,-6.1188675335475375,774031360,gpt2-large
+strawberry is a fruit.,strawberry,fruit,11,-36.16270160675049,-4.520337700843811,774031360,gpt2-large
+grapefruit is a fruit.,grapefruit,fruit,12,-33.28000593185425,-4.160000741481781,774031360,gpt2-large
+berry is a fruit.,berry,fruit,13,-35.581881046295166,-5.930313507715861,774031360,gpt2-large
+cherry is a fruit.,cherry,fruit,14,-35.08132791519165,-5.011618273598807,774031360,gpt2-large
+pineapple is a fruit.,pineapple,fruit,15,-34.44034194946289,-4.92004884992327,774031360,gpt2-large
+blackberry is a fruit.,blackberry,fruit,16,-40.035319805145264,-5.7193314007350375,774031360,gpt2-large
+melon is a fruit.,melon,fruit,17,-35.56886863708496,-5.928144772847493,774031360,gpt2-large
+blueberry is a fruit.,blueberry,fruit,18,-36.126381397247314,-5.160911628178188,774031360,gpt2-large
+raspberry is a fruit.,raspberry,fruit,19,-38.492656230926514,-5.498950890132359,774031360,gpt2-large
+lemon is a fruit.,lemon,fruit,20,-35.9420804977417,-5.134582928248814,774031360,gpt2-large
+black raspberry is a fruit.,black raspberry,fruit,21,-41.62561321258545,-5.946516173226493,774031360,gpt2-large
+boysenberry is a fruit.,boysenberry,fruit,22,-44.11600589752197,-5.514500737190247,774031360,gpt2-large
+watermelon is a fruit.,watermelon,fruit,23,-34.913803577423096,-4.987686225346157,774031360,gpt2-large
+cantaloupe is a fruit.,cantaloupe,fruit,24,-35.23719787597656,-3.5237197875976562,774031360,gpt2-large
+lime is a fruit.,lime,fruit,25,-39.50421762466431,-6.584036270777385,774031360,gpt2-large
+tangelo is a fruit.,tangelo,fruit,26,-44.364867210388184,-6.337838172912598,774031360,gpt2-large
+papaya is a fruit.,papaya,fruit,27,-38.39003944396973,-4.798754930496216,774031360,gpt2-large
+honeydew is a fruit.,honeydew,fruit,28,-39.23299694061279,-4.35922188229031,774031360,gpt2-large
+fig is a fruit.,fig,fruit,29,-39.47096061706543,-6.578493436177571,774031360,gpt2-large
+mango is a fruit.,mango,fruit,30,-38.9278450012207,-5.561120714460101,774031360,gpt2-large
+guava is a fruit.,guava,fruit,31,-35.305580139160156,-5.043654305594308,774031360,gpt2-large
+pomegranate is a fruit.,pomegranate,fruit,32,-38.26589632034302,-4.251766257815891,774031360,gpt2-large
+cranberry is a fruit.,cranberry,fruit,33,-36.31515884399414,-4.539394855499268,774031360,gpt2-large
+passion fruit is a fruit.,passion fruit,fruit,34,-41.2239933013916,-5.15299916267395,774031360,gpt2-large
+prunes are fruit.,prunes,fruit,35,-37.558669567108154,-6.259778261184692,774031360,gpt2-large
+gooseberry is a fruit.,gooseberry,fruit,36,-43.32188415527344,-5.41523551940918,774031360,gpt2-large
+date is a fruit.,date,fruit,37,-39.791205406188965,-6.631867567698161,774031360,gpt2-large
+kumquat is a fruit.,kumquat,fruit,38,-41.05917930603027,-4.562131034003364,774031360,gpt2-large
+raisin is a fruit.,raisin,fruit,39,-37.23003005981445,-5.318575722830636,774031360,gpt2-large
+muskmelon is a fruit.,muskmelon,fruit,40,-46.396202087402344,-5.155133565266927,774031360,gpt2-large
+persimmon is a fruit.,persimmon,fruit,41,-40.85069942474365,-5.1063374280929565,774031360,gpt2-large
+pawpaw is a fruit.,pawpaw,fruit,42,-46.064738750457764,-5.118304305606419,774031360,gpt2-large
+coconut is a fruit.,coconut,fruit,43,-35.324270725250244,-4.4155338406562805,774031360,gpt2-large
+avocado is a fruit.,avocado,fruit,44,-35.91272735595703,-5.1303896222795755,774031360,gpt2-large
+pumpkin is a fruit.,pumpkin,fruit,45,-36.83567190170288,-4.60445898771286,774031360,gpt2-large
+tomato is a fruit.,tomato,fruit,46,-35.52162408828735,-5.074517726898193,774031360,gpt2-large
+nut is a fruit.,nut,fruit,47,-38.57081842422485,-6.428469737370809,774031360,gpt2-large
+gourd is a fruit.,gourd,fruit,48,-36.928123474121094,-4.616015434265137,774031360,gpt2-large
+olive is a fruit.,olive,fruit,49,-38.45753574371338,-5.49393367767334,774031360,gpt2-large
+pickle is a fruit.,pickle,fruit,50,-36.15932846069336,-5.165618351527622,774031360,gpt2-large
+squash is a fruit.,squash,fruit,51,-35.922592639923096,-5.1317989485604425,774031360,gpt2-large
+pants are clothes.,pants,clothing,1,-37.69272470474243,-7.538544940948486,774031360,gpt2-large
+a shirt is a type of clothing.,shirt,clothing,2,-35.36164045333862,-3.929071161482069,774031360,gpt2-large
+dress is a type of clothing.,dress,clothing,3,-35.33440828323364,-4.416801035404205,774031360,gpt2-large
+a skirt is a type of clothing.,skirt,clothing,4,-36.56745767593384,-4.0630508528815374,774031360,gpt2-large
+a blouse is a type of clothing.,blouse,clothing,5,-38.502891540527344,-3.850289154052734,774031360,gpt2-large
+a suit is a type of clothing.,suit,clothing,6,-35.10965013504028,-3.901072237226698,774031360,gpt2-large
+slacks are clothes.,slacks,clothing,7,-39.44937038421631,-6.574895064036052,774031360,gpt2-large
+a jacket is a type of clothing.,jacket,clothing,8,-34.535582542419434,-3.837286949157715,774031360,gpt2-large
+a coat is a type of clothing.,coat,clothing,9,-36.75919771194458,-4.084355301327175,774031360,gpt2-large
+a sweater is a type of clothing.,sweater,clothing,10,-35.541043758392334,-3.9490048620435925,774031360,gpt2-large
+a sweatshirt is a type of clothing.,sweatshirt,clothing,11,-38.2321081161499,-3.8232108116149903,774031360,gpt2-large
+underpants are clothes.,underpants,clothing,12,-38.91136932373047,-6.485228220621745,774031360,gpt2-large
+a sports jacket is a type of clothing.,sports jacket,clothing,13,-41.85958290100098,-4.185958290100098,774031360,gpt2-large
+a jumper is a type of clothing.,jumper,clothing,14,-37.819976806640625,-4.202219645182292,774031360,gpt2-large
+panties are clothes.,panties,clothing,15,-40.46831941604614,-5.781188488006592,774031360,gpt2-large
+socks are clothes.,socks,clothing,16,-36.34833908081055,-6.058056513468425,774031360,gpt2-large
+a parka is a type of clothing.,parka,clothing,17,-38.24102449417114,-3.824102449417114,774031360,gpt2-large
+pajamas are clothes.,pajamas,clothing,18,-39.60760450363159,-5.658229214804513,774031360,gpt2-large
+an undershirt is a type of clothing.,undershirt,clothing,19,-41.727922439575195,-4.172792243957519,774031360,gpt2-large
+an overcoat is a type of clothing.,overcoat,clothing,20,-39.40893363952637,-3.940893363952637,774031360,gpt2-large
+a nightgown is a type of clothing.,nightgown,clothing,21,-40.68495750427246,-3.6986325003884057,774031360,gpt2-large
+a raincoat is a type of clothing.,raincoat,clothing,22,-36.685189723968506,-3.6685189723968508,774031360,gpt2-large
+a bathing suit is a type of clothing.,bathing suit,clothing,23,-37.82142210006714,-3.7821422100067137,774031360,gpt2-large
+a bathrobe is a type of clothing.,bathrobe,clothing,24,-37.17932605743408,-3.717932605743408,774031360,gpt2-large
+a slip is a type of clothing.,slip,clothing,25,-44.228745460510254,-4.914305051167806,774031360,gpt2-large
+a bra is a type of clothing.,bra,clothing,26,-36.1360878944397,-4.0151208771599665,774031360,gpt2-large
+shoes are clothes.,shoes,clothing,27,-37.31862545013428,-6.219770908355713,774031360,gpt2-large
+a tuxedo is a type of clothing.,tuxedo,clothing,28,-38.82734727859497,-3.529758843508634,774031360,gpt2-large
+stockings are clothes.,stockings,clothing,29,-41.08020734786987,-6.8467012246449785,774031360,gpt2-large
+a vest is a type of clothing.,vest,clothing,30,-35.37174320220947,-3.930193689134386,774031360,gpt2-large
+nylons are clothes.,nylons,clothing,31,-42.09431791305542,-6.013473987579346,774031360,gpt2-large
+a cape is a type of clothing.,cape,clothing,32,-36.27993822097778,-4.0311042467753095,774031360,gpt2-large
+boots are clothes.,boots,clothing,33,-37.47672986984253,-6.246121644973755,774031360,gpt2-large
+sandals are clothes.,sandals,clothing,34,-40.6596302986145,-6.776605049769084,774031360,gpt2-large
+a tie is a type of clothing.,tie,clothing,35,-42.962730407714844,-4.773636711968316,774031360,gpt2-large
+a girdle is a type of clothing.,girdle,clothing,36,-41.84246206283569,-3.8038601875305176,774031360,gpt2-large
+a belt is a type of clothing.,belt,clothing,37,-37.191171169281006,-4.132352352142334,774031360,gpt2-large
+a scarf is a type of clothing.,scarf,clothing,38,-36.85729265213013,-4.095254739125569,774031360,gpt2-large
+mittens are clothes.,mittens,clothing,39,-44.41212463378906,-7.402020772298177,774031360,gpt2-large
+slippers are clothes.,slippers,clothing,40,-41.42068386077881,-6.903447310129802,774031360,gpt2-large
+a hat is a type of clothing.,hat,clothing,41,-35.291672229766846,-3.9212969144185386,774031360,gpt2-large
+overshoes are clothes.,overshoes,clothing,42,-50.4847617149353,-7.212108816419329,774031360,gpt2-large
+gloves are clothes.,gloves,clothing,43,-37.89171886444092,-6.315286477406819,774031360,gpt2-large
+an apron is a type of clothing.,apron,clothing,44,-38.607994079589844,-3.8607994079589845,774031360,gpt2-large
+earmuffs are clothes.,earmuffs,clothing,45,-44.2063422203064,-6.315191745758057,774031360,gpt2-large
+a handkerchief is a type of clothing.,handkerchief,clothing,46,-39.1084041595459,-3.555309469049627,774031360,gpt2-large
+a purse is a type of clothing.,purse,clothing,47,-39.84939241409302,-4.427710268232557,774031360,gpt2-large
+a hairband is a type of clothing.,hairband,clothing,48,-44.773056507110596,-4.47730565071106,774031360,gpt2-large
+a ring is a type of clothing.,ring,clothing,49,-40.2207236289978,-4.468969292110867,774031360,gpt2-large
+en arring is a type of clothing.,earrings,clothing,50,-62.544766902923584,-6.254476690292359,774031360,gpt2-large
+a watch is a type of clothing.,watch,clothing,51,-41.523324966430664,-4.613702774047852,774031360,gpt2-large
+cuff links are clothes.,cuff links,clothing,52,-47.75856924057007,-6.8226527486528665,774031360,gpt2-large
+a necklace is a type of clothing.,necklace,clothing,53,-38.93371820449829,-4.325968689388699,774031360,gpt2-large
+a bracelet is a type of clothing.,bracelet,clothing,54,-40.218810081481934,-4.468756675720215,774031360,gpt2-large
+a cane is a type of clothing.,cane,clothing,55,-45.12948274612427,-5.014386971791585,774031360,gpt2-large
+an automobile is a vehicle.,automobile,vehicle,1,-36.03169536590576,-5.147385052272251,774031360,gpt2-large
+a station wagon is a vehicle.,station wagon,vehicle,2,-38.47068691253662,-4.808835864067078,774031360,gpt2-large
+a truck is a vehicle.,truck,vehicle,3,-34.61623430252075,-4.945176328931536,774031360,gpt2-large
+a car is a vehicle.,car,vehicle,4,-31.35342311859131,-4.479060445513044,774031360,gpt2-large
+bus are vehicles.,bus,vehicle,5,-39.570531368255615,-7.914106273651123,774031360,gpt2-large
+a taxi is a vehicle.,taxi,vehicle,6,-36.8160982131958,-5.259442601885114,774031360,gpt2-large
+a jeep is a vehicle.,jeep,vehicle,7,-36.69929647445679,-4.587412059307098,774031360,gpt2-large
+an ambulance is a vehicle.,ambulance,vehicle,8,-36.58799600601196,-5.226856572287423,774031360,gpt2-large
+a motorcycle is a vehicle.,motorcycle,vehicle,9,-34.948946475982666,-4.992706639426095,774031360,gpt2-large
+a streetcar is a vehicle.,streetcar,vehicle,10,-37.34288549423218,-5.334697927747454,774031360,gpt2-large
+a van is a vehicle.,van,vehicle,11,-35.21979331970215,-5.031399045671735,774031360,gpt2-large
+a Honda is a vehicle.,Honda,vehicle,12,-38.592365741729736,-5.513195105961391,774031360,gpt2-large
+a cable car is a vehicle.,cable car,vehicle,13,-41.73979997634888,-5.21747499704361,774031360,gpt2-large
+a train is a vehicle.,train,vehicle,14,-36.82487630844116,-5.260696615491595,774031360,gpt2-large
+a trolley is a vehicle.,trolley,vehicle,15,-38.606725215911865,-4.825840651988983,774031360,gpt2-large
+a bicycle is a vehicle.,bicycle,vehicle,16,-32.91651010513306,-4.70235858644758,774031360,gpt2-large
+a carriage is a vehicle.,carriage,vehicle,17,-36.381492137908936,-5.197356019701276,774031360,gpt2-large
+an airplane is a vehicle.,airplane,vehicle,18,-35.389784812927246,-5.055683544703892,774031360,gpt2-large
+a bike is a vehicle.,bike,vehicle,19,-33.475072383880615,-4.782153197697231,774031360,gpt2-large
+a boat is a vehicle.,boat,vehicle,20,-33.93705463409424,-4.848150662013462,774031360,gpt2-large
+a jet is a vehicle.,jet,vehicle,21,-38.230841636657715,-5.461548805236816,774031360,gpt2-large
+a ship is a vehicle.,ship,vehicle,22,-34.782949447631836,-4.96899277823312,774031360,gpt2-large
+a scooter is a vehicle.,scooter,vehicle,23,-38.65040302276611,-4.831300377845764,774031360,gpt2-large
+a tractor is a vehicle.,tractor,vehicle,24,-37.41698169708252,-5.3452830995832175,774031360,gpt2-large
+a wagon is a vehicle.,wagon,vehicle,25,-36.959824562072754,-5.279974937438965,774031360,gpt2-large
+a subway is a vehicle.,subway,vehicle,26,-40.806822776794434,-5.829546110970633,774031360,gpt2-large
+a trailer is a vehicle.,trailer,vehicle,27,-39.422964572906494,-5.6318520818437845,774031360,gpt2-large
+a cart is a vehicle.,cart,vehicle,28,-36.30600881576538,-5.186572687966483,774031360,gpt2-large
+a wheelchair is a vehicle.,wheelchair,vehicle,29,-38.78183650970459,-5.540262358529227,774031360,gpt2-large
+a yacht is a vehicle.,yacht,vehicle,30,-37.12237787246704,-5.303196838923863,774031360,gpt2-large
+a tank is a vehicle.,tank,vehicle,31,-34.58912515640259,-4.941303593771798,774031360,gpt2-large
+a go-cart is a vehicle.,go-cart,vehicle,32,-40.302435874938965,-4.478048430548774,774031360,gpt2-large
+a rowboat is a vehicle.,rowboat,vehicle,33,-40.86830186843872,-5.10853773355484,774031360,gpt2-large
+a dogsled is a vehicle.,dogsled,vehicle,34,-41.992854595184326,-5.249106824398041,774031360,gpt2-large
+a tricycle is a vehicle.,tricycle,vehicle,35,-39.518776416778564,-4.939847052097321,774031360,gpt2-large
+a canoe is a vehicle.,canoe,vehicle,36,-36.62024211883545,-5.231463159833636,774031360,gpt2-large
+a raft is a vehicle.,raft,vehicle,37,-41.16606044769287,-5.880865778241839,774031360,gpt2-large
+a submarine is a vehicle.,submarine,vehicle,38,-37.81502819061279,-5.4021468843732565,774031360,gpt2-large
+a sled is a vehicle.,sled,vehicle,39,-38.00458097457886,-5.429225853511265,774031360,gpt2-large
+a horse is a vehicle.,horse,vehicle,40,-33.47698974609375,-4.782427106584821,774031360,gpt2-large
+a rocket is a vehicle.,rocket,vehicle,41,-37.7604603767395,-5.394351482391357,774031360,gpt2-large
+a blimp is a vehicle.,blimp,vehicle,42,-40.72161245346069,-5.090201556682587,774031360,gpt2-large
+skates are vehicles.,skates,vehicle,43,-42.914031982421875,-7.1523386637369795,774031360,gpt2-large
+a camel is a vehicle.,camel,vehicle,44,-35.64636707305908,-5.092338153294155,774031360,gpt2-large
+feet are vehicles.,feet,vehicle,45,-40.91171073913574,-8.182342147827148,774031360,gpt2-large
+ski is a vehicle.,skis,vehicle,46,-40.85100603103638,-6.8085010051727295,774031360,gpt2-large
+a skateboard is a vehicle.,skateboard,vehicle,47,-38.63233232498169,-4.829041540622711,774031360,gpt2-large
+a wheelbarrow is a vehicle.,wheelbarrow,vehicle,48,-39.68388223648071,-4.409320248497857,774031360,gpt2-large
+a surfboard is a vehicle.,surfboard,vehicle,49,-39.90188550949097,-4.987735688686371,774031360,gpt2-large
+an elevator is a vehicle.,elevator,vehicle,50,-40.39469814300537,-5.770671163286481,774031360,gpt2-large
+a chair is a type of furniture.,chair,furniture,1,-34.28994274139404,-3.8099936379326715,774031360,gpt2-large
+a sofa is a type of furniture.,sofa,furniture,2,-36.51825714111328,-4.057584126790364,774031360,gpt2-large
+a couch is a type of furniture.,couch,furniture,3,-35.99391269683838,-3.9993236329820423,774031360,gpt2-large
+a table is a type of furniture.,table,furniture,4,-37.93514347076416,-4.215015941196018,774031360,gpt2-large
+an easy chair is a type of furniture.,easy chair,furniture,5,-46.86395025253296,-4.6863950252532955,774031360,gpt2-large
+a dresser is a type of furniture.,dresser,furniture,6,-37.57293224334717,-3.757293224334717,774031360,gpt2-large
+a rocking chair is a type of furniture.,rocking chair,furniture,7,-39.225300788879395,-3.9225300788879394,774031360,gpt2-large
+a coffee table is a type of furniture.,coffee table,furniture,8,-39.01780366897583,-3.901780366897583,774031360,gpt2-large
+a rocker is a type of furniture.,rocker,furniture,9,-41.49769830703735,-4.149769830703735,774031360,gpt2-large
+a love seat is a type of furniture.,love seat,furniture,10,-44.70510292053223,-4.4705102920532225,774031360,gpt2-large
+a chest of drawers is a type of furniture.,chest of drawers,furniture,11,-42.81183052062988,-3.5676525433858237,774031360,gpt2-large
+a desk is a type of furniture.,desk,furniture,12,-37.90496873855591,-4.211663193172878,774031360,gpt2-large
+a bed is a type of furniture.,bed,furniture,13,-35.732707023620605,-3.9703007804022894,774031360,gpt2-large
+a bureau is a type of furniture.,bureau,furniture,14,-45.02600717544556,-5.002889686160618,774031360,gpt2-large
+a davenport is a type of furniture.,davenport,furniture,15,-49.91107988357544,-4.537370898506858,774031360,gpt2-large
+an end table is a type of furniture.,end table,furniture,16,-46.09268808364868,-4.6092688083648685,774031360,gpt2-large
+a divan is a type of furniture.,divan,furniture,17,-42.21182823181152,-4.221182823181152,774031360,gpt2-large
+a night table is a type of furniture.,night table,furniture,18,-44.44572687149048,-4.444572687149048,774031360,gpt2-large
+a chest is a type of furniture.,chest,furniture,19,-39.7831506729126,-4.420350074768066,774031360,gpt2-large
+a cedar chest is a type of furniture.,cedar chest,furniture,20,-43.3855357170105,-3.944139610637318,774031360,gpt2-large
+a vanity is a type of furniture.,vanity,furniture,21,-43.458799839019775,-4.828755537668864,774031360,gpt2-large
+a bookcase is a type of furniture.,bookcase,furniture,22,-40.82584238052368,-4.082584238052368,774031360,gpt2-large
+a lounge is a type of furniture.,lounge,furniture,23,-42.05858516693115,-4.673176129659017,774031360,gpt2-large
+a chaise lounge is a type of furniture.,chaise lounge,furniture,24,-43.15942907333374,-3.923584461212158,774031360,gpt2-large
+an ottoman is a type of furniture.,ottoman,furniture,25,-38.299742221832275,-3.481794747439298,774031360,gpt2-large
+a footstool is a type of furniture.,footstool,furniture,26,-39.18207311630249,-3.56200664693659,774031360,gpt2-large
+a cabinet is a type of furniture.,cabinet,furniture,27,-37.83972501754761,-4.204413890838623,774031360,gpt2-large
+a china closet is a type of furniture.,china closet,furniture,28,-48.91690731048584,-4.446991573680531,774031360,gpt2-large
+a bench is a type of furniture.,bench,furniture,29,-40.30171489715576,-4.477968321906196,774031360,gpt2-large
+a buffet is a type of furniture.,buffet,furniture,30,-44.50997591018677,-4.945552878909641,774031360,gpt2-large
+a lamp is a type of furniture.,lamp,furniture,31,-39.30797815322876,-4.367553128136529,774031360,gpt2-large
+a stool is a type of furniture.,stool,furniture,32,-37.94722270965576,-4.21635807885064,774031360,gpt2-large
+a hassock is a type of furniture.,hassock,furniture,33,-49.700448989868164,-4.5182226354425605,774031360,gpt2-large
+drawers are furniture.,drawers,furniture,34,-39.0302791595459,-6.505046526590983,774031360,gpt2-large
+a piano is a type of furniture.,piano,furniture,35,-41.42469024658203,-4.602743360731337,774031360,gpt2-large
+a cushion is a type of furniture.,cushion,furniture,36,-39.35330533981323,-4.37258948220147,774031360,gpt2-large
+a magazine rack is a type of furniture.,magazine rack,furniture,37,-45.38477325439453,-4.5384773254394535,774031360,gpt2-large
+a hi-fi is a type of furniture.,hi-fi,furniture,38,-46.53156757354736,-4.230142506686124,774031360,gpt2-large
+a cupboard is a type of furniture.,cupboard,furniture,39,-43.285457611083984,-4.328545761108399,774031360,gpt2-large
+a stereo is a type of furniture.,stereo,furniture,40,-46.95186376571655,-5.2168737517462835,774031360,gpt2-large
+a mirror is a type of furniture.,mirror,furniture,41,-39.75514507293701,-4.417238341437446,774031360,gpt2-large
+a television is a type of furniture.,television,furniture,42,-42.743706703186035,-4.7493007447984485,774031360,gpt2-large
+a bar is a type of furniture.,bar,furniture,43,-39.788978576660156,-4.420997619628906,774031360,gpt2-large
+a shelf is a type of furniture.,shelf,furniture,44,-40.237754344940186,-4.470861593882243,774031360,gpt2-large
+a rug is a type of furniture.,rug,furniture,45,-37.632221698760986,-4.181357966528998,774031360,gpt2-large
+a pillow is a type of furniture.,pillow,furniture,46,-39.62239360809326,-4.402488178677029,774031360,gpt2-large
+a wastebasket is a type of furniture.,wastebasket,furniture,47,-45.988008975982666,-4.180728088725697,774031360,gpt2-large
+a radio is a type of furniture.,radio,furniture,48,-45.260478019714355,-5.028942002190484,774031360,gpt2-large
+a sewing machine is a type of furniture.,sewing machine,furniture,49,-43.33468437194824,-4.333468437194824,774031360,gpt2-large
+a stove is a type of furniture.,stove,furniture,50,-42.372458934783936,-4.708050992753771,774031360,gpt2-large
+a counter is a type of furniture.,counter,furniture,51,-44.16384220123291,-4.907093577914768,774031360,gpt2-large
+a clock is a type of furniture.,clock,furniture,52,-42.53544902801514,-4.726161003112793,774031360,gpt2-large
+drapes are furniture.,drapes,furniture,53,-41.014856815338135,-5.859265259334019,774031360,gpt2-large
+a refrigerator is a type of furniture.,refrigerator,furniture,54,-41.20727205276489,-4.578585783640544,774031360,gpt2-large
+a picture is a type of furniture.,picture,furniture,55,-44.92387342453003,-4.991541491614448,774031360,gpt2-large
+a closet is a type of furniture.,closet,furniture,56,-41.436973094940186,-4.604108121660021,774031360,gpt2-large
+a vase is a type of furniture.,vase,furniture,57,-40.0906867980957,-4.0090686798095705,774031360,gpt2-large
+an ashtray is a type of furniture.,ashtray,furniture,58,-42.06692409515381,-3.8242658268321645,774031360,gpt2-large
+a fan is a type of furniture.,fan,furniture,59,-40.93676233291626,-4.548529148101807,774031360,gpt2-large
+a telephone is a type of furniture.,telephone,furniture,60,-43.92397356033325,-4.880441506703694,774031360,gpt2-large
+a gun is a weapon.,gun,weapon,1,-30.69079351425171,-4.38439907346453,774031360,gpt2-large
+a pistol is a weapon.,pistol,weapon,2,-33.24268674850464,-4.748955249786377,774031360,gpt2-large
+a revolver is a weapon.,revolver,weapon,3,-34.495004177093506,-4.927857739584787,774031360,gpt2-large
+a machine gun is a weapon.,machine gun,weapon,4,-34.769145011901855,-4.346143126487732,774031360,gpt2-large
+a rifle is a weapon.,rifle,weapon,5,-32.166192054748535,-4.595170293535505,774031360,gpt2-large
+a switchblade is a weapon.,switchblade,weapon,6,-40.07056474685669,-5.008820593357086,774031360,gpt2-large
+a knife is a weapon.,knife,weapon,7,-32.47478103637695,-4.639254433768136,774031360,gpt2-large
+a dagger is a weapon.,dagger,weapon,8,-33.63431262969971,-4.8049018042428155,774031360,gpt2-large
+a shotgun is a weapon.,shotgun,weapon,9,-34.393877029418945,-4.913411004202707,774031360,gpt2-large
+a sword is a weapon.,sword,weapon,10,-32.08894491195679,-4.584134987422398,774031360,gpt2-large
+a bomb is a weapon.,bomb,weapon,11,-33.786585330963135,-4.826655047280448,774031360,gpt2-large
+a hand grenade is a weapon.,hand grenade,weapon,12,-36.46285057067871,-4.557856321334839,774031360,gpt2-large
+an atom bomb is a weapon.,atom bomb,weapon,13,-37.16473340988159,-4.645591676235199,774031360,gpt2-large
+a bayonet is a weapon.,bayonet,weapon,14,-35.31922388076782,-4.414902985095978,774031360,gpt2-large
+a spear is a weapon.,spear,weapon,15,-33.59263849258423,-4.798948356083462,774031360,gpt2-large
+a bazooka is a weapon.,bazooka,weapon,16,-34.00340461730957,-3.400340461730957,774031360,gpt2-large
+a cannon is a weapon.,cannon,weapon,17,-35.732051849365234,-5.104578835623605,774031360,gpt2-large
+a bow and arrow is a weapon.,bow and arrow,weapon,18,-34.41182327270508,-3.823535919189453,774031360,gpt2-large
+a club is a weapon.,club,weapon,19,-40.64289379119873,-5.806127684456961,774031360,gpt2-large
+a lance is a weapon.,lance,weapon,20,-37.077728271484375,-4.634716033935547,774031360,gpt2-large
+brass knuckles are weapons.,brass knuckles,weapon,21,-41.44290828704834,-5.1803635358810425,774031360,gpt2-large
+a bullet is a weapon.,bullet,weapon,22,-34.482439041137695,-4.926062720162528,774031360,gpt2-large
+a tomahawk is a weapon.,tomahawk,weapon,23,-37.39721155166626,-4.155245727962917,774031360,gpt2-large
+a mortar is a weapon.,mortar,weapon,24,-37.892756938934326,-5.413250991276333,774031360,gpt2-large
+an arrow is a weapon.,arrow,weapon,25,-33.00278568267822,-4.714683668954032,774031360,gpt2-large
+a blackjack is a weapon.,blackjack,weapon,26,-45.17410612106323,-5.646763265132904,774031360,gpt2-large
+a tank is a weapon.,tank,weapon,27,-36.1883659362793,-5.169766562325614,774031360,gpt2-large
+teargas is a weapon.,teargas,weapon,28,-38.51206922531128,-4.81400865316391,774031360,gpt2-large
+a missile is a weapon.,missile,weapon,29,-34.92449140548706,-4.989213057926723,774031360,gpt2-large
+a whip is a weapon.,whip,weapon,30,-35.237398624420166,-5.033914089202881,774031360,gpt2-large
+an ice pick is a weapon.,ice pick,weapon,31,-37.96994400024414,-4.746243000030518,774031360,gpt2-large
+a hatchet is a weapon.,hatchet,weapon,32,-34.26584768295288,-4.28323096036911,774031360,gpt2-large
+a slingshot is a weapon.,slingshot,weapon,33,-36.95425319671631,-4.106028132968479,774031360,gpt2-large
+a fist is a weapon.,fist,weapon,34,-35.49617147445679,-5.070881639208112,774031360,gpt2-large
+an axe is a weapon.,axe,weapon,35,-33.071659564971924,-4.724522794995989,774031360,gpt2-large
+a bow is a weapon.,bow,weapon,36,-33.567503452301025,-4.795357636043003,774031360,gpt2-large
+a razor is a weapon.,razor,weapon,37,-36.27727031707764,-5.182467188153948,774031360,gpt2-large
+a razor blade is a weapon.,razor blade,weapon,38,-36.942519664764404,-4.6178149580955505,774031360,gpt2-large
+a rocket is a weapon.,rocket,weapon,39,-35.567737102508545,-5.081105300358364,774031360,gpt2-large
+a judo is a weapon.,judo,weapon,40,-42.22325658798218,-5.277907073497772,774031360,gpt2-large
+a stick is a weapon.,stick,weapon,41,-33.88796424865723,-4.841137749808175,774031360,gpt2-large
+a poison is a weapon.,poison,weapon,42,-36.00477123260498,-5.143538747514997,774031360,gpt2-large
+a rock is a weapon.,rock,weapon,43,-38.259653091430664,-5.465664727347238,774031360,gpt2-large
+a stone is a weapon.,stone,weapon,44,-36.18237590789795,-5.168910843985421,774031360,gpt2-large
+gas is a weapon.,gas,weapon,45,-37.204482078552246,-6.200747013092041,774031360,gpt2-large
+a chain is a weapon.,chain,weapon,46,-38.63076734542847,-5.518681049346924,774031360,gpt2-large
+a scissors is a weapon.,scissors,weapon,47,-39.46093702316284,-5.637276717594692,774031360,gpt2-large
+a brick is a weapon.,bricks,weapon,48,-39.00832939147949,-5.57261848449707,774031360,gpt2-large
+a pitchfork is a weapon.,pitchfork,weapon,49,-35.02065134048462,-4.377581417560577,774031360,gpt2-large
+a hammer is a weapon.,hammer,weapon,50,-33.26050281524658,-4.751500402178083,774031360,gpt2-large
+words are weapons.,word,weapon,51,-37.50183343887329,-7.500366687774658,774031360,gpt2-large
+hands are weapons.,hand,weapon,52,-38.31018018722534,-7.662036037445068,774031360,gpt2-large
+a pipe is a weapon.,pipe,weapon,53,-37.377540588378906,-5.3396486554827005,774031360,gpt2-large
+a rope is a weapon.,rope,weapon,54,-37.85867166519165,-5.40838166645595,774031360,gpt2-large
+an airplane is a weapon.,airplane,weapon,55,-37.20956563949585,-5.315652234213693,774031360,gpt2-large
+feet are weapons.,foot,weapon,56,-39.84724998474121,-7.969449996948242,774031360,gpt2-large
+a car is a weapon.,car,weapon,57,-34.563809871673584,-4.937687124524798,774031360,gpt2-large
+a screwdriver is a weapon.,screwdriver,weapon,58,-36.856032371520996,-4.6070040464401245,774031360,gpt2-large
+a glass is a weapon.,glass,weapon,59,-38.55330944061279,-5.5076156343732565,774031360,gpt2-large
+a shoe is a weapon.,shoe,weapon,60,-38.77078819274902,-5.538684027535575,774031360,gpt2-large
