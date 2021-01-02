@@ -8,7 +8,7 @@ echo "Running experiments on Masked Language Models"
 for model in ${mlmmodels[@]}
 do
     echo "Running experiments for ${model}!"
-    python ../python/sentence_surprisals.py --model ${model} --device cuda:1 --batchsize 50 --dataset ../data/rosch1975/rosch1975.csv
+    python ../python/contextual_priming.py --model ${model} --device cuda:1 --batchsize 50 --stimulusonly 0 --dataset ../data/rosch1975/rosch1975.csv
 done
 
 echo "Running experiments on Incremental Language Models"
@@ -16,20 +16,19 @@ echo "Running experiments on Incremental Language Models"
 for model in ${incrementalmodels[@]}
 do
     echo "Running experiments for ${model}!"
-    python ../python/sentence_surprisals.py --model ${model} --device cuda:1 --lmtype incremental --batchsize 50 --dataset ../data/rosch1975/rosch1975.csv
+    python ../python/contextual_priming.py --model ${model} --device cuda:1 --lmtype incremental --batchsize 50 --stimulusonly 0 --dataset ../data/rosch1975/rosch1975.csv
 done
 
 echo "Running experiments on ngram language models"
 
-python ../python/ngram_surprisals.py --dataset ../data/rosch1975/rosch1975.csv
-
+python ../python/ngram_priming.py --dataset ../data/rosch1975/rosch1975.csv --stimulusonly 0 --continuous 1
 
 echo "Running experiments on Masked Language Models for Features"
 
 for model in ${mlmmodels[@]}
 do
     echo "Running experiments for ${model}!"
-    python ../python/sentence_surprisals.py --model ${model} --device cuda:1 --batchsize 50 --dataset ../data/rosch1975/rosch1975_features.csv
+    python ../python/contextual_priming.py --model ${model} --device cuda:1 --batchsize 50 --stimulusonly 0 --dataset ../data/rosch1975/rosch1975_features.csv
 done
 
 echo "Running experiments on Incremental Language Models for Features"
@@ -37,10 +36,10 @@ echo "Running experiments on Incremental Language Models for Features"
 for model in ${incrementalmodels[@]}
 do
     echo "Running experiments for ${model}!"
-    python ../python/sentence_surprisals.py --model ${model} --device cuda:1 --lmtype incremental --batchsize 50 --dataset ../data/rosch1975/rosch1975_features.csv
+    python ../python/contextual_priming.py --model ${model} --device cuda:1 --lmtype incremental --batchsize 50 --stimulusonly 0 --dataset ../data/rosch1975/rosch1975_features.csv
 done
 
 echo "Running experiments on ngram language models"
 
-python ../python/ngram_surprisals.py --dataset ../data/rosch1975/rosch1975_features.csv
+python ../python/ngram_priming.py --dataset ../data/rosch1975/rosch1975_features.csv --stimulusonly 0 --continuous 1
 

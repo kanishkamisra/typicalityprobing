@@ -13,6 +13,7 @@ parser.add_argument("--dataset", type = str)
 parser.add_argument("--model", default = 'distilbert-base', type = str)
 parser.add_argument("--batchsize", default = 10, type = int)
 parser.add_argument("--device", default = 'cpu', type = str)
+parser.add_argument("--stimulusonly", default = 1, type = int)
 parser.add_argument("--lmtype", default = 'masked', choices = ['mlm', 'masked', 'causal', 'incremental'], type = str)
 args = parser.parse_args()
 
@@ -20,6 +21,7 @@ inpath = args.dataset
 model_name = args.model
 batch_size = args.batchsize
 device = args.device
+stimulus_only = True if args.stimulusonly == 1 else False
 lm_type = args.lmtype
 
 # make results dir: ../data/typicality/results/(dataset)/model_name.csv
@@ -55,19 +57,23 @@ for batch in tqdm(stimuli_loader):
     premise = list(batch[0])
     conclusion = list(batch[1])
     priming_scores = transformer.adapt_score(premise, conclusion, torch.sum)
-    conclusion_scores = transformer.score(conclusion, torch.sum)
     results.extend(priming_scores)
-    conclusion_only.extend(conclusion_scores)
-
+    if stimulus_only:
+        conclusion_scores = transformer.score(conclusion, torch.sum)
+        conclusion_only.extend(conclusion_scores)
 
 dataset = list(zip(*dataset))
 dataset.append(results)
-dataset.append(conclusion_only)
+if stimulus_only:
+    dataset.append(conclusion_only)
 
 dataset.append(num_params)
 dataset.append([model_name] * len(results))
 
-column_names = column_names + ["score", "conclusion_only", "params", "model"]
+if stimulus_only:
+    column_names = column_names + ["score", "conclusion_only", "params", "model"]
+else:
+    column_names = column_names + ["score", "params", "model"]
 
 with open(results_dir + f"/{model_name}.csv", "w") as f:
     writer = csv.writer(f)

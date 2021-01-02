@@ -10,12 +10,16 @@ model = kenlm.LanguageModel("/datasets/kmisra/wikilm.binary")
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--dataset", type = str)
+parser.add_argument("--stimulusonly", default = 1, type = int)
+parser.add_argument("--continuous", default = 1, type = int)
 parser.add_argument("--p", default = 0, type = int)
 parser.add_argument("--c", default = 1, type = int)
 args = parser.parse_args()
 
 model_name = "5gram"
 inpath = args.dataset
+stimulus_only = True if args.stimulusonly == 1 else False
+continuous = True if args.continuous == 1 else False
 p = args.p
 c = args.c
 
@@ -42,20 +46,27 @@ for premise, conclusion in tqdm(zip(premises, conclusions)):
     conclusion = conclusion.lower().replace(".", "")
     sentence = f"{premise.lower()} <\s> {conclusion}".replace(".", "")
     idx = len(sentence.split("<\s>")[0].split()) + 1
+    if continuous:
+        sentence = sentence.replace(" <\s> ", " ")
+        idx = idx - 1
     scores = list(model.full_scores(sentence))
     scores = list(zip(*scores))[0] #tuple
     primed_score = sum(scores[idx:])
     results.append(primed_score)
-
-    conclusion_score = model.score(conclusion)
-    conclusion_only.append(conclusion_score)
+    if stimulus_only:
+        conclusion_score = model.score(conclusion)
+        conclusion_only.append(conclusion_score)
 
 dataset.append(results)
-dataset.append(conclusion_only)
+if stimulus_only:
+    dataset.append(conclusion_only)
 dataset.append([0] * len(premises))
 dataset.append([model_name] * len(premises))
 
-column_names = column_names + ["score", "conclusion_only", "params", "model"]
+if stimulus_only:
+    column_names = column_names + ["score", "conclusion_only", "params", "model"]
+else:
+    column_names = column_names + ["score", "params", "model"]
 
 with open(results_dir + f"/{model_name}.csv", "w") as f:
     writer = csv.writer(f)
