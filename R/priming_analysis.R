@@ -50,6 +50,28 @@ induction %>%
 induction %>%
   inner_join(model_meta) %>%
   mutate(model = factor(model, levels = levels)) %>%
+  ggplot(aes(shuffled_diff, fill = color, color = color)) +
+  geom_histogram(alpha = 0.75) +
+  geom_vline(xintercept = 0) +
+  scale_color_identity(aesthetics = c("fill", "color")) +
+  facet_grid(category~family, scales = "free")
+
+induction %>%
+  group_by(model, params, category) %>%
+  summarize(
+    order_sensitivity = mean(shuffled_diff > 0)
+  ) %>%
+  inner_join(model_meta) %>%
+  mutate(model = factor(model, levels = levels)) %>%
+  ggplot(aes(model, order_sensitivity, fill = color, color = color)) +
+  geom_col() +
+  scale_y_continuous(labels = scales::percent) +
+  scale_color_identity(aesthetics = c("fill", "color")) +
+  facet_wrap(~category)
+
+induction %>%
+  inner_join(model_meta) %>%
+  mutate(model = factor(model, levels = levels)) %>%
   ggplot(aes(conclusion_only, score, color = color, fill = color)) +
   geom_point(alpha = 0.03, size = 2) +
   geom_smooth(method = "lm") +
