@@ -3,17 +3,34 @@ import argparse
 import csv
 from tqdm import tqdm
 
+import random
+
 import torch
 from torch.utils.data import DataLoader
 
 from minicons.minicons import scorer
+
+def shuffle_sentence(sentence, word):
+    '''
+        returns the shuffled form of a sentence while preserving the 
+        multi-word expression order for the focus word.
+    '''
+    sentence = sentence.replace(".", "")
+    if len(word.split()) > 1:
+        sentence = sentence.replace(word, "@".join(word.split())).split()
+    else:
+        sentence = sentence.split()
+    random.shuffle(sentence)
+        
+    return " ".join(sentence).replace("@", " ").capitalize() + "."
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--dataset", type = str)
 parser.add_argument("--model", default = 'distilbert-base', type = str)
 parser.add_argument("--batchsize", default = 10, type = int)
 parser.add_argument("--device", default = 'cpu', type = str)
-parser.add_argument("--stimulusonly", default = 1, type = int)
+parser.add_argument("--stimulusonly", action="store_true")
+parser.add_argument("--shuffled", action="store_true")
 parser.add_argument("--lmtype", default = 'masked', choices = ['mlm', 'masked', 'causal', 'incremental'], type = str)
 args = parser.parse_args()
 
@@ -21,7 +38,8 @@ inpath = args.dataset
 model_name = args.model
 batch_size = args.batchsize
 device = args.device
-stimulus_only = True if args.stimulusonly == 1 else False
+shuffled = args.shuffled
+stimulus_only = args.stimulusonly
 lm_type = args.lmtype
 
 # make results dir: ../data/typicality/results/(dataset)/model_name.csv
@@ -67,13 +85,49 @@ dataset.append(results)
 if stimulus_only:
     dataset.append(conclusion_only)
 
+random.seed(1234)
+
+if shuffled:
+    print("Running experiments with shuffled premise!")
+    os.environ["TOKENIZERS_PARALLELISM"] = "false"
+    random_shuffles = []
+    for i in range(10):
+        iteration_result = []
+        for batch in tqdm(stimuli_loader):
+            premises = list(batch[0])
+            conclusion = list(batch[1])
+            premise_words = list(batch[5])
+            shuffled_premises = []
+            for s, w in zip(premises, premise_words):
+                shuffled = [shuffle_sentence(s, w) for i in range(2)]
+                if shuffled[0] != s:
+                    shuffled_premises.append(shuffled[0])
+                else:
+                    shuffled_premises.append(shuffled[1])
+
+            priming_scores = transformer.adapt_score(shuffled_premises, conclusion, torch.sum)
+            iteration_result.extend(priming_scores)
+        random_shuffles.append(iteration_result)
+    random_shuffles = torch.tensor(random_shuffles)
+    scores = torch.tensor(results)
+    mean_diff = (scores - random_shuffles).mean(0).tolist()
+    std_diff = (scores - random_shuffles).std(0).tolist()
+
+    dataset.append(mean_diff)
+    dataset.append(std_diff)
+
+if stimulus_only:
+    column_names += ["score", "conclusion_only"]
+else:
+    column_names += ["score"]
+
+if shuffled:
+    column_names += ["shuffled_diff", "shuffled_diff_sd"]
+
 dataset.append(num_params)
 dataset.append([model_name] * len(results))
 
-if stimulus_only:
-    column_names = column_names + ["score", "conclusion_only", "params", "model"]
-else:
-    column_names = column_names + ["score", "params", "model"]
+column_names += ["params", "model"]
 
 with open(results_dir + f"/{model_name}.csv", "w") as f:
     writer = csv.writer(f)
