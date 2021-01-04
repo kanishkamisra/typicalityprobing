@@ -31,6 +31,7 @@ parser.add_argument("--batchsize", default = 10, type = int)
 parser.add_argument("--device", default = 'cpu', type = str)
 parser.add_argument("--stimulusonly", action="store_true")
 parser.add_argument("--shuffled", action="store_true")
+parser.add_argument("--control", action="store_true")
 parser.add_argument("--lmtype", default = 'masked', choices = ['mlm', 'masked', 'causal', 'incremental'], type = str)
 args = parser.parse_args()
 
@@ -39,6 +40,7 @@ model_name = args.model
 batch_size = args.batchsize
 device = args.device
 shuffled = args.shuffled
+control = args.control
 stimulus_only = args.stimulusonly
 lm_type = args.lmtype
 
@@ -69,6 +71,7 @@ num_params = [sum(p.numel() for p in transformer.model.parameters())] * len(data
 stimuli_loader = DataLoader(dataset, batch_size = batch_size, num_workers=8)
 
 results = []
+control_results = []
 conclusion_only = []
 
 for batch in tqdm(stimuli_loader):
@@ -76,6 +79,10 @@ for batch in tqdm(stimuli_loader):
     conclusion = list(batch[1])
     priming_scores = transformer.adapt_score(premise, conclusion, torch.sum)
     results.extend(priming_scores)
+    if control:
+        control_sentence = list(batch[2])
+        control_scores = transformer.adapt_score(premise, control_sentence, torch.sum)
+        control_results.extend(control_scores)
     if stimulus_only:
         conclusion_scores = transformer.score(conclusion, torch.sum)
         conclusion_only.extend(conclusion_scores)
@@ -84,6 +91,9 @@ dataset = list(zip(*dataset))
 dataset.append(results)
 if stimulus_only:
     dataset.append(conclusion_only)
+
+if control:
+    dataset.append(control_results)
 
 random.seed(1234)
 
@@ -96,7 +106,7 @@ if shuffled:
         for batch in tqdm(stimuli_loader):
             premises = list(batch[0])
             conclusion = list(batch[1])
-            premise_words = list(batch[5])
+            premise_words = list(batch[6])
             shuffled_premises = []
             for s, w in zip(premises, premise_words):
                 shuffled = [shuffle_sentence(s, w) for i in range(2)]
@@ -120,6 +130,9 @@ if stimulus_only:
     column_names += ["score", "conclusion_only"]
 else:
     column_names += ["score"]
+
+if control:
+    column_names += ["control_score"]
 
 if shuffled:
     column_names += ["shuffled_diff", "shuffled_diff_sd"]
