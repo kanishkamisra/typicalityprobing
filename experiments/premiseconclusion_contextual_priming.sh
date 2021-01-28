@@ -12,11 +12,11 @@ do
     # python ../python/sentence_surprisals.py --model ${model} --device cuda:1 --batchsize 50 --dataset ../data/conclusiononly.csv
 done
 
-echo "Running experiments on Incremental Language Models"
+# echo "Running experiments on Incremental Language Models"
 
-for model in ${incrementalmodels[@]}
-do
-    echo "Running experiments for ${model}!"
-    python ../python/contextual_priming.py --model ${model} --stimulusonly --shuffled --control --device cuda:1 --lmtype incremental --batchsize 50 --dataset ../data/premiseconclusion.csv
-    # python ../python/sentence_surprisals.py --model ${model} --device cuda:1 --lmtype incremental --batchsize 50 --dataset ../data/conclusiononly.csv
-done
+# for model in ${incrementalmodels[@]}
+# do
+#     echo "Running experiments for ${model}!"
+#     python ../python/contextual_priming.py --model ${model} --stimulusonly --shuffled --control --device cuda:1 --lmtype incremental --batchsize 50 --dataset ../data/premiseconclusion.csv
+#     # python ../python/sentence_surprisals.py --model ${model} --device cuda:1 --lmtype incremental --batchsize 50 --dataset ../data/conclusiononly.csv
+# done
