@@ -20,8 +20,7 @@ model_meta <- read_csv("data/meta.csv") %>%
 
 levels = c('5gram', 'albert-b', 'albert-l', 'albert-xl', 'albert-xxl', 'distilbert-b', 'bert-b', 'bert-l', 'electra-s', 'electra-b', 'electra-l', 'distilgpt2', 'gpt', 'gpt2', 'gpt2-m', 'gpt2-l', 'gpt2-xl', 'distilroberta-b', 'roberta-b', 'roberta-l')
 
-colors <- c('gray', '#73a2c6','#5d8abd','#4771b2','#2e59a8','#ffca68','#ffc14c','#fdb827','#92338c','#800080','#a35298','#ff9895','#f4777f','#e4576b','#cf3759','#b41648','#93003a','#adcf90','#75af00','#008000')
-
+colors <- c('#595959', '#73a2c6','#5d8abd','#4771b2','#2e59a8','#fee391','#fec44f','#fe9929','#bcbddc', '#6a51a3','#54278f','#ff9895','#f4777f','#e4576b','#cf3759','#b41648','#93003a','#d9f0a3','#78c679','#238443')
 
 sims <- dir_ls("data/results/premiseconclusion/similarities/", regexp = ".csv") %>%
   map_df(read_csv) %>%
@@ -36,7 +35,7 @@ sims <- dir_ls("data/results/premiseconclusion/similarities/", regexp = ".csv") 
     model = str_replace(model, "openai\\-", ""),
     model = str_replace(model, "\\-v1", "")
   ) %>%
-  group_by(model, category, predicate_id, argument_id) %>% 
+  group_by(model, category, predicate_id, argument_id, layer) %>% 
   mutate(rank = row_number()) %>%
   ungroup()
 

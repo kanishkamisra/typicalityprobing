@@ -13,8 +13,11 @@ library(widyr)
 library(fs)
 library(glue)
 library(ggrepel)
+library(gt)
+library(knitr)
+library(kableExtra)
 
-theme_set(theme_bw(base_size = 17))
+theme_set(theme_bw(base_size = 16))
 ```
 
 ## Loading Data
@@ -33,7 +36,12 @@ model_meta <- read_csv(here::here("data/meta.csv")) %>%
     model = str_replace(model, "\\-v1", "")
   ) 
 
-colors <- c('grey', '#73a2c6','#5d8abd','#4771b2','#2e59a8','#ffca68','#ffc14c','#fdb827','#92338c','#800080','#a35298','#ff9895','#f4777f','#e4576b','#cf3759','#b41648','#93003a','#adcf90','#75af00','#008000')
+levels = c('5gram', 'albert-b', 'albert-l', 'albert-xl', 'albert-xxl', 'distilbert-b', 'bert-b', 'bert-l', 'electra-s', 'electra-b', 'electra-l', 'distilgpt2', 'gpt', 'gpt2', 'gpt2-m', 'gpt2-l', 'gpt2-xl', 'distilroberta-b', 'roberta-b', 'roberta-l')
+
+colors <- c('#595959', '#73a2c6','#5d8abd','#4771b2','#2e59a8','#fee391','#fec44f','#fe9929','#bcbddc', '#6a51a3','#54278f','#ff9895','#f4777f','#e4576b','#cf3759','#b41648','#93003a','#d9f0a3','#78c679','#238443')
+
+shortlevels = c("5g", "A-b", "A-l", "A-xl", "A-xxl", "dB-b", "B-b", "B-l", "E-s", "E-b", "E-l", "dGPT2", "GPT", "GPT2", "GPT2-m", "GPT2-l", "GPT2-xl", "dR-b", "R-b", "R-l")
+
 
 frequencies <- read_csv(here::here("data/frequencies/wikicounts.csv")) %>%
   rename(item = word)
@@ -53,15 +61,13 @@ typicality_ratings <- dir_ls(here::here("data/rosch1975/results/rosch1975/"), re
   ) %>%
   group_by(model, category) %>% 
   mutate(rank = row_number()) %>%
-  ungroup()
+  ungroup() %>%
+  inner_join(read_csv(here::here("data/rosch1975/rosch1975_ratings.csv")))
 
 ngram <- typicality_ratings %>% 
   filter(model == "5gram") %>%
   rename(ngram_score = score) %>%
   select(-stimulus, -model, -params)
-
-# typicality_ratings <- typicality_ratings %>%
-#   filter(model != "5gram")
 
 induction <- dir_ls(here::here("data/results/premiseconclusion/"), regexp = "*.csv") %>%
   map_df(read_csv) %>%
@@ -110,27 +116,28 @@ ngram_fo <- feature_overlaps %>%
 typicality_ratings %>%
   filter(model != "5gram") %>%
   inner_join(ngram) %>%
-  group_by(model, params, category) %>%
+  group_by(model, params) %>%
   nest() %>%
   mutate(
-    cor = map(data, function(x) cor.test(x$ngram_score, x$score, method = "kendall") %>% tidy())
+    # cor = map(data, function(x) cor.test(x$ngram_score, x$score, method = "pearson") %>% tidy())
+    fit = map(data, function(x) lm(x$score ~ x$ngram_score) %>% glance())
   ) %>%
-  unnest(cor) %>%
+  unnest(fit) %>%
   select(-data) %>%
-  group_by(model, params) %>%
-  summarize(estimate = mean(estimate)) %>%
+  # group_by(model, params) %>%
+  # summarize(estimate = mean(estimate)) %>%
   ungroup() %>%
   inner_join(model_meta) %>%
-  ggplot(aes(params/1e6, estimate, color = color, group = family)) + 
+  ggplot(aes(params/1e6, r.squared, color = color, group = family)) + 
   geom_point(size = 3) + 
   # geom_line() +
-  geom_text_repel(aes(label = model), nudge_y = 0.01, size = 5) +
+  geom_text_repel(aes(label = model), nudge_y = 0.02, nudge_x = 0.01, size = 5) +
   # facet_wrap(~family) +
   scale_color_identity() +
-  scale_y_continuous(limits = c(0, 0.4)) +
+  scale_y_continuous(limits = c(0, 0.4), labels = scales::percent_format(accuracy = 1)) +
   labs(
     x = "Parameters (in millions)",
-    y = "Kendall's Tau"
+    y = "Variance Explained"
   )
 ```
 
@@ -140,34 +147,52 @@ typicality_ratings %>%
 ngram %>%
   group_by(category) %>%
   nest() %>%
-  mutate(cor = map(data, function(x) cor.test(x$rank, -x$ngram_score, method = "kendall") %>% tidy())) %>%
+  mutate(cor = map(data, function(x) cor.test(x$rating, -x$ngram_score, method = "kendall") %>% tidy())) %>%
   unnest(cor) %>%
   select(-data)
 ```
 
-## Ground Truth vs logprob
+## Qual
+
+```{r}
+combined <- typicality_ratings %>% 
+  filter(model != "5gram") %>% 
+  group_by(model) %>% 
+  mutate(score = (score - min(score))/(max(score) - min(score))) %>% 
+  ungroup() %>% group_by(item, category) %>% 
+  summarize(score = mean(score), rating = mean(rating), rank = mean(rank))
+
+combined %>%
+  group_by(category) %>%
+  filter(score == max(score))
+```
+
+
+## Category wise logprob vs Human judgements
 
 ```{r}
 typicality_ratings %>%
+  # filter(model != "5gram") %>%
   group_by(model, params, category) %>%
   nest() %>%
-  mutate(cor = map(data, function(x) cor.test(x$rank, -x$score, method = "kendall") %>% tidy())) %>%
+  mutate(cor = map(data, function(x) cor.test(x$rating, -x$score, method = "pearson") %>% tidy())) %>%
   unnest(cor) %>%
   select(-data) %>%
   inner_join(model_meta) %>%
   mutate(model = factor(model, levels = levels)) %>%
   ggplot(aes(model, estimate, color = color, fill = color)) +
   geom_col() +
-  geom_text(aes(y = 0.02, label = model), color = "white", angle = 90, hjust = "left", vjust = "center") +
-  facet_wrap(~category) +
-  scale_color_identity() +
-  scale_fill_identity() +
-  # scale_y_continuous(limits = c(0, 1), expand = c(0,0)) +
+  # geom_text(aes(y = 0.02, label = model), color = "white", angle = 90, hjust = "left", vjust = "center") +
+  facet_wrap(~category, nrow = 2) +
+  scale_color_identity(guide = "legend", name = "Model", aesthetics = c("color", "fill"), labels = levels, breaks = colors) +
+  # scale_fill_identity() +
+  scale_y_continuous(limits = c(-0.4, 1.0)) +
   labs(
     x = "Model",
     y = "Kendall's Tau"
   ) +
   theme(
+    legend.position = "top",
     panel.grid.major = element_blank(),
     panel.grid.minor = element_blank(),
     axis.text.x = element_blank(),
@@ -176,32 +201,74 @@ typicality_ratings %>%
   )
 ```
 
+## Overall logprob vs Human judgements
+
+```{r}
+typicality_ratings %>%
+  # filter(model != "5gram") %>%
+  group_by(model, params) %>%
+  nest() %>%
+  mutate(cor = map(data, function(x) cor.test(x$rating, -x$score, method = "pearson") %>% tidy())) %>%
+  unnest(cor) %>%
+  select(-data) %>%
+  inner_join(model_meta) %>%
+  mutate(model = factor(model, levels = levels), short = factor(short, levels = shortlevels)) %>%
+  ggplot(aes(short, estimate, color = color, fill = color)) +
+  geom_col() +
+  # geom_text(aes(y = 0.02, label = model), color = "white", angle = 90, hjust = "left", vjust = "center") +
+  # facet_wrap(~category, nrow = 2) +
+  # scale_color_identity(guide = "legend", name = "Model", aesthetics = c("color", "fill"), labels = levels, breaks = colors) +
+  scale_color_identity(aesthetics = c("color", "fill")) +
+  scale_y_continuous(limits = c(0, 1), expand = c(0, 0.008)) +
+  labs(
+    x = "Model",
+    y = "Pearson's r"
+  ) +
+  theme(
+    legend.position = "top",
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    axis.text.x = element_text(angle = 20, vjust = 0.8),
+    axis.title.x = element_blank(),
+    plot.margin = margin(0.1, 0, 0, 0, "cm"),
+    panel.background = element_rect(fill = "transparent"), # bg of the panel
+    plot.background = element_rect(fill = "transparent", color = NA), # bg of the plot
+    legend.background = element_rect(fill = "transparent"), # get rid of legend bg
+    legend.box.background = element_rect(fill = "transparent")
+  )
+
+# ggsave("paper/taxonomicverification.pdf", height = 5, width = 10, bg = "transparent")
+ggsave("paper/taxonomicverification01.pdf", height = 5, width = 8, bg = "transparent")
+```
+
+
 
 ```{r}
 feature_overlaps %>%
   filter(model != "5gram") %>%
   inner_join(ngram_fo) %>%
-  group_by(model, params, feature, category) %>%
+  group_by(model, params) %>%
   nest() %>%
   mutate(
-    cor = map(data, function(x) cor.test(x$ngram_feature_score, x$score, method = "kendall") %>% tidy())
+    # cor = map(data, function(x) cor.test(x$ngram_score, x$score, method = "pearson") %>% tidy())
+    fit = map(data, function(x) lm(x$score ~ x$ngram_feature_score) %>% glance())
   ) %>%
-  unnest(cor) %>%
+  unnest(fit) %>%
   select(-data) %>%
-  group_by(model, params) %>%
-  summarize(estimate = mean(estimate)) %>%
+  # group_by(model, params) %>%
+  # summarize(estimate = mean(estimate)) %>%
   ungroup() %>%
   inner_join(model_meta) %>%
-  ggplot(aes(params/1e6, estimate, color = color, group = family)) + 
+  ggplot(aes(params/1e6, r.squared, color = color, group = family)) + 
   geom_point(size = 3) + 
   # geom_line() +
-  geom_text_repel(aes(label = model), nudge_y = 0.01, size = 5) +
+  geom_text_repel(aes(label = model), nudge_y = 0.02, nudge_x = 0.01, size = 5) +
   # facet_wrap(~family) +
   scale_color_identity() +
-  # scale_y_continuous(limits = c(0.1, 0.4)) +
+  scale_y_continuous(limits = c(0, 1), labels = scales::percent_format(accuracy = 1)) +
   labs(
     x = "Parameters (in millions)",
-    y = "Kendall's Tau"
+    y = "Variance Explained"
   )
 ```
 
@@ -269,8 +336,6 @@ Measure correlation between typicality ratings elicited by model and its predict
 
 
 ```{r}
-levels = c('5gram', 'albert-b', 'albert-l', 'albert-xl', 'albert-xxl', 'distilbert-b', 'bert-b', 'bert-l', 'electra-s', 'electra-b', 'electra-l', 'distilgpt2', 'gpt', 'gpt2', 'gpt2-m', 'gpt2-l', 'gpt2-xl', 'distilroberta-b', 'roberta-b', 'roberta-l')
-
 feature_overlaps %>%
     filter(item != "sprouts") %>%
     inner_join(typicality_ratings %>% select(model, params, category, item, typicality = score, rank)) %>% 
@@ -319,41 +384,141 @@ feature_overlaps %>%
 ## Do LMs more readily extend new information about typical items to all members of a category?
 
 ```{r}
-induction %>%
+induction_caveats <- induction %>%
   filter(model != "5gram") %>%
-  inner_join(typicality_ratings %>% select(model, params, category, typicality = score, rank), by = c("model", "params", "category", "rank")) %>%
+  group_by(model, params) %>%
+  summarize(
+    conclusion_only = mean(score > conclusion_only),
+    order_sensitivity = mean(shuffled_diff > 0),
+    taxonomic_priming = mean(score > control_score)
+  ) %>%
+  ungroup() %>%
+  inner_join(model_meta) %>%
+  mutate(name = factor(model, levels = levels))
+  # mutate_at(vars(-params, -model), round, digits = 4) %>%
+  # gt() %>%
+  # fmt_percent(columns = vars(conclusion_only, order_sensitivity, taxonomic_priming), decimals = 2)
+
+induction_caveats %>%
+  group_by(family) %>%
+  summarize(
+    TS_mean = mean(taxonomic_priming),
+    TS_sd = sd(taxonomic_priming),
+    POS_mean = mean(order_sensitivity),
+    POS_sd = sd(order_sensitivity)
+  ) %>%
+  ungroup() %>%
+  transmute(
+    family,
+    TS = glue("{round(TS_mean, 2)} pm {round(TS_sd, 2)}"),
+    POS = glue("{round(POS_mean, 2)} pm {round(POS_sd, 2)}")
+  ) %>%
+  kable("latex")
+
+
+family_caveats <- induction %>%
+  filter(model != "5gram") %>%
+  inner_join(model_meta) %>%
+  group_by(family) %>%
+  summarize(
+    conclusion_only = mean(score > conclusion_only),
+    order_sensitivity = mean(shuffled_diff > 0),
+    taxonomic_priming = mean(score > control_score)
+  ) %>%
+  ungroup() 
+
+family_caveats %>%
+  select(family, POS = order_sensitivity, TS = taxonomic_priming) %>%
+  kable("latex")
+```
+
+
+```{r}
+induction_caveats %>%
+  ggplot(aes(params/1e6, order_sensitivity, color = color)) +
+  geom_point(size = 2) +
+  # geom_line() +
+  scale_color_identity() + 
+  scale_y_continuous(limits = c(0.5, 1), labels = scales::percent_format()) +
+  geom_text_repel(aes(label = model), nudge_y = 0.01, size = 5) + 
+  labs(
+    x = "Parameters (in millions)",
+    y = "Premise Order Sensitivity"
+  ) +
+  theme(
+    panel.background = element_rect(fill = "transparent"), # bg of the panel
+    plot.background = element_rect(fill = "transparent", color = NA), # bg of the plot
+    legend.background = element_rect(fill = "transparent"), # get rid of legend bg
+    legend.box.background = element_rect(fill = "transparent")
+  )
+
+ggsave("paper/posensitivity.pdf", height = 5, width = 5.5, bg = "transparent")
+```
+
+
+```{r}
+induction_caveats %>%
+  ggplot(aes(params/1e6, taxonomic_priming, color = color)) +
+  geom_point(size = 2) +
+  # geom_line() +
+  scale_color_identity() + 
+  scale_y_continuous(limits = c(0.5, 1), labels = scales::percent_format()) +
+  geom_text_repel(aes(label = model), size = 5) +
+  labs(
+    x = "Parameters (in millions)",
+    y = "Taxonomic Sensitivity"
+  ) +
+  theme(
+    panel.background = element_rect(fill = "transparent"), # bg of the panel
+    plot.background = element_rect(fill = "transparent", color = NA), # bg of the plot
+    legend.background = element_rect(fill = "transparent"), # get rid of legend bg
+    legend.box.background = element_rect(fill = "transparent")
+  )
+
+ggsave("paper/taxonomicsensitivity.pdf", height = 5, width = 5.5, bg = "transparent")
+```
+
+```{r}
+induction %>%
+  # filter(model != "5gram") %>%
+  inner_join(typicality_ratings %>% select(model, params, category, typicality = score, rank, rating), by = c("model", "params", "category", "rank")) %>%
   group_by(model, params, category, predicate_id, argument_id) %>%
   mutate(
+    # score = score - control_score,
     standardized_logprob = (score - min(score))/(max(score) - min(score))
   ) %>%
   ungroup() %>%
   group_by(model, params, category, item) %>%
   summarise(
-    property_score = mean(standardized_logprob),
+    standardized_logprob = mean(standardized_logprob),
     typicality = mean(typicality),
-    rank = mean(rank)
+    rank = mean(rank),
+    rating = mean(rating)
   ) %>%
   ungroup() %>%
-  group_by(model, params, category) %>%
+  # group_by(model, params, category) %>%
+  group_by(model, params) %>%
   nest() %>%
   mutate(
-    cor_lp = map(data, function(x) {cor.test(x$property_score, x$typicality, method = "spearman") %>% tidy()}),
+    # cor_lp = map(data, function(x) lm(rating ~ standardized_logprob + factor(category), data = x) %>% glance())
+    cor_lp = map(data, function(x) {cor.test(-x$standardized_logprob, x$rating, method = "pearson") %>% tidy()}),
     # cor_nlp = map(data, function(x) {cor.test(x$logprob, x$typicality_nlp, method = "kendall") %>% tidy()})
   ) %>%
   unnest(cor_lp) %>%
   select(-data) %>%
   inner_join(model_meta) %>%
   mutate(model = factor(model, levels = levels)) %>%
+  # ggplot(aes(model, r.squared, color = color, fill = color)) +
   ggplot(aes(model, estimate, color = color, fill = color)) +
   geom_col() +
   # geom_text(aes(y = 0.95, label = model), color = "black", angle = 90, hjust = "right", vjust = "center") +
-  facet_wrap(~category) +
+  # facet_wrap(~category) +
   scale_color_identity(guide = "legend", name = "Model", aesthetics = c("color", "fill"), labels = levels, breaks = colors) +
   # scale_fill_identity() +
-  # scale_y_continuous(limits = c(-0.3, 1), expand = c(0,0)) +
+  scale_y_continuous(limits = c(0, 0.5), expand = c(0,0)) +
   labs(
     x = "Model",
-    y = "Kendall's Tau"
+    y = "Pearson's r"
   ) +
   theme(
     legend.position = "top",
@@ -365,5 +530,499 @@ induction %>%
   )
 ```
 
+## Taxonomic Sentence Verification (alternate way of testing):
+```{r}
+experiment_results_typicality <- typicality_ratings %>%
+  # filter(model != "5gram") %>%
+  # mutate(score = score - control_score) %>%
+  select(model, item, category, score) 
 
+human_groups_typicality <- typicality_ratings %>%
+  distinct(item, category, rank) %>%
+  group_by(category) %>%
+  nest() %>%
+  mutate(
+    data = map(data, function(x) {
+      if(nrow(x) %% 2 != 0) {
+        return(x[-nrow(x),])
+      }
+      else {
+        return(x)
+      }
+    })
+  ) %>%
+  unnest(data) %>%
+  add_count(category) %>%
+  group_by() %>%
+  mutate(
+    group = case_when(
+      rank <= n/2 ~ "typical",
+      TRUE ~ "atypical"
+    )
+  )
+
+pairing_human_typicality <- human_groups_typicality %>%
+  filter(group == "typical") %>%
+  select(category, item1 = item) %>%
+  group_by(category) %>%
+  nest(item1 = -group_cols()) %>%
+  inner_join(
+    human_groups_typicality %>%
+      filter(group == "atypical") %>%
+      select(category, item2 = item) %>%
+      group_by(category) %>%
+      nest(item2 = -group_cols())
+  )
+
+run_pairing_taxonomic <- function() {
+  result <- pairing_human_typicality %>%
+    mutate(
+        item2 = map(item2, function(x) {
+            rows = sample(nrow(x))
+            return(x[rows, ])
+        })
+    ) %>%
+    unnest(c(item1, item2)) %>% 
+    ungroup() %>%
+    inner_join(experiment_results_typicality %>% select(model, category, item1 = item, score1 = score)) %>%
+    inner_join(experiment_results_typicality %>% select(model, category, item2 = item, score2 = score))
+
+  return(result)
+}
+```
+
+```{r}
+set.seed(1234)
+# this will be fun.
+replicates_human_taxonomic <- replicate(100, run_pairing_taxonomic(), simplify = FALSE)
+```
+
+## Taxonomic Sentence Verification.
+
+```{r}
+replicates_human_taxonomic %>%
+  map(
+    function(x) {
+      x %>% group_by(model) %>%
+      summarize(
+        alignment = mean(score1 > score2)
+      )
+    }
+  ) %>%
+  bind_rows(.id = "run") %>%
+  group_by(model) %>%
+  summarize(
+    se = 1.96 * plotrix::std.error(alignment), 
+    alignment = mean(alignment)
+  ) %>%
+  inner_join(model_meta) %>%
+  mutate(model = factor(model, levels = levels)) %>%
+  ggplot(aes(model, alignment, color = color, fill = color)) +
+  geom_col() +
+  geom_hline(yintercept = 0.5, linetype = 2) +
+  # geom_text(aes(y = 0.95, label = model), color = "black", angle = 90, hjust = "right", vjust = "center") +
+  # facet_wrap(~category) +
+  # scale_color_identity(guide = "legend", name = "Model", aesthetics = c("color", "fill"), labels = levels, breaks = colors) +
+  scale_color_identity(aesthetics = c("color", "fill")) +
+  scale_y_continuous(limits = c(0, 1.0), labels = scales::percent_format(), expand = c(0,0.01)) +
+  labs(
+    x = "Model",
+    y = "Premise Typicality"
+  ) +
+  theme(
+    legend.position = "top",
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    axis.text.x = element_text(angle = 20, vjust = 0.8),
+    panel.background = element_rect(fill = "transparent"), # bg of the panel
+    plot.background = element_rect(fill = "transparent", color = NA), # bg of the plot
+    legend.background = element_rect(fill = "transparent"), # get rid of legend bg
+    legend.box.background = element_rect(fill = "transparent")
+  )
+```
+
+
+## Category based Induction (10000 times)
+
+
+## Correcting model results by regressing out controls
+
+```{r correcting}
+test <- induction %>%
+  filter(predicate_id == 1, argument_id == 2, category == "bird") %>%
+  mutate(shuffled_diff2 = score - shuffled_diff)
+
+test_fit <- lm(score ~ scale(control_score, scale = FALSE) + scale(shuffled_diff, scale = FALSE), data = induction)
+summary(test_fit)
+residuals(test_fit) + coef(test_fit)["(Intercept)"]
+
+corrected <- induction %>%
+  # mutate(shuffled_diff = score - shuffled_diff) %>%
+  group_by(model, predicate_id, argument_id, category) %>% mutate(item_id = row_number()) %>% ungroup() %>%
+  group_by(model, predicate_id, argument_id, category) %>%
+  nest() %>%
+  mutate(
+    corrected_score = map(data, function(x) {
+      fit <- lm(score ~ scale(control_score, scale = FALSE) + scale(shuffled_diff, scale = FALSE), data = x)
+      # fit <- lm(score ~ control_score + shuffled_diff, data = x)
+      corrected_score = residuals(fit) + coef(fit)["(Intercept)"]
+      p_value = glance(fit)$p.value
+      tidied <- tidy(fit)
+      beta_1 = tidied %>% filter(term == "scale(control_score, scale = FALSE)") %>% pull(estimate)
+      # beta_1 = tidied %>% filter(term == "control_score") %>% pull(estimate)
+      beta_2 = tidied %>% filter(term == "scale(shuffled_diff, scale = FALSE)") %>% pull(estimate)
+      # beta_2 = tidied %>% filter(term == "shuffled_diff") %>% pull(estimate)
+      return(
+        tibble(item = x$item, item_id = x$item_id, score = x$score, corrected_score = corrected_score, rsq = summary(fit)$r.squared, p = p_value, beta1 = beta_1, beta2 = beta_2)
+      )
+    })
+  ) %>%
+  select(-data) %>%
+  unnest(corrected_score)
+
+corrected %>%
+  inner_join(typicality_ratings %>% select(model, category, model_score = score, rating) %>% group_by(model, category) %>% mutate(item_id = row_number())) %>%
+  group_by(model, category, predicate_id, argument_id) %>%
+  mutate(
+    model_score = (model_score - min(model_score))/(max(model_score) - min(model_score)),
+    score = (score - min(score))/(max(score) - min(score)),
+    corrected_score = (corrected_score - min(corrected_score))/(max(corrected_score) - min(corrected_score))
+  ) %>%
+  ungroup() %>%
+  group_by(model, category, item, item_id) %>%
+  summarize(
+    taxonomic = mean(model_score),
+    corrected_score = mean(corrected_score),
+    score = mean(score),
+    rating = mean(rating)
+  ) %>% group_by(model) %>%
+  nest() %>%
+  mutate(
+    cor = map(data, function(x) {
+      pre = cor.test(-x$score, x$rating) %>% 
+        tidy()
+      post = cor.test(-x$corrected_score, x$rating) %>% 
+        tidy()
+      taxonomic = cor.test(x$corrected_score, x$taxonomic) %>% 
+        tidy()
+      return(
+        tibble(
+          pre_cor = pre$estimate,
+          pre_p = pre$p.value,
+          post_cor = post$estimate,
+          post_p = post$p.value,
+          consistency = taxonomic$estimate,
+          consistency_p = taxonomic$p.value
+        )
+      )
+    })
+  ) %>%
+  select(-data) %>%
+  unnest(cor) %>%
+  inner_join(model_meta) %>% 
+  mutate(model = factor(model, levels = levels), short = factor(short, levels = shortlevels)) %>%
+  ggplot(aes(short, post_cor, color = color, fill = color)) +
+  geom_col() +
+  scale_color_identity(aesthetics = c("color", "fill")) +
+  scale_y_continuous(limits = c(0, 1), expand = c(0, 0.01)) +
+  labs(
+    y = "Pearson's r"
+  ) +
+  theme(
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    axis.text.x = element_text(angle = 20, vjust = 0.8),
+    axis.title.x = element_blank(),
+    plot.margin = margin(0.1, 0, 0, 0, "cm"),
+    panel.background = element_rect(fill = "transparent"), # bg of the panel
+    plot.background = element_rect(fill = "transparent", color = NA), # bg of the plot
+    legend.background = element_rect(fill = "transparent"), # get rid of legend bg
+    legend.box.background = element_rect(fill = "transparent")
+  )
+
+# ggsave(here::here("paper/correctedinduction.pdf"), height = 5, width = 10)
+ggsave(here::here("paper/correctedinduction01.pdf"), height = 5, width = 10)
+```
+
+
+```{r}
+experiment_results <- induction %>%
+  filter(model != "5gram") %>%
+  mutate(score = score) %>% # comment this later lol.
+  select(model, category, predicate_id, argument_id, item, rank, strength = score) %>%
+  inner_join(
+    typicality_ratings %>%
+      filter(model != "5gram") %>%
+      group_by(model, category) %>%
+      mutate(typicality_rank = rank(-score)) %>%
+      select(model, category, rank, typicality = score, typicality_rank)
+  )
+experiment_results <- corrected %>%
+  inner_join(typicality_ratings %>% select(model, category, typicality = score, rating) %>% group_by(model, category) %>% mutate(item_id = row_number())) %>%
+  ungroup() %>%
+  rename(rank = item_id)
+
+human_groups <- experiment_results %>%
+  distinct(item, category, predicate_id, argument_id, rank) %>%
+  group_by(category, predicate_id, argument_id) %>%
+  nest() %>%
+  mutate(
+    data = map(data, function(x) {
+      if(nrow(x) %% 2 != 0) {
+        return(x[-nrow(x),])
+      }
+      else {
+        return(x)
+      }
+    })
+  ) %>%
+  unnest(data) %>%
+  add_count(category, predicate_id, argument_id) %>%
+  group_by() %>%
+  mutate(
+    group = case_when(
+      rank <= n/2 ~ "typical",
+      TRUE ~ "atypical"
+    )
+  )
+
+model_groups <- experiment_results %>%
+  distinct(model, item, category, predicate_id, argument_id, typicality_rank, strength) %>%
+  group_by(model, category, predicate_id, argument_id) %>%
+  nest() %>%
+  mutate(
+    data = map(data, function(x) {
+      x = x %>% arrange(typicality_rank)
+      if(nrow(x) %% 2 != 0) {
+        return(x[-nrow(x),])
+      }
+      else {
+        return(x)
+      }
+    })
+  ) %>%
+  unnest(data) %>%
+  add_count(model, category, predicate_id, argument_id) %>%
+  mutate(
+    group = case_when(
+      typicality_rank <= n/2 ~ "typical",
+      TRUE ~ "atypical"
+    )
+  )
+
+pairing_human <- human_groups %>%
+  filter(group == "typical") %>%
+  # inner_join(experiment_results %>% select(-typicality_rank, -typicality, strength1 = strength)) %>%
+  distinct(category, item1 = item) %>%
+  group_by(category) %>%
+  nest(item1 = -group_cols()) %>%
+  inner_join(
+    human_groups %>%
+      filter(group == "atypical") %>%
+      # inner_join(experiment_results %>% select(-typicality_rank, -typicality, strength2 = strength)) %>%
+      distinct(category, item2 = item) %>%
+      group_by(category) %>%
+      nest(item2 = -group_cols())
+  )
+
+pairing_model <- model_groups %>%
+  filter(group == "typical") %>%
+  # inner_join(experiment_results %>% select(-typicality_rank, -typicality, strength1 = strength)) %>%
+  select(-typicality_rank, -n, -group) %>%
+  rename(strength1 = strength, item1 = item) %>%
+  group_by(category, model, predicate_id, argument_id) %>%
+  nest(item1 = -group_cols()) %>%
+  inner_join(
+    model_groups %>%
+      filter(group == "atypical") %>%
+      # inner_join(experiment_results %>% select(-typicality_rank, -typicality, strength2 = strength)) %>%
+      select(-typicality_rank, -n, -group) %>%
+      rename(strength2 = strength, item2 = item) %>%
+      group_by(category, model, predicate_id, argument_id) %>%
+      nest(item2 = -group_cols())
+  )
+
+# pairing_model <- model_groups %>%
+#   rename(strength1 = strength) %>%
+#   filter(group == "typical") %>%
+#   select(-group, -n, -typicality_rank) %>%
+#   rename(item1 = item) %>%
+#   group_by(model, category, predicate_id, argument_id) %>%
+#   nest(item1 = -group_cols()) %>%
+#   inner_join(
+#     model_groups %>%
+#       rename(strength2 = strength) %>%
+#       filter(group == "atypical") %>%
+#       select(-group, -n, -typicality_rank) %>%
+#       rename(item2 = item) %>%
+#       group_by(model, category, predicate_id, argument_id) %>%
+#       nest(item2 = -group_cols())
+#   )
+```
+
+## Avg. Typicality Ratings for Humans vs Models
+```{r}
+pairing_human %>%
+  unnest(c(item1, item2))
+```
+
+
+
+```{r}
+run_pairing <- function(mode) {
+  if(mode == "human"){
+    result <- pairing_human %>%
+    mutate(
+        # item1 = map(item1, function(x) {
+        #     rows = sample(nrow(x))
+        #     return(x[rows, ])
+        # }),
+        item2 = map(item2, function(x) {
+            rows = sample(nrow(x))
+            return(x[rows, ])
+        })
+    ) %>%
+    unnest(c(item1, item2)) %>% ungroup() %>%
+      inner_join(experiment_results %>% select(model, category, predicate_id, argument_id, item1 = item, strength1 = strength)) %>%
+      inner_join(experiment_results %>% select(model, category, predicate_id, argument_id, item2 = item, strength2 = strength))
+  }
+  else if(mode == "model") {
+    result <- pairing_model %>%
+    mutate(
+        # item1 = map(item1, function(x) {
+        #     rows = sample(nrow(x))
+        #     return(x[rows, ])
+        # }),
+        item2 = map(item2, function(x) {
+            rows = sample(nrow(x))
+            return(x[rows, ])
+        })
+    ) %>%
+    unnest(c(item1, item2)) %>% ungroup()
+  } else {
+    return("error")
+  }
+  return(result)
+}
+```
+
+```{r}
+set.seed(1234)
+# this will be fun.
+replicates_human <- replicate(100, run_pairing("human"), simplify = FALSE)
+replicates_model <- replicate(100, run_pairing("model"), simplify = FALSE)
+```
+
+## Models vs Human Typicality Judgements
+
+```{r}
+replicates_human %>%
+  map(function(x) {
+    x %>%
+      group_by(model, category) %>%
+      summarize(
+        alignment = mean(strength1 > strength2)
+      )
+  }) %>%
+  bind_rows(.id = "run") %>%
+  group_by(model) %>%
+  summarize(
+    se = 1.96 * plotrix::std.error(alignment), 
+    alignment = mean(alignment)
+  ) %>%
+  inner_join(model_meta) %>%
+  mutate(model = factor(model, levels = levels), short = factor(short, levels = shortlevels)) %>%
+  ggplot(aes(short, alignment, color = color, fill = color)) +
+  geom_col() +
+  geom_hline(yintercept = 0.5, linetype = 2) +
+  # geom_text(aes(y = 0.95, label = model), color = "black", angle = 90, hjust = "right", vjust = "center") +
+  # facet_wrap(~category) +
+  # scale_color_identity(guide = "legend", name = "Model", aesthetics = c("color", "fill"), labels = levels, breaks = colors) +
+  scale_color_identity(aesthetics = c("color", "fill")) +
+  scale_y_continuous(limits = c(0, 1.0), labels = scales::percent_format(), expand = c(0,0.01)) +
+  labs(
+    x = "Model",
+    y = "Premise Typicality"
+  ) +
+  theme(
+    legend.position = "top",
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    axis.text.x = element_text(angle = 20, vjust = 0.8),
+    panel.background = element_rect(fill = "transparent"), # bg of the panel
+    plot.background = element_rect(fill = "transparent", color = NA), # bg of the plot
+    legend.background = element_rect(fill = "transparent"), # get rid of legend bg
+    legend.box.background = element_rect(fill = "transparent")
+  )
+
+ggsave("paper/premisetypicalityoverall.pdf", height = 5, width = 10, bg = "transparent")
+```
+
+```{r}
+replicates_model %>%
+  map(function(x) {
+    x %>%
+      group_by(model) %>%
+      summarize(
+        alignment = mean(strength1 > strength2)
+      )
+  }) %>%
+  bind_rows(.id = "run") %>%
+  group_by(model) %>%
+  summarize(
+    se = 1.96 * plotrix::std.error(alignment), 
+    alignment = mean(alignment)
+  ) %>%
+  inner_join(model_meta) %>%
+  mutate(model = factor(model, levels = levels)) %>%
+  ggplot(aes(model, alignment, color = color, fill = color)) +
+  geom_col() +
+  geom_hline(yintercept = 0.5, linetype = 2) +
+  # geom_text(aes(y = 0.95, label = model), color = "black", angle = 90, hjust = "right", vjust = "center") +
+  # facet_wrap(~category) +
+  # scale_color_identity(guide = "legend", name = "Model", aesthetics = c("color", "fill"), labels = levels, breaks = colors) +
+  # scale_fill_identity() +
+  scale_color_identity(aesthetics = c("color", "fill")) +
+  scale_y_continuous(limits = c(0, 1.0), labels = scales::percent_format()) +
+  labs(
+    x = "Model",
+    y = "Premise Typicality"
+  ) +
+  theme(
+    legend.position = "top",
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    axis.text.x = element_text(angle = 20, vjust = 0.8),
+    # axis.ticks.x = element_blank(),
+    # axis.title.x = element_blank()
+  )
+```
+
+```{r}
+induction %>%
+  group_by(model, predicate_id, argument_id, category) %>% mutate(item_id = row_number()) %>% ungroup() %>%
+  inner_join(typicality_ratings %>% select(model, category, model_score = score, rating) %>% group_by(model, category) %>% mutate(item_id = row_number())) %>%
+  group_by(model, category, predicate_id, argument_id) %>%
+  mutate(score = (score - min(score))/(max(score) - min(score))) %>%
+  ungroup() %>%
+  group_by(model, category, item, item_id) %>%
+  summarize(
+    score = mean(score),
+    rating = mean(rating)
+  ) %>%
+  group_by(model) %>%
+  nest() %>%
+  mutate(
+    cor = map(data, function(x) {
+      cor.test(-x$score, x$rating) %>% tidy()
+    })
+  ) %>%
+  select(-data) %>%
+  unnest(cor) %>% View("induction cor")
+```
+
+
+```{r}
+
+```
 
