@@ -164,7 +164,7 @@ combined <- typicality_ratings %>%
 
 combined %>%
   group_by(category) %>%
-  filter(score == max(score))
+  filter(rating == min(rating))
 ```
 
 
@@ -175,7 +175,7 @@ typicality_ratings %>%
   # filter(model != "5gram") %>%
   group_by(model, params, category) %>%
   nest() %>%
-  mutate(cor = map(data, function(x) cor.test(x$rating, -x$score, method = "pearson") %>% tidy())) %>%
+  mutate(cor = map(data, function(x) cor.test(x$rating, -x$score, method = "spearman") %>% tidy())) %>%
   unnest(cor) %>%
   select(-data) %>%
   inner_join(model_meta) %>%
@@ -218,19 +218,25 @@ typicality_ratings %>%
   # geom_text(aes(y = 0.02, label = model), color = "white", angle = 90, hjust = "left", vjust = "center") +
   # facet_wrap(~category, nrow = 2) +
   # scale_color_identity(guide = "legend", name = "Model", aesthetics = c("color", "fill"), labels = levels, breaks = colors) +
+  annotate("text", x = 3.5, y = 0.5, label = "ALBERT", size = 5.5, color = "#2e59a8", fontface = "bold") +
+  annotate("text", x = 7, y = 0.5, label = "BERT", size = 5.5, color = "#fe9929", fontface = "bold") +
+  annotate("text", x = 10, y = 0.5, label = "ELECTRA", size = 5.5, color = "#54278f", fontface = "bold") +
+  annotate("text", x = 14.5, y = 0.5, label = "GPT/GPT2", size = 5.5, color = "#93003a", fontface = "bold") +
+  annotate("text", x = 19, y = 0.5, label = "RoBERTa", size = 5.5, color = "#238443", fontface = "bold") +
   scale_color_identity(aesthetics = c("color", "fill")) +
   scale_y_continuous(limits = c(0, 1), expand = c(0, 0.008)) +
   labs(
     x = "Model",
     y = "Pearson's r"
   ) +
+  theme_bw(base_size = 18) +
   theme(
     legend.position = "top",
     panel.grid.major = element_blank(),
     panel.grid.minor = element_blank(),
     axis.text.x = element_text(angle = 20, vjust = 0.8),
     axis.title.x = element_blank(),
-    plot.margin = margin(0.1, 0, 0, 0, "cm"),
+    plot.margin = margin(0.1, 0.1, 0.1, 0.1, "cm"),
     panel.background = element_rect(fill = "transparent"), # bg of the panel
     plot.background = element_rect(fill = "transparent", color = NA), # bg of the plot
     legend.background = element_rect(fill = "transparent"), # get rid of legend bg
@@ -238,7 +244,7 @@ typicality_ratings %>%
   )
 
 # ggsave("paper/taxonomicverification.pdf", height = 5, width = 10, bg = "transparent")
-ggsave("paper/taxonomicverification01.pdf", height = 5, width = 8, bg = "transparent")
+ggsave("paper/taxonomicverification01.pdf", height = 5.2, width = 8.2, bg = "transparent")
 ```
 
 
@@ -721,27 +727,49 @@ corrected %>%
   unnest(cor) %>%
   inner_join(model_meta) %>% 
   mutate(model = factor(model, levels = levels), short = factor(short, levels = shortlevels)) %>%
-  ggplot(aes(short, post_cor, color = color, fill = color)) +
+  ggplot(aes(short, consistency, color = color, fill = color)) +
   geom_col() +
   scale_color_identity(aesthetics = c("color", "fill")) +
-  scale_y_continuous(limits = c(0, 1), expand = c(0, 0.01)) +
+  annotate("text", x = 2.5, y = 0.5, label = "ALBERT", size = 5.5, color = "#2e59a8", fontface = "bold") +
+  annotate("text", x = 6, y = 0.5, label = "BERT", size = 5.5, color = "#fe9929", fontface = "bold") +
+  annotate("text", x = 9, y = 0.5, label = "ELECTRA", size = 5.5, color = "#54278f", fontface = "bold") +
+  annotate("text", x = 13.5, y = 0.5, label = "GPT/GPT2", size = 5.5, color = "#93003a", fontface = "bold") +
+  annotate("text", x = 18, y = 0.5, label = "RoBERTa", size = 5.5, color = "#238443", fontface = "bold") +
+  scale_y_continuous(limits = c(0, 1), expand = c(0, 0.008)) +
   labs(
     y = "Pearson's r"
   ) +
+  theme_bw(base_size = 18) +
   theme(
+    legend.position = "top",
     panel.grid.major = element_blank(),
     panel.grid.minor = element_blank(),
     axis.text.x = element_text(angle = 20, vjust = 0.8),
     axis.title.x = element_blank(),
-    plot.margin = margin(0.1, 0, 0, 0, "cm"),
+    plot.margin = margin(0.1, 0.1, 0.1, 0.1, "cm"),
     panel.background = element_rect(fill = "transparent"), # bg of the panel
     plot.background = element_rect(fill = "transparent", color = NA), # bg of the plot
     legend.background = element_rect(fill = "transparent"), # get rid of legend bg
     legend.box.background = element_rect(fill = "transparent")
   )
+  # scale_y_continuous(limits = c(0, 1), expand = c(0, 0.01)) +
+  # labs(
+  #   y = "Pearson's r"
+  # ) +
+  # theme(
+  #   panel.grid.major = element_blank(),
+  #   panel.grid.minor = element_blank(),
+  #   axis.text.x = element_text(angle = 20, vjust = 0.8),
+  #   axis.title.x = element_blank(),
+  #   plot.margin = margin(0.1, 0, 0, 0, "cm"),
+  #   panel.background = element_rect(fill = "transparent"), # bg of the panel
+  #   plot.background = element_rect(fill = "transparent", color = NA), # bg of the plot
+  #   legend.background = element_rect(fill = "transparent"), # get rid of legend bg
+  #   legend.box.background = element_rect(fill = "transparent")
+  # )
 
 # ggsave(here::here("paper/correctedinduction.pdf"), height = 5, width = 10)
-ggsave(here::here("paper/correctedinduction01.pdf"), height = 5, width = 10)
+ggsave(here::here("paper/correctedinduction01.pdf"), height = 5.2, width = 8.2)
 ```
 
 
@@ -862,10 +890,281 @@ pairing_model <- model_groups %>%
 
 ## Avg. Typicality Ratings for Humans vs Models
 ```{r}
-pairing_human %>%
-  unnest(c(item1, item2))
+scale_minmax <- function(x, range = c(0, 1)) {
+  scaled = (x - min(x))/(max(x) - min(x)) * (range[2] - range[1]) + range[1]
+  return(scaled)
+}
+
+experiment_results_corrected <- corrected %>%
+  inner_join(typicality_ratings %>% select(model, category, taxonomic = score, rating) %>% group_by(model, category) %>% mutate(item_id = row_number())) %>%
+  ungroup() %>%
+  group_by(model, category, predicate_id, argument_id) %>%
+  mutate(
+    strength = scale_minmax(corrected_score),
+    rating = scale_minmax(-rating),
+    taxonomic = scale_minmax(taxonomic)
+  )
+  
+
+paired_comparison <- pairing_human %>%
+  unnest(c(item1, item2)) %>%
+  ungroup() %>%
+    inner_join(experiment_results_corrected %>% select(model, category, predicate_id, argument_id, item1 = item, strength1 = strength, rating1 = rating, taxonomic1 = taxonomic)) %>% inner_join(experiment_results_corrected %>% select(model, category, predicate_id, argument_id, item2 = item, strength2 = strength, rating2 = rating, taxonomic2= taxonomic)) %>%
+  group_by(model, category, item1, item2) %>%
+  summarize(
+    strength1 = mean(strength1),
+    strength2 = mean(strength2),
+    rating1 = mean(rating1),
+    rating2 = mean(rating2),
+    taxonomic1 = mean(taxonomic1),
+    taxonomic2 = mean(taxonomic2)
+  )
+
+paired_comparison %>%
+  select(model, category, item1, item2, taxonomic1, taxonomic2, strength1, strength2) %>%
+  group_by(model) %>%
+  nest() %>%
+  mutate(
+    tests = map(data, function(x) {
+      n_success_t = sum(x$taxonomic1 > x$taxonomic2)
+      t <- binom.test(n_success_t, nrow(x)) %>%
+        glance() %>%
+        select(t_success = estimate, t_pvalue = p.value)
+      
+      n_success_as = sum(x$strength1 > x$strength2)
+      as <- binom.test(n_success_as, nrow(x)) %>%
+        glance() %>%
+        select(as_success = estimate, as_pvalue = p.value)
+      bind_cols(t, as)
+    })
+  ) %>%
+  select(-data) %>%
+  unnest(tests)
+
+run_btests <- function() {
+  result <- pairing_human %>%
+  mutate(
+      item2 = map(item2, function(x) {
+          rows = sample(nrow(x))
+          return(x[rows, ])
+      })
+  ) %>%
+  unnest(c(item1, item2)) %>% 
+    ungroup() %>%
+    inner_join(experiment_results_corrected %>% select(model, category, predicate_id, argument_id, item1 = item, strength1 = strength, taxonomic1 = taxonomic)) %>% inner_join(experiment_results_corrected %>% select(model, category, predicate_id, argument_id, item2 = item, strength2 = strength, taxonomic2= taxonomic)) %>%
+  group_by(model, category, item1, item2) %>%
+  summarize(
+    strength1 = mean(strength1),
+    strength2 = mean(strength2),
+    taxonomic1 = mean(taxonomic1),
+    taxonomic2 = mean(taxonomic2)
+  ) %>%
+    ungroup() %>%
+    group_by(model) %>%
+  nest() %>%
+  mutate(
+    tests = map(data, function(x) {
+      n_success_t = sum(x$taxonomic1 > x$taxonomic2)
+      t <- binom.test(n_success_t, nrow(x)) %>%
+        glance() %>%
+        select(t_success = estimate, t_pvalue = p.value)
+      
+      n_success_as = sum(x$strength1 > x$strength2)
+      as <- binom.test(n_success_as, nrow(x)) %>%
+        glance() %>%
+        select(as_success = estimate, as_pvalue = p.value)
+      bind_cols(t, as)
+    })
+  ) %>%
+  select(-data) %>%
+  unnest(tests)
+  
+  return(result)
+}
+  
 ```
 
+```{r}
+# real fun
+set.seed(1234)
+btests <- replicate(100, run_btests(), simplify = FALSE)
+```
+
+
+```{r}
+btests %>%
+  bind_rows(.id = "run") %>%
+  group_by(model) %>%
+  summarise(
+    t_success = mean(t_success),
+    adj_p_t = p.adjust(t_pvalue, "bonferroni"),
+    as_success = mean(as_success),
+    adj_p_as = p.adjust(as_pvalue, "bonferroni")
+  )
+```
+
+
+```{r}
+per_model <- paired_comparison %>%
+  group_by(model) %>%
+  summarize(t1 = mean(taxonomic1), t2 = mean(taxonomic2)) %>%
+  pivot_longer(t1:t2) %>%
+  mutate(name = case_when(name == "t1" ~ "High Typicality", TRUE ~ "Low Typicality"))
+
+ngram_taxonomic <- pairing_human %>%
+  unnest(c(item1, item2)) %>%
+  inner_join(corrected %>% ungroup() %>% distinct(category, item, item_id) %>% rename(item1 = item, item_id1 = item_id)) %>%
+  inner_join(corrected %>% ungroup() %>% distinct(category, item, item_id) %>% rename(item2 = item, item_id2 = item_id)) %>%
+  inner_join(typicality_ratings %>% filter(model == "5gram") %>% select(category, item_id1 = rank, taxonomic1 = score)) %>%
+  inner_join(typicality_ratings %>% filter(model == "5gram") %>% select(category, item_id2 = rank, taxonomic2 = score)) %>%
+  group_by(category) %>%
+  mutate(
+    taxonomic1 = scale_minmax(taxonomic1),
+    taxonomic2 = scale_minmax(taxonomic2)
+  ) %>%
+  ungroup() %>%
+  summarize(t1 = mean(taxonomic1), t2 = mean(taxonomic2)) %>%
+  pivot_longer(t1:t2) %>%
+  mutate(name = case_when(name == "t1" ~ "High Typicality", TRUE ~ "Low Typicality"), model = "5gram")
+
+high_low_taxonomic <- bind_rows(
+  per_model,
+  paired_comparison %>%
+    ungroup() %>%
+    summarize(t1 = mean(taxonomic1), t2 = mean(taxonomic2)) %>%
+    pivot_longer(t1:t2) %>%
+    mutate(name = case_when(name == "t1" ~ "High Typicality", TRUE ~ "Low Typicality"), model = "average"),
+  ngram_taxonomic,
+  paired_comparison %>%
+    ungroup() %>%
+    summarize(t1 = mean(rating1), t2 = mean(rating2)) %>%
+    pivot_longer(t1:t2) %>%
+    mutate(name = case_when(name == "t1" ~ "High Typicality", TRUE ~ "Low Typicality"), model = "human")
+) %>%
+  mutate(
+    color = case_when(
+      model == "human" ~ "#a20a0a",
+      model == "average" ~ "#0278ae",
+      model == "5gram" ~ "black",
+      TRUE ~ "black"
+    ),
+    alpha = case_when(
+      model == "human" ~ 1,
+      model == "average" ~ 1,
+      model == "5gram" ~ 1,
+      TRUE ~ 0.1
+    ),
+    size = case_when(
+      model == "human" ~ 1.4,
+      model == "average" ~ 1.4,
+      model == "5gram" ~ 1,
+      TRUE ~ 1
+    ),
+    linetype = case_when(
+      model == "human" ~ "solid",
+      model == "average" ~ "solid",
+      model == "5gram" ~ "dotdash",
+      TRUE ~ "solid"
+    ),
+    name = factor(name, levels = c("Low Typicality", "High Typicality"))
+  )
+
+high_low_taxonomic %>%
+  ggplot(aes(name, value, group = model, color = color, alpha = alpha, linetype = linetype)) +
+  geom_point(size = 3) +
+  geom_line(aes(size = size)) +
+  annotate("text", label = "5gram", x = "High Typicality", y = 0.4, size = 6.5) +
+  annotate("text", label = "Human", x = "High Typicality", y = 0.88, size = 6.5, color = "#a20a0a") +
+  annotate("text", label = "Avg.\nof LMs", x = 0.85, y = 0.6, size = 6.5, color = "#0278ae") +
+  scale_y_continuous(limits = c(0,1), expand = c(0,0.01)) + 
+  scale_x_discrete(expand = c(0,0.3)) +
+  scale_color_identity() + 
+  scale_linetype_identity() + 
+  scale_alpha_identity() +
+  scale_size_identity() +
+  labs(
+    y = "Rating (Scaled)",
+    x = ""
+  ) +
+  theme_bw(base_size = 20) +
+  theme(
+    panel.grid = element_blank(),
+    axis.title.x = element_blank()
+  )
+
+ggsave(here::here("paper/binnedtaxonomic.pdf"), height = 4.4, width = 5.5)
+
+high_low_induction <- bind_rows(
+  paired_comparison %>%
+    group_by(model) %>%
+    summarize(t1 = mean(strength1), t2 = mean(strength2)) %>%
+    pivot_longer(t1:t2) %>%
+    mutate(name = case_when(name == "t1" ~ "High Typicality", TRUE ~ "Low Typicality")),
+  paired_comparison %>%
+    ungroup() %>%
+    summarize(t1 = mean(strength1), t2 = mean(strength2)) %>%
+    pivot_longer(t1:t2) %>%
+    mutate(name = case_when(name == "t1" ~ "High Typicality", TRUE ~ "Low Typicality"), model = "average"),
+  paired_comparison %>%
+    ungroup() %>%
+    summarize(t1 = mean(rating1), t2 = mean(rating2)) %>%
+    pivot_longer(t1:t2) %>%
+    mutate(name = case_when(name == "t1" ~ "High Typicality", TRUE ~ "Low Typicality"), model = "human")
+) %>%
+  mutate(
+    color = case_when(
+      model == "human" ~ "#a20a0a",
+      model == "average" ~ "#0278ae",
+      model == "5gram" ~ "black",
+      TRUE ~ "black"
+    ),
+    alpha = case_when(
+      model == "human" ~ 1,
+      model == "average" ~ 1,
+      model == "5gram" ~ 1,
+      TRUE ~ 0.1
+    ),
+    size = case_when(
+      model == "human" ~ 1.4,
+      model == "average" ~ 1.4,
+      model == "5gram" ~ 1,
+      TRUE ~ 1
+    ),
+    linetype = case_when(
+      model == "human" ~ "solid",
+      model == "average" ~ "solid",
+      model == "5gram" ~ "dotdash",
+      TRUE ~ "solid"
+    ),
+    name = factor(name, levels = c("Low Typicality", "High Typicality"))
+  )
+
+high_low_induction %>%
+  ggplot(aes(name, value, group = model, color = color, alpha = alpha, linetype = linetype)) +
+  geom_point(size = 3) +
+  geom_line(aes(size = size)) +
+  # annotate("text", label = "5gram", x = "High Typicality", y = 0.4, size = 6.5) +
+  annotate("text", label = "Human", x = "High Typicality", y = 0.88, size = 6, color = "#a20a0a") +
+  annotate("text", label = "Avg.\nof LMs", x = 0.85, y = 0.5, size = 6, color = "#0278ae") +
+  scale_y_continuous(limits = c(0,1), expand = c(0,0.01)) + 
+  scale_x_discrete(expand = c(0,0.3)) +
+  scale_color_identity() + 
+  scale_linetype_identity() + 
+  scale_alpha_identity() +
+  scale_size_identity() +
+  labs(
+    y = "Rating (Scaled)",
+    x = ""
+  ) +
+  theme_bw(base_size = 18) +
+  theme(
+    panel.grid = element_blank(),
+    axis.title.x = element_blank()
+  )
+
+ggsave(here::here("paper/binnedinduction.pdf"), height = 5.227, width = 6.927)
+
+```
 
 
 ```{r}
