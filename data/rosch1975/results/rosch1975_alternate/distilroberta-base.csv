@@ -1,0 +1,566 @@
+preamble,stimulus,item,category,rank,params,model
+A gun is a,weapon.,gun,weapon,1,0.15812839430086997,82170201,distilroberta-base
+A pistol is a,weapon.,pistol,weapon,2,0.15984869538536797,82170201,distilroberta-base
+A revolver is a,weapon.,revolver,weapon,3,0.07297651462098383,82170201,distilroberta-base
+A machine gun is a,weapon.,machine gun,weapon,4,0.1283568090631809,82170201,distilroberta-base
+A rifle is a,weapon.,rifle,weapon,5,0.0933526268843335,82170201,distilroberta-base
+A switchblade is a,weapon.,switchblade,weapon,6,0.02513158167675277,82170201,distilroberta-base
+A knife is a,weapon.,knife,weapon,7,0.2279736648499118,82170201,distilroberta-base
+A dagger is a,weapon.,dagger,weapon,8,0.06763896269806169,82170201,distilroberta-base
+A shotgun is a,weapon.,shotgun,weapon,9,0.1774406129742451,82170201,distilroberta-base
+A sword is a,weapon.,sword,weapon,10,0.10283960163787706,82170201,distilroberta-base
+A bomb is a,weapon.,bomb,weapon,11,0.04024108528938928,82170201,distilroberta-base
+A hand grenade is a,weapon.,hand grenade,weapon,12,0.12045754170373837,82170201,distilroberta-base
+An atom bomb is a,weapon.,Atom bomb,weapon,13,0.024781814344109726,82170201,distilroberta-base
+A bayonet is a,weapon.,bayonet,weapon,14,0.09017724082002551,82170201,distilroberta-base
+A spear is a,weapon.,spear,weapon,15,0.04512060205651728,82170201,distilroberta-base
+A bazooka is a,weapon.,bazooka,weapon,16,0.0011260185576385043,82170201,distilroberta-base
+A cannon is a,weapon.,cannon,weapon,17,0.053649586105110246,82170201,distilroberta-base
+A bow and arrow is a,weapon.,bow and arrow,weapon,18,0.15092976750942874,82170201,distilroberta-base
+A club is a,weapon.,club,weapon,19,0.00047923562260495165,82170201,distilroberta-base
+A lance is a,weapon.,lance,weapon,20,0.002479324311878733,82170201,distilroberta-base
+A brass knuckle is a,weapon.,brass knuckle,weapon,21,0.012160420935693427,82170201,distilroberta-base
+A bullet is a,weapon.,bullet,weapon,22,0.029856960603703856,82170201,distilroberta-base
+A tomahawk is a,weapon.,tomahawk,weapon,23,0.0049808176397391,82170201,distilroberta-base
+A mortar is a,weapon.,mortar,weapon,24,0.020388444602478316,82170201,distilroberta-base
+An arrow is a,weapon.,arrow,weapon,25,0.010658545864282106,82170201,distilroberta-base
+A blackjack is a,weapon.,blackjack,weapon,26,0.0019625530757197045,82170201,distilroberta-base
+A tank is a,weapon.,tank,weapon,27,0.018389393580167848,82170201,distilroberta-base
+Teargas is a,weapon.,teargas,weapon,28,0.0004579538419043661,82170201,distilroberta-base
+A missile is a,weapon.,missile,weapon,29,0.05339819310003324,82170201,distilroberta-base
+A whip is a,weapon.,whip,weapon,30,0.013946193497158376,82170201,distilroberta-base
+An ice pick is a,weapon.,ice pick,weapon,31,0.007687400065307084,82170201,distilroberta-base
+A hatchet is a,weapon.,hatchet,weapon,32,0.0505109474226976,82170201,distilroberta-base
+A slingshot is a,weapon.,slingshot,weapon,33,0.016345604852605687,82170201,distilroberta-base
+A fist is a,weapon.,fist,weapon,34,0.017135945294677227,82170201,distilroberta-base
+An axe is a,weapon.,axe,weapon,35,0.04439650807777746,82170201,distilroberta-base
+A bow is a,weapon.,bow,weapon,36,0.02148857666842662,82170201,distilroberta-base
+A razor is a,weapon.,razor,weapon,37,0.01963070714208755,82170201,distilroberta-base
+A razor blade is a,weapon.,razor blade,weapon,38,0.0554281456294973,82170201,distilroberta-base
+A rocket is a,weapon.,rocket,weapon,39,0.017975228180101006,82170201,distilroberta-base
+A judo is a,weapon.,judo,weapon,40,0.004170647931280378,82170201,distilroberta-base
+A stick is a,weapon.,stick,weapon,41,0.008162975949938001,82170201,distilroberta-base
+A poison is a,weapon.,poison,weapon,42,0.01588545845959709,82170201,distilroberta-base
+A rock is a,weapon.,rock,weapon,43,0.0006741813015219637,82170201,distilroberta-base
+A stone is a,weapon.,stone,weapon,44,0.003627674341920434,82170201,distilroberta-base
+Gas is a,weapon.,gas,weapon,45,0.003174671619878303,82170201,distilroberta-base
+A chain is a,weapon.,chain,weapon,46,0.0010081309072609516,82170201,distilroberta-base
+A scissor is a,weapon.,scissor,weapon,47,0.008119303577735743,82170201,distilroberta-base
+A brick is a,weapon.,brick,weapon,48,0.00044252572017330915,82170201,distilroberta-base
+A pitchfork is a,weapon.,pitchfork,weapon,49,0.01320802077102875,82170201,distilroberta-base
+A hammer is a,weapon.,hammer,weapon,50,0.011315479818457059,82170201,distilroberta-base
+A word is a,weapon.,word,weapon,51,0.0008545001683973794,82170201,distilroberta-base
+A hand is a,weapon.,hand,weapon,52,0.01272090432524618,82170201,distilroberta-base
+A pipe is a,weapon.,pipe,weapon,53,0.0029840662838852296,82170201,distilroberta-base
+A rope is a,weapon.,rope,weapon,54,0.008570518292890322,82170201,distilroberta-base
+An airplane is a,weapon.,airplane,weapon,55,0.007814836002028702,82170201,distilroberta-base
+A foot is a,weapon.,foot,weapon,56,0.004077502140368964,82170201,distilroberta-base
+A car is a,weapon.,car,weapon,57,0.0025465256934976144,82170201,distilroberta-base
+A screwdriver is a,weapon.,screwdriver,weapon,58,0.011974905626397933,82170201,distilroberta-base
+Glass is a,weapon.,glass,weapon,59,0.0008167460977201463,82170201,distilroberta-base
+A shoe is a,weapon.,shoe,weapon,60,0.004958513860361931,82170201,distilroberta-base
+Orange is a,fruit.,orange,fruit,1,0.00038958254867769683,82170201,distilroberta-base
+Apple is a,fruit.,apple,fruit,2,8.313741501697409e-05,82170201,distilroberta-base
+Banana is a,fruit.,banana,fruit,3,0.0006975703824374329,82170201,distilroberta-base
+Peach is a,fruit.,peach,fruit,4,0.00018771539991212954,82170201,distilroberta-base
+Pear is a,fruit.,pear,fruit,5,8.440815203992086e-05,82170201,distilroberta-base
+Apricot is a,fruit.,apricot,fruit,6,0.004328251335394294,82170201,distilroberta-base
+Tangerine is a,fruit.,tangerine,fruit,7,0.0007346650151247332,82170201,distilroberta-base
+Plum is a,fruit.,plum,fruit,8,0.0014510607009136855,82170201,distilroberta-base
+Grape is a,fruit.,grape,fruit,9,0.00043960108466721987,82170201,distilroberta-base
+Nectarine is a,fruit.,nectarine,fruit,10,0.0010466320423695356,82170201,distilroberta-base
+Strawberry is a,fruit.,strawberry,fruit,11,0.0031868416295011653,82170201,distilroberta-base
+Grapefruit is a,fruit.,grapefruit,fruit,12,0.014079226755165465,82170201,distilroberta-base
+Berry is a,fruit.,berry,fruit,13,2.800264697785044e-05,82170201,distilroberta-base
+Cherry is a,fruit.,cherry,fruit,14,0.0008426081135736673,82170201,distilroberta-base
+Pineapple is a,fruit.,pineapple,fruit,15,0.006038123126510561,82170201,distilroberta-base
+Blackberry is a,fruit.,blackberry,fruit,16,0.0016180883503380725,82170201,distilroberta-base
+Melon is a,fruit.,melon,fruit,17,4.865559619329022e-06,82170201,distilroberta-base
+Blueberry is a,fruit.,blueberry,fruit,18,0.004981373429855378,82170201,distilroberta-base
+Raspberry is a,fruit.,raspberry,fruit,19,0.0012105591758277202,82170201,distilroberta-base
+Lemon is a,fruit.,lemon,fruit,20,3.897107368359256e-05,82170201,distilroberta-base
+Black raspberry is a,fruit.,black raspberry,fruit,21,0.007164153345406438,82170201,distilroberta-base
+Boysenberry is a,fruit.,boysenberry,fruit,22,0.00011786159719968368,82170201,distilroberta-base
+Watermelon is a,fruit.,watermelon,fruit,23,0.013063433225405228,82170201,distilroberta-base
+Cantaloupe is a,fruit.,cantaloupe,fruit,24,7.705955397264167e-05,82170201,distilroberta-base
+Lime is a,fruit.,lime,fruit,25,0.00017145556054144542,82170201,distilroberta-base
+Tangelo is a,fruit.,tangelo,fruit,26,1.7130118679164315e-05,82170201,distilroberta-base
+Papaya is a,fruit.,papaya,fruit,27,0.00025670869761319385,82170201,distilroberta-base
+Honeydew is a,fruit.,honeydew,fruit,28,3.741454865426222e-05,82170201,distilroberta-base
+Fig is a,fruit.,fig,fruit,29,0.00043421633597509396,82170201,distilroberta-base
+Mango is a,fruit.,mango,fruit,30,0.0007240069597105447,82170201,distilroberta-base
+Guava is a,fruit.,guava,fruit,31,3.210751997643425e-05,82170201,distilroberta-base
+Pomegranate is a,fruit.,pomegranate,fruit,32,0.005753820134809606,82170201,distilroberta-base
+Cranberry is a,fruit.,cranberry,fruit,33,0.00020639972867265042,82170201,distilroberta-base
+Passion fruit is a,fruit.,passion fruit,fruit,34,0.011298173058726881,82170201,distilroberta-base
+Prune is a,fruit.,prune,fruit,35,1.926692786737005e-05,82170201,distilroberta-base
+Gooseberry is a,fruit.,gooseberry,fruit,36,0.0018311490323818568,82170201,distilroberta-base
+Date is a,fruit.,date,fruit,37,0.00010747110922362746,82170201,distilroberta-base
+Kumquat is a,fruit.,kumquat,fruit,38,1.1123991312211287e-05,82170201,distilroberta-base
+Raisin is a,fruit.,raisin,fruit,39,3.742844790307081e-06,82170201,distilroberta-base
+Muskmelon is a,fruit.,muskmelon,fruit,40,2.2803495429024013e-05,82170201,distilroberta-base
+Persimmon is a,fruit.,persimmon,fruit,41,0.00010172773260110529,82170201,distilroberta-base
+Pawpaw is a,fruit.,pawpaw,fruit,42,2.3791571010975187e-05,82170201,distilroberta-base
+Coconut is a,fruit.,coconut,fruit,43,0.003625222300521634,82170201,distilroberta-base
+Avocado is a,fruit.,avocado,fruit,44,0.0039569608337739915,82170201,distilroberta-base
+Pumpkin is a,fruit.,pumpkin,fruit,45,0.00011198933285246268,82170201,distilroberta-base
+Tomato is a,fruit.,tomato,fruit,46,1.2401663996093449e-05,82170201,distilroberta-base
+Nut is a,fruit.,nut,fruit,47,0.0008543445338333499,82170201,distilroberta-base
+Gourd is a,fruit.,gourd,fruit,48,8.862173648925875e-06,82170201,distilroberta-base
+Olive is a,fruit.,olive,fruit,49,5.029063270728938e-05,82170201,distilroberta-base
+Pickle is a,fruit.,pickle,fruit,50,0.0001697595475699722,82170201,distilroberta-base
+Squash is a,fruit.,squash,fruit,51,0.00014755296014827327,82170201,distilroberta-base
+A doll is a,toy.,doll,toy,1,0.04985173148601805,82170201,distilroberta-base
+A top is a,toy.,top,toy,2,0.00012487178390188132,82170201,distilroberta-base
+A jack-in-the-box is a,toy.,jack-in-the-box,toy,3,0.006293918047494064,82170201,distilroberta-base
+A toy soldier is a,toy.,toy soldier,toy,4,0.08007850215479982,82170201,distilroberta-base
+A yo-yo is a,toy.,yo-yo,toy,5,0.006161191046285367,82170201,distilroberta-base
+A block is a,toy.,block,toy,6,0.0008292959171011528,82170201,distilroberta-base
+Marbles are,toys.,marbles,toy,7,0.00016436094515439077,82170201,distilroberta-base
+A rattle is a,toy.,rattle,toy,8,0.004052675377696959,82170201,distilroberta-base
+A stuffed animal is a,toy.,stuffed animal,toy,9,0.03484768372580759,82170201,distilroberta-base
+A water pistol is a,toy.,water pistol,toy,10,0.017662759402018034,82170201,distilroberta-base
+A teddy bear is a,toy.,teddy bear,toy,11,0.041049290789915004,82170201,distilroberta-base
+A rocking horse is a,toy.,rocking horse,toy,12,0.0057727658794246095,82170201,distilroberta-base
+A doll house is a,toy.,doll house,toy,13,0.019832901721573072,82170201,distilroberta-base
+A ball is a,toy.,ball,toy,14,0.009132026264210537,82170201,distilroberta-base
+Jacks are,toys.,jacks,toy,15,2.9979089012160207e-05,82170201,distilroberta-base
+Paper dolls are,toys.,paper dolls,toy,16,0.008497085352675774,82170201,distilroberta-base
+An erector set is a,toy.,erector set,toy,17,0.009610790025327115,82170201,distilroberta-base
+A hula hoop is a,toy.,hula hoop,toy,18,0.017530438493571478,82170201,distilroberta-base
+A jump rope is a,toy.,jump rope,toy,19,0.0072558849585545,82170201,distilroberta-base
+A pogo stick is a,toy.,pogo stick,toy,20,0.02369494299243439,82170201,distilroberta-base
+A clay is a,toy.,clay,toy,21,0.00194784128281194,82170201,distilroberta-base
+A wagon is a,toy.,wagon,toy,22,0.008871768060152403,82170201,distilroberta-base
+A kite is a,toy.,kite,toy,23,0.004295690962731338,82170201,distilroberta-base
+A train is a,toy.,train,toy,24,0.006674968251787497,82170201,distilroberta-base
+A tricycle is a,toy.,tricycle,toy,25,0.009074493854910605,82170201,distilroberta-base
+A coloring book is a,toy.,coloring book,toy,26,0.026520505940965736,82170201,distilroberta-base
+Crayons are,toys.,crayons,toy,27,0.00014991532113555557,82170201,distilroberta-base
+A truck is a,toy.,truck,toy,28,0.015184559980643754,82170201,distilroberta-base
+A puzzle is a,toy.,puzzle,toy,29,0.004071774357366281,82170201,distilroberta-base
+A fire engine is a,toy.,fire engine,toy,30,0.008487204890144316,82170201,distilroberta-base
+A balloon is a,toy.,balloon,toy,31,0.025771491818121404,82170201,distilroberta-base
+Skates are,toys.,skates,toy,32,8.313487790312968e-05,82170201,distilroberta-base
+A baseball is a,toy.,baseball,toy,33,0.002317550361676529,82170201,distilroberta-base
+A drum is a,toy.,drum,toy,34,0.004158042624826351,82170201,distilroberta-base
+A football is a,toy.,football,toy,35,0.004621032175908319,82170201,distilroberta-base
+A game is a,toy.,game,toy,36,0.002843218147087114,82170201,distilroberta-base
+A swing is a,toy.,swing,toy,37,0.0016477206199247345,82170201,distilroberta-base
+A boat is a,toy.,boat,toy,38,0.004232130520167362,82170201,distilroberta-base
+A monopoly is a,toy.,monopoly,toy,39,0.00018679446357888828,82170201,distilroberta-base
+A sled is a,toy.,sled,toy,40,0.011652236345889015,82170201,distilroberta-base
+A seesaw is a,toy.,seesaw,toy,41,0.0025745194089220637,82170201,distilroberta-base
+Stilts are,toys.,stilts,toy,42,0.00037728625160811906,82170201,distilroberta-base
+Checkers are,toys.,checkers,toy,43,1.421253139572369e-05,82170201,distilroberta-base
+A bat is a,toy.,bat,toy,44,0.004178670178028853,82170201,distilroberta-base
+A car is a,toy.,car,toy,45,0.017442670374922246,82170201,distilroberta-base
+An airplane is a,toy.,airplane,toy,46,0.009192027077016064,82170201,distilroberta-base
+A bicycle is a,toy.,bicycle,toy,47,0.008550932520097511,82170201,distilroberta-base
+A tractor is a,toy.,tractor,toy,48,0.01345939623254387,82170201,distilroberta-base
+A sandbox is a,toy.,sandbox,toy,49,0.0022580835084542662,82170201,distilroberta-base
+A bike is a,toy.,bike,toy,50,0.006616836245360478,82170201,distilroberta-base
+A bow and arrow is a,toy.,bow and arrow,toy,51,0.0007247139975323208,82170201,distilroberta-base
+A rope is a,toy.,rope,toy,52,0.003237419164375768,82170201,distilroberta-base
+Dishes are,toys.,dishes,toy,53,5.120665325183368e-06,82170201,distilroberta-base
+Cards are,toys.,cards,toy,54,1.6117837098705327e-06,82170201,distilroberta-base
+A mitt is a,toy.,mitt,toy,55,0.00403958285592016,82170201,distilroberta-base
+A horse is a,toy.,horse,toy,56,0.0036812859637428332,82170201,distilroberta-base
+A gun is a,toy.,gun,toy,57,0.015588222403099669,82170201,distilroberta-base
+Animals are,toys.,animals,toy,58,0.0014457923249164256,82170201,distilroberta-base
+A tennis racket is a,toy.,tennis racket,toy,59,0.01755586878079831,82170201,distilroberta-base
+Books are,toys.,books,toy,60,0.0001937646514945934,82170201,distilroberta-base
+A pant is a type of,clothing.,pant,clothing,1,0.035429687067283035,82170201,distilroberta-base
+A shirt is a type of,clothing.,shirt,clothing,2,0.05224785313242767,82170201,distilroberta-base
+A dress is a type of,clothing.,dress,clothing,3,0.04849041536011694,82170201,distilroberta-base
+A skirt is a type of,clothing.,skirt,clothing,4,0.0183905686296956,82170201,distilroberta-base
+A blouse is a type of,clothing.,blouse,clothing,5,0.02679409924483009,82170201,distilroberta-base
+A suit is a type of,clothing.,suit,clothing,6,0.03211565372757917,82170201,distilroberta-base
+A slack is a type of,clothing.,slack,clothing,7,6.011623307240555e-05,82170201,distilroberta-base
+A jacket is a type of,clothing.,jacket,clothing,8,0.053177789725088236,82170201,distilroberta-base
+A coat is a type of,clothing.,coat,clothing,9,0.062286384734876354,82170201,distilroberta-base
+A sweater is a type of,clothing.,sweater,clothing,10,0.0547631655495704,82170201,distilroberta-base
+A sweatshirt is a type of,clothing.,sweatshirt,clothing,11,0.04612272989385156,82170201,distilroberta-base
+An underpant is a type of,clothing.,underpant,clothing,12,0.00013937430576081966,82170201,distilroberta-base
+A sports jacket is a type of,clothing.,sports jacket,clothing,13,0.05476029318255605,82170201,distilroberta-base
+A jumper is a type of,clothing.,jumper,clothing,14,0.011318663694634046,82170201,distilroberta-base
+A panty is a type of,clothing.,panty,clothing,15,0.031240509104242798,82170201,distilroberta-base
+A sock is a type of,clothing.,sock,clothing,16,0.003330512961378922,82170201,distilroberta-base
+A parka is a type of,clothing.,parka,clothing,17,0.0002669281908701094,82170201,distilroberta-base
+A pajama is a type of,clothing.,pajama,clothing,18,0.017550595659815364,82170201,distilroberta-base
+An undershirt is a type of,clothing.,undershirt,clothing,19,0.02814394272043911,82170201,distilroberta-base
+An overcoat is a type of,clothing.,overcoat,clothing,20,0.01777926810405372,82170201,distilroberta-base
+A nightgown is a type of,clothing.,nightgown,clothing,21,0.0025121049433046295,82170201,distilroberta-base
+A raincoat is a type of,clothing.,raincoat,clothing,22,0.03099257539696048,82170201,distilroberta-base
+A bathing suit is a type of,clothing.,bathing suit,clothing,23,0.029557306892880286,82170201,distilroberta-base
+A bathrobe is a type of,clothing.,bathrobe,clothing,24,0.024107986648833474,82170201,distilroberta-base
+A slip is a type of,clothing.,slip,clothing,25,0.00023537107915191758,82170201,distilroberta-base
+A bra is a type of,clothing.,bra,clothing,26,0.029471964187528572,82170201,distilroberta-base
+A shoe is a type of,clothing.,shoe,clothing,27,0.01859032309056745,82170201,distilroberta-base
+A tuxedo is a type of,clothing.,tuxedo,clothing,28,0.028596061663288243,82170201,distilroberta-base
+A stocking is a type of,clothing.,stocking,clothing,29,0.011906977765057721,82170201,distilroberta-base
+A vest is a type of,clothing.,vest,clothing,30,0.06241756111268536,82170201,distilroberta-base
+A nylon is a type of,clothing.,nylon,clothing,31,0.008901710401002483,82170201,distilroberta-base
+A cape is a type of,clothing.,cape,clothing,32,0.01625395365586049,82170201,distilroberta-base
+A boot is a type of,clothing.,boot,clothing,33,0.00024278721488035923,82170201,distilroberta-base
+A sandal is a type of,clothing.,sandal,clothing,34,0.000599185670077796,82170201,distilroberta-base
+A tie is a type of,clothing.,tie,clothing,35,0.00811393933283239,82170201,distilroberta-base
+A girdle is a type of,clothing.,girdle,clothing,36,0.0017470613396554278,82170201,distilroberta-base
+A belt is a type of,clothing.,belt,clothing,37,0.01022389307476,82170201,distilroberta-base
+A scarf is a type of,clothing.,scarf,clothing,38,0.043634986009963614,82170201,distilroberta-base
+A mitten is a type of,clothing.,mitten,clothing,39,6.114806537619212e-05,82170201,distilroberta-base
+A slipper is a type of,clothing.,slipper,clothing,40,0.0034746451629342153,82170201,distilroberta-base
+A hat is a type of,clothing.,hat,clothing,41,0.012666537818488439,82170201,distilroberta-base
+An overshoe is a type of,clothing.,overshoe,clothing,42,0.010157127712995328,82170201,distilroberta-base
+A glove is a type of,clothing.,glove,clothing,43,0.003378791947730629,82170201,distilroberta-base
+An apron is a type of,clothing.,apron,clothing,44,0.001596279469587692,82170201,distilroberta-base
+An earmuff is a type of,clothing.,earmuff,clothing,45,3.570727266905248e-05,82170201,distilroberta-base
+A handkerchief is a type of,clothing.,handkerchief,clothing,46,0.00872065733615389,82170201,distilroberta-base
+A purse is a type of,clothing.,purse,clothing,47,0.006216221024910794,82170201,distilroberta-base
+A hairband is a type of,clothing.,hairband,clothing,48,0.01728573427751172,82170201,distilroberta-base
+A ring is a type of,clothing.,ring,clothing,49,0.0009788156175983623,82170201,distilroberta-base
+An earring is a type of,clothing.,earring,clothing,50,0.0015274659408396774,82170201,distilroberta-base
+A watch is a type of,clothing.,watch,clothing,51,0.003176621994939039,82170201,distilroberta-base
+A cuff link is a type of,clothing.,cuff link,clothing,52,0.001119664832757304,82170201,distilroberta-base
+A necklace is a type of,clothing.,necklace,clothing,53,0.005639771331113869,82170201,distilroberta-base
+A bracelet is a type of,clothing.,bracelet,clothing,54,0.004926490200350111,82170201,distilroberta-base
+A cane is a type of,clothing.,cane,clothing,55,1.7714284301095754e-05,82170201,distilroberta-base
+A chair is a type of,furniture.,chair,furniture,1,0.03471305034347674,82170201,distilroberta-base
+A sofa is a type of,furniture.,sofa,furniture,2,0.0986231591294677,82170201,distilroberta-base
+A couch is a type of,furniture.,couch,furniture,3,0.03548551562690109,82170201,distilroberta-base
+A table is a type of,furniture.,table,furniture,4,0.00025442013309943,82170201,distilroberta-base
+An easy chair is a type of,furniture.,easy chair,furniture,5,0.010947547127529668,82170201,distilroberta-base
+A dresser is a type of,furniture.,dresser,furniture,6,0.0005567942682757752,82170201,distilroberta-base
+A rocking chair is a type of,furniture.,rocking chair,furniture,7,0.057397599333593945,82170201,distilroberta-base
+A coffee table is a type of,furniture.,coffee table,furniture,8,0.012836017129423475,82170201,distilroberta-base
+A rocker is a type of,furniture.,rocker,furniture,9,1.1633964052246661e-05,82170201,distilroberta-base
+A love seat is a type of,furniture.,love seat,furniture,10,0.0021747620777194305,82170201,distilroberta-base
+A chest of drawers is a,furniture.,chest of drawers,furniture,11,1.2710759069503602e-05,82170201,distilroberta-base
+A desk is a type of,furniture.,desk,furniture,12,0.022416320236580134,82170201,distilroberta-base
+A bed is a type of,furniture.,bed,furniture,13,0.014154686572765217,82170201,distilroberta-base
+A bureau is a type of,furniture.,bureau,furniture,14,7.140545387280708e-05,82170201,distilroberta-base
+A davenport is a type of,furniture.,davenport,furniture,15,7.559878525090684e-05,82170201,distilroberta-base
+An end table is a type of,furniture.,end table,furniture,16,3.199955166371876e-05,82170201,distilroberta-base
+A divan is a type of,furniture.,divan,furniture,17,0.00012574175385463658,82170201,distilroberta-base
+A night table is a type of,furniture.,night table,furniture,18,0.011744701178509667,82170201,distilroberta-base
+A chest is a type of,furniture.,chest,furniture,19,0.001197430570012663,82170201,distilroberta-base
+A cedar chest is a type of,furniture.,cedar chest,furniture,20,0.007538230608956808,82170201,distilroberta-base
+A vanity is a type of,furniture.,vanity,furniture,21,3.913072923680949e-05,82170201,distilroberta-base
+A bookcase is a type of,furniture.,bookcase,furniture,22,0.008256576040801817,82170201,distilroberta-base
+A lounge is a type of,furniture.,lounge,furniture,23,0.0017956851659456335,82170201,distilroberta-base
+A chaise lounge is a type of,furniture.,chaise lounge,furniture,24,0.001406326394813866,82170201,distilroberta-base
+An ottoman is a type of,furniture.,ottoman,furniture,25,0.0001051928051125469,82170201,distilroberta-base
+A footstool is a type of,furniture.,footstool,furniture,26,0.004105843147218593,82170201,distilroberta-base
+A cabinet is a type of,furniture.,cabinet,furniture,27,0.021274026490401873,82170201,distilroberta-base
+A china closet is a type of,furniture.,china closet,furniture,28,0.004511967547055511,82170201,distilroberta-base
+A bench is a type of,furniture.,bench,furniture,29,0.00914378223720057,82170201,distilroberta-base
+A buffet is a type of,furniture.,buffet,furniture,30,0.0002645015969560915,82170201,distilroberta-base
+A lamp is a type of,furniture.,lamp,furniture,31,0.01231926247730933,82170201,distilroberta-base
+A stool is a type of,furniture.,stool,furniture,32,0.0025504484013246266,82170201,distilroberta-base
+A hassock is a type of,furniture.,hassock,furniture,33,7.317683526545566e-05,82170201,distilroberta-base
+A drawer is a type of,furniture.,drawer,furniture,34,0.006567936265588418,82170201,distilroberta-base
+A piano is a type of,furniture.,piano,furniture,35,0.003761242571044554,82170201,distilroberta-base
+A cushion is a type of,furniture.,cushion,furniture,36,0.0106480000417359,82170201,distilroberta-base
+A magazine rack is a type of,furniture.,magazine rack,furniture,37,0.006722100345366897,82170201,distilroberta-base
+A hi-fi is a type of,furniture.,hi-fi,furniture,38,0.00016232343130835405,82170201,distilroberta-base
+A cupboard is a type of,furniture.,cupboard,furniture,39,0.008374497833833197,82170201,distilroberta-base
+A stereo is a type of,furniture.,stereo,furniture,40,0.0013065220690391987,82170201,distilroberta-base
+A mirror is a type of,furniture.,mirror,furniture,41,0.000978488490578705,82170201,distilroberta-base
+A television is a type of,furniture.,television,furniture,42,0.0011257758925652163,82170201,distilroberta-base
+A bar is a type of,furniture.,bar,furniture,43,0.0015693987084133025,82170201,distilroberta-base
+A shelf is a type of,furniture.,shelf,furniture,44,0.01445874412969468,82170201,distilroberta-base
+A rug is a type of,furniture.,rug,furniture,45,0.012623065085625322,82170201,distilroberta-base
+A pillow is a type of,furniture.,pillow,furniture,46,0.004201615333727528,82170201,distilroberta-base
+A wastebasket is a type of,furniture.,wastebasket,furniture,47,0.0020007991506517595,82170201,distilroberta-base
+A radio is a type of,furniture.,radio,furniture,48,0.00016602677104909547,82170201,distilroberta-base
+A sewing machine is a type of,furniture.,sewing machine,furniture,49,0.0045011027977215,82170201,distilroberta-base
+A stove is a type of,furniture.,stove,furniture,50,0.005003994776897072,82170201,distilroberta-base
+A counter is a type of,furniture.,counter,furniture,51,0.0005450688889214108,82170201,distilroberta-base
+A clock is a type of,furniture.,clock,furniture,52,0.0002142362853262934,82170201,distilroberta-base
+A drape is a type of,furniture.,drape,furniture,53,0.0004930228932311967,82170201,distilroberta-base
+A refrigerator is a type of,furniture.,refrigerator,furniture,54,0.0026906472030661394,82170201,distilroberta-base
+A picture is a type of,furniture.,picture,furniture,55,0.0002355390406323738,82170201,distilroberta-base
+A closet is a type of,furniture.,closet,furniture,56,0.002347945760599005,82170201,distilroberta-base
+A vase is a type of,furniture.,vase,furniture,57,0.0010470458557113697,82170201,distilroberta-base
+An ashtray is a type of,furniture.,ashtray,furniture,58,0.0010539328751324,82170201,distilroberta-base
+A fan is a type of,furniture.,fan,furniture,59,5.6143904336697095e-06,82170201,distilroberta-base
+A telephone is a type of,furniture.,telephone,furniture,60,0.00010625550654775241,82170201,distilroberta-base
+Pea is a,vegetable.,pea,vegetable,1,0.011104960818532997,82170201,distilroberta-base
+Carrot is a,vegetable.,carrot,vegetable,2,0.018681300311709607,82170201,distilroberta-base
+Green bean is a,vegetable.,green bean,vegetable,3,0.08273716268111098,82170201,distilroberta-base
+String bean is a,vegetable.,string bean,vegetable,4,0.002144185134634656,82170201,distilroberta-base
+Spinach is a,vegetable.,spinach,vegetable,5,0.0003598528743680744,82170201,distilroberta-base
+Broccoli is a,vegetable.,broccoli,vegetable,6,0.08595979932840354,82170201,distilroberta-base
+Asparagus is a,vegetable.,asparagus,vegetable,7,0.08556679784010854,82170201,distilroberta-base
+Corn is a,vegetable.,corn,vegetable,8,0.010385153465737726,82170201,distilroberta-base
+Cauliflower is a,vegetable.,cauliflower,vegetable,9,0.1337897082083168,82170201,distilroberta-base
+Brussels sprouts are,vegetables.,brussels sprouts,vegetable,10,0.0008741652766250649,82170201,distilroberta-base
+Squash is a,vegetable.,squash,vegetable,11,0.0006207322968674281,82170201,distilroberta-base
+Lettuce is a,vegetable.,lettuce,vegetable,12,0.012234542520009117,82170201,distilroberta-base
+Celery is a,vegetable.,celery,vegetable,13,0.00024343708952639573,82170201,distilroberta-base
+Cucumber is a,vegetable.,cucumber,vegetable,14,0.06970164896885525,82170201,distilroberta-base
+Beet is a,vegetable.,beet,vegetable,15,0.02113683363480054,82170201,distilroberta-base
+Green is a,vegetable.,green,vegetable,16,0.0030270547061060755,82170201,distilroberta-base
+Tomato is a,vegetable.,tomato,vegetable,17,0.00022644310986006386,82170201,distilroberta-base
+Lima bean is a,vegetable.,lima bean,vegetable,18,0.06213871116696744,82170201,distilroberta-base
+Artichoke is a,vegetable.,artichoke,vegetable,19,0.002420636986301472,82170201,distilroberta-base
+Turnip is a,vegetable.,turnip,vegetable,20,0.0007832384430753906,82170201,distilroberta-base
+Eggplant is a,vegetable.,eggplant,vegetable,21,0.04527564803923178,82170201,distilroberta-base
+Romaine is a,vegetable.,romaine,vegetable,22,0.00015634120993982336,82170201,distilroberta-base
+Green pepper is a,vegetable.,green pepper,vegetable,23,0.04770578188718834,82170201,distilroberta-base
+Okra is a,vegetable.,okra,vegetable,24,0.000186909399923206,82170201,distilroberta-base
+Radish is a,vegetable.,radish,vegetable,25,0.0002490337485348068,82170201,distilroberta-base
+Onion is a,vegetable.,onion,vegetable,26,0.0025975984981496778,82170201,distilroberta-base
+Bean is a,vegetable.,bean,vegetable,27,0.0008178876080508044,82170201,distilroberta-base
+Green onion is a,vegetable.,green onion,vegetable,28,0.1320904781952994,82170201,distilroberta-base
+Potato is a,vegetable.,potato,vegetable,29,0.01788066256354975,82170201,distilroberta-base
+Parsnip is a,vegetable.,parsnip,vegetable,30,0.0004159299719511719,82170201,distilroberta-base
+Turnip green is a,vegetable.,turnip green,vegetable,31,0.00499397846203417,82170201,distilroberta-base
+Collard is a,vegetable.,collard,vegetable,32,2.5590926444232616e-05,82170201,distilroberta-base
+Wax bean is a,vegetable.,wax bean,vegetable,33,0.027485068202168353,82170201,distilroberta-base
+Watercress is a,vegetable.,watercress,vegetable,34,0.00022561235472205087,82170201,distilroberta-base
+Black eyed pea is a,vegetable.,black eyed pea,vegetable,35,0.010187142287863363,82170201,distilroberta-base
+Leek is a,vegetable.,leek,vegetable,36,0.00024993596787923196,82170201,distilroberta-base
+Pepper is a,vegetable.,pepper,vegetable,37,0.02458272386312562,82170201,distilroberta-base
+Sweet potato is a,vegetable.,sweet potato,vegetable,38,0.05727653589085634,82170201,distilroberta-base
+Yam is a,vegetable.,yam,vegetable,39,0.0007271776011697513,82170201,distilroberta-base
+Parsley is a,vegetable.,parsley,vegetable,40,3.6853745075963615e-05,82170201,distilroberta-base
+Endive is a,vegetable.,endive,vegetable,41,0.00011926660770552172,82170201,distilroberta-base
+Rutabaga is a,vegetable.,rutabaga,vegetable,42,0.00010516351584532984,82170201,distilroberta-base
+Mushroom is a,vegetable.,mushroom,vegetable,43,0.0001941897608250999,82170201,distilroberta-base
+Avocado is a,vegetable.,avocado,vegetable,44,0.04783580370580138,82170201,distilroberta-base
+Rhubarb is a,vegetable.,rhubarb,vegetable,45,0.04509044785518477,82170201,distilroberta-base
+Kale is a,vegetable.,kale,vegetable,46,0.0004310920575804381,82170201,distilroberta-base
+Escarole is a,vegetable.,escarole,vegetable,47,8.426241582579962e-05,82170201,distilroberta-base
+Sauerkraut is a,vegetable.,sauerkraut,vegetable,48,0.0025785368789593677,82170201,distilroberta-base
+Pickle is a,vegetable.,pickle,vegetable,49,0.0021070869389385434,82170201,distilroberta-base
+Baked bean is a,vegetable.,baked bean,vegetable,50,0.03996430796143039,82170201,distilroberta-base
+Pumpkin is a,vegetable.,pumpkin,vegetable,51,0.003055507340180391,82170201,distilroberta-base
+Seaweed is a,vegetable.,seaweed,vegetable,52,0.0002844287945762949,82170201,distilroberta-base
+Garlic is a,vegetable.,garlic,vegetable,53,0.03870696630534369,82170201,distilroberta-base
+Dandelion is a,vegetable.,dandelion,vegetable,54,0.02331066318648912,82170201,distilroberta-base
+Peanut is a,vegetable.,peanut,vegetable,55,0.034099767981018964,82170201,distilroberta-base
+Rice is a,vegetable.,rice,vegetable,56,0.0005604424587330148,82170201,distilroberta-base
+A saw is a,tool.,saw,tool,1,0.016681732683788832,82170201,distilroberta-base
+A hammer is a,tool.,hammer,tool,2,0.005318227642883546,82170201,distilroberta-base
+A ruler is a,tool.,ruler,tool,3,0.0007927057079877828,82170201,distilroberta-base
+A screwdriver is a,tool.,screwdriver,tool,4,0.02322432350988667,82170201,distilroberta-base
+A drill is a,tool.,drill,tool,5,0.0019550696041511304,82170201,distilroberta-base
+A nail is a,tool.,nail,tool,6,0.0012024898276921272,82170201,distilroberta-base
+A tape measure is a,tool.,tape measure,tool,7,0.0036370759118503847,82170201,distilroberta-base
+A sawhorse is a,tool.,sawhorse,tool,8,0.00032524728206413965,82170201,distilroberta-base
+A sandpaper is a,tool.,sandpaper,tool,9,0.005054523109883549,82170201,distilroberta-base
+A sander is a,tool.,sander,tool,10,0.0010738300529775173,82170201,distilroberta-base
+A level is a,tool.,level,tool,11,0.00045556632177380516,82170201,distilroberta-base
+A plane is a,tool.,plane,tool,12,0.0006203097695536296,82170201,distilroberta-base
+A file is a,tool.,file,tool,13,0.000634586226018126,82170201,distilroberta-base
+A toolbox is a,tool.,toolbox,tool,14,0.07700714428178097,82170201,distilroberta-base
+A t-square is a,tool.,T-square,tool,15,0.0004924838878728751,82170201,distilroberta-base
+A chisel is a,tool.,chisel,tool,16,0.00615673295077986,82170201,distilroberta-base
+A rasp is a,tool.,rasp,tool,17,0.0007299439827271879,82170201,distilroberta-base
+A pencil is a,tool.,pencil,tool,18,0.009254857806107665,82170201,distilroberta-base
+A hacksaw is a,tool.,hacksaw,tool,19,0.013571054070922324,82170201,distilroberta-base
+A square is a,tool.,square,tool,20,0.0001547057143605055,82170201,distilroberta-base
+A bench is a,tool.,bench,tool,21,0.0009359236904651216,82170201,distilroberta-base
+A plier is a,tool.,plier,tool,22,0.001317046802828842,82170201,distilroberta-base
+A wrench is a,tool.,wrench,tool,23,0.02126345881128932,82170201,distilroberta-base
+A ladder is a,tool.,ladder,tool,24,0.0002460596618878948,82170201,distilroberta-base
+A lathe is a,tool.,lathe,tool,25,0.0016560274220612683,82170201,distilroberta-base
+A vise is a,tool.,vise,tool,26,0.0002167748653486576,82170201,distilroberta-base
+A screw is a,tool.,screw,tool,27,0.007291317279190781,82170201,distilroberta-base
+A wood is a,tool.,wood,tool,28,0.006680750852280314,82170201,distilroberta-base
+A wedge is a,tool.,wedge,tool,29,0.0007591041697912293,82170201,distilroberta-base
+A lumber is a,tool.,lumber,tool,30,0.0038639084738482177,82170201,distilroberta-base
+A blueprint is a,tool.,blueprint,tool,31,0.0026573405258981313,82170201,distilroberta-base
+A brace is a,tool.,brace,tool,32,0.0024669160001809403,82170201,distilroberta-base
+An awl is a,tool.,awl,tool,33,0.0013747272235608316,82170201,distilroberta-base
+A crowbar is a,tool.,crowbar,tool,34,0.0061099570164670726,82170201,distilroberta-base
+A hinge is a,tool.,hinge,tool,35,0.0005739997684201563,82170201,distilroberta-base
+A miter box is a,tool.,miter box,tool,36,0.0039860640796559425,82170201,distilroberta-base
+A knife is a,tool.,knife,tool,37,0.0077963823123695895,82170201,distilroberta-base
+A chalk is a,tool.,chalk,tool,38,0.0033589657345366205,82170201,distilroberta-base
+A nut is a,tool.,nut,tool,39,0.0016069285230891704,82170201,distilroberta-base
+A bolt is a,tool.,bolt,tool,40,0.001956401310257784,82170201,distilroberta-base
+A plumb line is a,tool.,plumb line,tool,41,0.0004141490163138601,82170201,distilroberta-base
+A brush is a,tool.,brush,tool,42,0.013737168255950416,82170201,distilroberta-base
+A sledge hammer is a,tool.,sledge hammer,tool,43,0.010160402308774697,82170201,distilroberta-base
+A glue is a,tool.,glue,tool,44,0.001988785642893581,82170201,distilroberta-base
+A paintbrush is a,tool.,paintbrush,tool,45,0.013870059343506096,82170201,distilroberta-base
+A varnish is a,tool.,varnish,tool,46,0.0002643674348548761,82170201,distilroberta-base
+An apron is a,tool.,apron,tool,47,0.0003340856377756542,82170201,distilroberta-base
+A stapler is a,tool.,stapler,tool,48,0.001521392661475636,82170201,distilroberta-base
+An extension cord is a,tool.,extension cord,tool,49,0.008271234835285392,82170201,distilroberta-base
+A soldering iron is a,tool.,soldering iron,tool,50,0.0050135339036405805,82170201,distilroberta-base
+A plaster is a,tool.,plaster,tool,51,0.0007497113899286147,82170201,distilroberta-base
+A wheelbarrow is a,tool.,wheelbarrow,tool,52,0.005681349088684988,82170201,distilroberta-base
+An axe is a,tool.,axe,tool,53,0.004598484070407922,82170201,distilroberta-base
+A slide rule is a,tool.,slide rule,tool,54,0.0008611380367706644,82170201,distilroberta-base
+A cement is a,tool.,cement,tool,55,0.00106452887351599,82170201,distilroberta-base
+An anvil is a,tool.,anvil,tool,56,0.001955819276712228,82170201,distilroberta-base
+A hatchet is a,tool.,hatchet,tool,57,0.005986907513990637,82170201,distilroberta-base
+A rag is a,tool.,rag,tool,58,0.00322780989231041,82170201,distilroberta-base
+A scissor is a,tool.,scissor,tool,59,0.001262944056760099,82170201,distilroberta-base
+A crane is a,tool.,crane,tool,60,0.0023872848378939248,82170201,distilroberta-base
+An automobile is a,vehicle.,automobile,vehicle,1,0.041247974645630306,82170201,distilroberta-base
+A station wagon is a,vehicle.,station wagon,vehicle,2,0.007823724800966367,82170201,distilroberta-base
+A truck is a,vehicle.,truck,vehicle,3,0.008570493772475877,82170201,distilroberta-base
+A car is a,vehicle.,car,vehicle,4,0.02068119382928458,82170201,distilroberta-base
+A bus is a,vehicle.,bus,vehicle,5,0.011018383707454959,82170201,distilroberta-base
+A taxi is a,vehicle.,taxi,vehicle,6,0.005087053968410387,82170201,distilroberta-base
+A jeep is a,vehicle.,jeep,vehicle,7,0.0042611439544140975,82170201,distilroberta-base
+An ambulance is a,vehicle.,ambulance,vehicle,8,0.0030026044324646594,82170201,distilroberta-base
+A motorcycle is a,vehicle.,motorcycle,vehicle,9,0.008120689723706038,82170201,distilroberta-base
+A streetcar is a,vehicle.,streetcar,vehicle,10,0.009593976774386835,82170201,distilroberta-base
+A van is a,vehicle.,van,vehicle,11,0.019741417671461797,82170201,distilroberta-base
+A honda is a,vehicle.,Honda,vehicle,12,0.0013271841283688712,82170201,distilroberta-base
+A cable car is a,vehicle.,cable car,vehicle,13,0.0034127631710979003,82170201,distilroberta-base
+A train is a,vehicle.,train,vehicle,14,0.007399707179790525,82170201,distilroberta-base
+A trolley is a,vehicle.,trolley,vehicle,15,0.007957692113033266,82170201,distilroberta-base
+A bicycle is a,vehicle.,bicycle,vehicle,16,0.008232963992235798,82170201,distilroberta-base
+A carriage is a,vehicle.,carriage,vehicle,17,0.019703630673721793,82170201,distilroberta-base
+An airplane is a,vehicle.,airplane,vehicle,18,0.007855994074305761,82170201,distilroberta-base
+A bike is a,vehicle.,bike,vehicle,19,0.005844279130064919,82170201,distilroberta-base
+A boat is a,vehicle.,boat,vehicle,20,0.003970656421285725,82170201,distilroberta-base
+A jet is a,vehicle.,jet,vehicle,21,0.002625254692159787,82170201,distilroberta-base
+A ship is a,vehicle.,ship,vehicle,22,0.0022104036028137404,82170201,distilroberta-base
+A scooter is a,vehicle.,scooter,vehicle,23,0.004838003943148141,82170201,distilroberta-base
+A tractor is a,vehicle.,tractor,vehicle,24,0.009096449892931869,82170201,distilroberta-base
+A wagon is a,vehicle.,wagon,vehicle,25,0.015888337135604634,82170201,distilroberta-base
+A subway is a,vehicle.,subway,vehicle,26,0.0008212210759631947,82170201,distilroberta-base
+A trailer is a,vehicle.,trailer,vehicle,27,0.0007298820298906528,82170201,distilroberta-base
+A cart is a,vehicle.,cart,vehicle,28,0.007682885325541695,82170201,distilroberta-base
+A wheelchair is a,vehicle.,wheelchair,vehicle,29,0.0018749006638940375,82170201,distilroberta-base
+A yacht is a,vehicle.,yacht,vehicle,30,0.002569542517217749,82170201,distilroberta-base
+A tank is a,vehicle.,tank,vehicle,31,0.0048499316608769565,82170201,distilroberta-base
+A go-cart is a,vehicle.,go-cart,vehicle,32,0.002099484776841461,82170201,distilroberta-base
+A rowboat is a,vehicle.,rowboat,vehicle,33,0.0010962241044726927,82170201,distilroberta-base
+A dogsled is a,vehicle.,dogsled,vehicle,34,0.0001309909915679956,82170201,distilroberta-base
+A tricycle is a,vehicle.,tricycle,vehicle,35,0.007799334649424735,82170201,distilroberta-base
+A canoe is a,vehicle.,canoe,vehicle,36,0.002930988383015865,82170201,distilroberta-base
+A raft is a,vehicle.,raft,vehicle,37,0.0023991141451735355,82170201,distilroberta-base
+A submarine is a,vehicle.,submarine,vehicle,38,0.00255600250991349,82170201,distilroberta-base
+A sled is a,vehicle.,sled,vehicle,39,0.006637376557710556,82170201,distilroberta-base
+A horse is a,vehicle.,horse,vehicle,40,0.0008595848219884452,82170201,distilroberta-base
+A rocket is a,vehicle.,rocket,vehicle,41,0.003793885215400439,82170201,distilroberta-base
+A blimp is a,vehicle.,blimp,vehicle,42,0.001625095397369393,82170201,distilroberta-base
+A skate is a,vehicle.,skate,vehicle,43,0.0008816232338863957,82170201,distilroberta-base
+A camel is a,vehicle.,camel,vehicle,44,0.00014261444565677884,82170201,distilroberta-base
+Feet are,vehicles.,feet,vehicle,45,3.8127985825765223e-06,82170201,distilroberta-base
+A ski is a,vehicle.,ski,vehicle,46,0.0010000404360496521,82170201,distilroberta-base
+A skateboard is a,vehicle.,skateboard,vehicle,47,0.0029455202393596884,82170201,distilroberta-base
+A wheelbarrow is a,vehicle.,wheelbarrow,vehicle,48,0.005192217713428543,82170201,distilroberta-base
+A surfboard is a,vehicle.,surfboard,vehicle,49,0.0012901029513682698,82170201,distilroberta-base
+An elevator is a,vehicle.,elevator,vehicle,50,0.0014700609730934396,82170201,distilroberta-base
+A robin is a,bird.,robin,bird,1,0.0009548096414527249,82170201,distilroberta-base
+A sparrow is a,bird.,sparrow,bird,2,0.04881315838343146,82170201,distilroberta-base
+A bluejay is a,bird.,bluejay,bird,3,0.013696171693279333,82170201,distilroberta-base
+A bluebird is a,bird.,bluebird,bird,4,0.06114786713853368,82170201,distilroberta-base
+A canary is a,bird.,canary,bird,5,0.006955579233705544,82170201,distilroberta-base
+A blackbird is a,bird.,blackbird,bird,6,0.09489382146644562,82170201,distilroberta-base
+A dove is a,bird.,dove,bird,7,0.07672704170712077,82170201,distilroberta-base
+A lark is a,bird.,lark,bird,8,0.013068517184809626,82170201,distilroberta-base
+A swallow is a,bird.,swallow,bird,9,0.00631068689736709,82170201,distilroberta-base
+A parakeet is a,bird.,parakeet,bird,10,0.018625157937026668,82170201,distilroberta-base
+An oriole is a,bird.,oriole,bird,11,0.023893587428190224,82170201,distilroberta-base
+A mockingbird is a,bird.,mockingbird,bird,12,0.1626096988208294,82170201,distilroberta-base
+A redbird is a,bird.,redbird,bird,13,0.08727991839505342,82170201,distilroberta-base
+A wren is a,bird.,wren,bird,14,0.008840619522485355,82170201,distilroberta-base
+A finch is a,bird.,finch,bird,15,0.0034768726694876283,82170201,distilroberta-base
+A starling is a,bird.,starling,bird,16,0.0025436446283545896,82170201,distilroberta-base
+A cardinal is a,bird.,cardinal,bird,17,0.0033130768221711435,82170201,distilroberta-base
+An eagle is a,bird.,eagle,bird,18,0.04144765968435296,82170201,distilroberta-base
+A hummingbird is a,bird.,hummingbird,bird,19,0.11674521772881173,82170201,distilroberta-base
+A seagull is a,bird.,seagull,bird,20,0.04687032911273669,82170201,distilroberta-base
+A woodpecker is a,bird.,woodpecker,bird,21,0.01331260280422543,82170201,distilroberta-base
+A pigeon is a,bird.,pigeon,bird,22,0.11452559984447225,82170201,distilroberta-base
+A thrush is a,bird.,thrush,bird,23,0.0016942847653062102,82170201,distilroberta-base
+A falcon is a,bird.,falcon,bird,24,0.07774750144959043,82170201,distilroberta-base
+A crow is a,bird.,crow,bird,25,0.05192012388597679,82170201,distilroberta-base
+A hawk is a,bird.,hawk,bird,26,0.033885389454340546,82170201,distilroberta-base
+A raven is a,bird.,raven,bird,27,0.04676500262500162,82170201,distilroberta-base
+A goldfinch is a,bird.,goldfinch,bird,28,0.007160997532380738,82170201,distilroberta-base
+A parrot is a,bird.,parrot,bird,29,0.07502117336170414,82170201,distilroberta-base
+A sandpiper is a,bird.,sandpiper,bird,30,0.007158334616448242,82170201,distilroberta-base
+A pheasant is a,bird.,pheasant,bird,31,0.012565269535525074,82170201,distilroberta-base
+A catbird is a,bird.,catbird,bird,32,0.09697902740322989,82170201,distilroberta-base
+A crane is a,bird.,crane,bird,33,0.007796977151826401,82170201,distilroberta-base
+An albatross is a,bird.,albatross,bird,34,0.02478446146882256,82170201,distilroberta-base
+A condor is a,bird.,condor,bird,35,0.011751064853999158,82170201,distilroberta-base
+A toucan is a,bird.,toucan,bird,36,0.012227637150259983,82170201,distilroberta-base
+An owl is a,bird.,owl,bird,37,0.08497875747708955,82170201,distilroberta-base
+A pelican is a,bird.,pelican,bird,38,0.03534990130257201,82170201,distilroberta-base
+A goose is a,bird.,goose,bird,39,0.10051261870390525,82170201,distilroberta-base
+A vulture is a,bird.,vulture,bird,40,0.017009712157457172,82170201,distilroberta-base
+A stork is a,bird.,stork,bird,41,0.010278483777669165,82170201,distilroberta-base
+A buzzard is a,bird.,buzzard,bird,42,0.008634550342402476,82170201,distilroberta-base
+A swan is a,bird.,swan,bird,43,0.01914818525182583,82170201,distilroberta-base
+A flamingo is a,bird.,flamingo,bird,44,0.027979065373389136,82170201,distilroberta-base
+A duck is a,bird.,duck,bird,45,0.026334054783267044,82170201,distilroberta-base
+A peacock is a,bird.,peacock,bird,46,0.06423789290800219,82170201,distilroberta-base
+An egret is a,bird.,egret,bird,47,0.0052891694992000604,82170201,distilroberta-base
+A chicken is a,bird.,chicken,bird,48,0.04812861720892001,82170201,distilroberta-base
+A turkey is a,bird.,turkey,bird,49,0.03962903259193891,82170201,distilroberta-base
+An ostrich is a,bird.,ostrich,bird,50,0.032212614511496235,82170201,distilroberta-base
+A titmouse is a,bird.,titmouse,bird,51,0.009921450160240229,82170201,distilroberta-base
+An emu is a,bird.,emu,bird,52,0.0025081419415805928,82170201,distilroberta-base
+A penguin is a,bird.,penguin,bird,53,0.05492588259557729,82170201,distilroberta-base
+A bat is a,bird.,bat,bird,54,0.028758622761062336,82170201,distilroberta-base
+Football is a,sport.,football,sport,1,0.2447566737592046,82170201,distilroberta-base
+Baseball is a,sport.,baseball,sport,2,0.34603795354037464,82170201,distilroberta-base
+Basketball is a,sport.,basketball,sport,3,0.1906206885248721,82170201,distilroberta-base
+Tennis is a,sport.,tennis,sport,4,0.02815755396953584,82170201,distilroberta-base
+Softball is a,sport.,softball,sport,5,0.2210254080863101,82170201,distilroberta-base
+Canoeing is a,sport.,canoeing,sport,6,0.0399258324310168,82170201,distilroberta-base
+Handball is a,sport.,handball,sport,7,0.06525272839776403,82170201,distilroberta-base
+Rugby is a,sport.,rugby,sport,8,0.0026223220676660688,82170201,distilroberta-base
+Hockey is a,sport.,hockey,sport,9,0.40401109339280944,82170201,distilroberta-base
+Ice hockey is a,sport.,ice hockey,sport,10,0.3200294333996078,82170201,distilroberta-base
+Swimming is a,sport.,swimming,sport,11,0.39457089902180453,82170201,distilroberta-base
+Track is a,sport.,track,sport,12,0.001429653050282198,82170201,distilroberta-base
+Boxing is a,sport.,boxing,sport,13,0.09380822297432546,82170201,distilroberta-base
+Volleyball is a,sport.,volleyball,sport,14,0.27157100460001393,82170201,distilroberta-base
+Lacrosse is a,sport.,lacrosse,sport,15,0.4608674282284986,82170201,distilroberta-base
+Skiing is a,sport.,skiing,sport,16,0.02518016244256173,82170201,distilroberta-base
+Golf is a,sport.,golf,sport,17,0.046371214328018,82170201,distilroberta-base
+Polo is a,sport.,polo,sport,18,0.003949819988091335,82170201,distilroberta-base
+Surfing is a,sport.,surfing,sport,19,0.09418444949151686,82170201,distilroberta-base
+Wrestling is a,sport.,wrestling,sport,20,0.5890526829810045,82170201,distilroberta-base
+Gymnastics is a,sport.,gymnastics,sport,21,0.2501485779557859,82170201,distilroberta-base
+Cricket is a,sport.,cricket,sport,22,0.0251370468253225,82170201,distilroberta-base
+Squash is a,sport.,squash,sport,23,0.009032153178029998,82170201,distilroberta-base
+Badminton is a,sport.,badminton,sport,24,0.005860900720758314,82170201,distilroberta-base
+Racing is a,sport.,racing,sport,25,0.32655408325477825,82170201,distilroberta-base
+Pole vault is a,sport.,pole vault,sport,26,0.0004089549183748152,82170201,distilroberta-base
+Fencing is a,sport.,fencing,sport,27,0.02016496485055637,82170201,distilroberta-base
+Bowling is a,sport.,bowling,sport,28,0.01053396819704861,82170201,distilroberta-base
+Water skiing is a,sport.,water skiing,sport,29,0.235823276104923,82170201,distilroberta-base
+Ice skating is a,sport.,ice skating,sport,30,0.34621290172986313,82170201,distilroberta-base
+Jai alai is a,sport.,jai alai,sport,31,3.547043898272827e-05,82170201,distilroberta-base
+Skating is a,sport.,skating,sport,32,0.21894614743969873,82170201,distilroberta-base
+Skindiving is a,sport.,skindiving,sport,33,0.0077171933052852335,82170201,distilroberta-base
+Sailing is a,sport.,sailing,sport,34,0.012640267478835933,82170201,distilroberta-base
+Diving is a,sport.,diving,sport,35,0.11337683417266343,82170201,distilroberta-base
+Archery is a,sport.,archery,sport,36,0.05290160935746061,82170201,distilroberta-base
+Judo is a,sport.,judo,sport,37,0.0004433908728211307,82170201,distilroberta-base
+Car racing is a,sport.,car racing,sport,38,0.45672916370236744,82170201,distilroberta-base
+Ping pong is a,sport.,ping pong,sport,39,0.0239313976626224,82170201,distilroberta-base
+Rowing is a,sport.,rowing,sport,40,0.23561578602969055,82170201,distilroberta-base
+Fishing is a,sport.,fishing,sport,41,0.06160876897624593,82170201,distilroberta-base
+Horseback riding is a,sport.,horseback riding,sport,42,0.08254407279411531,82170201,distilroberta-base
+Running is a,sport.,running,sport,43,0.11262366433254903,82170201,distilroberta-base
+Horse racing is a,sport.,horse racing,sport,44,0.27721210721028033,82170201,distilroberta-base
+Hiking is a,sport.,hiking,sport,45,0.05514295991873038,82170201,distilroberta-base
+Weight lifting is a,sport.,weight lifting,sport,46,0.08597849226545767,82170201,distilroberta-base
+Croquet is a,sport.,croquet,sport,47,0.01171551508581992,82170201,distilroberta-base
+Horseshoes is a,sport.,horseshoes,sport,48,0.02603405573820224,82170201,distilroberta-base
+Boating is a,sport.,boating,sport,49,0.1604887119176246,82170201,distilroberta-base
+Pool is a,sport.,pool,sport,50,0.0007077808776064875,82170201,distilroberta-base
+Billiards is a,sport.,billiards,sport,51,5.230455757684105e-05,82170201,distilroberta-base
+Hunting is a,sport.,hunting,sport,52,0.05551321035798047,82170201,distilroberta-base
+Jump rope is a,sport.,jump rope,sport,53,0.00939202491224801,82170201,distilroberta-base
+Camping is a,sport.,camping,sport,54,0.0038043161273818927,82170201,distilroberta-base
+Chess is a,sport.,chess,sport,55,0.013868802786088937,82170201,distilroberta-base
+Dancing is a,sport.,dancing,sport,56,0.06327600194683715,82170201,distilroberta-base
+Checkers is a,sport.,checkers,sport,57,0.001086204152260958,82170201,distilroberta-base
+Cards is a,sport.,cards,sport,58,0.0017726317803808858,82170201,distilroberta-base
+Sunbathing is a,sport.,sunbathing,sport,59,0.011566167693622825,82170201,distilroberta-base

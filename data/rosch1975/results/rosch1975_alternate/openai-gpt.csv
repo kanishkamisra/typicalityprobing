@@ -1,0 +1,566 @@
+preamble,stimulus,item,category,rank,params,model
+A gun is a,weapon.,gun,weapon,1,0.1609458451727223,116536320,openai-gpt
+A pistol is a,weapon.,pistol,weapon,2,0.13984857707643247,116536320,openai-gpt
+A revolver is a,weapon.,revolver,weapon,3,0.07468886598073854,116536320,openai-gpt
+A machine gun is a,weapon.,machine gun,weapon,4,0.08886756566729617,116536320,openai-gpt
+A rifle is a,weapon.,rifle,weapon,5,0.1304064247145812,116536320,openai-gpt
+A switchblade is a,weapon.,switchblade,weapon,6,0.07359020157059307,116536320,openai-gpt
+A knife is a,weapon.,knife,weapon,7,0.10554376583963815,116536320,openai-gpt
+A dagger is a,weapon.,dagger,weapon,8,0.10501299555622429,116536320,openai-gpt
+A shotgun is a,weapon.,shotgun,weapon,9,0.07488378834824794,116536320,openai-gpt
+A sword is a,weapon.,sword,weapon,10,0.21642537657701172,116536320,openai-gpt
+A bomb is a,weapon.,bomb,weapon,11,0.013878520922127888,116536320,openai-gpt
+A hand grenade is a,weapon.,hand grenade,weapon,12,0.02037310424998457,116536320,openai-gpt
+An atom bomb is a,weapon.,Atom bomb,weapon,13,0.003853990391614444,116536320,openai-gpt
+A bayonet is a,weapon.,bayonet,weapon,14,0.10834496763222033,116536320,openai-gpt
+A spear is a,weapon.,spear,weapon,15,0.15794663044311347,116536320,openai-gpt
+A bazooka is a,weapon.,bazooka,weapon,16,0.018612653012550308,116536320,openai-gpt
+A cannon is a,weapon.,cannon,weapon,17,0.06816773887539962,116536320,openai-gpt
+A bow and arrow is a,weapon.,bow and arrow,weapon,18,0.05136796944804628,116536320,openai-gpt
+A club is a,weapon.,club,weapon,19,0.00020353804221516289,116536320,openai-gpt
+A lance is a,weapon.,lance,weapon,20,0.051262483596930974,116536320,openai-gpt
+A brass knuckle is a,weapon.,brass knuckle,weapon,21,0.010236005196693317,116536320,openai-gpt
+A bullet is a,weapon.,bullet,weapon,22,0.01570470758377503,116536320,openai-gpt
+A tomahawk is a,weapon.,tomahawk,weapon,23,0.06619392624878515,116536320,openai-gpt
+A mortar is a,weapon.,mortar,weapon,24,0.02625640364677971,116536320,openai-gpt
+An arrow is a,weapon.,arrow,weapon,25,0.08325917646355568,116536320,openai-gpt
+A blackjack is a,weapon.,blackjack,weapon,26,0.0027036677037396107,116536320,openai-gpt
+A tank is a,weapon.,tank,weapon,27,0.0005935044947071339,116536320,openai-gpt
+Teargas is a,weapon.,teargas,weapon,28,0.002303533911311293,116536320,openai-gpt
+A missile is a,weapon.,missile,weapon,29,0.07650969819687681,116536320,openai-gpt
+A whip is a,weapon.,whip,weapon,30,0.0316493628421933,116536320,openai-gpt
+An ice pick is a,weapon.,ice pick,weapon,31,0.01296190875663292,116536320,openai-gpt
+A hatchet is a,weapon.,hatchet,weapon,32,0.06519428963641319,116536320,openai-gpt
+A slingshot is a,weapon.,slingshot,weapon,33,0.10915583979805187,116536320,openai-gpt
+A fist is a,weapon.,fist,weapon,34,0.016874171014142594,116536320,openai-gpt
+An axe is a,weapon.,axe,weapon,35,0.14769608297711675,116536320,openai-gpt
+A bow is a,weapon.,bow,weapon,36,0.026205034204699437,116536320,openai-gpt
+A razor is a,weapon.,razor,weapon,37,0.02766453403580423,116536320,openai-gpt
+A razor blade is a,weapon.,razor blade,weapon,38,0.040886388737201206,116536320,openai-gpt
+A rocket is a,weapon.,rocket,weapon,39,0.012041756719862297,116536320,openai-gpt
+A judo is a,weapon.,judo,weapon,40,0.0022843753658413645,116536320,openai-gpt
+A stick is a,weapon.,stick,weapon,41,0.027695234435265847,116536320,openai-gpt
+A poison is a,weapon.,poison,weapon,42,0.01893738804791348,116536320,openai-gpt
+A rock is a,weapon.,rock,weapon,43,0.0015422482762376488,116536320,openai-gpt
+A stone is a,weapon.,stone,weapon,44,0.0023245439825414047,116536320,openai-gpt
+Gas is a,weapon.,gas,weapon,45,0.0015995360076502835,116536320,openai-gpt
+A chain is a,weapon.,chain,weapon,46,0.006624874144022718,116536320,openai-gpt
+A scissor is a,weapon.,scissor,weapon,47,0.014663162573110348,116536320,openai-gpt
+A brick is a,weapon.,brick,weapon,48,0.0002691503014483747,116536320,openai-gpt
+A pitchfork is a,weapon.,pitchfork,weapon,49,0.03879210929848478,116536320,openai-gpt
+A hammer is a,weapon.,hammer,weapon,50,0.03842838819801701,116536320,openai-gpt
+A word is a,weapon.,word,weapon,51,0.0035508517327955203,116536320,openai-gpt
+A hand is a,weapon.,hand,weapon,52,0.014782607320339904,116536320,openai-gpt
+A pipe is a,weapon.,pipe,weapon,53,0.01179165819304826,116536320,openai-gpt
+A rope is a,weapon.,rope,weapon,54,0.008279837295668913,116536320,openai-gpt
+An airplane is a,weapon.,airplane,weapon,55,0.0015069309389559153,116536320,openai-gpt
+A foot is a,weapon.,foot,weapon,56,0.0002497675059162511,116536320,openai-gpt
+A car is a,weapon.,car,weapon,57,0.0013906110980138411,116536320,openai-gpt
+A screwdriver is a,weapon.,screwdriver,weapon,58,0.02095765006282977,116536320,openai-gpt
+Glass is a,weapon.,glass,weapon,59,0.005679713040969115,116536320,openai-gpt
+A shoe is a,weapon.,shoe,weapon,60,0.004466245308340715,116536320,openai-gpt
+Orange is a,fruit.,orange,fruit,1,0.0009863942557041684,116536320,openai-gpt
+Apple is a,fruit.,apple,fruit,2,0.020072523350332553,116536320,openai-gpt
+Banana is a,fruit.,banana,fruit,3,0.01126471314516083,116536320,openai-gpt
+Peach is a,fruit.,peach,fruit,4,0.0009814693334837506,116536320,openai-gpt
+Pear is a,fruit.,pear,fruit,5,0.022416101114495116,116536320,openai-gpt
+Apricot is a,fruit.,apricot,fruit,6,0.003851392723130832,116536320,openai-gpt
+Tangerine is a,fruit.,tangerine,fruit,7,0.005335047102500417,116536320,openai-gpt
+Plum is a,fruit.,plum,fruit,8,0.008443633640265187,116536320,openai-gpt
+Grape is a,fruit.,grape,fruit,9,0.015414256309936862,116536320,openai-gpt
+Nectarine is a,fruit.,nectarine,fruit,10,0.007049697541219478,116536320,openai-gpt
+Strawberry is a,fruit.,strawberry,fruit,11,0.006784999641630701,116536320,openai-gpt
+Grapefruit is a,fruit.,grapefruit,fruit,12,0.007853492124830401,116536320,openai-gpt
+Berry is a,fruit.,berry,fruit,13,0.00019436076994448846,116536320,openai-gpt
+Cherry is a,fruit.,cherry,fruit,14,0.0006451440640380782,116536320,openai-gpt
+Pineapple is a,fruit.,pineapple,fruit,15,0.009049776818667398,116536320,openai-gpt
+Blackberry is a,fruit.,blackberry,fruit,16,0.0010196745118665844,116536320,openai-gpt
+Melon is a,fruit.,melon,fruit,17,0.012242934522736709,116536320,openai-gpt
+Blueberry is a,fruit.,blueberry,fruit,18,0.007018226500711325,116536320,openai-gpt
+Raspberry is a,fruit.,raspberry,fruit,19,0.004881671816934709,116536320,openai-gpt
+Lemon is a,fruit.,lemon,fruit,20,0.00455221070020808,116536320,openai-gpt
+Black raspberry is a,fruit.,black raspberry,fruit,21,0.0009364870693493364,116536320,openai-gpt
+Boysenberry is a,fruit.,boysenberry,fruit,22,9.236358527611443e-05,116536320,openai-gpt
+Watermelon is a,fruit.,watermelon,fruit,23,0.01049465148481433,116536320,openai-gpt
+Cantaloupe is a,fruit.,cantaloupe,fruit,24,0.005553237672213167,116536320,openai-gpt
+Lime is a,fruit.,lime,fruit,25,0.0037681251403015687,116536320,openai-gpt
+Tangelo is a,fruit.,tangelo,fruit,26,9.233020717735106e-05,116536320,openai-gpt
+Papaya is a,fruit.,papaya,fruit,27,0.003341003047891767,116536320,openai-gpt
+Honeydew is a,fruit.,honeydew,fruit,28,0.0020154303541479127,116536320,openai-gpt
+Fig is a,fruit.,fig,fruit,29,0.026757047709304118,116536320,openai-gpt
+Mango is a,fruit.,mango,fruit,30,0.0005476940343648358,116536320,openai-gpt
+Guava is a,fruit.,guava,fruit,31,0.005263840636762645,116536320,openai-gpt
+Pomegranate is a,fruit.,pomegranate,fruit,32,0.016865989980278846,116536320,openai-gpt
+Cranberry is a,fruit.,cranberry,fruit,33,0.0037690272328712218,116536320,openai-gpt
+Passion fruit is a,fruit.,passion fruit,fruit,34,0.019353944544305297,116536320,openai-gpt
+Prune is a,fruit.,prune,fruit,35,0.002082972632652614,116536320,openai-gpt
+Gooseberry is a,fruit.,gooseberry,fruit,36,0.004292820142656946,116536320,openai-gpt
+Date is a,fruit.,date,fruit,37,3.104545029774065e-05,116536320,openai-gpt
+Kumquat is a,fruit.,kumquat,fruit,38,0.00021991785455467334,116536320,openai-gpt
+Raisin is a,fruit.,raisin,fruit,39,0.0026540214822591036,116536320,openai-gpt
+Muskmelon is a,fruit.,muskmelon,fruit,40,0.010092150520039879,116536320,openai-gpt
+Persimmon is a,fruit.,persimmon,fruit,41,0.00012952232534107688,116536320,openai-gpt
+Pawpaw is a,fruit.,pawpaw,fruit,42,0.00017476886934185217,116536320,openai-gpt
+Coconut is a,fruit.,coconut,fruit,43,0.004840466074478163,116536320,openai-gpt
+Avocado is a,fruit.,avocado,fruit,44,0.005335896849031016,116536320,openai-gpt
+Pumpkin is a,fruit.,pumpkin,fruit,45,0.0024397281403157538,116536320,openai-gpt
+Tomato is a,fruit.,tomato,fruit,46,0.007109045505424792,116536320,openai-gpt
+Nut is a,fruit.,nut,fruit,47,0.0006607100090139619,116536320,openai-gpt
+Gourd is a,fruit.,gourd,fruit,48,0.002182377681893641,116536320,openai-gpt
+Olive is a,fruit.,olive,fruit,49,0.0006459631834735499,116536320,openai-gpt
+Pickle is a,fruit.,pickle,fruit,50,0.003299310704011603,116536320,openai-gpt
+Squash is a,fruit.,squash,fruit,51,0.0020658484607047555,116536320,openai-gpt
+A doll is a,toy.,doll,toy,1,0.01986311165634179,116536320,openai-gpt
+A top is a,toy.,top,toy,2,0.00019275961605564072,116536320,openai-gpt
+A jack-in-the-box is a,toy.,jack-in-the-box,toy,3,0.0006433972565913972,116536320,openai-gpt
+A toy soldier is a,toy.,toy soldier,toy,4,0.04284634049439769,116536320,openai-gpt
+A yo-yo is a,toy.,yo-yo,toy,5,0.0006978401954897523,116536320,openai-gpt
+A block is a,toy.,block,toy,6,2.2183945625001078e-05,116536320,openai-gpt
+Marbles are,toys.,marbles,toy,7,9.950274208564261e-05,116536320,openai-gpt
+A rattle is a,toy.,rattle,toy,8,0.000465867230026755,116536320,openai-gpt
+A stuffed animal is a,toy.,stuffed animal,toy,9,0.0052020858833291845,116536320,openai-gpt
+A water pistol is a,toy.,water pistol,toy,10,0.0011268822681254752,116536320,openai-gpt
+A teddy bear is a,toy.,teddy bear,toy,11,0.0021278824579665165,116536320,openai-gpt
+A rocking horse is a,toy.,rocking horse,toy,12,0.0010516697933018256,116536320,openai-gpt
+A doll house is a,toy.,doll house,toy,13,0.0035411715074623795,116536320,openai-gpt
+A ball is a,toy.,ball,toy,14,0.0013494522018920518,116536320,openai-gpt
+Jacks are,toys.,jacks,toy,15,9.527075533038454e-06,116536320,openai-gpt
+Paper dolls are,toys.,paper dolls,toy,16,9.803832050853878e-05,116536320,openai-gpt
+An erector set is a,toy.,erector set,toy,17,0.0005933584820926598,116536320,openai-gpt
+A hula hoop is a,toy.,hula hoop,toy,18,0.0003838545808641584,116536320,openai-gpt
+A jump rope is a,toy.,jump rope,toy,19,7.417136599864294e-05,116536320,openai-gpt
+A pogo stick is a,toy.,pogo stick,toy,20,0.001515592837649139,116536320,openai-gpt
+A clay is a,toy.,clay,toy,21,0.00027201356468625445,116536320,openai-gpt
+A wagon is a,toy.,wagon,toy,22,0.0002402480893676462,116536320,openai-gpt
+A kite is a,toy.,kite,toy,23,0.0007533936154026046,116536320,openai-gpt
+A train is a,toy.,train,toy,24,0.00010610968696452858,116536320,openai-gpt
+A tricycle is a,toy.,tricycle,toy,25,0.001303003138216388,116536320,openai-gpt
+A coloring book is a,toy.,coloring book,toy,26,0.0013529823777304515,116536320,openai-gpt
+Crayons are,toys.,crayons,toy,27,3.60153444548365e-05,116536320,openai-gpt
+A truck is a,toy.,truck,toy,28,0.00019196234468576518,116536320,openai-gpt
+A puzzle is a,toy.,puzzle,toy,29,4.2180637440945696e-05,116536320,openai-gpt
+A fire engine is a,toy.,fire engine,toy,30,8.640423019785348e-05,116536320,openai-gpt
+A balloon is a,toy.,balloon,toy,31,0.00038681464771167203,116536320,openai-gpt
+Skates are,toys.,skates,toy,32,1.0720633579383527e-05,116536320,openai-gpt
+A baseball is a,toy.,baseball,toy,33,0.000880189187551545,116536320,openai-gpt
+A drum is a,toy.,drum,toy,34,0.0005904561789286825,116536320,openai-gpt
+A football is a,toy.,football,toy,35,0.0010096867365396271,116536320,openai-gpt
+A game is a,toy.,game,toy,36,8.437949965638991e-05,116536320,openai-gpt
+A swing is a,toy.,swing,toy,37,0.00017989100674287265,116536320,openai-gpt
+A boat is a,toy.,boat,toy,38,0.00026474033159738276,116536320,openai-gpt
+A monopoly is a,toy.,monopoly,toy,39,0.0005035780038794123,116536320,openai-gpt
+A sled is a,toy.,sled,toy,40,0.0007495530384740437,116536320,openai-gpt
+A seesaw is a,toy.,seesaw,toy,41,0.0009575247387805335,116536320,openai-gpt
+Stilts are,toys.,stilts,toy,42,4.016014803296021e-06,116536320,openai-gpt
+Checkers are,toys.,checkers,toy,43,2.9698170151268213e-05,116536320,openai-gpt
+A bat is a,toy.,bat,toy,44,0.00022400376585520176,116536320,openai-gpt
+A car is a,toy.,car,toy,45,0.0003210328039678734,116536320,openai-gpt
+An airplane is a,toy.,airplane,toy,46,0.000434600377303884,116536320,openai-gpt
+A bicycle is a,toy.,bicycle,toy,47,0.000811374175537478,116536320,openai-gpt
+A tractor is a,toy.,tractor,toy,48,0.0007540725369517497,116536320,openai-gpt
+A sandbox is a,toy.,sandbox,toy,49,0.0003894542045253433,116536320,openai-gpt
+A bike is a,toy.,bike,toy,50,0.0007066542004280473,116536320,openai-gpt
+A bow and arrow is a,toy.,bow and arrow,toy,51,0.0003764448801450381,116536320,openai-gpt
+A rope is a,toy.,rope,toy,52,0.00033692063289503314,116536320,openai-gpt
+Dishes are,toys.,dishes,toy,53,3.894350398956675e-07,116536320,openai-gpt
+Cards are,toys.,cards,toy,54,5.005805667276538e-06,116536320,openai-gpt
+A mitt is a,toy.,mitt,toy,55,0.00041280890646945345,116536320,openai-gpt
+A horse is a,toy.,horse,toy,56,0.0008294810032550188,116536320,openai-gpt
+A gun is a,toy.,gun,toy,57,0.0011527520996054727,116536320,openai-gpt
+Animals are,toys.,animals,toy,58,1.9428042813445668e-05,116536320,openai-gpt
+A tennis racket is a,toy.,tennis racket,toy,59,0.0010043772848886221,116536320,openai-gpt
+Books are,toys.,books,toy,60,6.940010942441865e-06,116536320,openai-gpt
+A pant is a type of,clothing.,pant,clothing,1,0.0042690064155020595,116536320,openai-gpt
+A shirt is a type of,clothing.,shirt,clothing,2,0.012908241722383508,116536320,openai-gpt
+A dress is a type of,clothing.,dress,clothing,3,0.009250481085717726,116536320,openai-gpt
+A skirt is a type of,clothing.,skirt,clothing,4,0.004860776114763098,116536320,openai-gpt
+A blouse is a type of,clothing.,blouse,clothing,5,0.007875767988145887,116536320,openai-gpt
+A suit is a type of,clothing.,suit,clothing,6,0.013997413009676468,116536320,openai-gpt
+A slack is a type of,clothing.,slack,clothing,7,9.194297215293744e-05,116536320,openai-gpt
+A jacket is a type of,clothing.,jacket,clothing,8,0.005859352664075384,116536320,openai-gpt
+A coat is a type of,clothing.,coat,clothing,9,0.007072016563602107,116536320,openai-gpt
+A sweater is a type of,clothing.,sweater,clothing,10,0.009079246206226053,116536320,openai-gpt
+A sweatshirt is a type of,clothing.,sweatshirt,clothing,11,0.0060637070537481975,116536320,openai-gpt
+An underpant is a type of,clothing.,underpant,clothing,12,0.005385791928765141,116536320,openai-gpt
+A sports jacket is a type of,clothing.,sports jacket,clothing,13,0.007289718139913824,116536320,openai-gpt
+A jumper is a type of,clothing.,jumper,clothing,14,0.00013966330220351793,116536320,openai-gpt
+A panty is a type of,clothing.,panty,clothing,15,0.004632327775707422,116536320,openai-gpt
+A sock is a type of,clothing.,sock,clothing,16,0.002290531514477156,116536320,openai-gpt
+A parka is a type of,clothing.,parka,clothing,17,0.005207516154285291,116536320,openai-gpt
+A pajama is a type of,clothing.,pajama,clothing,18,0.012151100456185296,116536320,openai-gpt
+An undershirt is a type of,clothing.,undershirt,clothing,19,0.00589377996703504,116536320,openai-gpt
+An overcoat is a type of,clothing.,overcoat,clothing,20,0.00767838788259035,116536320,openai-gpt
+A nightgown is a type of,clothing.,nightgown,clothing,21,0.004725039400824035,116536320,openai-gpt
+A raincoat is a type of,clothing.,raincoat,clothing,22,0.006320649086748625,116536320,openai-gpt
+A bathing suit is a type of,clothing.,bathing suit,clothing,23,0.00782955423553398,116536320,openai-gpt
+A bathrobe is a type of,clothing.,bathrobe,clothing,24,0.005746608896809427,116536320,openai-gpt
+A slip is a type of,clothing.,slip,clothing,25,0.0002605514158851323,116536320,openai-gpt
+A bra is a type of,clothing.,bra,clothing,26,0.004231773342675498,116536320,openai-gpt
+A shoe is a type of,clothing.,shoe,clothing,27,0.001753419159957202,116536320,openai-gpt
+A tuxedo is a type of,clothing.,tuxedo,clothing,28,0.007095796745494175,116536320,openai-gpt
+A stocking is a type of,clothing.,stocking,clothing,29,0.004375115760598328,116536320,openai-gpt
+A vest is a type of,clothing.,vest,clothing,30,0.0050088408860032765,116536320,openai-gpt
+A nylon is a type of,clothing.,nylon,clothing,31,0.006619906921894821,116536320,openai-gpt
+A cape is a type of,clothing.,cape,clothing,32,0.005798718402208242,116536320,openai-gpt
+A boot is a type of,clothing.,boot,clothing,33,0.0002156025649886112,116536320,openai-gpt
+A sandal is a type of,clothing.,sandal,clothing,34,0.0016185328326144312,116536320,openai-gpt
+A tie is a type of,clothing.,tie,clothing,35,0.003347221974815335,116536320,openai-gpt
+A girdle is a type of,clothing.,girdle,clothing,36,0.00343453278625752,116536320,openai-gpt
+A belt is a type of,clothing.,belt,clothing,37,0.0005793533313069923,116536320,openai-gpt
+A scarf is a type of,clothing.,scarf,clothing,38,0.002924346120171843,116536320,openai-gpt
+A mitten is a type of,clothing.,mitten,clothing,39,0.00022251717941734314,116536320,openai-gpt
+A slipper is a type of,clothing.,slipper,clothing,40,0.0014651029117928888,116536320,openai-gpt
+A hat is a type of,clothing.,hat,clothing,41,0.002011919881675452,116536320,openai-gpt
+An overshoe is a type of,clothing.,overshoe,clothing,42,0.00033252429077682737,116536320,openai-gpt
+A glove is a type of,clothing.,glove,clothing,43,0.0012415658281995034,116536320,openai-gpt
+An apron is a type of,clothing.,apron,clothing,44,0.004670004385374056,116536320,openai-gpt
+An earmuff is a type of,clothing.,earmuff,clothing,45,0.00016772339574690608,116536320,openai-gpt
+A handkerchief is a type of,clothing.,handkerchief,clothing,46,0.0007584630314949382,116536320,openai-gpt
+A purse is a type of,clothing.,purse,clothing,47,0.0016460008472621828,116536320,openai-gpt
+A hairband is a type of,clothing.,hairband,clothing,48,0.0006727753533376239,116536320,openai-gpt
+A ring is a type of,clothing.,ring,clothing,49,0.00012137167078277817,116536320,openai-gpt
+An earring is a type of,clothing.,earring,clothing,50,0.0004059549055606819,116536320,openai-gpt
+A watch is a type of,clothing.,watch,clothing,51,0.00011561457950651936,116536320,openai-gpt
+A cuff link is a type of,clothing.,cuff link,clothing,52,0.0004606850203932623,116536320,openai-gpt
+A necklace is a type of,clothing.,necklace,clothing,53,0.00036213434628121005,116536320,openai-gpt
+A bracelet is a type of,clothing.,bracelet,clothing,54,0.00035438132903684304,116536320,openai-gpt
+A cane is a type of,clothing.,cane,clothing,55,9.567360570747429e-05,116536320,openai-gpt
+A chair is a type of,furniture.,chair,furniture,1,0.002339730078138127,116536320,openai-gpt
+A sofa is a type of,furniture.,sofa,furniture,2,0.0042081216792767195,116536320,openai-gpt
+A couch is a type of,furniture.,couch,furniture,3,0.004847795263626475,116536320,openai-gpt
+A table is a type of,furniture.,table,furniture,4,0.0011767740645435697,116536320,openai-gpt
+An easy chair is a type of,furniture.,easy chair,furniture,5,0.0038050000816692037,116536320,openai-gpt
+A dresser is a type of,furniture.,dresser,furniture,6,0.005831056954778092,116536320,openai-gpt
+A rocking chair is a type of,furniture.,rocking chair,furniture,7,0.005648588207126484,116536320,openai-gpt
+A coffee table is a type of,furniture.,coffee table,furniture,8,0.0030747268137803836,116536320,openai-gpt
+A rocker is a type of,furniture.,rocker,furniture,9,0.0020012266131187984,116536320,openai-gpt
+A love seat is a type of,furniture.,love seat,furniture,10,0.002760718336828223,116536320,openai-gpt
+A chest of drawers is a,furniture.,chest of drawers,furniture,11,4.138751866027362e-05,116536320,openai-gpt
+A desk is a type of,furniture.,desk,furniture,12,0.0026501757760260592,116536320,openai-gpt
+A bed is a type of,furniture.,bed,furniture,13,0.0019986117441886265,116536320,openai-gpt
+A bureau is a type of,furniture.,bureau,furniture,14,0.0004748690185587495,116536320,openai-gpt
+A davenport is a type of,furniture.,davenport,furniture,15,0.000320190743576061,116536320,openai-gpt
+An end table is a type of,furniture.,end table,furniture,16,0.002057300979876165,116536320,openai-gpt
+A divan is a type of,furniture.,divan,furniture,17,0.0017089278141657386,116536320,openai-gpt
+A night table is a type of,furniture.,night table,furniture,18,0.0020652929540595807,116536320,openai-gpt
+A chest is a type of,furniture.,chest,furniture,19,0.00047793940020284307,116536320,openai-gpt
+A cedar chest is a type of,furniture.,cedar chest,furniture,20,0.0015440481171939903,116536320,openai-gpt
+A vanity is a type of,furniture.,vanity,furniture,21,0.0011984667747113086,116536320,openai-gpt
+A bookcase is a type of,furniture.,bookcase,furniture,22,0.001597184751812713,116536320,openai-gpt
+A lounge is a type of,furniture.,lounge,furniture,23,0.0005303592515786543,116536320,openai-gpt
+A chaise lounge is a type of,furniture.,chaise lounge,furniture,24,0.0013964312934073512,116536320,openai-gpt
+An ottoman is a type of,furniture.,ottoman,furniture,25,0.00577218784781777,116536320,openai-gpt
+A footstool is a type of,furniture.,footstool,furniture,26,0.0026148689188493263,116536320,openai-gpt
+A cabinet is a type of,furniture.,cabinet,furniture,27,0.0006616974861985401,116536320,openai-gpt
+A china closet is a type of,furniture.,china closet,furniture,28,0.0013199193398553005,116536320,openai-gpt
+A bench is a type of,furniture.,bench,furniture,29,0.0008391838306994001,116536320,openai-gpt
+A buffet is a type of,furniture.,buffet,furniture,30,8.654797544141085e-05,116536320,openai-gpt
+A lamp is a type of,furniture.,lamp,furniture,31,0.00020218187631188,116536320,openai-gpt
+A stool is a type of,furniture.,stool,furniture,32,0.0011126936317852054,116536320,openai-gpt
+A hassock is a type of,furniture.,hassock,furniture,33,0.0006706159637323167,116536320,openai-gpt
+A drawer is a type of,furniture.,drawer,furniture,34,0.0002447896811747832,116536320,openai-gpt
+A piano is a type of,furniture.,piano,furniture,35,0.0006417387127329006,116536320,openai-gpt
+A cushion is a type of,furniture.,cushion,furniture,36,0.0012352054773309294,116536320,openai-gpt
+A magazine rack is a type of,furniture.,magazine rack,furniture,37,0.0010866512286214793,116536320,openai-gpt
+A hi-fi is a type of,furniture.,hi-fi,furniture,38,3.017830756758766e-05,116536320,openai-gpt
+A cupboard is a type of,furniture.,cupboard,furniture,39,0.00043143836083994725,116536320,openai-gpt
+A stereo is a type of,furniture.,stereo,furniture,40,9.859122338075329e-05,116536320,openai-gpt
+A mirror is a type of,furniture.,mirror,furniture,41,9.783937482048804e-05,116536320,openai-gpt
+A television is a type of,furniture.,television,furniture,42,0.00019027077325547913,116536320,openai-gpt
+A bar is a type of,furniture.,bar,furniture,43,7.257372393465831e-05,116536320,openai-gpt
+A shelf is a type of,furniture.,shelf,furniture,44,0.0005213379489972842,116536320,openai-gpt
+A rug is a type of,furniture.,rug,furniture,45,0.0033867134961094083,116536320,openai-gpt
+A pillow is a type of,furniture.,pillow,furniture,46,0.0005883637447335348,116536320,openai-gpt
+A wastebasket is a type of,furniture.,wastebasket,furniture,47,0.00043321082255600037,116536320,openai-gpt
+A radio is a type of,furniture.,radio,furniture,48,1.6902846364092663e-05,116536320,openai-gpt
+A sewing machine is a type of,furniture.,sewing machine,furniture,49,0.0006244128274849278,116536320,openai-gpt
+A stove is a type of,furniture.,stove,furniture,50,0.0005483248396831469,116536320,openai-gpt
+A counter is a type of,furniture.,counter,furniture,51,0.000541333855444758,116536320,openai-gpt
+A clock is a type of,furniture.,clock,furniture,52,9.952523431806394e-05,116536320,openai-gpt
+A drape is a type of,furniture.,drape,furniture,53,0.000160935085799113,116536320,openai-gpt
+A refrigerator is a type of,furniture.,refrigerator,furniture,54,0.0002963427383683501,116536320,openai-gpt
+A picture is a type of,furniture.,picture,furniture,55,8.956156454210091e-05,116536320,openai-gpt
+A closet is a type of,furniture.,closet,furniture,56,0.0004038640913440645,116536320,openai-gpt
+A vase is a type of,furniture.,vase,furniture,57,0.00023604904723480754,116536320,openai-gpt
+An ashtray is a type of,furniture.,ashtray,furniture,58,0.0005176959113072508,116536320,openai-gpt
+A fan is a type of,furniture.,fan,furniture,59,2.246895866145871e-05,116536320,openai-gpt
+A telephone is a type of,furniture.,telephone,furniture,60,7.623016181053534e-05,116536320,openai-gpt
+Pea is a,vegetable.,pea,vegetable,1,0.003741444400321931,116536320,openai-gpt
+Carrot is a,vegetable.,carrot,vegetable,2,0.0016423881166996261,116536320,openai-gpt
+Green bean is a,vegetable.,green bean,vegetable,3,0.0024829232771705016,116536320,openai-gpt
+String bean is a,vegetable.,string bean,vegetable,4,0.0020010052372270333,116536320,openai-gpt
+Spinach is a,vegetable.,spinach,vegetable,5,0.008970312523277742,116536320,openai-gpt
+Broccoli is a,vegetable.,broccoli,vegetable,6,0.010151753077024582,116536320,openai-gpt
+Asparagus is a,vegetable.,asparagus,vegetable,7,0.005538801092169383,116536320,openai-gpt
+Corn is a,vegetable.,corn,vegetable,8,0.009115833228321074,116536320,openai-gpt
+Cauliflower is a,vegetable.,cauliflower,vegetable,9,0.00045312231870794564,116536320,openai-gpt
+Brussels sprouts are,vegetables.,brussels sprouts,vegetable,10,0.00012473312457320074,116536320,openai-gpt
+Squash is a,vegetable.,squash,vegetable,11,0.0017514855021762406,116536320,openai-gpt
+Lettuce is a,vegetable.,lettuce,vegetable,12,0.007270812356136808,116536320,openai-gpt
+Celery is a,vegetable.,celery,vegetable,13,0.008423181003252872,116536320,openai-gpt
+Cucumber is a,vegetable.,cucumber,vegetable,14,0.0059060938166756085,116536320,openai-gpt
+Beet is a,vegetable.,beet,vegetable,15,0.00027931874664463113,116536320,openai-gpt
+Green is a,vegetable.,green,vegetable,16,0.0005044694144447887,116536320,openai-gpt
+Tomato is a,vegetable.,tomato,vegetable,17,0.008040073524989878,116536320,openai-gpt
+Lima bean is a,vegetable.,lima bean,vegetable,18,0.0024394652366964316,116536320,openai-gpt
+Artichoke is a,vegetable.,artichoke,vegetable,19,0.0014247388753128405,116536320,openai-gpt
+Turnip is a,vegetable.,turnip,vegetable,20,0.005857514528701887,116536320,openai-gpt
+Eggplant is a,vegetable.,eggplant,vegetable,21,0.004818439233049556,116536320,openai-gpt
+Romaine is a,vegetable.,romaine,vegetable,22,3.50877670700676e-05,116536320,openai-gpt
+Green pepper is a,vegetable.,green pepper,vegetable,23,0.0039463729493573645,116536320,openai-gpt
+Okra is a,vegetable.,okra,vegetable,24,0.0031908650406822863,116536320,openai-gpt
+Radish is a,vegetable.,radish,vegetable,25,0.0072330718787485,116536320,openai-gpt
+Onion is a,vegetable.,onion,vegetable,26,0.007046622386788727,116536320,openai-gpt
+Bean is a,vegetable.,bean,vegetable,27,0.0004542944753889799,116536320,openai-gpt
+Green onion is a,vegetable.,green onion,vegetable,28,0.007335662205374434,116536320,openai-gpt
+Potato is a,vegetable.,potato,vegetable,29,0.007611328409226814,116536320,openai-gpt
+Parsnip is a,vegetable.,parsnip,vegetable,30,0.003012608974346513,116536320,openai-gpt
+Turnip green is a,vegetable.,turnip green,vegetable,31,0.002065032980999589,116536320,openai-gpt
+Collard is a,vegetable.,collard,vegetable,32,0.0005257641923950652,116536320,openai-gpt
+Wax bean is a,vegetable.,wax bean,vegetable,33,0.0013002306541632694,116536320,openai-gpt
+Watercress is a,vegetable.,watercress,vegetable,34,0.0034299682409734324,116536320,openai-gpt
+Black eyed pea is a,vegetable.,black eyed pea,vegetable,35,0.00031705974676944155,116536320,openai-gpt
+Leek is a,vegetable.,leek,vegetable,36,0.00013984562955242157,116536320,openai-gpt
+Pepper is a,vegetable.,pepper,vegetable,37,0.0004582303810372043,116536320,openai-gpt
+Sweet potato is a,vegetable.,sweet potato,vegetable,38,0.0018112935374029265,116536320,openai-gpt
+Yam is a,vegetable.,yam,vegetable,39,0.00029586240088162524,116536320,openai-gpt
+Parsley is a,vegetable.,parsley,vegetable,40,0.009092213117667138,116536320,openai-gpt
+Endive is a,vegetable.,endive,vegetable,41,9.009913526987314e-05,116536320,openai-gpt
+Rutabaga is a,vegetable.,rutabaga,vegetable,42,0.008733274521788317,116536320,openai-gpt
+Mushroom is a,vegetable.,mushroom,vegetable,43,0.004006167024107184,116536320,openai-gpt
+Avocado is a,vegetable.,avocado,vegetable,44,0.0036287331400779986,116536320,openai-gpt
+Rhubarb is a,vegetable.,rhubarb,vegetable,45,0.0021318676852378803,116536320,openai-gpt
+Kale is a,vegetable.,kale,vegetable,46,0.00015577179816415776,116536320,openai-gpt
+Escarole is a,vegetable.,escarole,vegetable,47,0.0003619943305957403,116536320,openai-gpt
+Sauerkraut is a,vegetable.,sauerkraut,vegetable,48,0.0042079370771578774,116536320,openai-gpt
+Pickle is a,vegetable.,pickle,vegetable,49,0.0034280976976748872,116536320,openai-gpt
+Baked bean is a,vegetable.,baked bean,vegetable,50,0.002966791085000502,116536320,openai-gpt
+Pumpkin is a,vegetable.,pumpkin,vegetable,51,0.0041865341743068125,116536320,openai-gpt
+Seaweed is a,vegetable.,seaweed,vegetable,52,0.0011574023604740153,116536320,openai-gpt
+Garlic is a,vegetable.,garlic,vegetable,53,0.0021188105567568473,116536320,openai-gpt
+Dandelion is a,vegetable.,dandelion,vegetable,54,0.0020840326880470906,116536320,openai-gpt
+Peanut is a,vegetable.,peanut,vegetable,55,0.0022156038349898013,116536320,openai-gpt
+Rice is a,vegetable.,rice,vegetable,56,0.0021121287048051127,116536320,openai-gpt
+A saw is a,tool.,saw,tool,1,0.06017445829488071,116536320,openai-gpt
+A hammer is a,tool.,hammer,tool,2,0.04145082201046588,116536320,openai-gpt
+A ruler is a,tool.,ruler,tool,3,0.00398799756386036,116536320,openai-gpt
+A screwdriver is a,tool.,screwdriver,tool,4,0.04292906253784015,116536320,openai-gpt
+A drill is a,tool.,drill,tool,5,0.01240517243142518,116536320,openai-gpt
+A nail is a,tool.,nail,tool,6,0.006820272095273948,116536320,openai-gpt
+A tape measure is a,tool.,tape measure,tool,7,0.006987415702985662,116536320,openai-gpt
+A sawhorse is a,tool.,sawhorse,tool,8,0.0024554840646740825,116536320,openai-gpt
+A sandpaper is a,tool.,sandpaper,tool,9,0.005529005977386089,116536320,openai-gpt
+A sander is a,tool.,sander,tool,10,0.03315592921678095,116536320,openai-gpt
+A level is a,tool.,level,tool,11,4.6221646077669686e-05,116536320,openai-gpt
+A plane is a,tool.,plane,tool,12,0.00012772518713140044,116536320,openai-gpt
+A file is a,tool.,file,tool,13,0.002121038489314299,116536320,openai-gpt
+A toolbox is a,tool.,toolbox,tool,14,0.015446954743479239,116536320,openai-gpt
+A t-square is a,tool.,T-square,tool,15,0.00018604546088918885,116536320,openai-gpt
+A chisel is a,tool.,chisel,tool,16,0.07555327719008796,116536320,openai-gpt
+A rasp is a,tool.,rasp,tool,17,0.00010147948324769297,116536320,openai-gpt
+A pencil is a,tool.,pencil,tool,18,0.020084194187091134,116536320,openai-gpt
+A hacksaw is a,tool.,hacksaw,tool,19,0.05694622982253631,116536320,openai-gpt
+A square is a,tool.,square,tool,20,5.939806810610498e-05,116536320,openai-gpt
+A bench is a,tool.,bench,tool,21,0.00017967805855080872,116536320,openai-gpt
+A plier is a,tool.,plier,tool,22,0.0003243929297466938,116536320,openai-gpt
+A wrench is a,tool.,wrench,tool,23,0.10500984093541045,116536320,openai-gpt
+A ladder is a,tool.,ladder,tool,24,0.002230621687160281,116536320,openai-gpt
+A lathe is a,tool.,lathe,tool,25,0.002890108321473346,116536320,openai-gpt
+A vise is a,tool.,vise,tool,26,0.0024960785395778838,116536320,openai-gpt
+A screw is a,tool.,screw,tool,27,0.012021602110229158,116536320,openai-gpt
+A wood is a,tool.,wood,tool,28,0.0051298280257052005,116536320,openai-gpt
+A wedge is a,tool.,wedge,tool,29,0.0007056433732223574,116536320,openai-gpt
+A lumber is a,tool.,lumber,tool,30,0.010346017243213998,116536320,openai-gpt
+A blueprint is a,tool.,blueprint,tool,31,0.003827179775461969,116536320,openai-gpt
+A brace is a,tool.,brace,tool,32,0.0015076230717773144,116536320,openai-gpt
+An awl is a,tool.,awl,tool,33,0.0014482721798063688,116536320,openai-gpt
+A crowbar is a,tool.,crowbar,tool,34,0.025375813617729052,116536320,openai-gpt
+A hinge is a,tool.,hinge,tool,35,0.004164477524983187,116536320,openai-gpt
+A miter box is a,tool.,miter box,tool,36,0.0017965870229725584,116536320,openai-gpt
+A knife is a,tool.,knife,tool,37,0.011521487512273228,116536320,openai-gpt
+A chalk is a,tool.,chalk,tool,38,0.007307613705601512,116536320,openai-gpt
+A nut is a,tool.,nut,tool,39,0.0005475504147217329,116536320,openai-gpt
+A bolt is a,tool.,bolt,tool,40,0.0007557406257095073,116536320,openai-gpt
+A plumb line is a,tool.,plumb line,tool,41,0.00018276274179932286,116536320,openai-gpt
+A brush is a,tool.,brush,tool,42,0.01748829217631148,116536320,openai-gpt
+A sledge hammer is a,tool.,sledge hammer,tool,43,0.023679886705178926,116536320,openai-gpt
+A glue is a,tool.,glue,tool,44,0.004034933704275936,116536320,openai-gpt
+A paintbrush is a,tool.,paintbrush,tool,45,0.021907793497884673,116536320,openai-gpt
+A varnish is a,tool.,varnish,tool,46,0.002728177707912873,116536320,openai-gpt
+An apron is a,tool.,apron,tool,47,0.0015861464048592933,116536320,openai-gpt
+A stapler is a,tool.,stapler,tool,48,0.006091984180402412,116536320,openai-gpt
+An extension cord is a,tool.,extension cord,tool,49,0.007705603147474106,116536320,openai-gpt
+A soldering iron is a,tool.,soldering iron,tool,50,0.019304914790627063,116536320,openai-gpt
+A plaster is a,tool.,plaster,tool,51,0.0009371508805268339,116536320,openai-gpt
+A wheelbarrow is a,tool.,wheelbarrow,tool,52,0.003191936372696566,116536320,openai-gpt
+An axe is a,tool.,axe,tool,53,0.03317879832980475,116536320,openai-gpt
+A slide rule is a,tool.,slide rule,tool,54,0.0022583171727158314,116536320,openai-gpt
+A cement is a,tool.,cement,tool,55,0.0009489331766133849,116536320,openai-gpt
+An anvil is a,tool.,anvil,tool,56,0.003608804657835069,116536320,openai-gpt
+A hatchet is a,tool.,hatchet,tool,57,0.025285658771835202,116536320,openai-gpt
+A rag is a,tool.,rag,tool,58,0.0057662127435229435,116536320,openai-gpt
+A scissor is a,tool.,scissor,tool,59,0.006923970359262701,116536320,openai-gpt
+A crane is a,tool.,crane,tool,60,0.0028647199254416573,116536320,openai-gpt
+An automobile is a,vehicle.,automobile,vehicle,1,0.05830976508309416,116536320,openai-gpt
+A station wagon is a,vehicle.,station wagon,vehicle,2,0.008793761993929722,116536320,openai-gpt
+A truck is a,vehicle.,truck,vehicle,3,0.018495555143910547,116536320,openai-gpt
+A car is a,vehicle.,car,vehicle,4,0.019856549012195628,116536320,openai-gpt
+A bus is a,vehicle.,bus,vehicle,5,0.004323471986806678,116536320,openai-gpt
+A taxi is a,vehicle.,taxi,vehicle,6,0.0010838428330690124,116536320,openai-gpt
+A jeep is a,vehicle.,jeep,vehicle,7,0.008764780384943133,116536320,openai-gpt
+An ambulance is a,vehicle.,ambulance,vehicle,8,0.0022513102370766863,116536320,openai-gpt
+A motorcycle is a,vehicle.,motorcycle,vehicle,9,0.002861678082608634,116536320,openai-gpt
+A streetcar is a,vehicle.,streetcar,vehicle,10,0.0032569255015573533,116536320,openai-gpt
+A van is a,vehicle.,van,vehicle,11,0.00979037840291429,116536320,openai-gpt
+A honda is a,vehicle.,Honda,vehicle,12,0.0021704762069398764,116536320,openai-gpt
+A cable car is a,vehicle.,cable car,vehicle,13,0.003737692621010521,116536320,openai-gpt
+A train is a,vehicle.,train,vehicle,14,0.002504064591698664,116536320,openai-gpt
+A trolley is a,vehicle.,trolley,vehicle,15,0.003012004258483642,116536320,openai-gpt
+A bicycle is a,vehicle.,bicycle,vehicle,16,0.004459065573057277,116536320,openai-gpt
+A carriage is a,vehicle.,carriage,vehicle,17,0.008975630880506466,116536320,openai-gpt
+An airplane is a,vehicle.,airplane,vehicle,18,0.002616163486798195,116536320,openai-gpt
+A bike is a,vehicle.,bike,vehicle,19,0.003913317614288539,116536320,openai-gpt
+A boat is a,vehicle.,boat,vehicle,20,0.001857501085148636,116536320,openai-gpt
+A jet is a,vehicle.,jet,vehicle,21,0.001969554224488819,116536320,openai-gpt
+A ship is a,vehicle.,ship,vehicle,22,0.0016962054186053666,116536320,openai-gpt
+A scooter is a,vehicle.,scooter,vehicle,23,0.00565011829775786,116536320,openai-gpt
+A tractor is a,vehicle.,tractor,vehicle,24,0.010460897239832841,116536320,openai-gpt
+A wagon is a,vehicle.,wagon,vehicle,25,0.00881440411073259,116536320,openai-gpt
+A subway is a,vehicle.,subway,vehicle,26,0.0005421382634128516,116536320,openai-gpt
+A trailer is a,vehicle.,trailer,vehicle,27,0.002795877947867724,116536320,openai-gpt
+A cart is a,vehicle.,cart,vehicle,28,0.00507096556201041,116536320,openai-gpt
+A wheelchair is a,vehicle.,wheelchair,vehicle,29,0.0004944173091894154,116536320,openai-gpt
+A yacht is a,vehicle.,yacht,vehicle,30,0.0008534084729828531,116536320,openai-gpt
+A tank is a,vehicle.,tank,vehicle,31,0.0010312578448844966,116536320,openai-gpt
+A go-cart is a,vehicle.,go-cart,vehicle,32,0.0029889651237010807,116536320,openai-gpt
+A rowboat is a,vehicle.,rowboat,vehicle,33,0.0005432421966150833,116536320,openai-gpt
+A dogsled is a,vehicle.,dogsled,vehicle,34,0.0025291602832704196,116536320,openai-gpt
+A tricycle is a,vehicle.,tricycle,vehicle,35,0.0060889290083390975,116536320,openai-gpt
+A canoe is a,vehicle.,canoe,vehicle,36,0.0009379399351815215,116536320,openai-gpt
+A raft is a,vehicle.,raft,vehicle,37,0.0009631875279038207,116536320,openai-gpt
+A submarine is a,vehicle.,submarine,vehicle,38,0.0010018254703498908,116536320,openai-gpt
+A sled is a,vehicle.,sled,vehicle,39,0.005699083245658201,116536320,openai-gpt
+A horse is a,vehicle.,horse,vehicle,40,0.0014479172600474213,116536320,openai-gpt
+A rocket is a,vehicle.,rocket,vehicle,41,0.001041437646781068,116536320,openai-gpt
+A blimp is a,vehicle.,blimp,vehicle,42,8.339756217918596e-05,116536320,openai-gpt
+A skate is a,vehicle.,skate,vehicle,43,0.0006989208249832533,116536320,openai-gpt
+A camel is a,vehicle.,camel,vehicle,44,0.0003585932024332951,116536320,openai-gpt
+Feet are,vehicles.,feet,vehicle,45,1.299164569668689e-06,116536320,openai-gpt
+A ski is a,vehicle.,ski,vehicle,46,0.0003481077881107123,116536320,openai-gpt
+A skateboard is a,vehicle.,skateboard,vehicle,47,0.000885726095650266,116536320,openai-gpt
+A wheelbarrow is a,vehicle.,wheelbarrow,vehicle,48,0.003143810861378709,116536320,openai-gpt
+A surfboard is a,vehicle.,surfboard,vehicle,49,0.0003793349648523107,116536320,openai-gpt
+An elevator is a,vehicle.,elevator,vehicle,50,0.0004598043206160616,116536320,openai-gpt
+A robin is a,bird.,robin,bird,1,0.06592897544014735,116536320,openai-gpt
+A sparrow is a,bird.,sparrow,bird,2,0.14693231207176563,116536320,openai-gpt
+A bluejay is a,bird.,bluejay,bird,3,0.02640604214216793,116536320,openai-gpt
+A bluebird is a,bird.,bluebird,bird,4,0.1404746795003068,116536320,openai-gpt
+A canary is a,bird.,canary,bird,5,0.01433021988115397,116536320,openai-gpt
+A blackbird is a,bird.,blackbird,bird,6,0.17468023877438021,116536320,openai-gpt
+A dove is a,bird.,dove,bird,7,0.1183816543877047,116536320,openai-gpt
+A lark is a,bird.,lark,bird,8,0.00035488271557009357,116536320,openai-gpt
+A swallow is a,bird.,swallow,bird,9,0.00012789802804320766,116536320,openai-gpt
+A parakeet is a,bird.,parakeet,bird,10,0.03873839273362581,116536320,openai-gpt
+An oriole is a,bird.,oriole,bird,11,0.0011174598732360513,116536320,openai-gpt
+A mockingbird is a,bird.,mockingbird,bird,12,0.012615916364607235,116536320,openai-gpt
+A redbird is a,bird.,redbird,bird,13,0.0865422887683589,116536320,openai-gpt
+A wren is a,bird.,wren,bird,14,0.04053713374544378,116536320,openai-gpt
+A finch is a,bird.,finch,bird,15,0.0726516704894969,116536320,openai-gpt
+A starling is a,bird.,starling,bird,16,0.04433925925816496,116536320,openai-gpt
+A cardinal is a,bird.,cardinal,bird,17,0.005794265626169286,116536320,openai-gpt
+An eagle is a,bird.,eagle,bird,18,0.22473440448577298,116536320,openai-gpt
+A hummingbird is a,bird.,hummingbird,bird,19,0.052664844933511784,116536320,openai-gpt
+A seagull is a,bird.,seagull,bird,20,0.1372165303382644,116536320,openai-gpt
+A woodpecker is a,bird.,woodpecker,bird,21,0.11362368059575521,116536320,openai-gpt
+A pigeon is a,bird.,pigeon,bird,22,0.08542680038520208,116536320,openai-gpt
+A thrush is a,bird.,thrush,bird,23,0.0768927001388985,116536320,openai-gpt
+A falcon is a,bird.,falcon,bird,24,0.13822660779494614,116536320,openai-gpt
+A crow is a,bird.,crow,bird,25,0.1797810892793855,116536320,openai-gpt
+A hawk is a,bird.,hawk,bird,26,0.10689629602369158,116536320,openai-gpt
+A raven is a,bird.,raven,bird,27,0.10164288952449728,116536320,openai-gpt
+A goldfinch is a,bird.,goldfinch,bird,28,0.04717794718268409,116536320,openai-gpt
+A parrot is a,bird.,parrot,bird,29,0.12175286264000296,116536320,openai-gpt
+A sandpiper is a,bird.,sandpiper,bird,30,0.006847194431469383,116536320,openai-gpt
+A pheasant is a,bird.,pheasant,bird,31,0.025540861427629815,116536320,openai-gpt
+A catbird is a,bird.,catbird,bird,32,0.15741339985147818,116536320,openai-gpt
+A crane is a,bird.,crane,bird,33,0.007223999811560634,116536320,openai-gpt
+An albatross is a,bird.,albatross,bird,34,0.03333118590831176,116536320,openai-gpt
+A condor is a,bird.,condor,bird,35,0.039873454871737324,116536320,openai-gpt
+A toucan is a,bird.,toucan,bird,36,0.010686556083303775,116536320,openai-gpt
+An owl is a,bird.,owl,bird,37,0.1791327984886813,116536320,openai-gpt
+A pelican is a,bird.,pelican,bird,38,0.07574547100741712,116536320,openai-gpt
+A goose is a,bird.,goose,bird,39,0.01696101139071334,116536320,openai-gpt
+A vulture is a,bird.,vulture,bird,40,0.014848640400909632,116536320,openai-gpt
+A stork is a,bird.,stork,bird,41,0.04110821110740725,116536320,openai-gpt
+A buzzard is a,bird.,buzzard,bird,42,0.07686916462110938,116536320,openai-gpt
+A swan is a,bird.,swan,bird,43,0.049963700339432766,116536320,openai-gpt
+A flamingo is a,bird.,flamingo,bird,44,0.026034763346112304,116536320,openai-gpt
+A duck is a,bird.,duck,bird,45,0.010712989787385737,116536320,openai-gpt
+A peacock is a,bird.,peacock,bird,46,0.034661031832764554,116536320,openai-gpt
+An egret is a,bird.,egret,bird,47,0.011425352488817405,116536320,openai-gpt
+A chicken is a,bird.,chicken,bird,48,0.05003603633323454,116536320,openai-gpt
+A turkey is a,bird.,turkey,bird,49,0.0315487715667356,116536320,openai-gpt
+An ostrich is a,bird.,ostrich,bird,50,0.08312136912217333,116536320,openai-gpt
+A titmouse is a,bird.,titmouse,bird,51,0.0035457065096943853,116536320,openai-gpt
+An emu is a,bird.,emu,bird,52,0.011897794806428563,116536320,openai-gpt
+A penguin is a,bird.,penguin,bird,53,0.008709162967607568,116536320,openai-gpt
+A bat is a,bird.,bat,bird,54,0.027353186391106496,116536320,openai-gpt
+Football is a,sport.,football,sport,1,0.03165748316035875,116536320,openai-gpt
+Baseball is a,sport.,baseball,sport,2,0.02238853021384937,116536320,openai-gpt
+Basketball is a,sport.,basketball,sport,3,0.03179066298191018,116536320,openai-gpt
+Tennis is a,sport.,tennis,sport,4,0.034009319745596664,116536320,openai-gpt
+Softball is a,sport.,softball,sport,5,0.04449737005260815,116536320,openai-gpt
+Canoeing is a,sport.,canoeing,sport,6,0.004183838048207814,116536320,openai-gpt
+Handball is a,sport.,handball,sport,7,0.008742236633547434,116536320,openai-gpt
+Rugby is a,sport.,rugby,sport,8,0.08456136575356463,116536320,openai-gpt
+Hockey is a,sport.,hockey,sport,9,0.053404355318291276,116536320,openai-gpt
+Ice hockey is a,sport.,ice hockey,sport,10,0.019741149390201964,116536320,openai-gpt
+Swimming is a,sport.,swimming,sport,11,0.005323032861109181,116536320,openai-gpt
+Track is a,sport.,track,sport,12,0.0004560320856328579,116536320,openai-gpt
+Boxing is a,sport.,boxing,sport,13,0.02413325568028753,116536320,openai-gpt
+Volleyball is a,sport.,volleyball,sport,14,0.026063729695059115,116536320,openai-gpt
+Lacrosse is a,sport.,lacrosse,sport,15,0.06443082049077661,116536320,openai-gpt
+Skiing is a,sport.,skiing,sport,16,0.005623299557114225,116536320,openai-gpt
+Golf is a,sport.,golf,sport,17,0.025378021987697504,116536320,openai-gpt
+Polo is a,sport.,polo,sport,18,0.007155788702779719,116536320,openai-gpt
+Surfing is a,sport.,surfing,sport,19,0.005998005753370741,116536320,openai-gpt
+Wrestling is a,sport.,wrestling,sport,20,0.013105128904286823,116536320,openai-gpt
+Gymnastics is a,sport.,gymnastics,sport,21,0.01528450310984298,116536320,openai-gpt
+Cricket is a,sport.,cricket,sport,22,8.406648788714525e-05,116536320,openai-gpt
+Squash is a,sport.,squash,sport,23,0.0013693200043930539,116536320,openai-gpt
+Badminton is a,sport.,badminton,sport,24,0.02585092593191056,116536320,openai-gpt
+Racing is a,sport.,racing,sport,25,0.002957708647619306,116536320,openai-gpt
+Pole vault is a,sport.,pole vault,sport,26,0.00013933656224674425,116536320,openai-gpt
+Fencing is a,sport.,fencing,sport,27,0.003870687278318544,116536320,openai-gpt
+Bowling is a,sport.,bowling,sport,28,0.008899562858948823,116536320,openai-gpt
+Water skiing is a,sport.,water skiing,sport,29,0.0056016381484493075,116536320,openai-gpt
+Ice skating is a,sport.,ice skating,sport,30,0.004805021521309185,116536320,openai-gpt
+Jai alai is a,sport.,jai alai,sport,31,1.4374675666375173e-05,116536320,openai-gpt
+Skating is a,sport.,skating,sport,32,0.008015517237598442,116536320,openai-gpt
+Skindiving is a,sport.,skindiving,sport,33,0.0007070303467248803,116536320,openai-gpt
+Sailing is a,sport.,sailing,sport,34,0.0018368911846891698,116536320,openai-gpt
+Diving is a,sport.,diving,sport,35,0.0036068658235405586,116536320,openai-gpt
+Archery is a,sport.,archery,sport,36,0.022017425561008854,116536320,openai-gpt
+Judo is a,sport.,judo,sport,37,0.018273922502235144,116536320,openai-gpt
+Car racing is a,sport.,car racing,sport,38,0.0034310985827732438,116536320,openai-gpt
+Ping pong is a,sport.,ping pong,sport,39,0.0070473650061150675,116536320,openai-gpt
+Rowing is a,sport.,rowing,sport,40,0.004890317791087436,116536320,openai-gpt
+Fishing is a,sport.,fishing,sport,41,0.007604794730196905,116536320,openai-gpt
+Horseback riding is a,sport.,horseback riding,sport,42,0.007803411752483377,116536320,openai-gpt
+Running is a,sport.,running,sport,43,0.0012063394219787302,116536320,openai-gpt
+Horse racing is a,sport.,horse racing,sport,44,0.02446447091908977,116536320,openai-gpt
+Hiking is a,sport.,hiking,sport,45,0.0023009584809119527,116536320,openai-gpt
+Weight lifting is a,sport.,weight lifting,sport,46,0.00036007961777786995,116536320,openai-gpt
+Croquet is a,sport.,croquet,sport,47,0.022062979351834964,116536320,openai-gpt
+Horseshoes is a,sport.,horseshoes,sport,48,0.0014370639922756843,116536320,openai-gpt
+Boating is a,sport.,boating,sport,49,0.007010186001033364,116536320,openai-gpt
+Pool is a,sport.,pool,sport,50,0.00018643692076759848,116536320,openai-gpt
+Billiards is a,sport.,billiards,sport,51,0.006461092217579527,116536320,openai-gpt
+Hunting is a,sport.,hunting,sport,52,0.006611641747743037,116536320,openai-gpt
+Jump rope is a,sport.,jump rope,sport,53,0.0008526332036623993,116536320,openai-gpt
+Camping is a,sport.,camping,sport,54,0.00220045519338575,116536320,openai-gpt
+Chess is a,sport.,chess,sport,55,0.00576589655457504,116536320,openai-gpt
+Dancing is a,sport.,dancing,sport,56,0.0022360091541794333,116536320,openai-gpt
+Checkers is a,sport.,checkers,sport,57,0.007313665374491899,116536320,openai-gpt
+Cards is a,sport.,cards,sport,58,0.0004954779351062592,116536320,openai-gpt
+Sunbathing is a,sport.,sunbathing,sport,59,0.00545908538980151,116536320,openai-gpt

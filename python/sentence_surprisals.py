@@ -6,7 +6,7 @@ from tqdm import tqdm
 import torch
 from torch.utils.data import DataLoader
 
-from minicons.minicons import scorer
+from minicons import scorer
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--dataset", type = str)

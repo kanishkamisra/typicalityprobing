@@ -1,0 +1,566 @@
+preamble,stimulus,item,category,rank,score,params,model
+A gun is a,weapon.,gun,weapon,1,-3.5091068744659424,0,5gram
+A pistol is a,weapon.,pistol,weapon,2,-5.47002100944519,0,5gram
+A revolver is a,weapon.,revolver,weapon,3,-5.443655729293823,0,5gram
+A machine gun is a,weapon.,machine gun,weapon,4,-3.542177677154541,0,5gram
+A rifle is a,weapon.,rifle,weapon,5,-3.345962643623352,0,5gram
+A switchblade is a,weapon.,switchblade,weapon,6,-5.4069578647613525,0,5gram
+A knife is a,weapon.,knife,weapon,7,-5.581795930862427,0,5gram
+A dagger is a,weapon.,dagger,weapon,8,-5.518568277359009,0,5gram
+A shotgun is a,weapon.,shotgun,weapon,9,-5.483374357223511,0,5gram
+A sword is a,weapon.,sword,weapon,10,-5.530075311660767,0,5gram
+A bomb is a,weapon.,bomb,weapon,11,-4.382097125053406,0,5gram
+A hand grenade is a,weapon.,hand grenade,weapon,12,-5.427216291427612,0,5gram
+An atom bomb is a,weapon.,Atom bomb,weapon,13,-4.492515206336975,0,5gram
+A bayonet is a,weapon.,bayonet,weapon,14,-5.399959325790405,0,5gram
+A spear is a,weapon.,spear,weapon,15,-5.542149782180786,0,5gram
+A bazooka is a,weapon.,bazooka,weapon,16,-5.315775156021118,0,5gram
+A cannon is a,weapon.,cannon,weapon,17,-5.473072290420532,0,5gram
+A bow and arrow is a,weapon.,bow and arrow,weapon,18,-3.439547896385193,0,5gram
+A club is a,weapon.,club,weapon,19,-5.734303712844849,0,5gram
+A lance is a,weapon.,lance,weapon,20,-5.52135443687439,0,5gram
+A brass knuckle is a,weapon.,brass knuckle,weapon,21,-5.400042772293091,0,5gram
+A bullet is a,weapon.,bullet,weapon,22,-5.742675065994263,0,5gram
+A tomahawk is a,weapon.,tomahawk,weapon,23,-5.521656274795532,0,5gram
+A mortar is a,weapon.,mortar,weapon,24,-5.3578197956085205,0,5gram
+An arrow is a,weapon.,arrow,weapon,25,-3.472610354423523,0,5gram
+A blackjack is a,weapon.,blackjack,weapon,26,-5.373861074447632,0,5gram
+A tank is a,weapon.,tank,weapon,27,-5.475702524185181,0,5gram
+Teargas is a,weapon.,teargas,weapon,28,-5.322033166885376,0,5gram
+A missile is a,weapon.,missile,weapon,29,-5.576324701309204,0,5gram
+A whip is a,weapon.,whip,weapon,30,-3.9957412481307983,0,5gram
+An ice pick is a,weapon.,ice pick,weapon,31,-5.4439918994903564,0,5gram
+A hatchet is a,weapon.,hatchet,weapon,32,-5.446030378341675,0,5gram
+A slingshot is a,weapon.,slingshot,weapon,33,-3.362735867500305,0,5gram
+A fist is a,weapon.,fist,weapon,34,-5.577583074569702,0,5gram
+An axe is a,weapon.,axe,weapon,35,-2.6385914087295532,0,5gram
+A bow is a,weapon.,bow,weapon,36,-5.55245041847229,0,5gram
+A razor is a,weapon.,razor,weapon,37,-5.497418165206909,0,5gram
+A razor blade is a,weapon.,razor blade,weapon,38,-4.243884444236755,0,5gram
+A rocket is a,weapon.,rocket,weapon,39,-4.267562747001648,0,5gram
+A judo is a,weapon.,judo,weapon,40,-5.341538667678833,0,5gram
+A stick is a,weapon.,stick,weapon,41,-5.447271108627319,0,5gram
+A poison is a,weapon.,poison,weapon,42,-3.863493323326111,0,5gram
+A rock is a,weapon.,rock,weapon,43,-5.885730504989624,0,5gram
+A stone is a,weapon.,stone,weapon,44,-5.609480619430542,0,5gram
+Gas is a,weapon.,gas,weapon,45,-5.5641491413116455,0,5gram
+A chain is a,weapon.,chain,weapon,46,-5.580213785171509,0,5gram
+A scissor is a,weapon.,scissor,weapon,47,-5.322033166885376,0,5gram
+A brick is a,weapon.,brick,weapon,48,-5.445361852645874,0,5gram
+A pitchfork is a,weapon.,pitchfork,weapon,49,-5.308077573776245,0,5gram
+A hammer is a,weapon.,hammer,weapon,50,-4.396334528923035,0,5gram
+A word is a,weapon.,word,weapon,51,-5.545769453048706,0,5gram
+A hand is a,weapon.,hand,weapon,52,-5.50378155708313,0,5gram
+A pipe is a,weapon.,pipe,weapon,53,-5.489736318588257,0,5gram
+A rope is a,weapon.,rope,weapon,54,-5.543601751327515,0,5gram
+An airplane is a,weapon.,airplane,weapon,55,-5.382251024246216,0,5gram
+A foot is a,weapon.,foot,weapon,56,-5.470123052597046,0,5gram
+A car is a,weapon.,car,weapon,57,-5.552773714065552,0,5gram
+A screwdriver is a,weapon.,screwdriver,weapon,58,-5.370379686355591,0,5gram
+Glass is a,weapon.,glass,weapon,59,-5.588702440261841,0,5gram
+A shoe is a,weapon.,shoe,weapon,60,-5.488811254501343,0,5gram
+Orange is a,fruit.,orange,fruit,1,-6.0254881381988525,0,5gram
+Apple is a,fruit.,apple,fruit,2,-5.9651172161102295,0,5gram
+Banana is a,fruit.,banana,fruit,3,-6.045231580734253,0,5gram
+Peach is a,fruit.,peach,fruit,4,-5.878219842910767,0,5gram
+Pear is a,fruit.,pear,fruit,5,-3.4398895502090454,0,5gram
+Apricot is a,fruit.,apricot,fruit,6,-2.3966466188430786,0,5gram
+Tangerine is a,fruit.,tangerine,fruit,7,-5.84909987449646,0,5gram
+Plum is a,fruit.,plum,fruit,8,-3.536963105201721,0,5gram
+Grape is a,fruit.,grape,fruit,9,-4.53446102142334,0,5gram
+Nectarine is a,fruit.,nectarine,fruit,10,-5.704273462295532,0,5gram
+Strawberry is a,fruit.,strawberry,fruit,11,-5.85496973991394,0,5gram
+Grapefruit is a,fruit.,grapefruit,fruit,12,-5.855819463729858,0,5gram
+Berry is a,fruit.,berry,fruit,13,-5.952781438827515,0,5gram
+Cherry is a,fruit.,cherry,fruit,14,-6.123465299606323,0,5gram
+Pineapple is a,fruit.,pineapple,fruit,15,-5.812970876693726,0,5gram
+Blackberry is a,fruit.,blackberry,fruit,16,-5.9806177616119385,0,5gram
+Melon is a,fruit.,melon,fruit,17,-5.88544774055481,0,5gram
+Blueberry is a,fruit.,blueberry,fruit,18,-6.043858766555786,0,5gram
+Raspberry is a,fruit.,raspberry,fruit,19,-6.023597002029419,0,5gram
+Lemon is a,fruit.,lemon,fruit,20,-5.895123243331909,0,5gram
+Black raspberry is a,fruit.,black raspberry,fruit,21,-6.023597002029419,0,5gram
+Boysenberry is a,fruit.,boysenberry,fruit,22,-5.704273462295532,0,5gram
+Watermelon is a,fruit.,watermelon,fruit,23,-5.839744806289673,0,5gram
+Cantaloupe is a,fruit.,cantaloupe,fruit,24,-1.6394448280334473,0,5gram
+Lime is a,fruit.,lime,fruit,25,-5.850281476974487,0,5gram
+Tangelo is a,fruit.,tangelo,fruit,26,-5.704273462295532,0,5gram
+Papaya is a,fruit.,papaya,fruit,27,-2.6684311628341675,0,5gram
+Honeydew is a,fruit.,honeydew,fruit,28,-5.7890965938568115,0,5gram
+Fig is a,fruit.,fig,fruit,29,-5.989607572555542,0,5gram
+Mango is a,fruit.,mango,fruit,30,-6.202641725540161,0,5gram
+Guava is a,fruit.,guava,fruit,31,-5.879567861557007,0,5gram
+Pomegranate is a,fruit.,pomegranate,fruit,32,-5.8094398975372314,0,5gram
+Cranberry is a,fruit.,cranberry,fruit,33,-5.9023520946502686,0,5gram
+Passion fruit is a,fruit.,passion fruit,fruit,34,-4.462410569190979,0,5gram
+Prune is a,fruit.,prune,fruit,35,-5.7575905323028564,0,5gram
+Gooseberry is a,fruit.,gooseberry,fruit,36,-5.842564344406128,0,5gram
+Date is a,fruit.,date,fruit,37,-5.885164976119995,0,5gram
+Kumquat is a,fruit.,kumquat,fruit,38,-5.704273462295532,0,5gram
+Raisin is a,fruit.,raisin,fruit,39,-5.812970876693726,0,5gram
+Muskmelon is a,fruit.,muskmelon,fruit,40,-5.704273462295532,0,5gram
+Persimmon is a,fruit.,persimmon,fruit,41,-5.812970876693726,0,5gram
+Pawpaw is a,fruit.,pawpaw,fruit,42,-5.884207010269165,0,5gram
+Coconut is a,fruit.,coconut,fruit,43,-5.96528172492981,0,5gram
+Avocado is a,fruit.,avocado,fruit,44,-5.84870171546936,0,5gram
+Pumpkin is a,fruit.,pumpkin,fruit,45,-5.849218130111694,0,5gram
+Tomato is a,fruit.,tomato,fruit,46,-2.237921893596649,0,5gram
+Nut is a,fruit.,nut,fruit,47,-3.6905906200408936,0,5gram
+Gourd is a,fruit.,gourd,fruit,48,-5.863616704940796,0,5gram
+Olive is a,fruit.,olive,fruit,49,-6.0505897998809814,0,5gram
+Pickle is a,fruit.,pickle,fruit,50,-5.9730470180511475,0,5gram
+Squash is a,fruit.,squash,fruit,51,-5.988256216049194,0,5gram
+A doll is a,toy.,doll,toy,1,-4.089861512184143,0,5gram
+A top is a,toy.,top,toy,2,-2.974258542060852,0,5gram
+A jack-in-the-box is a,toy.,jack-in-the-box,toy,3,-5.490807414054871,0,5gram
+A toy soldier is a,toy.,toy soldier,toy,4,-5.8784321546554565,0,5gram
+A yo-yo is a,toy.,yo-yo,toy,5,-5.490807414054871,0,5gram
+A block is a,toy.,block,toy,6,-6.034927248954773,0,5gram
+Marbles are,toys.,marbles,toy,7,-6.255873799324036,0,5gram
+A rattle is a,toy.,rattle,toy,8,-5.617733359336853,0,5gram
+A stuffed animal is a,toy.,stuffed animal,toy,9,-5.625695586204529,0,5gram
+A water pistol is a,toy.,water pistol,toy,10,-5.63673198223114,0,5gram
+A teddy bear is a,toy.,teddy bear,toy,11,-3.9781532287597656,0,5gram
+A rocking horse is a,toy.,rocking horse,toy,12,-2.8183958530426025,0,5gram
+A doll house is a,toy.,doll house,toy,13,-6.338592529296875,0,5gram
+A ball is a,toy.,ball,toy,14,-5.080534934997559,0,5gram
+Jacks are,toys.,jacks,toy,15,-6.390721440315247,0,5gram
+Paper dolls are,toys.,paper dolls,toy,16,-4.852408170700073,0,5gram
+An erector set is a,toy.,erector set,toy,17,-5.178892612457275,0,5gram
+A hula hoop is a,toy.,hula hoop,toy,18,-2.21433687210083,0,5gram
+A jump rope is a,toy.,jump rope,toy,19,-5.685620665550232,0,5gram
+A pogo stick is a,toy.,pogo stick,toy,20,-5.674699187278748,0,5gram
+A clay is a,toy.,clay,toy,21,-5.669255614280701,0,5gram
+A wagon is a,toy.,wagon,toy,22,-5.702843070030212,0,5gram
+A kite is a,toy.,kite,toy,23,-5.758562445640564,0,5gram
+A train is a,toy.,train,toy,24,-5.14185643196106,0,5gram
+A tricycle is a,toy.,tricycle,toy,25,-5.599504828453064,0,5gram
+A coloring book is a,toy.,coloring book,toy,26,-5.7085264921188354,0,5gram
+Crayons are,toys.,crayons,toy,27,-6.185787796974182,0,5gram
+A truck is a,toy.,truck,toy,28,-5.774603724479675,0,5gram
+A puzzle is a,toy.,puzzle,toy,29,-4.45262336730957,0,5gram
+A fire engine is a,toy.,fire engine,toy,30,-5.825993895530701,0,5gram
+A balloon is a,toy.,balloon,toy,31,-5.761844515800476,0,5gram
+Skates are,toys.,skates,toy,32,-6.297155022621155,0,5gram
+A baseball is a,toy.,baseball,toy,33,-5.804158091545105,0,5gram
+A drum is a,toy.,drum,toy,34,-6.080410838127136,0,5gram
+A football is a,toy.,football,toy,35,-5.808051943778992,0,5gram
+A game is a,toy.,game,toy,36,-5.894734740257263,0,5gram
+A swing is a,toy.,swing,toy,37,-5.952211260795593,0,5gram
+A boat is a,toy.,boat,toy,38,-4.956438779830933,0,5gram
+A monopoly is a,toy.,monopoly,toy,39,-5.704450011253357,0,5gram
+A sled is a,toy.,sled,toy,40,-5.619010329246521,0,5gram
+A seesaw is a,toy.,seesaw,toy,41,-5.623983263969421,0,5gram
+Stilts are,toys.,stilts,toy,42,-6.307801842689514,0,5gram
+Checkers are,toys.,checkers,toy,43,-6.148257374763489,0,5gram
+A bat is a,toy.,bat,toy,44,-5.871433615684509,0,5gram
+A car is a,toy.,car,toy,45,-5.120216369628906,0,5gram
+An airplane is a,toy.,airplane,toy,46,-5.604342341423035,0,5gram
+A bicycle is a,toy.,bicycle,toy,47,-5.849204897880554,0,5gram
+A tractor is a,toy.,tractor,toy,48,-5.630569338798523,0,5gram
+A sandbox is a,toy.,sandbox,toy,49,-5.61241090297699,0,5gram
+A bike is a,toy.,bike,toy,50,-5.729556918144226,0,5gram
+A bow and arrow is a,toy.,bow and arrow,toy,51,-5.686318755149841,0,5gram
+A rope is a,toy.,rope,toy,52,-5.7656930685043335,0,5gram
+Dishes are,toys.,dishes,toy,53,-6.600287079811096,0,5gram
+Cards are,toys.,cards,toy,54,-6.888269543647766,0,5gram
+A mitt is a,toy.,mitt,toy,55,-5.544124484062195,0,5gram
+A horse is a,toy.,horse,toy,56,-3.989784002304077,0,5gram
+A gun is a,toy.,gun,toy,57,-4.116311550140381,0,5gram
+Animals are,toys.,animals,toy,58,-6.769426465034485,0,5gram
+A tennis racket is a,toy.,tennis racket,toy,59,-5.743730902671814,0,5gram
+Books are,toys.,books,toy,60,-6.775330662727356,0,5gram
+A pant is a type of,clothing.,pant,clothing,1,-4.250643312931061,0,5gram
+A shirt is a type of,clothing.,shirt,clothing,2,-4.250643312931061,0,5gram
+A dress is a type of,clothing.,dress,clothing,3,-4.250643312931061,0,5gram
+A skirt is a type of,clothing.,skirt,clothing,4,-4.250643312931061,0,5gram
+A blouse is a type of,clothing.,blouse,clothing,5,-4.250643312931061,0,5gram
+A suit is a type of,clothing.,suit,clothing,6,-4.250643312931061,0,5gram
+A slack is a type of,clothing.,slack,clothing,7,-4.250643312931061,0,5gram
+A jacket is a type of,clothing.,jacket,clothing,8,-4.250643312931061,0,5gram
+A coat is a type of,clothing.,coat,clothing,9,-4.250643312931061,0,5gram
+A sweater is a type of,clothing.,sweater,clothing,10,-4.250643312931061,0,5gram
+A sweatshirt is a type of,clothing.,sweatshirt,clothing,11,-4.250643312931061,0,5gram
+An underpant is a type of,clothing.,underpant,clothing,12,-4.250643312931061,0,5gram
+A sports jacket is a type of,clothing.,sports jacket,clothing,13,-4.250643312931061,0,5gram
+A jumper is a type of,clothing.,jumper,clothing,14,-4.250643312931061,0,5gram
+A panty is a type of,clothing.,panty,clothing,15,-4.250643312931061,0,5gram
+A sock is a type of,clothing.,sock,clothing,16,-4.250643312931061,0,5gram
+A parka is a type of,clothing.,parka,clothing,17,-4.250643312931061,0,5gram
+A pajama is a type of,clothing.,pajama,clothing,18,-4.250643312931061,0,5gram
+An undershirt is a type of,clothing.,undershirt,clothing,19,-4.250643312931061,0,5gram
+An overcoat is a type of,clothing.,overcoat,clothing,20,-4.250643312931061,0,5gram
+A nightgown is a type of,clothing.,nightgown,clothing,21,-4.250643312931061,0,5gram
+A raincoat is a type of,clothing.,raincoat,clothing,22,-4.250643312931061,0,5gram
+A bathing suit is a type of,clothing.,bathing suit,clothing,23,-4.250643312931061,0,5gram
+A bathrobe is a type of,clothing.,bathrobe,clothing,24,-4.250643312931061,0,5gram
+A slip is a type of,clothing.,slip,clothing,25,-4.250643312931061,0,5gram
+A bra is a type of,clothing.,bra,clothing,26,-4.250643312931061,0,5gram
+A shoe is a type of,clothing.,shoe,clothing,27,-4.250643312931061,0,5gram
+A tuxedo is a type of,clothing.,tuxedo,clothing,28,-4.250643312931061,0,5gram
+A stocking is a type of,clothing.,stocking,clothing,29,-4.250643312931061,0,5gram
+A vest is a type of,clothing.,vest,clothing,30,-4.250643312931061,0,5gram
+A nylon is a type of,clothing.,nylon,clothing,31,-4.250643312931061,0,5gram
+A cape is a type of,clothing.,cape,clothing,32,-4.250643312931061,0,5gram
+A boot is a type of,clothing.,boot,clothing,33,-4.250643312931061,0,5gram
+A sandal is a type of,clothing.,sandal,clothing,34,-4.250643312931061,0,5gram
+A tie is a type of,clothing.,tie,clothing,35,-4.250643312931061,0,5gram
+A girdle is a type of,clothing.,girdle,clothing,36,-4.250643312931061,0,5gram
+A belt is a type of,clothing.,belt,clothing,37,-4.250643312931061,0,5gram
+A scarf is a type of,clothing.,scarf,clothing,38,-4.250643312931061,0,5gram
+A mitten is a type of,clothing.,mitten,clothing,39,-4.250643312931061,0,5gram
+A slipper is a type of,clothing.,slipper,clothing,40,-4.250643312931061,0,5gram
+A hat is a type of,clothing.,hat,clothing,41,-4.250643312931061,0,5gram
+An overshoe is a type of,clothing.,overshoe,clothing,42,-4.250643312931061,0,5gram
+A glove is a type of,clothing.,glove,clothing,43,-4.250643312931061,0,5gram
+An apron is a type of,clothing.,apron,clothing,44,-4.250643312931061,0,5gram
+An earmuff is a type of,clothing.,earmuff,clothing,45,-4.250643312931061,0,5gram
+A handkerchief is a type of,clothing.,handkerchief,clothing,46,-4.250643312931061,0,5gram
+A purse is a type of,clothing.,purse,clothing,47,-4.250643312931061,0,5gram
+A hairband is a type of,clothing.,hairband,clothing,48,-4.250643312931061,0,5gram
+A ring is a type of,clothing.,ring,clothing,49,-4.250643312931061,0,5gram
+An earring is a type of,clothing.,earring,clothing,50,-4.250643312931061,0,5gram
+A watch is a type of,clothing.,watch,clothing,51,-4.250643312931061,0,5gram
+A cuff link is a type of,clothing.,cuff link,clothing,52,-4.250643312931061,0,5gram
+A necklace is a type of,clothing.,necklace,clothing,53,-4.250643312931061,0,5gram
+A bracelet is a type of,clothing.,bracelet,clothing,54,-4.250643312931061,0,5gram
+A cane is a type of,clothing.,cane,clothing,55,-4.250643312931061,0,5gram
+A chair is a type of,furniture.,chair,furniture,1,-4.491803765296936,0,5gram
+A sofa is a type of,furniture.,sofa,furniture,2,-4.491803765296936,0,5gram
+A couch is a type of,furniture.,couch,furniture,3,-4.491803765296936,0,5gram
+A table is a type of,furniture.,table,furniture,4,-4.491803765296936,0,5gram
+An easy chair is a type of,furniture.,easy chair,furniture,5,-4.491803765296936,0,5gram
+A dresser is a type of,furniture.,dresser,furniture,6,-4.491803765296936,0,5gram
+A rocking chair is a type of,furniture.,rocking chair,furniture,7,-4.491803765296936,0,5gram
+A coffee table is a type of,furniture.,coffee table,furniture,8,-4.491803765296936,0,5gram
+A rocker is a type of,furniture.,rocker,furniture,9,-4.491803765296936,0,5gram
+A love seat is a type of,furniture.,love seat,furniture,10,-4.491803765296936,0,5gram
+A chest of drawers is a,furniture.,chest of drawers,furniture,11,-6.74407696723938,0,5gram
+A desk is a type of,furniture.,desk,furniture,12,-4.491803765296936,0,5gram
+A bed is a type of,furniture.,bed,furniture,13,-4.491803765296936,0,5gram
+A bureau is a type of,furniture.,bureau,furniture,14,-4.491803765296936,0,5gram
+A davenport is a type of,furniture.,davenport,furniture,15,-4.491803765296936,0,5gram
+An end table is a type of,furniture.,end table,furniture,16,-4.491803765296936,0,5gram
+A divan is a type of,furniture.,divan,furniture,17,-4.491803765296936,0,5gram
+A night table is a type of,furniture.,night table,furniture,18,-4.491803765296936,0,5gram
+A chest is a type of,furniture.,chest,furniture,19,-4.491803765296936,0,5gram
+A cedar chest is a type of,furniture.,cedar chest,furniture,20,-4.491803765296936,0,5gram
+A vanity is a type of,furniture.,vanity,furniture,21,-4.491803765296936,0,5gram
+A bookcase is a type of,furniture.,bookcase,furniture,22,-4.491803765296936,0,5gram
+A lounge is a type of,furniture.,lounge,furniture,23,-4.491803765296936,0,5gram
+A chaise lounge is a type of,furniture.,chaise lounge,furniture,24,-4.491803765296936,0,5gram
+An ottoman is a type of,furniture.,ottoman,furniture,25,-4.491803765296936,0,5gram
+A footstool is a type of,furniture.,footstool,furniture,26,-4.491803765296936,0,5gram
+A cabinet is a type of,furniture.,cabinet,furniture,27,-4.491803765296936,0,5gram
+A china closet is a type of,furniture.,china closet,furniture,28,-4.491803765296936,0,5gram
+A bench is a type of,furniture.,bench,furniture,29,-4.491803765296936,0,5gram
+A buffet is a type of,furniture.,buffet,furniture,30,-4.491803765296936,0,5gram
+A lamp is a type of,furniture.,lamp,furniture,31,-4.491803765296936,0,5gram
+A stool is a type of,furniture.,stool,furniture,32,-4.491803765296936,0,5gram
+A hassock is a type of,furniture.,hassock,furniture,33,-4.491803765296936,0,5gram
+A drawer is a type of,furniture.,drawer,furniture,34,-4.491803765296936,0,5gram
+A piano is a type of,furniture.,piano,furniture,35,-4.491803765296936,0,5gram
+A cushion is a type of,furniture.,cushion,furniture,36,-4.491803765296936,0,5gram
+A magazine rack is a type of,furniture.,magazine rack,furniture,37,-4.491803765296936,0,5gram
+A hi-fi is a type of,furniture.,hi-fi,furniture,38,-4.491803765296936,0,5gram
+A cupboard is a type of,furniture.,cupboard,furniture,39,-4.491803765296936,0,5gram
+A stereo is a type of,furniture.,stereo,furniture,40,-4.491803765296936,0,5gram
+A mirror is a type of,furniture.,mirror,furniture,41,-4.491803765296936,0,5gram
+A television is a type of,furniture.,television,furniture,42,-4.491803765296936,0,5gram
+A bar is a type of,furniture.,bar,furniture,43,-4.491803765296936,0,5gram
+A shelf is a type of,furniture.,shelf,furniture,44,-4.491803765296936,0,5gram
+A rug is a type of,furniture.,rug,furniture,45,-4.491803765296936,0,5gram
+A pillow is a type of,furniture.,pillow,furniture,46,-4.491803765296936,0,5gram
+A wastebasket is a type of,furniture.,wastebasket,furniture,47,-4.491803765296936,0,5gram
+A radio is a type of,furniture.,radio,furniture,48,-4.491803765296936,0,5gram
+A sewing machine is a type of,furniture.,sewing machine,furniture,49,-4.491803765296936,0,5gram
+A stove is a type of,furniture.,stove,furniture,50,-4.491803765296936,0,5gram
+A counter is a type of,furniture.,counter,furniture,51,-4.491803765296936,0,5gram
+A clock is a type of,furniture.,clock,furniture,52,-4.491803765296936,0,5gram
+A drape is a type of,furniture.,drape,furniture,53,-4.491803765296936,0,5gram
+A refrigerator is a type of,furniture.,refrigerator,furniture,54,-4.491803765296936,0,5gram
+A picture is a type of,furniture.,picture,furniture,55,-4.491803765296936,0,5gram
+A closet is a type of,furniture.,closet,furniture,56,-4.491803765296936,0,5gram
+A vase is a type of,furniture.,vase,furniture,57,-4.491803765296936,0,5gram
+An ashtray is a type of,furniture.,ashtray,furniture,58,-4.491803765296936,0,5gram
+A fan is a type of,furniture.,fan,furniture,59,-4.491803765296936,0,5gram
+A telephone is a type of,furniture.,telephone,furniture,60,-4.491803765296936,0,5gram
+Pea is a,vegetable.,pea,vegetable,1,-5.910755634307861,0,5gram
+Carrot is a,vegetable.,carrot,vegetable,2,-3.1320512294769287,0,5gram
+Green bean is a,vegetable.,green bean,vegetable,3,-5.813479900360107,0,5gram
+String bean is a,vegetable.,string bean,vegetable,4,-5.813479900360107,0,5gram
+Spinach is a,vegetable.,spinach,vegetable,5,-5.796964168548584,0,5gram
+Broccoli is a,vegetable.,broccoli,vegetable,6,-2.1068283319473267,0,5gram
+Asparagus is a,vegetable.,asparagus,vegetable,7,-5.7438812255859375,0,5gram
+Corn is a,vegetable.,corn,vegetable,8,-5.8613810539245605,0,5gram
+Cauliflower is a,vegetable.,cauliflower,vegetable,9,-5.83791446685791,0,5gram
+Brussels sprouts are,vegetables.,brussels sprouts,vegetable,10,-6.484355092048645,0,5gram
+Squash is a,vegetable.,squash,vegetable,11,-5.898270606994629,0,5gram
+Lettuce is a,vegetable.,lettuce,vegetable,12,-5.897337436676025,0,5gram
+Celery is a,vegetable.,celery,vegetable,13,-5.833586692810059,0,5gram
+Cucumber is a,vegetable.,cucumber,vegetable,14,-5.748082160949707,0,5gram
+Beet is a,vegetable.,beet,vegetable,15,-5.747463703155518,0,5gram
+Green is a,vegetable.,green,vegetable,16,-6.234749794006348,0,5gram
+Tomato is a,vegetable.,tomato,vegetable,17,-3.7259668111801147,0,5gram
+Lima bean is a,vegetable.,lima bean,vegetable,18,-5.868860244750977,0,5gram
+Artichoke is a,vegetable.,artichoke,vegetable,19,-5.72298526763916,0,5gram
+Turnip is a,vegetable.,turnip,vegetable,20,-5.683138847351074,0,5gram
+Eggplant is a,vegetable.,eggplant,vegetable,21,-5.790297508239746,0,5gram
+Romaine is a,vegetable.,romaine,vegetable,22,-5.7602410316467285,0,5gram
+Green pepper is a,vegetable.,green pepper,vegetable,23,-5.787714958190918,0,5gram
+Okra is a,vegetable.,okra,vegetable,24,-5.72298526763916,0,5gram
+Radish is a,vegetable.,radish,vegetable,25,-5.724209785461426,0,5gram
+Onion is a,vegetable.,onion,vegetable,26,-2.6286275386810303,0,5gram
+Bean is a,vegetable.,bean,vegetable,27,-5.88271951675415,0,5gram
+Green onion is a,vegetable.,green onion,vegetable,28,-2.65719997882843,0,5gram
+Potato is a,vegetable.,potato,vegetable,29,-5.825911521911621,0,5gram
+Parsnip is a,vegetable.,parsnip,vegetable,30,-5.718024730682373,0,5gram
+Turnip green is a,vegetable.,turnip green,vegetable,31,-6.039346694946289,0,5gram
+Collard is a,vegetable.,collard,vegetable,32,-5.685060024261475,0,5gram
+Wax bean is a,vegetable.,wax bean,vegetable,33,-5.813479900360107,0,5gram
+Watercress is a,vegetable.,watercress,vegetable,34,-5.72298526763916,0,5gram
+Black eyed pea is a,vegetable.,black eyed pea,vegetable,35,-5.910755634307861,0,5gram
+Leek is a,vegetable.,leek,vegetable,36,-2.4453428983688354,0,5gram
+Pepper is a,vegetable.,pepper,vegetable,37,-5.837758541107178,0,5gram
+Sweet potato is a,vegetable.,sweet potato,vegetable,38,-5.825911521911621,0,5gram
+Yam is a,vegetable.,yam,vegetable,39,-5.815312385559082,0,5gram
+Parsley is a,vegetable.,parsley,vegetable,40,-5.798245906829834,0,5gram
+Endive is a,vegetable.,endive,vegetable,41,-5.614287853240967,0,5gram
+Rutabaga is a,vegetable.,rutabaga,vegetable,42,-5.614287853240967,0,5gram
+Mushroom is a,vegetable.,mushroom,vegetable,43,-5.891384124755859,0,5gram
+Avocado is a,vegetable.,avocado,vegetable,44,-5.758716106414795,0,5gram
+Rhubarb is a,vegetable.,rhubarb,vegetable,45,-2.360313653945923,0,5gram
+Kale is a,vegetable.,kale,vegetable,46,-5.773523807525635,0,5gram
+Escarole is a,vegetable.,escarole,vegetable,47,-5.614287853240967,0,5gram
+Sauerkraut is a,vegetable.,sauerkraut,vegetable,48,-5.790121555328369,0,5gram
+Pickle is a,vegetable.,pickle,vegetable,49,-5.883061408996582,0,5gram
+Baked bean is a,vegetable.,baked bean,vegetable,50,-5.868860244750977,0,5gram
+Pumpkin is a,vegetable.,pumpkin,vegetable,51,-3.5124446153640747,0,5gram
+Seaweed is a,vegetable.,seaweed,vegetable,52,-5.749759197235107,0,5gram
+Garlic is a,vegetable.,garlic,vegetable,53,-5.969603061676025,0,5gram
+Dandelion is a,vegetable.,dandelion,vegetable,54,-5.917497158050537,0,5gram
+Peanut is a,vegetable.,peanut,vegetable,55,-5.72298526763916,0,5gram
+Rice is a,vegetable.,rice,vegetable,56,-6.197615623474121,0,5gram
+A saw is a,tool.,saw,tool,1,-3.55722713470459,0,5gram
+A hammer is a,tool.,hammer,tool,2,-4.134894132614136,0,5gram
+A ruler is a,tool.,ruler,tool,3,-4.957051515579224,0,5gram
+A screwdriver is a,tool.,screwdriver,tool,4,-3.756449341773987,0,5gram
+A drill is a,tool.,drill,tool,5,-3.267886519432068,0,5gram
+A nail is a,tool.,nail,tool,6,-5.865561246871948,0,5gram
+A tape measure is a,tool.,tape measure,tool,7,-5.509306192398071,0,5gram
+A sawhorse is a,tool.,sawhorse,tool,8,-5.731831789016724,0,5gram
+A sandpaper is a,tool.,sandpaper,tool,9,-5.785148859024048,0,5gram
+A sander is a,tool.,sander,tool,10,-5.89583683013916,0,5gram
+A level is a,tool.,level,tool,11,-5.7979536056518555,0,5gram
+A plane is a,tool.,plane,tool,12,-5.652578592300415,0,5gram
+A file is a,tool.,file,tool,13,-4.43792450428009,0,5gram
+A toolbox is a,tool.,toolbox,tool,14,-5.889495134353638,0,5gram
+A t-square is a,tool.,T-square,tool,15,-5.731831789016724,0,5gram
+A chisel is a,tool.,chisel,tool,16,-2.7069804072380066,0,5gram
+A rasp is a,tool.,rasp,tool,17,-3.899174928665161,0,5gram
+A pencil is a,tool.,pencil,tool,18,-5.906761646270752,0,5gram
+A hacksaw is a,tool.,hacksaw,tool,19,-5.775359392166138,0,5gram
+A square is a,tool.,square,tool,20,-5.082767009735107,0,5gram
+A bench is a,tool.,bench,tool,21,-5.151153326034546,0,5gram
+A plier is a,tool.,plier,tool,22,-5.731831789016724,0,5gram
+A wrench is a,tool.,wrench,tool,23,-3.4380868077278137,0,5gram
+A ladder is a,tool.,ladder,tool,24,-5.885074138641357,0,5gram
+A lathe is a,tool.,lathe,tool,25,-6.274735927581787,0,5gram
+A vise is a,tool.,vise,tool,26,-5.785148859024048,0,5gram
+A screw is a,tool.,screw,tool,27,-5.871647357940674,0,5gram
+A wood is a,tool.,wood,tool,28,-6.226159334182739,0,5gram
+A wedge is a,tool.,wedge,tool,29,-5.879225730895996,0,5gram
+A lumber is a,tool.,lumber,tool,30,-5.785148859024048,0,5gram
+A blueprint is a,tool.,blueprint,tool,31,-5.83738899230957,0,5gram
+A brace is a,tool.,brace,tool,32,-5.860015869140625,0,5gram
+An awl is a,tool.,awl,tool,33,-4.396096229553223,0,5gram
+A crowbar is a,tool.,crowbar,tool,34,-5.840529203414917,0,5gram
+A hinge is a,tool.,hinge,tool,35,-5.902694940567017,0,5gram
+A miter box is a,tool.,miter box,tool,36,-5.296571493148804,0,5gram
+A knife is a,tool.,knife,tool,37,-4.122996687889099,0,5gram
+A chalk is a,tool.,chalk,tool,38,-5.935488224029541,0,5gram
+A nut is a,tool.,nut,tool,39,-6.137577533721924,0,5gram
+A bolt is a,tool.,bolt,tool,40,-5.887720584869385,0,5gram
+A plumb line is a,tool.,plumb line,tool,41,-6.155178070068359,0,5gram
+A brush is a,tool.,brush,tool,42,-3.9220097064971924,0,5gram
+A sledge hammer is a,tool.,sledge hammer,tool,43,-4.301658272743225,0,5gram
+A glue is a,tool.,glue,tool,44,-5.878446340560913,0,5gram
+A paintbrush is a,tool.,paintbrush,tool,45,-5.984172582626343,0,5gram
+A varnish is a,tool.,varnish,tool,46,-5.780447006225586,0,5gram
+An apron is a,tool.,apron,tool,47,-5.840529203414917,0,5gram
+A stapler is a,tool.,stapler,tool,48,-5.840529203414917,0,5gram
+An extension cord is a,tool.,extension cord,tool,49,-5.884799242019653,0,5gram
+A soldering iron is a,tool.,soldering iron,tool,50,-5.42249608039856,0,5gram
+A plaster is a,tool.,plaster,tool,51,-5.909826278686523,0,5gram
+A wheelbarrow is a,tool.,wheelbarrow,tool,52,-5.840529203414917,0,5gram
+An axe is a,tool.,axe,tool,53,-5.121752023696899,0,5gram
+A slide rule is a,tool.,slide rule,tool,54,-5.725843906402588,0,5gram
+A cement is a,tool.,cement,tool,55,-6.002159357070923,0,5gram
+An anvil is a,tool.,anvil,tool,56,-3.5731574296951294,0,5gram
+A hatchet is a,tool.,hatchet,tool,57,-5.909146070480347,0,5gram
+A rag is a,tool.,rag,tool,58,-6.001155376434326,0,5gram
+A scissor is a,tool.,scissor,tool,59,-5.785148859024048,0,5gram
+A crane is a,tool.,crane,tool,60,-5.9596357345581055,0,5gram
+An automobile is a,vehicle.,automobile,vehicle,1,-4.34589684009552,0,5gram
+A station wagon is a,vehicle.,station wagon,vehicle,2,-3.484796404838562,0,5gram
+A truck is a,vehicle.,truck,vehicle,3,-3.135003924369812,0,5gram
+A car is a,vehicle.,car,vehicle,4,-3.502739429473877,0,5gram
+A bus is a,vehicle.,bus,vehicle,5,-3.4164369106292725,0,5gram
+A taxi is a,vehicle.,taxi,vehicle,6,-3.6051247119903564,0,5gram
+A jeep is a,vehicle.,jeep,vehicle,7,-5.923451662063599,0,5gram
+An ambulance is a,vehicle.,ambulance,vehicle,8,-2.5930593609809875,0,5gram
+A motorcycle is a,vehicle.,motorcycle,vehicle,9,-5.843841791152954,0,5gram
+A streetcar is a,vehicle.,streetcar,vehicle,10,-4.236263155937195,0,5gram
+A van is a,vehicle.,van,vehicle,11,-3.973424792289734,0,5gram
+A honda is a,vehicle.,Honda,vehicle,12,-5.733263731002808,0,5gram
+A cable car is a,vehicle.,cable car,vehicle,13,-3.673443555831909,0,5gram
+A train is a,vehicle.,train,vehicle,14,-3.9366270303726196,0,5gram
+A trolley is a,vehicle.,trolley,vehicle,15,-5.816907167434692,0,5gram
+A bicycle is a,vehicle.,bicycle,vehicle,16,-2.783320903778076,0,5gram
+A carriage is a,vehicle.,carriage,vehicle,17,-5.870260000228882,0,5gram
+An airplane is a,vehicle.,airplane,vehicle,18,-5.77399468421936,0,5gram
+A bike is a,vehicle.,bike,vehicle,19,-5.899209260940552,0,5gram
+A boat is a,vehicle.,boat,vehicle,20,-6.080487012863159,0,5gram
+A jet is a,vehicle.,jet,vehicle,21,-5.8286683559417725,0,5gram
+A ship is a,vehicle.,ship,vehicle,22,-5.941417455673218,0,5gram
+A scooter is a,vehicle.,scooter,vehicle,23,-4.17680561542511,0,5gram
+A tractor is a,vehicle.,tractor,vehicle,24,-2.9929633140563965,0,5gram
+A wagon is a,vehicle.,wagon,vehicle,25,-3.484796404838562,0,5gram
+A subway is a,vehicle.,subway,vehicle,26,-5.871336221694946,0,5gram
+A trailer is a,vehicle.,trailer,vehicle,27,-5.800769090652466,0,5gram
+A cart is a,vehicle.,cart,vehicle,28,-3.1827856302261353,0,5gram
+A wheelchair is a,vehicle.,wheelchair,vehicle,29,-3.308155059814453,0,5gram
+A yacht is a,vehicle.,yacht,vehicle,30,-5.778639554977417,0,5gram
+A tank is a,vehicle.,tank,vehicle,31,-4.3119964599609375,0,5gram
+A go-cart is a,vehicle.,go-cart,vehicle,32,-5.660459995269775,0,5gram
+A rowboat is a,vehicle.,rowboat,vehicle,33,-5.769157648086548,0,5gram
+A dogsled is a,vehicle.,dogsled,vehicle,34,-5.660459995269775,0,5gram
+A tricycle is a,vehicle.,tricycle,vehicle,35,-5.769157648086548,0,5gram
+A canoe is a,vehicle.,canoe,vehicle,36,-5.809985399246216,0,5gram
+A raft is a,vehicle.,raft,vehicle,37,-5.800891160964966,0,5gram
+A submarine is a,vehicle.,submarine,vehicle,38,-5.939493417739868,0,5gram
+A sled is a,vehicle.,sled,vehicle,39,-3.9965343475341797,0,5gram
+A horse is a,vehicle.,horse,vehicle,40,-5.989725828170776,0,5gram
+A rocket is a,vehicle.,rocket,vehicle,41,-3.6037890911102295,0,5gram
+A blimp is a,vehicle.,blimp,vehicle,42,-5.769157648086548,0,5gram
+A skate is a,vehicle.,skate,vehicle,43,-5.965646982192993,0,5gram
+A camel is a,vehicle.,camel,vehicle,44,-6.039407968521118,0,5gram
+Feet are,vehicles.,feet,vehicle,45,-6.20096218585968,0,5gram
+A ski is a,vehicle.,ski,vehicle,46,-5.769157648086548,0,5gram
+A skateboard is a,vehicle.,skateboard,vehicle,47,-5.769157648086548,0,5gram
+A wheelbarrow is a,vehicle.,wheelbarrow,vehicle,48,-5.769157648086548,0,5gram
+A surfboard is a,vehicle.,surfboard,vehicle,49,-5.769157648086548,0,5gram
+An elevator is a,vehicle.,elevator,vehicle,50,-5.881345510482788,0,5gram
+A robin is a,bird.,robin,bird,1,-1.8876981139183044,0,5gram
+A sparrow is a,bird.,sparrow,bird,2,-2.08223295211792,0,5gram
+A bluejay is a,bird.,bluejay,bird,3,-5.236766815185547,0,5gram
+A bluebird is a,bird.,bluebird,bird,4,-5.455462455749512,0,5gram
+A canary is a,bird.,canary,bird,5,-5.471023082733154,0,5gram
+A blackbird is a,bird.,blackbird,bird,6,-5.433412790298462,0,5gram
+A dove is a,bird.,dove,bird,7,-4.842432379722595,0,5gram
+A lark is a,bird.,lark,bird,8,-3.794362187385559,0,5gram
+A swallow is a,bird.,swallow,bird,9,-3.8498255014419556,0,5gram
+A parakeet is a,bird.,parakeet,bird,10,-3.470191240310669,0,5gram
+An oriole is a,bird.,oriole,bird,11,-3.133878469467163,0,5gram
+A mockingbird is a,bird.,mockingbird,bird,12,-3.423385739326477,0,5gram
+A redbird is a,bird.,redbird,bird,13,-5.290083885192871,0,5gram
+A wren is a,bird.,wren,bird,14,-4.433315396308899,0,5gram
+A finch is a,bird.,finch,bird,15,-4.667966246604919,0,5gram
+A starling is a,bird.,starling,bird,16,-3.266745448112488,0,5gram
+A cardinal is a,bird.,cardinal,bird,17,-5.478765964508057,0,5gram
+An eagle is a,bird.,eagle,bird,18,-4.452917098999023,0,5gram
+A hummingbird is a,bird.,hummingbird,bird,19,-5.45139479637146,0,5gram
+A seagull is a,bird.,seagull,bird,20,-5.3202197551727295,0,5gram
+A woodpecker is a,bird.,woodpecker,bird,21,-3.840282678604126,0,5gram
+A pigeon is a,bird.,pigeon,bird,22,-3.6129485368728638,0,5gram
+A thrush is a,bird.,thrush,bird,23,-4.3877400159835815,0,5gram
+A falcon is a,bird.,falcon,bird,24,-3.702252507209778,0,5gram
+A crow is a,bird.,crow,bird,25,-2.310518264770508,0,5gram
+A hawk is a,bird.,hawk,bird,26,-4.192035794258118,0,5gram
+A raven is a,bird.,raven,bird,27,-4.6021329164505005,0,5gram
+A goldfinch is a,bird.,goldfinch,bird,28,-5.27957558631897,0,5gram
+A parrot is a,bird.,parrot,bird,29,-3.971738576889038,0,5gram
+A sandpiper is a,bird.,sandpiper,bird,30,-5.283825874328613,0,5gram
+A pheasant is a,bird.,pheasant,bird,31,-3.556923031806946,0,5gram
+A catbird is a,bird.,catbird,bird,32,-5.3240790367126465,0,5gram
+A crane is a,bird.,crane,bird,33,-3.7554293870925903,0,5gram
+An albatross is a,bird.,albatross,bird,34,-5.537539005279541,0,5gram
+A condor is a,bird.,condor,bird,35,-5.431948184967041,0,5gram
+A toucan is a,bird.,toucan,bird,36,-5.333475112915039,0,5gram
+An owl is a,bird.,owl,bird,37,-4.3229079246521,0,5gram
+A pelican is a,bird.,pelican,bird,38,-2.625375211238861,0,5gram
+A goose is a,bird.,goose,bird,39,-5.482104778289795,0,5gram
+A vulture is a,bird.,vulture,bird,40,-2.8911733627319336,0,5gram
+A stork is a,bird.,stork,bird,41,-5.355394601821899,0,5gram
+A buzzard is a,bird.,buzzard,bird,42,-2.993109703063965,0,5gram
+A swan is a,bird.,swan,bird,43,-3.306004762649536,0,5gram
+A flamingo is a,bird.,flamingo,bird,44,-5.328066825866699,0,5gram
+A duck is a,bird.,duck,bird,45,-5.460076093673706,0,5gram
+A peacock is a,bird.,peacock,bird,46,-5.540262937545776,0,5gram
+An egret is a,bird.,egret,bird,47,-3.629293203353882,0,5gram
+A chicken is a,bird.,chicken,bird,48,-4.930354475975037,0,5gram
+A turkey is a,bird.,turkey,bird,49,-5.618255853652954,0,5gram
+An ostrich is a,bird.,ostrich,bird,50,-2.074164867401123,0,5gram
+A titmouse is a,bird.,titmouse,bird,51,-5.4795472621917725,0,5gram
+An emu is a,bird.,emu,bird,52,-5.302150726318359,0,5gram
+A penguin is a,bird.,penguin,bird,53,-5.5389509201049805,0,5gram
+A bat is a,bird.,bat,bird,54,-5.6173930168151855,0,5gram
+Football is a,sport.,football,sport,1,-3.843481421470642,0,5gram
+Baseball is a,sport.,baseball,sport,2,-3.3174045085906982,0,5gram
+Basketball is a,sport.,basketball,sport,3,-2.7801089882850647,0,5gram
+Tennis is a,sport.,tennis,sport,4,-2.6914243698120117,0,5gram
+Softball is a,sport.,softball,sport,5,-2.4816654920578003,0,5gram
+Canoeing is a,sport.,canoeing,sport,6,-5.711608409881592,0,5gram
+Handball is a,sport.,handball,sport,7,-3.0117987394332886,0,5gram
+Rugby is a,sport.,rugby,sport,8,-3.6281176805496216,0,5gram
+Hockey is a,sport.,hockey,sport,9,-3.283639669418335,0,5gram
+Ice hockey is a,sport.,ice hockey,sport,10,-3.27718448638916,0,5gram
+Swimming is a,sport.,swimming,sport,11,-3.723604440689087,0,5gram
+Track is a,sport.,track,sport,12,-5.789301872253418,0,5gram
+Boxing is a,sport.,boxing,sport,13,-5.965695381164551,0,5gram
+Volleyball is a,sport.,volleyball,sport,14,-3.4785664081573486,0,5gram
+Lacrosse is a,sport.,lacrosse,sport,15,-3.3142062425613403,0,5gram
+Skiing is a,sport.,skiing,sport,16,-3.4902526140213013,0,5gram
+Golf is a,sport.,golf,sport,17,-2.5750973224639893,0,5gram
+Polo is a,sport.,polo,sport,18,-5.720401763916016,0,5gram
+Surfing is a,sport.,surfing,sport,19,-3.8852120637893677,0,5gram
+Wrestling is a,sport.,wrestling,sport,20,-3.2633752822875977,0,5gram
+Gymnastics is a,sport.,gymnastics,sport,21,-2.6647217869758606,0,5gram
+Cricket is a,sport.,cricket,sport,22,-3.5039111375808716,0,5gram
+Squash is a,sport.,squash,sport,23,-4.388964533805847,0,5gram
+Badminton is a,sport.,badminton,sport,24,-3.1907835006713867,0,5gram
+Racing is a,sport.,racing,sport,25,-3.6402019262313843,0,5gram
+Pole vault is a,sport.,pole vault,sport,26,-5.63603401184082,0,5gram
+Fencing is a,sport.,fencing,sport,27,-3.172325611114502,0,5gram
+Bowling is a,sport.,bowling,sport,28,-4.610093951225281,0,5gram
+Water skiing is a,sport.,water skiing,sport,29,-3.3851879835128784,0,5gram
+Ice skating is a,sport.,ice skating,sport,30,-3.4905980825424194,0,5gram
+Jai alai is a,sport.,jai alai,sport,31,-2.963537096977234,0,5gram
+Skating is a,sport.,skating,sport,32,-3.3456732034683228,0,5gram
+Skindiving is a,sport.,skindiving,sport,33,-5.54460597038269,0,5gram
+Sailing is a,sport.,sailing,sport,34,-4.577482342720032,0,5gram
+Diving is a,sport.,diving,sport,35,-4.599396586418152,0,5gram
+Archery is a,sport.,archery,sport,36,-3.1148890256881714,0,5gram
+Judo is a,sport.,judo,sport,37,-2.8831567764282227,0,5gram
+Car racing is a,sport.,car racing,sport,38,-3.722029685974121,0,5gram
+Ping pong is a,sport.,ping pong,sport,39,-6.138030529022217,0,5gram
+Rowing is a,sport.,rowing,sport,40,-5.791369915008545,0,5gram
+Fishing is a,sport.,fishing,sport,41,-4.778748989105225,0,5gram
+Horseback riding is a,sport.,horseback riding,sport,42,-5.669525146484375,0,5gram
+Running is a,sport.,running,sport,43,-3.671233892440796,0,5gram
+Horse racing is a,sport.,horse racing,sport,44,-2.8897756338119507,0,5gram
+Hiking is a,sport.,hiking,sport,45,-5.747822284698486,0,5gram
+Weight lifting is a,sport.,weight lifting,sport,46,-5.58672308921814,0,5gram
+Croquet is a,sport.,croquet,sport,47,-5.653303384780884,0,5gram
+Horseshoes is a,sport.,horseshoes,sport,48,-5.7574663162231445,0,5gram
+Boating is a,sport.,boating,sport,49,-5.942236423492432,0,5gram
+Pool is a,sport.,pool,sport,50,-5.802210330963135,0,5gram
+Billiards is a,sport.,billiards,sport,51,-5.6662092208862305,0,5gram
+Hunting is a,sport.,hunting,sport,52,-3.7893322706222534,0,5gram
+Jump rope is a,sport.,jump rope,sport,53,-5.739419221878052,0,5gram
+Camping is a,sport.,camping,sport,54,-5.8385329246521,0,5gram
+Chess is a,sport.,chess,sport,55,-6.097306251525879,0,5gram
+Dancing is a,sport.,dancing,sport,56,-5.829996585845947,0,5gram
+Checkers is a,sport.,checkers,sport,57,-5.757935047149658,0,5gram
+Cards is a,sport.,cards,sport,58,-5.657953977584839,0,5gram
+Sunbathing is a,sport.,sunbathing,sport,59,-5.597923040390015,0,5gram

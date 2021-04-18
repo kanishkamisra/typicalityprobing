@@ -29,9 +29,6 @@ parser.add_argument("--dataset", type = str)
 parser.add_argument("--model", default = 'distilbert-base', type = str)
 parser.add_argument("--batchsize", default = 10, type = int)
 parser.add_argument("--device", default = 'cpu', type = str)
-parser.add_argument("--stimulusonly", action="store_true")
-parser.add_argument("--shuffled", action="store_true")
-parser.add_argument("--control", action="store_true")
 parser.add_argument("--lmtype", default = 'masked', choices = ['mlm', 'masked', 'causal', 'incremental'], type = str)
 args = parser.parse_args()
 
@@ -39,9 +36,6 @@ inpath = args.dataset
 model_name = args.model
 batch_size = args.batchsize
 device = args.device
-shuffled = args.shuffled
-control = args.control
-stimulus_only = args.stimulusonly
 lm_type = args.lmtype
 
 # make results dir: ../data/typicality/results/(dataset)/model_name.csv
@@ -77,65 +71,13 @@ conclusion_only = []
 for batch in tqdm(stimuli_loader):
     premise = list(batch[0])
     conclusion = list(batch[1])
-    priming_scores = transformer.adapt_score(premise, conclusion, torch.sum)
+    priming_scores = transformer.logprobs(transformer.prime_text(premise, conclusion))
+    priming_scores = [score[0][0].exp().item() for score in priming_scores]
     results.extend(priming_scores)
-    if control:
-        control_sentence = list(batch[2])
-        control_scores = transformer.adapt_score(premise, control_sentence, torch.sum)
-        control_results.extend(control_scores)
-    if stimulus_only:
-        conclusion_scores = transformer.score(conclusion, torch.sum)
-        conclusion_only.extend(conclusion_scores)
 
 dataset = list(zip(*dataset))
 dataset.append(results)
-if stimulus_only:
-    dataset.append(conclusion_only)
 
-if control:
-    dataset.append(control_results)
-
-random.seed(1234)
-
-if shuffled:
-    print("Running experiments with shuffled premise!")
-    os.environ["TOKENIZERS_PARALLELISM"] = "false"
-    random_shuffles = []
-    for i in range(10):
-        iteration_result = []
-        for batch in tqdm(stimuli_loader):
-            premises = list(batch[0])
-            conclusion = list(batch[1])
-            premise_words = list(batch[6])
-            shuffled_premises = []
-            for s, w in zip(premises, premise_words):
-                shuffled = [shuffle_sentence(s, w) for i in range(2)]
-                if shuffled[0] != s:
-                    shuffled_premises.append(shuffled[0])
-                else:
-                    shuffled_premises.append(shuffled[1])
-
-            priming_scores = transformer.adapt_score(shuffled_premises, conclusion, torch.sum)
-            iteration_result.extend(priming_scores)
-        random_shuffles.append(iteration_result)
-    random_shuffles = torch.tensor(random_shuffles)
-    scores = torch.tensor(results)
-    mean_diff = (scores - random_shuffles).mean(0).tolist()
-    std_diff = (scores - random_shuffles).std(0).tolist()
-
-    dataset.append(mean_diff)
-    dataset.append(std_diff)
-
-if stimulus_only:
-    column_names += ["score", "conclusion_only"]
-else:
-    column_names += ["score"]
-
-if control:
-    column_names += ["control_score"]
-
-if shuffled:
-    column_names += ["shuffled_diff", "shuffled_diff_sd"]
 
 dataset.append(num_params)
 dataset.append([model_name] * len(results))

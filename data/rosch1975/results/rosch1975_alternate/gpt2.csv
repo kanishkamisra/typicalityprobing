@@ -1,0 +1,566 @@
+preamble,stimulus,item,category,rank,params,model
+A gun is a,weapon.,gun,weapon,1,0.13644044424963675,124440576,gpt2
+A pistol is a,weapon.,pistol,weapon,2,0.0887631717756313,124440576,gpt2
+A revolver is a,weapon.,revolver,weapon,3,0.05957140935547924,124440576,gpt2
+A machine gun is a,weapon.,machine gun,weapon,4,0.10167434954434862,124440576,gpt2
+A rifle is a,weapon.,rifle,weapon,5,0.10753135071692513,124440576,gpt2
+A switchblade is a,weapon.,switchblade,weapon,6,0.010967014871529434,124440576,gpt2
+A knife is a,weapon.,knife,weapon,7,0.07910858323352,124440576,gpt2
+A dagger is a,weapon.,dagger,weapon,8,0.07266448953624938,124440576,gpt2
+A shotgun is a,weapon.,shotgun,weapon,9,0.06949635192572398,124440576,gpt2
+A sword is a,weapon.,sword,weapon,10,0.1282570831913038,124440576,gpt2
+A bomb is a,weapon.,bomb,weapon,11,0.023294173782007405,124440576,gpt2
+A hand grenade is a,weapon.,hand grenade,weapon,12,0.06382892847080492,124440576,gpt2
+An atom bomb is a,weapon.,Atom bomb,weapon,13,0.037076315238719314,124440576,gpt2
+A bayonet is a,weapon.,bayonet,weapon,14,0.06489941384274528,124440576,gpt2
+A spear is a,weapon.,spear,weapon,15,0.06994849924974766,124440576,gpt2
+A bazooka is a,weapon.,bazooka,weapon,16,0.010480778900613136,124440576,gpt2
+A cannon is a,weapon.,cannon,weapon,17,0.06635588815253052,124440576,gpt2
+A bow and arrow is a,weapon.,bow and arrow,weapon,18,0.054731316817404015,124440576,gpt2
+A club is a,weapon.,club,weapon,19,0.00018867488119160772,124440576,gpt2
+A lance is a,weapon.,lance,weapon,20,0.04767926522028431,124440576,gpt2
+A brass knuckle is a,weapon.,brass knuckle,weapon,21,0.006036263448798603,124440576,gpt2
+A bullet is a,weapon.,bullet,weapon,22,0.009362067067183252,124440576,gpt2
+A tomahawk is a,weapon.,tomahawk,weapon,23,0.08831868471180397,124440576,gpt2
+A mortar is a,weapon.,mortar,weapon,24,0.01001648288530222,124440576,gpt2
+An arrow is a,weapon.,arrow,weapon,25,0.008117166743694698,124440576,gpt2
+A blackjack is a,weapon.,blackjack,weapon,26,0.0010913215283785813,124440576,gpt2
+A tank is a,weapon.,tank,weapon,27,0.0019392521287816692,124440576,gpt2
+Teargas is a,weapon.,teargas,weapon,28,0.00260084326027377,124440576,gpt2
+A missile is a,weapon.,missile,weapon,29,0.051785766078157595,124440576,gpt2
+A whip is a,weapon.,whip,weapon,30,0.023189554361776766,124440576,gpt2
+An ice pick is a,weapon.,ice pick,weapon,31,0.003139753956785422,124440576,gpt2
+A hatchet is a,weapon.,hatchet,weapon,32,0.039234558480927995,124440576,gpt2
+A slingshot is a,weapon.,slingshot,weapon,33,0.03275195170569939,124440576,gpt2
+A fist is a,weapon.,fist,weapon,34,0.02270392901397075,124440576,gpt2
+An axe is a,weapon.,axe,weapon,35,0.07165701250619995,124440576,gpt2
+A bow is a,weapon.,bow,weapon,36,0.019388906638593485,124440576,gpt2
+A razor is a,weapon.,razor,weapon,37,0.00500362733242854,124440576,gpt2
+A razor blade is a,weapon.,razor blade,weapon,38,0.009959939664981906,124440576,gpt2
+A rocket is a,weapon.,rocket,weapon,39,0.00763649237436691,124440576,gpt2
+A judo is a,weapon.,judo,weapon,40,0.0008098697829909287,124440576,gpt2
+A stick is a,weapon.,stick,weapon,41,0.003729375120405052,124440576,gpt2
+A poison is a,weapon.,poison,weapon,42,0.0020767711606874515,124440576,gpt2
+A rock is a,weapon.,rock,weapon,43,0.00030120271420292356,124440576,gpt2
+A stone is a,weapon.,stone,weapon,44,0.000264303908139696,124440576,gpt2
+Gas is a,weapon.,gas,weapon,45,0.0005808138070509381,124440576,gpt2
+A chain is a,weapon.,chain,weapon,46,0.0005174187655032554,124440576,gpt2
+A scissor is a,weapon.,scissor,weapon,47,0.005097295851941195,124440576,gpt2
+A brick is a,weapon.,brick,weapon,48,8.706978284282032e-05,124440576,gpt2
+A pitchfork is a,weapon.,pitchfork,weapon,49,0.005186501666298165,124440576,gpt2
+A hammer is a,weapon.,hammer,weapon,50,0.028944541058219687,124440576,gpt2
+A word is a,weapon.,word,weapon,51,0.0003442074423524619,124440576,gpt2
+A hand is a,weapon.,hand,weapon,52,0.0059487583973964865,124440576,gpt2
+A pipe is a,weapon.,pipe,weapon,53,0.0007485386676046325,124440576,gpt2
+A rope is a,weapon.,rope,weapon,54,0.0006600994072846266,124440576,gpt2
+An airplane is a,weapon.,airplane,weapon,55,0.0007802656185340299,124440576,gpt2
+A foot is a,weapon.,foot,weapon,56,0.0004372988196052571,124440576,gpt2
+A car is a,weapon.,car,weapon,57,0.0005937895491712865,124440576,gpt2
+A screwdriver is a,weapon.,screwdriver,weapon,58,0.0007974112500924673,124440576,gpt2
+Glass is a,weapon.,glass,weapon,59,0.00021750503153284835,124440576,gpt2
+A shoe is a,weapon.,shoe,weapon,60,0.00039910183610252056,124440576,gpt2
+Orange is a,fruit.,orange,fruit,1,0.0007039384883840156,124440576,gpt2
+Apple is a,fruit.,apple,fruit,2,5.2044525314802954e-05,124440576,gpt2
+Banana is a,fruit.,banana,fruit,3,0.006386323702458457,124440576,gpt2
+Peach is a,fruit.,peach,fruit,4,0.010563867186145574,124440576,gpt2
+Pear is a,fruit.,pear,fruit,5,0.0002941827134687431,124440576,gpt2
+Apricot is a,fruit.,apricot,fruit,6,0.0026904342334010917,124440576,gpt2
+Tangerine is a,fruit.,tangerine,fruit,7,0.0005924772276040299,124440576,gpt2
+Plum is a,fruit.,plum,fruit,8,0.0014810794027402296,124440576,gpt2
+Grape is a,fruit.,grape,fruit,9,0.004719050022253133,124440576,gpt2
+Nectarine is a,fruit.,nectarine,fruit,10,0.0006553373527196902,124440576,gpt2
+Strawberry is a,fruit.,strawberry,fruit,11,0.02375669122846834,124440576,gpt2
+Grapefruit is a,fruit.,grapefruit,fruit,12,0.04451152470909123,124440576,gpt2
+Berry is a,fruit.,berry,fruit,13,0.0003188016398358803,124440576,gpt2
+Cherry is a,fruit.,cherry,fruit,14,0.0019643581628890627,124440576,gpt2
+Pineapple is a,fruit.,pineapple,fruit,15,0.0038781140580259267,124440576,gpt2
+Blackberry is a,fruit.,blackberry,fruit,16,0.00025381620722092176,124440576,gpt2
+Melon is a,fruit.,melon,fruit,17,0.0002611628990770813,124440576,gpt2
+Blueberry is a,fruit.,blueberry,fruit,18,0.019088600769836248,124440576,gpt2
+Raspberry is a,fruit.,raspberry,fruit,19,0.0002732498714469551,124440576,gpt2
+Lemon is a,fruit.,lemon,fruit,20,0.006830126745893043,124440576,gpt2
+Black raspberry is a,fruit.,black raspberry,fruit,21,0.008943166663902944,124440576,gpt2
+Boysenberry is a,fruit.,boysenberry,fruit,22,0.0014215934797727023,124440576,gpt2
+Watermelon is a,fruit.,watermelon,fruit,23,0.03515487625362071,124440576,gpt2
+Cantaloupe is a,fruit.,cantaloupe,fruit,24,0.000989408146438889,124440576,gpt2
+Lime is a,fruit.,lime,fruit,25,0.0009481059394070986,124440576,gpt2
+Tangelo is a,fruit.,tangelo,fruit,26,3.634069658400977e-05,124440576,gpt2
+Papaya is a,fruit.,papaya,fruit,27,0.002404579465765584,124440576,gpt2
+Honeydew is a,fruit.,honeydew,fruit,28,0.0010358787403512326,124440576,gpt2
+Fig is a,fruit.,fig,fruit,29,0.00013653030842775645,124440576,gpt2
+Mango is a,fruit.,mango,fruit,30,0.0012745609617234677,124440576,gpt2
+Guava is a,fruit.,guava,fruit,31,0.001298143556796436,124440576,gpt2
+Pomegranate is a,fruit.,pomegranate,fruit,32,0.016933769854816844,124440576,gpt2
+Cranberry is a,fruit.,cranberry,fruit,33,0.01872910792866177,124440576,gpt2
+Passion fruit is a,fruit.,passion fruit,fruit,34,0.04188846656279078,124440576,gpt2
+Prune is a,fruit.,prune,fruit,35,0.00018949283147354343,124440576,gpt2
+Gooseberry is a,fruit.,gooseberry,fruit,36,0.009165731096640494,124440576,gpt2
+Date is a,fruit.,date,fruit,37,3.723741914973214e-05,124440576,gpt2
+Kumquat is a,fruit.,kumquat,fruit,38,0.00040766641008672055,124440576,gpt2
+Raisin is a,fruit.,raisin,fruit,39,0.00022062031120911649,124440576,gpt2
+Muskmelon is a,fruit.,muskmelon,fruit,40,0.000283701684013028,124440576,gpt2
+Persimmon is a,fruit.,persimmon,fruit,41,0.0006358098852240826,124440576,gpt2
+Pawpaw is a,fruit.,pawpaw,fruit,42,6.891150739968441e-05,124440576,gpt2
+Coconut is a,fruit.,coconut,fruit,43,0.005015092842760392,124440576,gpt2
+Avocado is a,fruit.,avocado,fruit,44,0.00919311415010829,124440576,gpt2
+Pumpkin is a,fruit.,pumpkin,fruit,45,0.0049506560865012145,124440576,gpt2
+Tomato is a,fruit.,tomato,fruit,46,0.004008123637999487,124440576,gpt2
+Nut is a,fruit.,nut,fruit,47,0.000990548639609158,124440576,gpt2
+Gourd is a,fruit.,gourd,fruit,48,0.0004821622320954033,124440576,gpt2
+Olive is a,fruit.,olive,fruit,49,0.0015964758623323754,124440576,gpt2
+Pickle is a,fruit.,pickle,fruit,50,0.003215633695000408,124440576,gpt2
+Squash is a,fruit.,squash,fruit,51,0.00010722356803463993,124440576,gpt2
+A doll is a,toy.,doll,toy,1,0.04994914566040281,124440576,gpt2
+A top is a,toy.,top,toy,2,0.00038959796767995547,124440576,gpt2
+A jack-in-the-box is a,toy.,jack-in-the-box,toy,3,0.00366456025426826,124440576,gpt2
+A toy soldier is a,toy.,toy soldier,toy,4,0.004589064999410842,124440576,gpt2
+A yo-yo is a,toy.,yo-yo,toy,5,0.017056690141407437,124440576,gpt2
+A block is a,toy.,block,toy,6,1.0034557142223623e-05,124440576,gpt2
+Marbles are,toys.,marbles,toy,7,9.880536000558822e-05,124440576,gpt2
+A rattle is a,toy.,rattle,toy,8,0.00020253754805483752,124440576,gpt2
+A stuffed animal is a,toy.,stuffed animal,toy,9,0.025960371363441533,124440576,gpt2
+A water pistol is a,toy.,water pistol,toy,10,0.0009540705387892563,124440576,gpt2
+A teddy bear is a,toy.,teddy bear,toy,11,0.04647255142490701,124440576,gpt2
+A rocking horse is a,toy.,rocking horse,toy,12,0.0014620719641212996,124440576,gpt2
+A doll house is a,toy.,doll house,toy,13,0.0028163474808097005,124440576,gpt2
+A ball is a,toy.,ball,toy,14,0.001547109570258747,124440576,gpt2
+Jacks are,toys.,jacks,toy,15,2.497638059059722e-05,124440576,gpt2
+Paper dolls are,toys.,paper dolls,toy,16,0.004101389569264002,124440576,gpt2
+An erector set is a,toy.,erector set,toy,17,0.0021512289329561262,124440576,gpt2
+A hula hoop is a,toy.,hula hoop,toy,18,0.002469371018670858,124440576,gpt2
+A jump rope is a,toy.,jump rope,toy,19,0.00034227483058565635,124440576,gpt2
+A pogo stick is a,toy.,pogo stick,toy,20,0.010229091286634913,124440576,gpt2
+A clay is a,toy.,clay,toy,21,0.00027488919849459706,124440576,gpt2
+A wagon is a,toy.,wagon,toy,22,0.0010008189686461619,124440576,gpt2
+A kite is a,toy.,kite,toy,23,0.00390572843466076,124440576,gpt2
+A train is a,toy.,train,toy,24,0.00011322128477348381,124440576,gpt2
+A tricycle is a,toy.,tricycle,toy,25,0.0008425169128927834,124440576,gpt2
+A coloring book is a,toy.,coloring book,toy,26,0.0017804812571582999,124440576,gpt2
+Crayons are,toys.,crayons,toy,27,0.0002043551298290865,124440576,gpt2
+A truck is a,toy.,truck,toy,28,0.00034524104622292456,124440576,gpt2
+A puzzle is a,toy.,puzzle,toy,29,0.0002520639742200575,124440576,gpt2
+A fire engine is a,toy.,fire engine,toy,30,0.00020045453486625066,124440576,gpt2
+A balloon is a,toy.,balloon,toy,31,0.0015633771116103409,124440576,gpt2
+Skates are,toys.,skates,toy,32,0.0001152757009831496,124440576,gpt2
+A baseball is a,toy.,baseball,toy,33,0.0014159755887571445,124440576,gpt2
+A drum is a,toy.,drum,toy,34,0.00041101740353382464,124440576,gpt2
+A football is a,toy.,football,toy,35,0.0004318217983711434,124440576,gpt2
+A game is a,toy.,game,toy,36,0.0003399378532230787,124440576,gpt2
+A swing is a,toy.,swing,toy,37,2.4322903952554403e-05,124440576,gpt2
+A boat is a,toy.,boat,toy,38,0.0004965008239126358,124440576,gpt2
+A monopoly is a,toy.,monopoly,toy,39,1.6036155394924098e-05,124440576,gpt2
+A sled is a,toy.,sled,toy,40,0.0019260848141063919,124440576,gpt2
+A seesaw is a,toy.,seesaw,toy,41,0.0003182767035755257,124440576,gpt2
+Stilts are,toys.,stilts,toy,42,0.0003360774410262631,124440576,gpt2
+Checkers are,toys.,checkers,toy,43,2.938965374806704e-05,124440576,gpt2
+A bat is a,toy.,bat,toy,44,0.0022653307938446214,124440576,gpt2
+A car is a,toy.,car,toy,45,0.0016378552363046387,124440576,gpt2
+An airplane is a,toy.,airplane,toy,46,0.0006762947672312733,124440576,gpt2
+A bicycle is a,toy.,bicycle,toy,47,0.0012156194145545773,124440576,gpt2
+A tractor is a,toy.,tractor,toy,48,0.0002742460998178753,124440576,gpt2
+A sandbox is a,toy.,sandbox,toy,49,0.00018946247387849883,124440576,gpt2
+A bike is a,toy.,bike,toy,50,0.0013639867348052917,124440576,gpt2
+A bow and arrow is a,toy.,bow and arrow,toy,51,0.00045861051233484385,124440576,gpt2
+A rope is a,toy.,rope,toy,52,0.00022915343099584763,124440576,gpt2
+Dishes are,toys.,dishes,toy,53,9.235565798620726e-05,124440576,gpt2
+Cards are,toys.,cards,toy,54,5.342485359907208e-05,124440576,gpt2
+A mitt is a,toy.,mitt,toy,55,0.0013765107411547338,124440576,gpt2
+A horse is a,toy.,horse,toy,56,0.0010107869814230891,124440576,gpt2
+A gun is a,toy.,gun,toy,57,0.005978605865291155,124440576,gpt2
+Animals are,toys.,animals,toy,58,5.831913027817253e-05,124440576,gpt2
+A tennis racket is a,toy.,tennis racket,toy,59,0.0014741688350073516,124440576,gpt2
+Books are,toys.,books,toy,60,7.867960003078005e-05,124440576,gpt2
+A pant is a type of,clothing.,pant,clothing,1,0.04299549866083903,124440576,gpt2
+A shirt is a type of,clothing.,shirt,clothing,2,0.09982957753525132,124440576,gpt2
+A dress is a type of,clothing.,dress,clothing,3,0.14452492662788327,124440576,gpt2
+A skirt is a type of,clothing.,skirt,clothing,4,0.05740433257830342,124440576,gpt2
+A blouse is a type of,clothing.,blouse,clothing,5,0.05824251757487025,124440576,gpt2
+A suit is a type of,clothing.,suit,clothing,6,0.001703268897081327,124440576,gpt2
+A slack is a type of,clothing.,slack,clothing,7,0.0008402829727065484,124440576,gpt2
+A jacket is a type of,clothing.,jacket,clothing,8,0.08531582980596764,124440576,gpt2
+A coat is a type of,clothing.,coat,clothing,9,0.056050182495107,124440576,gpt2
+A sweater is a type of,clothing.,sweater,clothing,10,0.08207122208563307,124440576,gpt2
+A sweatshirt is a type of,clothing.,sweatshirt,clothing,11,0.11713901104059518,124440576,gpt2
+An underpant is a type of,clothing.,underpant,clothing,12,0.002143937721540602,124440576,gpt2
+A sports jacket is a type of,clothing.,sports jacket,clothing,13,0.06874016757019273,124440576,gpt2
+A jumper is a type of,clothing.,jumper,clothing,14,0.004059425299693613,124440576,gpt2
+A panty is a type of,clothing.,panty,clothing,15,0.04320232516510977,124440576,gpt2
+A sock is a type of,clothing.,sock,clothing,16,0.017213828487904155,124440576,gpt2
+A parka is a type of,clothing.,parka,clothing,17,0.00353721066885033,124440576,gpt2
+A pajama is a type of,clothing.,pajama,clothing,18,0.009549121174430731,124440576,gpt2
+An undershirt is a type of,clothing.,undershirt,clothing,19,0.11843122678556454,124440576,gpt2
+An overcoat is a type of,clothing.,overcoat,clothing,20,0.028300154910227963,124440576,gpt2
+A nightgown is a type of,clothing.,nightgown,clothing,21,0.040694278018446786,124440576,gpt2
+A raincoat is a type of,clothing.,raincoat,clothing,22,0.08234091032388771,124440576,gpt2
+A bathing suit is a type of,clothing.,bathing suit,clothing,23,0.13145898675980836,124440576,gpt2
+A bathrobe is a type of,clothing.,bathrobe,clothing,24,0.0706069190156447,124440576,gpt2
+A slip is a type of,clothing.,slip,clothing,25,0.0014129216275708873,124440576,gpt2
+A bra is a type of,clothing.,bra,clothing,26,0.05298512100359012,124440576,gpt2
+A shoe is a type of,clothing.,shoe,clothing,27,0.008616716283297061,124440576,gpt2
+A tuxedo is a type of,clothing.,tuxedo,clothing,28,0.0398466363472654,124440576,gpt2
+A stocking is a type of,clothing.,stocking,clothing,29,0.027284601043037572,124440576,gpt2
+A vest is a type of,clothing.,vest,clothing,30,0.03503759615449509,124440576,gpt2
+A nylon is a type of,clothing.,nylon,clothing,31,0.007436863048290387,124440576,gpt2
+A cape is a type of,clothing.,cape,clothing,32,0.02680856605878788,124440576,gpt2
+A boot is a type of,clothing.,boot,clothing,33,0.006354731642362739,124440576,gpt2
+A sandal is a type of,clothing.,sandal,clothing,34,0.003108340234725098,124440576,gpt2
+A tie is a type of,clothing.,tie,clothing,35,0.004740629300904511,124440576,gpt2
+A girdle is a type of,clothing.,girdle,clothing,36,0.0414874039339619,124440576,gpt2
+A belt is a type of,clothing.,belt,clothing,37,0.007831675106651568,124440576,gpt2
+A scarf is a type of,clothing.,scarf,clothing,38,0.04173439172282935,124440576,gpt2
+A mitten is a type of,clothing.,mitten,clothing,39,0.0006304337533979056,124440576,gpt2
+A slipper is a type of,clothing.,slipper,clothing,40,0.0016817692149640447,124440576,gpt2
+A hat is a type of,clothing.,hat,clothing,41,0.034888751081455206,124440576,gpt2
+An overshoe is a type of,clothing.,overshoe,clothing,42,0.0076936855370456445,124440576,gpt2
+A glove is a type of,clothing.,glove,clothing,43,0.009259492679403375,124440576,gpt2
+An apron is a type of,clothing.,apron,clothing,44,0.016978012037843212,124440576,gpt2
+An earmuff is a type of,clothing.,earmuff,clothing,45,0.0020940338008490524,124440576,gpt2
+A handkerchief is a type of,clothing.,handkerchief,clothing,46,0.008351544076357227,124440576,gpt2
+A purse is a type of,clothing.,purse,clothing,47,0.014150205627115185,124440576,gpt2
+A hairband is a type of,clothing.,hairband,clothing,48,0.03390265039322159,124440576,gpt2
+A ring is a type of,clothing.,ring,clothing,49,0.0024471277943038253,124440576,gpt2
+An earring is a type of,clothing.,earring,clothing,50,0.002209177084233386,124440576,gpt2
+A watch is a type of,clothing.,watch,clothing,51,0.0025986614613929477,124440576,gpt2
+A cuff link is a type of,clothing.,cuff link,clothing,52,0.0016623662419700126,124440576,gpt2
+A necklace is a type of,clothing.,necklace,clothing,53,0.009346722871112274,124440576,gpt2
+A bracelet is a type of,clothing.,bracelet,clothing,54,0.007788415840618918,124440576,gpt2
+A cane is a type of,clothing.,cane,clothing,55,0.0005526836439944796,124440576,gpt2
+A chair is a type of,furniture.,chair,furniture,1,0.02152387425840959,124440576,gpt2
+A sofa is a type of,furniture.,sofa,furniture,2,0.0986778198626247,124440576,gpt2
+A couch is a type of,furniture.,couch,furniture,3,0.09039723801868516,124440576,gpt2
+A table is a type of,furniture.,table,furniture,4,0.0022147630347078137,124440576,gpt2
+An easy chair is a type of,furniture.,easy chair,furniture,5,0.02866238050609818,124440576,gpt2
+A dresser is a type of,furniture.,dresser,furniture,6,0.0047428722554849435,124440576,gpt2
+A rocking chair is a type of,furniture.,rocking chair,furniture,7,0.02896552744839948,124440576,gpt2
+A coffee table is a type of,furniture.,coffee table,furniture,8,0.01190603530591129,124440576,gpt2
+A rocker is a type of,furniture.,rocker,furniture,9,0.00037308388330359717,124440576,gpt2
+A love seat is a type of,furniture.,love seat,furniture,10,0.009407963848485206,124440576,gpt2
+A chest of drawers is a,furniture.,chest of drawers,furniture,11,0.00034812139961655123,124440576,gpt2
+A desk is a type of,furniture.,desk,furniture,12,0.010316872580563812,124440576,gpt2
+A bed is a type of,furniture.,bed,furniture,13,0.02641791848542596,124440576,gpt2
+A bureau is a type of,furniture.,bureau,furniture,14,0.00012848655630496805,124440576,gpt2
+A davenport is a type of,furniture.,davenport,furniture,15,0.0006507387228212095,124440576,gpt2
+An end table is a type of,furniture.,end table,furniture,16,0.0013038906857658291,124440576,gpt2
+A divan is a type of,furniture.,divan,furniture,17,8.8088068817801e-05,124440576,gpt2
+A night table is a type of,furniture.,night table,furniture,18,0.024239300674435933,124440576,gpt2
+A chest is a type of,furniture.,chest,furniture,19,0.000526972215969299,124440576,gpt2
+A cedar chest is a type of,furniture.,cedar chest,furniture,20,0.0019155481351656374,124440576,gpt2
+A vanity is a type of,furniture.,vanity,furniture,21,0.012459438953649603,124440576,gpt2
+A bookcase is a type of,furniture.,bookcase,furniture,22,0.02921142159699085,124440576,gpt2
+A lounge is a type of,furniture.,lounge,furniture,23,0.010404613333361972,124440576,gpt2
+A chaise lounge is a type of,furniture.,chaise lounge,furniture,24,0.001246204698137404,124440576,gpt2
+An ottoman is a type of,furniture.,ottoman,furniture,25,0.009590518875637876,124440576,gpt2
+A footstool is a type of,furniture.,footstool,furniture,26,0.008289270809758621,124440576,gpt2
+A cabinet is a type of,furniture.,cabinet,furniture,27,0.0027991034325915804,124440576,gpt2
+A china closet is a type of,furniture.,china closet,furniture,28,0.005048491609579312,124440576,gpt2
+A bench is a type of,furniture.,bench,furniture,29,0.0026033248007947423,124440576,gpt2
+A buffet is a type of,furniture.,buffet,furniture,30,0.0003815206729846189,124440576,gpt2
+A lamp is a type of,furniture.,lamp,furniture,31,0.0009818433375628995,124440576,gpt2
+A stool is a type of,furniture.,stool,furniture,32,0.0010696910216609903,124440576,gpt2
+A hassock is a type of,furniture.,hassock,furniture,33,0.0011450571618432466,124440576,gpt2
+A drawer is a type of,furniture.,drawer,furniture,34,0.0034180137252724794,124440576,gpt2
+A piano is a type of,furniture.,piano,furniture,35,0.002974655773323302,124440576,gpt2
+A cushion is a type of,furniture.,cushion,furniture,36,0.0013826470109814487,124440576,gpt2
+A magazine rack is a type of,furniture.,magazine rack,furniture,37,0.023454851523781794,124440576,gpt2
+A hi-fi is a type of,furniture.,hi-fi,furniture,38,0.0005563006568386936,124440576,gpt2
+A cupboard is a type of,furniture.,cupboard,furniture,39,0.022704275451077564,124440576,gpt2
+A stereo is a type of,furniture.,stereo,furniture,40,0.0005361209239944403,124440576,gpt2
+A mirror is a type of,furniture.,mirror,furniture,41,0.0010362818782838844,124440576,gpt2
+A television is a type of,furniture.,television,furniture,42,0.0013566699229785287,124440576,gpt2
+A bar is a type of,furniture.,bar,furniture,43,0.006453868493531714,124440576,gpt2
+A shelf is a type of,furniture.,shelf,furniture,44,0.004009499954291713,124440576,gpt2
+A rug is a type of,furniture.,rug,furniture,45,0.016304067911106824,124440576,gpt2
+A pillow is a type of,furniture.,pillow,furniture,46,0.005172118215927969,124440576,gpt2
+A wastebasket is a type of,furniture.,wastebasket,furniture,47,0.0022678036261725145,124440576,gpt2
+A radio is a type of,furniture.,radio,furniture,48,9.788473248385582e-05,124440576,gpt2
+A sewing machine is a type of,furniture.,sewing machine,furniture,49,0.0012575416986473457,124440576,gpt2
+A stove is a type of,furniture.,stove,furniture,50,0.001641382857710428,124440576,gpt2
+A counter is a type of,furniture.,counter,furniture,51,0.00133125198555396,124440576,gpt2
+A clock is a type of,furniture.,clock,furniture,52,0.00035193215460083425,124440576,gpt2
+A drape is a type of,furniture.,drape,furniture,53,0.00028977212768916555,124440576,gpt2
+A refrigerator is a type of,furniture.,refrigerator,furniture,54,0.002829830531029666,124440576,gpt2
+A picture is a type of,furniture.,picture,furniture,55,0.0004066940639439801,124440576,gpt2
+A closet is a type of,furniture.,closet,furniture,56,0.008767781688483781,124440576,gpt2
+A vase is a type of,furniture.,vase,furniture,57,0.0015683708155443787,124440576,gpt2
+An ashtray is a type of,furniture.,ashtray,furniture,58,0.006361231653552173,124440576,gpt2
+A fan is a type of,furniture.,fan,furniture,59,0.00012568264882637043,124440576,gpt2
+A telephone is a type of,furniture.,telephone,furniture,60,9.201384784683328e-05,124440576,gpt2
+Pea is a,vegetable.,pea,vegetable,1,0.001348651320795429,124440576,gpt2
+Carrot is a,vegetable.,carrot,vegetable,2,0.007824747063845944,124440576,gpt2
+Green bean is a,vegetable.,green bean,vegetable,3,0.012059253678540084,124440576,gpt2
+String bean is a,vegetable.,string bean,vegetable,4,0.004296580036484778,124440576,gpt2
+Spinach is a,vegetable.,spinach,vegetable,5,0.006941021004471711,124440576,gpt2
+Broccoli is a,vegetable.,broccoli,vegetable,6,0.022526042584061587,124440576,gpt2
+Asparagus is a,vegetable.,asparagus,vegetable,7,0.01288616985526144,124440576,gpt2
+Corn is a,vegetable.,corn,vegetable,8,0.007638590087704532,124440576,gpt2
+Cauliflower is a,vegetable.,cauliflower,vegetable,9,0.016104164623668756,124440576,gpt2
+Brussels sprouts are,vegetables.,brussels sprouts,vegetable,10,0.00018881600250233242,124440576,gpt2
+Squash is a,vegetable.,squash,vegetable,11,6.846397380776252e-05,124440576,gpt2
+Lettuce is a,vegetable.,lettuce,vegetable,12,0.01430041042590903,124440576,gpt2
+Celery is a,vegetable.,celery,vegetable,13,0.0015262413430575,124440576,gpt2
+Cucumber is a,vegetable.,cucumber,vegetable,14,0.003843826491923895,124440576,gpt2
+Beet is a,vegetable.,beet,vegetable,15,0.0004424265553135999,124440576,gpt2
+Green is a,vegetable.,green,vegetable,16,0.00021524345002706338,124440576,gpt2
+Tomato is a,vegetable.,tomato,vegetable,17,0.015146132338597525,124440576,gpt2
+Lima bean is a,vegetable.,lima bean,vegetable,18,0.008707850765075487,124440576,gpt2
+Artichoke is a,vegetable.,artichoke,vegetable,19,0.0009394725515408901,124440576,gpt2
+Turnip is a,vegetable.,turnip,vegetable,20,0.0003481479601847681,124440576,gpt2
+Eggplant is a,vegetable.,eggplant,vegetable,21,0.010615088773893647,124440576,gpt2
+Romaine is a,vegetable.,romaine,vegetable,22,4.220357283078414e-05,124440576,gpt2
+Green pepper is a,vegetable.,green pepper,vegetable,23,0.008677211534474523,124440576,gpt2
+Okra is a,vegetable.,okra,vegetable,24,0.00018128634879541533,124440576,gpt2
+Radish is a,vegetable.,radish,vegetable,25,8.885823505378151e-05,124440576,gpt2
+Onion is a,vegetable.,onion,vegetable,26,0.0015976333954676265,124440576,gpt2
+Bean is a,vegetable.,bean,vegetable,27,0.0005650697396833522,124440576,gpt2
+Green onion is a,vegetable.,green onion,vegetable,28,0.019738612665191262,124440576,gpt2
+Potato is a,vegetable.,potato,vegetable,29,0.01522735396926849,124440576,gpt2
+Parsnip is a,vegetable.,parsnip,vegetable,30,0.00013715882010739504,124440576,gpt2
+Turnip green is a,vegetable.,turnip green,vegetable,31,0.005292429020888413,124440576,gpt2
+Collard is a,vegetable.,collard,vegetable,32,0.00015653754687196676,124440576,gpt2
+Wax bean is a,vegetable.,wax bean,vegetable,33,0.0077774307288586315,124440576,gpt2
+Watercress is a,vegetable.,watercress,vegetable,34,0.0003380111615717012,124440576,gpt2
+Black eyed pea is a,vegetable.,black eyed pea,vegetable,35,0.002511647400553783,124440576,gpt2
+Leek is a,vegetable.,leek,vegetable,36,0.0007567615085286323,124440576,gpt2
+Pepper is a,vegetable.,pepper,vegetable,37,0.004851051101822655,124440576,gpt2
+Sweet potato is a,vegetable.,sweet potato,vegetable,38,0.013427024625782607,124440576,gpt2
+Yam is a,vegetable.,yam,vegetable,39,0.00018222374304203536,124440576,gpt2
+Parsley is a,vegetable.,parsley,vegetable,40,0.0001163519048779269,124440576,gpt2
+Endive is a,vegetable.,endive,vegetable,41,1.2027581280965634e-05,124440576,gpt2
+Rutabaga is a,vegetable.,rutabaga,vegetable,42,0.0002566396686451399,124440576,gpt2
+Mushroom is a,vegetable.,mushroom,vegetable,43,0.0010381969468457057,124440576,gpt2
+Avocado is a,vegetable.,avocado,vegetable,44,0.013160894673414896,124440576,gpt2
+Rhubarb is a,vegetable.,rhubarb,vegetable,45,0.003077405158571747,124440576,gpt2
+Kale is a,vegetable.,kale,vegetable,46,0.0008827884855592141,124440576,gpt2
+Escarole is a,vegetable.,escarole,vegetable,47,7.807505379172756e-05,124440576,gpt2
+Sauerkraut is a,vegetable.,sauerkraut,vegetable,48,0.0007895655425163273,124440576,gpt2
+Pickle is a,vegetable.,pickle,vegetable,49,0.002475539326334314,124440576,gpt2
+Baked bean is a,vegetable.,baked bean,vegetable,50,0.008093729528247147,124440576,gpt2
+Pumpkin is a,vegetable.,pumpkin,vegetable,51,0.010594942227983203,124440576,gpt2
+Seaweed is a,vegetable.,seaweed,vegetable,52,0.006195743082993746,124440576,gpt2
+Garlic is a,vegetable.,garlic,vegetable,53,0.011676642560434797,124440576,gpt2
+Dandelion is a,vegetable.,dandelion,vegetable,54,0.004625657389791457,124440576,gpt2
+Peanut is a,vegetable.,peanut,vegetable,55,0.0045973352244288454,124440576,gpt2
+Rice is a,vegetable.,rice,vegetable,56,0.002134715936668078,124440576,gpt2
+A saw is a,tool.,saw,tool,1,0.02441636863557974,124440576,gpt2
+A hammer is a,tool.,hammer,tool,2,0.09054840335621796,124440576,gpt2
+A ruler is a,tool.,ruler,tool,3,0.015131232971037443,124440576,gpt2
+A screwdriver is a,tool.,screwdriver,tool,4,0.17087893994109032,124440576,gpt2
+A drill is a,tool.,drill,tool,5,0.056242517138779355,124440576,gpt2
+A nail is a,tool.,nail,tool,6,0.008906261846446968,124440576,gpt2
+A tape measure is a,tool.,tape measure,tool,7,0.024772693383985214,124440576,gpt2
+A sawhorse is a,tool.,sawhorse,tool,8,0.00044664560080007453,124440576,gpt2
+A sandpaper is a,tool.,sandpaper,tool,9,0.03052957331549295,124440576,gpt2
+A sander is a,tool.,sander,tool,10,0.07062200389199653,124440576,gpt2
+A level is a,tool.,level,tool,11,0.0012628296403987356,124440576,gpt2
+A plane is a,tool.,plane,tool,12,0.0011304310599685174,124440576,gpt2
+A file is a,tool.,file,tool,13,0.0005295839369799687,124440576,gpt2
+A toolbox is a,tool.,toolbox,tool,14,0.040210970704940494,124440576,gpt2
+A t-square is a,tool.,T-square,tool,15,0.004549012266784781,124440576,gpt2
+A chisel is a,tool.,chisel,tool,16,0.3528158314854779,124440576,gpt2
+A rasp is a,tool.,rasp,tool,17,0.0008218016155539102,124440576,gpt2
+A pencil is a,tool.,pencil,tool,18,0.06958123813958822,124440576,gpt2
+A hacksaw is a,tool.,hacksaw,tool,19,0.10745917982620427,124440576,gpt2
+A square is a,tool.,square,tool,20,0.002257928463487639,124440576,gpt2
+A bench is a,tool.,bench,tool,21,0.0028996357132069087,124440576,gpt2
+A plier is a,tool.,plier,tool,22,0.037160422835208845,124440576,gpt2
+A wrench is a,tool.,wrench,tool,23,0.14958664997385415,124440576,gpt2
+A ladder is a,tool.,ladder,tool,24,0.022685575409819223,124440576,gpt2
+A lathe is a,tool.,lathe,tool,25,0.0730692054833337,124440576,gpt2
+A vise is a,tool.,vise,tool,26,0.06180520466432306,124440576,gpt2
+A screw is a,tool.,screw,tool,27,0.029627324231307053,124440576,gpt2
+A wood is a,tool.,wood,tool,28,0.0027817951744565673,124440576,gpt2
+A wedge is a,tool.,wedge,tool,29,0.005865698380378313,124440576,gpt2
+A lumber is a,tool.,lumber,tool,30,0.018224895484436676,124440576,gpt2
+A blueprint is a,tool.,blueprint,tool,31,0.007460788470567004,124440576,gpt2
+A brace is a,tool.,brace,tool,32,0.006175450387295356,124440576,gpt2
+An awl is a,tool.,awl,tool,33,0.019699196532953017,124440576,gpt2
+A crowbar is a,tool.,crowbar,tool,34,0.044390792571428334,124440576,gpt2
+A hinge is a,tool.,hinge,tool,35,0.01022004244569969,124440576,gpt2
+A miter box is a,tool.,miter box,tool,36,0.01792784027699261,124440576,gpt2
+A knife is a,tool.,knife,tool,37,0.13188291477819694,124440576,gpt2
+A chalk is a,tool.,chalk,tool,38,0.005403363534401317,124440576,gpt2
+A nut is a,tool.,nut,tool,39,0.003180596104513701,124440576,gpt2
+A bolt is a,tool.,bolt,tool,40,0.03302217852643875,124440576,gpt2
+A plumb line is a,tool.,plumb line,tool,41,0.0007610693053634351,124440576,gpt2
+A brush is a,tool.,brush,tool,42,0.04709503165504059,124440576,gpt2
+A sledge hammer is a,tool.,sledge hammer,tool,43,0.11899911520011436,124440576,gpt2
+A glue is a,tool.,glue,tool,44,0.016078383626633285,124440576,gpt2
+A paintbrush is a,tool.,paintbrush,tool,45,0.16330156797487422,124440576,gpt2
+A varnish is a,tool.,varnish,tool,46,0.00477653487460537,124440576,gpt2
+An apron is a,tool.,apron,tool,47,0.008038651308837259,124440576,gpt2
+A stapler is a,tool.,stapler,tool,48,0.031144543708490954,124440576,gpt2
+An extension cord is a,tool.,extension cord,tool,49,0.00318200384526331,124440576,gpt2
+A soldering iron is a,tool.,soldering iron,tool,50,0.07315845575376771,124440576,gpt2
+A plaster is a,tool.,plaster,tool,51,0.004187901859775568,124440576,gpt2
+A wheelbarrow is a,tool.,wheelbarrow,tool,52,0.03102312263954977,124440576,gpt2
+An axe is a,tool.,axe,tool,53,0.06157599257504873,124440576,gpt2
+A slide rule is a,tool.,slide rule,tool,54,0.006270833438936494,124440576,gpt2
+A cement is a,tool.,cement,tool,55,0.0037740843833989233,124440576,gpt2
+An anvil is a,tool.,anvil,tool,56,0.10880553701217416,124440576,gpt2
+A hatchet is a,tool.,hatchet,tool,57,0.06620974156337808,124440576,gpt2
+A rag is a,tool.,rag,tool,58,0.006433123003594638,124440576,gpt2
+A scissor is a,tool.,scissor,tool,59,0.05669790570382388,124440576,gpt2
+A crane is a,tool.,crane,tool,60,0.015415314759260569,124440576,gpt2
+An automobile is a,vehicle.,automobile,vehicle,1,0.247435225763715,124440576,gpt2
+A station wagon is a,vehicle.,station wagon,vehicle,2,0.09670131915748174,124440576,gpt2
+A truck is a,vehicle.,truck,vehicle,3,0.14179445500021695,124440576,gpt2
+A car is a,vehicle.,car,vehicle,4,0.16479973129622155,124440576,gpt2
+A bus is a,vehicle.,bus,vehicle,5,0.04333767585590332,124440576,gpt2
+A taxi is a,vehicle.,taxi,vehicle,6,0.10065708201281234,124440576,gpt2
+A jeep is a,vehicle.,jeep,vehicle,7,0.13177529672451624,124440576,gpt2
+An ambulance is a,vehicle.,ambulance,vehicle,8,0.06812721730010532,124440576,gpt2
+A motorcycle is a,vehicle.,motorcycle,vehicle,9,0.10171702275186872,124440576,gpt2
+A streetcar is a,vehicle.,streetcar,vehicle,10,0.017023798444724767,124440576,gpt2
+A van is a,vehicle.,van,vehicle,11,0.11597144106325505,124440576,gpt2
+A honda is a,vehicle.,Honda,vehicle,12,0.03491165007698542,124440576,gpt2
+A cable car is a,vehicle.,cable car,vehicle,13,0.046662271298499064,124440576,gpt2
+A train is a,vehicle.,train,vehicle,14,0.015435203587073619,124440576,gpt2
+A trolley is a,vehicle.,trolley,vehicle,15,0.04432919651956304,124440576,gpt2
+A bicycle is a,vehicle.,bicycle,vehicle,16,0.042738112836484585,124440576,gpt2
+A carriage is a,vehicle.,carriage,vehicle,17,0.0690813769805433,124440576,gpt2
+An airplane is a,vehicle.,airplane,vehicle,18,0.01587143616530868,124440576,gpt2
+A bike is a,vehicle.,bike,vehicle,19,0.04413111410855808,124440576,gpt2
+A boat is a,vehicle.,boat,vehicle,20,0.020663647696839635,124440576,gpt2
+A jet is a,vehicle.,jet,vehicle,21,0.010175383952494139,124440576,gpt2
+A ship is a,vehicle.,ship,vehicle,22,0.011812480548960242,124440576,gpt2
+A scooter is a,vehicle.,scooter,vehicle,23,0.08969581408208634,124440576,gpt2
+A tractor is a,vehicle.,tractor,vehicle,24,0.10682567199717968,124440576,gpt2
+A wagon is a,vehicle.,wagon,vehicle,25,0.09217453772180605,124440576,gpt2
+A subway is a,vehicle.,subway,vehicle,26,0.004245907837829684,124440576,gpt2
+A trailer is a,vehicle.,trailer,vehicle,27,0.0031489899670312654,124440576,gpt2
+A cart is a,vehicle.,cart,vehicle,28,0.028886521175009235,124440576,gpt2
+A wheelchair is a,vehicle.,wheelchair,vehicle,29,0.016949668225857483,124440576,gpt2
+A yacht is a,vehicle.,yacht,vehicle,30,0.008029212028635097,124440576,gpt2
+A tank is a,vehicle.,tank,vehicle,31,0.026442115887165624,124440576,gpt2
+A go-cart is a,vehicle.,go-cart,vehicle,32,0.02202152569548074,124440576,gpt2
+A rowboat is a,vehicle.,rowboat,vehicle,33,0.005962935516637609,124440576,gpt2
+A dogsled is a,vehicle.,dogsled,vehicle,34,0.006323344105932517,124440576,gpt2
+A tricycle is a,vehicle.,tricycle,vehicle,35,0.021587683738267537,124440576,gpt2
+A canoe is a,vehicle.,canoe,vehicle,36,0.00841325810003833,124440576,gpt2
+A raft is a,vehicle.,raft,vehicle,37,0.011748218699789318,124440576,gpt2
+A submarine is a,vehicle.,submarine,vehicle,38,0.005505775192544782,124440576,gpt2
+A sled is a,vehicle.,sled,vehicle,39,0.024920363279895448,124440576,gpt2
+A horse is a,vehicle.,horse,vehicle,40,0.004280515015938805,124440576,gpt2
+A rocket is a,vehicle.,rocket,vehicle,41,0.026242547632118803,124440576,gpt2
+A blimp is a,vehicle.,blimp,vehicle,42,0.03540681971507118,124440576,gpt2
+A skate is a,vehicle.,skate,vehicle,43,0.004150463694838891,124440576,gpt2
+A camel is a,vehicle.,camel,vehicle,44,0.00272399723096908,124440576,gpt2
+Feet are,vehicles.,feet,vehicle,45,2.9175183865949624e-05,124440576,gpt2
+A ski is a,vehicle.,ski,vehicle,46,0.004637813426670882,124440576,gpt2
+A skateboard is a,vehicle.,skateboard,vehicle,47,0.008141541390872961,124440576,gpt2
+A wheelbarrow is a,vehicle.,wheelbarrow,vehicle,48,0.0035162771460219675,124440576,gpt2
+A surfboard is a,vehicle.,surfboard,vehicle,49,0.004142207215985489,124440576,gpt2
+An elevator is a,vehicle.,elevator,vehicle,50,0.008515483872172469,124440576,gpt2
+A robin is a,bird.,robin,bird,1,0.015084090723404622,124440576,gpt2
+A sparrow is a,bird.,sparrow,bird,2,0.04375762675824567,124440576,gpt2
+A bluejay is a,bird.,bluejay,bird,3,0.012699752288791959,124440576,gpt2
+A bluebird is a,bird.,bluebird,bird,4,0.19534948615016678,124440576,gpt2
+A canary is a,bird.,canary,bird,5,0.0038778477782083504,124440576,gpt2
+A blackbird is a,bird.,blackbird,bird,6,0.20563242698012466,124440576,gpt2
+A dove is a,bird.,dove,bird,7,0.04548754292124838,124440576,gpt2
+A lark is a,bird.,lark,bird,8,0.007456975718114618,124440576,gpt2
+A swallow is a,bird.,swallow,bird,9,0.003397241280025517,124440576,gpt2
+A parakeet is a,bird.,parakeet,bird,10,0.047335299962795195,124440576,gpt2
+An oriole is a,bird.,oriole,bird,11,0.05017219393001932,124440576,gpt2
+A mockingbird is a,bird.,mockingbird,bird,12,0.20904124670199836,124440576,gpt2
+A redbird is a,bird.,redbird,bird,13,0.2855272040603449,124440576,gpt2
+A wren is a,bird.,wren,bird,14,0.007341702094078466,124440576,gpt2
+A finch is a,bird.,finch,bird,15,0.012611116719145691,124440576,gpt2
+A starling is a,bird.,starling,bird,16,0.03656616583095846,124440576,gpt2
+A cardinal is a,bird.,cardinal,bird,17,0.00020871981108138866,124440576,gpt2
+An eagle is a,bird.,eagle,bird,18,0.16871170576046846,124440576,gpt2
+A hummingbird is a,bird.,hummingbird,bird,19,0.1299274431740002,124440576,gpt2
+A seagull is a,bird.,seagull,bird,20,0.013504796124035195,124440576,gpt2
+A woodpecker is a,bird.,woodpecker,bird,21,0.034665081347942744,124440576,gpt2
+A pigeon is a,bird.,pigeon,bird,22,0.1162167875727869,124440576,gpt2
+A thrush is a,bird.,thrush,bird,23,0.01057523732411749,124440576,gpt2
+A falcon is a,bird.,falcon,bird,24,0.11797130727468644,124440576,gpt2
+A crow is a,bird.,crow,bird,25,0.08281341936204932,124440576,gpt2
+A hawk is a,bird.,hawk,bird,26,0.14606463428019453,124440576,gpt2
+A raven is a,bird.,raven,bird,27,0.0629377119293234,124440576,gpt2
+A goldfinch is a,bird.,goldfinch,bird,28,0.001658072311755159,124440576,gpt2
+A parrot is a,bird.,parrot,bird,29,0.1586811462867769,124440576,gpt2
+A sandpiper is a,bird.,sandpiper,bird,30,0.027307925485325547,124440576,gpt2
+A pheasant is a,bird.,pheasant,bird,31,0.018323326049386447,124440576,gpt2
+A catbird is a,bird.,catbird,bird,32,0.14768720944414587,124440576,gpt2
+A crane is a,bird.,crane,bird,33,0.0002480500834452039,124440576,gpt2
+An albatross is a,bird.,albatross,bird,34,0.0381009108678064,124440576,gpt2
+A condor is a,bird.,condor,bird,35,0.0033975523209921438,124440576,gpt2
+A toucan is a,bird.,toucan,bird,36,0.01488176392317279,124440576,gpt2
+An owl is a,bird.,owl,bird,37,0.09326817753049504,124440576,gpt2
+A pelican is a,bird.,pelican,bird,38,0.01604235955385004,124440576,gpt2
+A goose is a,bird.,goose,bird,39,0.10809067172520952,124440576,gpt2
+A vulture is a,bird.,vulture,bird,40,0.02527247169872832,124440576,gpt2
+A stork is a,bird.,stork,bird,41,0.008728936347123087,124440576,gpt2
+A buzzard is a,bird.,buzzard,bird,42,0.010110150163765855,124440576,gpt2
+A swan is a,bird.,swan,bird,43,0.045267703943275915,124440576,gpt2
+A flamingo is a,bird.,flamingo,bird,44,0.0231294787452237,124440576,gpt2
+A duck is a,bird.,duck,bird,45,0.052579606638000154,124440576,gpt2
+A peacock is a,bird.,peacock,bird,46,0.04005359181294246,124440576,gpt2
+An egret is a,bird.,egret,bird,47,0.014379510195627285,124440576,gpt2
+A chicken is a,bird.,chicken,bird,48,0.04070421435779883,124440576,gpt2
+A turkey is a,bird.,turkey,bird,49,0.07360241409265472,124440576,gpt2
+An ostrich is a,bird.,ostrich,bird,50,0.034072494552476774,124440576,gpt2
+A titmouse is a,bird.,titmouse,bird,51,0.005300227720769998,124440576,gpt2
+An emu is a,bird.,emu,bird,52,0.005102743260006642,124440576,gpt2
+A penguin is a,bird.,penguin,bird,53,0.015279489637566859,124440576,gpt2
+A bat is a,bird.,bat,bird,54,0.010752186183266814,124440576,gpt2
+Football is a,sport.,football,sport,1,0.10274265070990465,124440576,gpt2
+Baseball is a,sport.,baseball,sport,2,0.12123326766526542,124440576,gpt2
+Basketball is a,sport.,basketball,sport,3,0.1475351746147214,124440576,gpt2
+Tennis is a,sport.,tennis,sport,4,0.21488690067902613,124440576,gpt2
+Softball is a,sport.,softball,sport,5,0.1455940093596048,124440576,gpt2
+Canoeing is a,sport.,canoeing,sport,6,0.002246518907450552,124440576,gpt2
+Handball is a,sport.,handball,sport,7,0.046039890646656444,124440576,gpt2
+Rugby is a,sport.,rugby,sport,8,0.21478527838515232,124440576,gpt2
+Hockey is a,sport.,hockey,sport,9,0.19997138580347718,124440576,gpt2
+Ice hockey is a,sport.,ice hockey,sport,10,0.1475993479985251,124440576,gpt2
+Swimming is a,sport.,swimming,sport,11,0.13291221500333303,124440576,gpt2
+Track is a,sport.,track,sport,12,0.0002576441279080471,124440576,gpt2
+Boxing is a,sport.,boxing,sport,13,0.1945967984100791,124440576,gpt2
+Volleyball is a,sport.,volleyball,sport,14,0.2098578099146052,124440576,gpt2
+Lacrosse is a,sport.,lacrosse,sport,15,0.10792092387847362,124440576,gpt2
+Skiing is a,sport.,skiing,sport,16,0.06730269539580132,124440576,gpt2
+Golf is a,sport.,golf,sport,17,0.24489232728471355,124440576,gpt2
+Polo is a,sport.,polo,sport,18,0.002304535879595679,124440576,gpt2
+Surfing is a,sport.,surfing,sport,19,0.06912566329259164,124440576,gpt2
+Wrestling is a,sport.,wrestling,sport,20,0.11685872518993072,124440576,gpt2
+Gymnastics is a,sport.,gymnastics,sport,21,0.05835860981498562,124440576,gpt2
+Cricket is a,sport.,cricket,sport,22,0.1575400028369394,124440576,gpt2
+Squash is a,sport.,squash,sport,23,0.0007964384415635747,124440576,gpt2
+Badminton is a,sport.,badminton,sport,24,0.20884357780866272,124440576,gpt2
+Racing is a,sport.,racing,sport,25,0.09648465711977576,124440576,gpt2
+Pole vault is a,sport.,pole vault,sport,26,0.0002197266639420743,124440576,gpt2
+Fencing is a,sport.,fencing,sport,27,0.05028332402768942,124440576,gpt2
+Bowling is a,sport.,bowling,sport,28,0.10629316867784427,124440576,gpt2
+Water skiing is a,sport.,water skiing,sport,29,0.16303889622546908,124440576,gpt2
+Ice skating is a,sport.,ice skating,sport,30,0.2691771518469353,124440576,gpt2
+Jai alai is a,sport.,jai alai,sport,31,0.00021470876546440088,124440576,gpt2
+Skating is a,sport.,skating,sport,32,0.10623074367181592,124440576,gpt2
+Skindiving is a,sport.,skindiving,sport,33,0.0007280369967071022,124440576,gpt2
+Sailing is a,sport.,sailing,sport,34,0.027727172020518588,124440576,gpt2
+Diving is a,sport.,diving,sport,35,0.011516681375787981,124440576,gpt2
+Archery is a,sport.,archery,sport,36,0.10438609380819665,124440576,gpt2
+Judo is a,sport.,judo,sport,37,0.016012401156604766,124440576,gpt2
+Car racing is a,sport.,car racing,sport,38,0.13945030230538233,124440576,gpt2
+Ping pong is a,sport.,ping pong,sport,39,0.015064309518808936,124440576,gpt2
+Rowing is a,sport.,rowing,sport,40,0.17740288080279829,124440576,gpt2
+Fishing is a,sport.,fishing,sport,41,0.04811852048240023,124440576,gpt2
+Horseback riding is a,sport.,horseback riding,sport,42,0.09816570826251036,124440576,gpt2
+Running is a,sport.,running,sport,43,0.004716242585113028,124440576,gpt2
+Horse racing is a,sport.,horse racing,sport,44,0.21207089374321167,124440576,gpt2
+Hiking is a,sport.,hiking,sport,45,0.02262059163324553,124440576,gpt2
+Weight lifting is a,sport.,weight lifting,sport,46,0.01572007419103166,124440576,gpt2
+Croquet is a,sport.,croquet,sport,47,0.019059641500299256,124440576,gpt2
+Horseshoes is a,sport.,horseshoes,sport,48,0.0008436489821102004,124440576,gpt2
+Boating is a,sport.,boating,sport,49,0.143963674031178,124440576,gpt2
+Pool is a,sport.,pool,sport,50,0.00039901354361473757,124440576,gpt2
+Billiards is a,sport.,billiards,sport,51,0.0012602213542050303,124440576,gpt2
+Hunting is a,sport.,hunting,sport,52,0.027404977002709812,124440576,gpt2
+Jump rope is a,sport.,jump rope,sport,53,0.0025903873046473785,124440576,gpt2
+Camping is a,sport.,camping,sport,54,0.002406855382348334,124440576,gpt2
+Chess is a,sport.,chess,sport,55,0.040599693933907895,124440576,gpt2
+Dancing is a,sport.,dancing,sport,56,0.029469069344213023,124440576,gpt2
+Checkers is a,sport.,checkers,sport,57,0.00040963683340031247,124440576,gpt2
+Cards is a,sport.,cards,sport,58,0.00024248524321780074,124440576,gpt2
+Sunbathing is a,sport.,sunbathing,sport,59,0.003981820168931283,124440576,gpt2

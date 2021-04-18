@@ -13,7 +13,7 @@ import itertools
 import torch
 from torch.utils.data import DataLoader
 
-from minicons.minicons import cwe
+from minicons import cwe
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--dataset", type = str)
