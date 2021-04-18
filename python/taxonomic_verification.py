@@ -72,7 +72,7 @@ for batch in tqdm(stimuli_loader):
     premise = list(batch[0])
     conclusion = list(batch[1])
     priming_scores = transformer.logprobs(transformer.prime_text(premise, conclusion))
-    priming_scores = [score[0][0].exp().item() for score in priming_scores]
+    priming_scores = [score[0][0].item() for score in priming_scores]
     results.extend(priming_scores)
 
 dataset = list(zip(*dataset))

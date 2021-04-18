@@ -1,566 +1,566 @@
 preamble,stimulus,item,category,rank,score,params,model
-A gun is a,weapon.,gun,weapon,1,0.2654131755914291,51295290,google_electra-large-generator
-A pistol is a,weapon.,pistol,weapon,2,0.2500546028643646,51295290,google_electra-large-generator
-A revolver is a,weapon.,revolver,weapon,3,0.21188935407452214,51295290,google_electra-large-generator
-A machine gun is a,weapon.,machine gun,weapon,4,0.38535496090904015,51295290,google_electra-large-generator
-A rifle is a,weapon.,rifle,weapon,5,0.24010232277018315,51295290,google_electra-large-generator
-A switchblade is a,weapon.,switchblade,weapon,6,0.012930770667439678,51295290,google_electra-large-generator
-A knife is a,weapon.,knife,weapon,7,0.11430540558748244,51295290,google_electra-large-generator
-A dagger is a,weapon.,dagger,weapon,8,0.19429861129905268,51295290,google_electra-large-generator
-A shotgun is a,weapon.,shotgun,weapon,9,0.1389816363168923,51295290,google_electra-large-generator
-A sword is a,weapon.,sword,weapon,10,0.2221712510828298,51295290,google_electra-large-generator
-A bomb is a,weapon.,bomb,weapon,11,0.1321161788397282,51295290,google_electra-large-generator
-A hand grenade is a,weapon.,hand grenade,weapon,12,0.13964486954473507,51295290,google_electra-large-generator
-An atom bomb is a,weapon.,Atom bomb,weapon,13,0.07248343124204273,51295290,google_electra-large-generator
-A bayonet is a,weapon.,bayonet,weapon,14,0.017916559595794964,51295290,google_electra-large-generator
-A spear is a,weapon.,spear,weapon,15,0.10999638079971638,51295290,google_electra-large-generator
-A bazooka is a,weapon.,bazooka,weapon,16,0.036229879728379856,51295290,google_electra-large-generator
-A cannon is a,weapon.,cannon,weapon,17,0.1587065717859883,51295290,google_electra-large-generator
-A bow and arrow is a,weapon.,bow and arrow,weapon,18,0.29381586504968193,51295290,google_electra-large-generator
-A club is a,weapon.,club,weapon,19,0.0010020805986942093,51295290,google_electra-large-generator
-A lance is a,weapon.,lance,weapon,20,0.05009091834602013,51295290,google_electra-large-generator
-A brass knuckle is a,weapon.,brass knuckle,weapon,21,0.012568217742351284,51295290,google_electra-large-generator
-A bullet is a,weapon.,bullet,weapon,22,0.05359675947831934,51295290,google_electra-large-generator
-A tomahawk is a,weapon.,tomahawk,weapon,23,0.017689056409814562,51295290,google_electra-large-generator
-A mortar is a,weapon.,mortar,weapon,24,0.014438750224809609,51295290,google_electra-large-generator
-An arrow is a,weapon.,arrow,weapon,25,0.0115752382019465,51295290,google_electra-large-generator
-A blackjack is a,weapon.,blackjack,weapon,26,0.02222645962893497,51295290,google_electra-large-generator
-A tank is a,weapon.,tank,weapon,27,0.00875401258113607,51295290,google_electra-large-generator
-Teargas is a,weapon.,teargas,weapon,28,0.0021916172452186664,51295290,google_electra-large-generator
-A missile is a,weapon.,missile,weapon,29,0.3119753310334774,51295290,google_electra-large-generator
-A whip is a,weapon.,whip,weapon,30,0.04370670344171581,51295290,google_electra-large-generator
-An ice pick is a,weapon.,ice pick,weapon,31,0.005817481870091938,51295290,google_electra-large-generator
-A hatchet is a,weapon.,hatchet,weapon,32,0.008322404576882957,51295290,google_electra-large-generator
-A slingshot is a,weapon.,slingshot,weapon,33,0.05334627538054285,51295290,google_electra-large-generator
-A fist is a,weapon.,fist,weapon,34,0.014657402345625117,51295290,google_electra-large-generator
-An axe is a,weapon.,axe,weapon,35,0.16254581977346544,51295290,google_electra-large-generator
-A bow is a,weapon.,bow,weapon,36,0.01815969603843162,51295290,google_electra-large-generator
-A razor is a,weapon.,razor,weapon,37,0.024002344464243347,51295290,google_electra-large-generator
-A razor blade is a,weapon.,razor blade,weapon,38,0.05448280412702529,51295290,google_electra-large-generator
-A rocket is a,weapon.,rocket,weapon,39,0.05239070400970596,51295290,google_electra-large-generator
-A judo is a,weapon.,judo,weapon,40,0.015512826141383112,51295290,google_electra-large-generator
-A stick is a,weapon.,stick,weapon,41,0.014171421670664765,51295290,google_electra-large-generator
-A poison is a,weapon.,poison,weapon,42,0.01920299215205732,51295290,google_electra-large-generator
-A rock is a,weapon.,rock,weapon,43,0.001961656766591048,51295290,google_electra-large-generator
-A stone is a,weapon.,stone,weapon,44,0.003147857997742846,51295290,google_electra-large-generator
-Gas is a,weapon.,gas,weapon,45,0.003083148127219179,51295290,google_electra-large-generator
-A chain is a,weapon.,chain,weapon,46,0.003306006880719111,51295290,google_electra-large-generator
-A scissor is a,weapon.,scissor,weapon,47,0.10501765255063164,51295290,google_electra-large-generator
-A brick is a,weapon.,brick,weapon,48,0.00027938508292016476,51295290,google_electra-large-generator
-A pitchfork is a,weapon.,pitchfork,weapon,49,0.03637039608176879,51295290,google_electra-large-generator
-A hammer is a,weapon.,hammer,weapon,50,0.04217249638831773,51295290,google_electra-large-generator
-A word is a,weapon.,word,weapon,51,0.0013173746684296418,51295290,google_electra-large-generator
-A hand is a,weapon.,hand,weapon,52,0.012145713141323192,51295290,google_electra-large-generator
-A pipe is a,weapon.,pipe,weapon,53,0.0018912156245865128,51295290,google_electra-large-generator
-A rope is a,weapon.,rope,weapon,54,0.012599083538650618,51295290,google_electra-large-generator
-An airplane is a,weapon.,airplane,weapon,55,0.013365165707079537,51295290,google_electra-large-generator
-A foot is a,weapon.,foot,weapon,56,0.0023947640800572804,51295290,google_electra-large-generator
-A car is a,weapon.,car,weapon,57,0.011046612635491393,51295290,google_electra-large-generator
-A screwdriver is a,weapon.,screwdriver,weapon,58,0.011992505593708151,51295290,google_electra-large-generator
-Glass is a,weapon.,glass,weapon,59,0.009604147288416538,51295290,google_electra-large-generator
-A shoe is a,weapon.,shoe,weapon,60,0.007908010578728938,51295290,google_electra-large-generator
-Orange is a,fruit.,orange,fruit,1,0.005394132012414232,51295290,google_electra-large-generator
-Apple is a,fruit.,apple,fruit,2,7.743674144447097e-05,51295290,google_electra-large-generator
-Banana is a,fruit.,banana,fruit,3,0.009457160631501735,51295290,google_electra-large-generator
-Peach is a,fruit.,peach,fruit,4,0.015654681287886885,51295290,google_electra-large-generator
-Pear is a,fruit.,pear,fruit,5,0.05980855777814162,51295290,google_electra-large-generator
-Apricot is a,fruit.,apricot,fruit,6,0.003994237870871553,51295290,google_electra-large-generator
-Tangerine is a,fruit.,tangerine,fruit,7,0.006883177493900251,51295290,google_electra-large-generator
-Plum is a,fruit.,plum,fruit,8,0.004788964097680103,51295290,google_electra-large-generator
-Grape is a,fruit.,grape,fruit,9,0.015505061138902619,51295290,google_electra-large-generator
-Nectarine is a,fruit.,nectarine,fruit,10,0.0069642477955218045,51295290,google_electra-large-generator
-Strawberry is a,fruit.,strawberry,fruit,11,0.005533500289110038,51295290,google_electra-large-generator
-Grapefruit is a,fruit.,grapefruit,fruit,12,0.011257453307059259,51295290,google_electra-large-generator
-Berry is a,fruit.,berry,fruit,13,0.0066065521352433165,51295290,google_electra-large-generator
-Cherry is a,fruit.,cherry,fruit,14,0.012603878604422554,51295290,google_electra-large-generator
-Pineapple is a,fruit.,pineapple,fruit,15,0.01249989224098639,51295290,google_electra-large-generator
-Blackberry is a,fruit.,blackberry,fruit,16,0.00011812277020627577,51295290,google_electra-large-generator
-Melon is a,fruit.,melon,fruit,17,0.015949396709985353,51295290,google_electra-large-generator
-Blueberry is a,fruit.,blueberry,fruit,18,0.009111626527821853,51295290,google_electra-large-generator
-Raspberry is a,fruit.,raspberry,fruit,19,0.006756517422085276,51295290,google_electra-large-generator
-Lemon is a,fruit.,lemon,fruit,20,0.0061139963991196705,51295290,google_electra-large-generator
-Black raspberry is a,fruit.,black raspberry,fruit,21,0.003868535804824376,51295290,google_electra-large-generator
-Boysenberry is a,fruit.,boysenberry,fruit,22,0.0002303418507436444,51295290,google_electra-large-generator
-Watermelon is a,fruit.,watermelon,fruit,23,0.006822796237755188,51295290,google_electra-large-generator
-Cantaloupe is a,fruit.,cantaloupe,fruit,24,0.0039776035366082116,51295290,google_electra-large-generator
-Lime is a,fruit.,lime,fruit,25,0.008631915688792676,51295290,google_electra-large-generator
-Tangelo is a,fruit.,tangelo,fruit,26,3.605108296037535e-05,51295290,google_electra-large-generator
-Papaya is a,fruit.,papaya,fruit,27,0.002619919860224699,51295290,google_electra-large-generator
-Honeydew is a,fruit.,honeydew,fruit,28,0.000688304270678075,51295290,google_electra-large-generator
-Fig is a,fruit.,fig,fruit,29,9.66532712948352e-06,51295290,google_electra-large-generator
-Mango is a,fruit.,mango,fruit,30,0.010823141698134623,51295290,google_electra-large-generator
-Guava is a,fruit.,guava,fruit,31,0.007982897224628232,51295290,google_electra-large-generator
-Pomegranate is a,fruit.,pomegranate,fruit,32,0.015555135923794898,51295290,google_electra-large-generator
-Cranberry is a,fruit.,cranberry,fruit,33,0.007984922561866748,51295290,google_electra-large-generator
-Passion fruit is a,fruit.,passion fruit,fruit,34,0.016648563745302405,51295290,google_electra-large-generator
-Prune is a,fruit.,prune,fruit,35,0.0051841576814810695,51295290,google_electra-large-generator
-Gooseberry is a,fruit.,gooseberry,fruit,36,0.006068980369125228,51295290,google_electra-large-generator
-Date is a,fruit.,date,fruit,37,8.709465295650998e-06,51295290,google_electra-large-generator
-Kumquat is a,fruit.,kumquat,fruit,38,0.00019479833325828226,51295290,google_electra-large-generator
-Raisin is a,fruit.,raisin,fruit,39,0.0050166570508810415,51295290,google_electra-large-generator
-Muskmelon is a,fruit.,muskmelon,fruit,40,0.0010681435742895642,51295290,google_electra-large-generator
-Persimmon is a,fruit.,persimmon,fruit,41,0.0024537085031504885,51295290,google_electra-large-generator
-Pawpaw is a,fruit.,pawpaw,fruit,42,0.00017912680220327483,51295290,google_electra-large-generator
-Coconut is a,fruit.,coconut,fruit,43,0.009473779289301234,51295290,google_electra-large-generator
-Avocado is a,fruit.,avocado,fruit,44,0.0036639487158262253,51295290,google_electra-large-generator
-Pumpkin is a,fruit.,pumpkin,fruit,45,0.006093349629083882,51295290,google_electra-large-generator
-Tomato is a,fruit.,tomato,fruit,46,0.007695520073304515,51295290,google_electra-large-generator
-Nut is a,fruit.,nut,fruit,47,0.002840269560589248,51295290,google_electra-large-generator
-Gourd is a,fruit.,gourd,fruit,48,0.0025154995884877933,51295290,google_electra-large-generator
-Olive is a,fruit.,olive,fruit,49,0.005934009428905931,51295290,google_electra-large-generator
-Pickle is a,fruit.,pickle,fruit,50,0.0030374043029507045,51295290,google_electra-large-generator
-Squash is a,fruit.,squash,fruit,51,0.0014685364323399474,51295290,google_electra-large-generator
-A doll is a,toy.,doll,toy,1,0.05108559596788501,51295290,google_electra-large-generator
-A top is a,toy.,top,toy,2,0.0001646390923404326,51295290,google_electra-large-generator
-A jack-in-the-box is a,toy.,jack-in-the-box,toy,3,0.006087268474215476,51295290,google_electra-large-generator
-A toy soldier is a,toy.,toy soldier,toy,4,0.051154726271669344,51295290,google_electra-large-generator
-A yo-yo is a,toy.,yo-yo,toy,5,0.006151245528258555,51295290,google_electra-large-generator
-A block is a,toy.,block,toy,6,0.0009402254517781398,51295290,google_electra-large-generator
-Marbles are,toys.,marbles,toy,7,5.549406997272322e-05,51295290,google_electra-large-generator
-A rattle is a,toy.,rattle,toy,8,0.014133819077084159,51295290,google_electra-large-generator
-A stuffed animal is a,toy.,stuffed animal,toy,9,0.027241830675519614,51295290,google_electra-large-generator
-A water pistol is a,toy.,water pistol,toy,10,0.006223629821159081,51295290,google_electra-large-generator
-A teddy bear is a,toy.,teddy bear,toy,11,0.037304228082181805,51295290,google_electra-large-generator
-A rocking horse is a,toy.,rocking horse,toy,12,0.003727085367252629,51295290,google_electra-large-generator
-A doll house is a,toy.,doll house,toy,13,0.015172212604017387,51295290,google_electra-large-generator
-A ball is a,toy.,ball,toy,14,0.0077837230041187784,51295290,google_electra-large-generator
-Jacks are,toys.,jacks,toy,15,0.000546408544560584,51295290,google_electra-large-generator
-Paper dolls are,toys.,paper dolls,toy,16,0.0017301409783396808,51295290,google_electra-large-generator
-An erector set is a,toy.,erector set,toy,17,0.021206289837357183,51295290,google_electra-large-generator
-A hula hoop is a,toy.,hula hoop,toy,18,0.003035883918996697,51295290,google_electra-large-generator
-A jump rope is a,toy.,jump rope,toy,19,0.008293611936400692,51295290,google_electra-large-generator
-A pogo stick is a,toy.,pogo stick,toy,20,0.08423779750235393,51295290,google_electra-large-generator
-A clay is a,toy.,clay,toy,21,0.001006780044579642,51295290,google_electra-large-generator
-A wagon is a,toy.,wagon,toy,22,0.010357814707824918,51295290,google_electra-large-generator
-A kite is a,toy.,kite,toy,23,0.01609499843074415,51295290,google_electra-large-generator
-A train is a,toy.,train,toy,24,0.0053564642334687105,51295290,google_electra-large-generator
-A tricycle is a,toy.,tricycle,toy,25,0.03771377041971305,51295290,google_electra-large-generator
-A coloring book is a,toy.,coloring book,toy,26,0.0076911179209833294,51295290,google_electra-large-generator
-Crayons are,toys.,crayons,toy,27,7.369571716514174e-05,51295290,google_electra-large-generator
-A truck is a,toy.,truck,toy,28,0.006277534990042132,51295290,google_electra-large-generator
-A puzzle is a,toy.,puzzle,toy,29,0.007482292962674801,51295290,google_electra-large-generator
-A fire engine is a,toy.,fire engine,toy,30,0.004699804999668437,51295290,google_electra-large-generator
-A balloon is a,toy.,balloon,toy,31,0.010946179521277348,51295290,google_electra-large-generator
-Skates are,toys.,skates,toy,32,0.0005155160790068346,51295290,google_electra-large-generator
-A baseball is a,toy.,baseball,toy,33,0.0029765230082732684,51295290,google_electra-large-generator
-A drum is a,toy.,drum,toy,34,0.010464948397413494,51295290,google_electra-large-generator
-A football is a,toy.,football,toy,35,0.0011881426847252653,51295290,google_electra-large-generator
-A game is a,toy.,game,toy,36,0.003726243063580512,51295290,google_electra-large-generator
-A swing is a,toy.,swing,toy,37,0.009846691447629237,51295290,google_electra-large-generator
-A boat is a,toy.,boat,toy,38,0.005630726567600554,51295290,google_electra-large-generator
-A monopoly is a,toy.,monopoly,toy,39,0.0006566999703374026,51295290,google_electra-large-generator
-A sled is a,toy.,sled,toy,40,0.01491558009306074,51295290,google_electra-large-generator
-A seesaw is a,toy.,seesaw,toy,41,0.008670461570457018,51295290,google_electra-large-generator
-Stilts are,toys.,stilts,toy,42,0.00021619121934682336,51295290,google_electra-large-generator
-Checkers are,toys.,checkers,toy,43,4.750121167891051e-06,51295290,google_electra-large-generator
-A bat is a,toy.,bat,toy,44,0.016854372815115905,51295290,google_electra-large-generator
-A car is a,toy.,car,toy,45,0.022985317701748234,51295290,google_electra-large-generator
-An airplane is a,toy.,airplane,toy,46,0.019227511121785546,51295290,google_electra-large-generator
-A bicycle is a,toy.,bicycle,toy,47,0.013633527862176486,51295290,google_electra-large-generator
-A tractor is a,toy.,tractor,toy,48,0.012533494450656588,51295290,google_electra-large-generator
-A sandbox is a,toy.,sandbox,toy,49,0.01621684024725095,51295290,google_electra-large-generator
-A bike is a,toy.,bike,toy,50,0.008357176984864934,51295290,google_electra-large-generator
-A bow and arrow is a,toy.,bow and arrow,toy,51,0.01228638694484673,51295290,google_electra-large-generator
-A rope is a,toy.,rope,toy,52,0.005285599449851473,51295290,google_electra-large-generator
-Dishes are,toys.,dishes,toy,53,6.461359640655044e-06,51295290,google_electra-large-generator
-Cards are,toys.,cards,toy,54,0.0001813904573346597,51295290,google_electra-large-generator
-A mitt is a,toy.,mitt,toy,55,0.004210953928735694,51295290,google_electra-large-generator
-A horse is a,toy.,horse,toy,56,0.004809463944058197,51295290,google_electra-large-generator
-A gun is a,toy.,gun,toy,57,0.0187589245680942,51295290,google_electra-large-generator
-Animals are,toys.,animals,toy,58,0.0005258642327689567,51295290,google_electra-large-generator
-A tennis racket is a,toy.,tennis racket,toy,59,0.009327907124886516,51295290,google_electra-large-generator
-Books are,toys.,books,toy,60,0.00024709528123112966,51295290,google_electra-large-generator
-A pant is a type of,clothing.,pant,clothing,1,0.006952793781535981,51295290,google_electra-large-generator
-A shirt is a type of,clothing.,shirt,clothing,2,0.06306081740973934,51295290,google_electra-large-generator
-A dress is a type of,clothing.,dress,clothing,3,0.06329229711311855,51295290,google_electra-large-generator
-A skirt is a type of,clothing.,skirt,clothing,4,0.04097212508815257,51295290,google_electra-large-generator
-A blouse is a type of,clothing.,blouse,clothing,5,0.04289245701540544,51295290,google_electra-large-generator
-A suit is a type of,clothing.,suit,clothing,6,0.061946295872579715,51295290,google_electra-large-generator
-A slack is a type of,clothing.,slack,clothing,7,0.0010439295633141118,51295290,google_electra-large-generator
-A jacket is a type of,clothing.,jacket,clothing,8,0.06938000094358197,51295290,google_electra-large-generator
-A coat is a type of,clothing.,coat,clothing,9,0.06633874097183377,51295290,google_electra-large-generator
-A sweater is a type of,clothing.,sweater,clothing,10,0.04021534263397168,51295290,google_electra-large-generator
-A sweatshirt is a type of,clothing.,sweatshirt,clothing,11,0.07253467140469633,51295290,google_electra-large-generator
-An underpant is a type of,clothing.,underpant,clothing,12,0.0008444281619500033,51295290,google_electra-large-generator
-A sports jacket is a type of,clothing.,sports jacket,clothing,13,0.06317663199280597,51295290,google_electra-large-generator
-A jumper is a type of,clothing.,jumper,clothing,14,0.013631421709726942,51295290,google_electra-large-generator
-A panty is a type of,clothing.,panty,clothing,15,0.019447035917083317,51295290,google_electra-large-generator
-A sock is a type of,clothing.,sock,clothing,16,0.009006786967366497,51295290,google_electra-large-generator
-A parka is a type of,clothing.,parka,clothing,17,0.006082190980354824,51295290,google_electra-large-generator
-A pajama is a type of,clothing.,pajama,clothing,18,0.0030336380403834544,51295290,google_electra-large-generator
-An undershirt is a type of,clothing.,undershirt,clothing,19,0.012920440794329881,51295290,google_electra-large-generator
-An overcoat is a type of,clothing.,overcoat,clothing,20,0.05467002104173612,51295290,google_electra-large-generator
-A nightgown is a type of,clothing.,nightgown,clothing,21,0.10315480794835973,51295290,google_electra-large-generator
-A raincoat is a type of,clothing.,raincoat,clothing,22,0.06717579336377955,51295290,google_electra-large-generator
-A bathing suit is a type of,clothing.,bathing suit,clothing,23,0.09027369805498642,51295290,google_electra-large-generator
-A bathrobe is a type of,clothing.,bathrobe,clothing,24,0.005965796612135559,51295290,google_electra-large-generator
-A slip is a type of,clothing.,slip,clothing,25,0.0018247895265324587,51295290,google_electra-large-generator
-A bra is a type of,clothing.,bra,clothing,26,0.018306523303278557,51295290,google_electra-large-generator
-A shoe is a type of,clothing.,shoe,clothing,27,0.020383273171475834,51295290,google_electra-large-generator
-A tuxedo is a type of,clothing.,tuxedo,clothing,28,0.0355132427445111,51295290,google_electra-large-generator
-A stocking is a type of,clothing.,stocking,clothing,29,0.016007347380494228,51295290,google_electra-large-generator
-A vest is a type of,clothing.,vest,clothing,30,0.05620375092222128,51295290,google_electra-large-generator
-A nylon is a type of,clothing.,nylon,clothing,31,0.0020378112117622,51295290,google_electra-large-generator
-A cape is a type of,clothing.,cape,clothing,32,0.001690645866852311,51295290,google_electra-large-generator
-A boot is a type of,clothing.,boot,clothing,33,0.0003227263440768536,51295290,google_electra-large-generator
-A sandal is a type of,clothing.,sandal,clothing,34,0.0001497531375325645,51295290,google_electra-large-generator
-A tie is a type of,clothing.,tie,clothing,35,0.010326952572513252,51295290,google_electra-large-generator
-A girdle is a type of,clothing.,girdle,clothing,36,0.0008255146754180723,51295290,google_electra-large-generator
-A belt is a type of,clothing.,belt,clothing,37,0.0029514477087314826,51295290,google_electra-large-generator
-A scarf is a type of,clothing.,scarf,clothing,38,0.013025664648872164,51295290,google_electra-large-generator
-A mitten is a type of,clothing.,mitten,clothing,39,0.0018042044429343702,51295290,google_electra-large-generator
-A slipper is a type of,clothing.,slipper,clothing,40,0.021291359920685298,51295290,google_electra-large-generator
-A hat is a type of,clothing.,hat,clothing,41,0.018558986728928414,51295290,google_electra-large-generator
-An overshoe is a type of,clothing.,overshoe,clothing,42,0.0006198369868065153,51295290,google_electra-large-generator
-A glove is a type of,clothing.,glove,clothing,43,0.0031722323096540907,51295290,google_electra-large-generator
-An apron is a type of,clothing.,apron,clothing,44,0.01840376239712221,51295290,google_electra-large-generator
-An earmuff is a type of,clothing.,earmuff,clothing,45,0.0006410832792474887,51295290,google_electra-large-generator
-A handkerchief is a type of,clothing.,handkerchief,clothing,46,0.002598349217290123,51295290,google_electra-large-generator
-A purse is a type of,clothing.,purse,clothing,47,0.018411468985076118,51295290,google_electra-large-generator
-A hairband is a type of,clothing.,hairband,clothing,48,0.022116614563229824,51295290,google_electra-large-generator
-A ring is a type of,clothing.,ring,clothing,49,0.00032511858284233164,51295290,google_electra-large-generator
-An earring is a type of,clothing.,earring,clothing,50,6.818450693232181e-05,51295290,google_electra-large-generator
-A watch is a type of,clothing.,watch,clothing,51,0.009022648621686152,51295290,google_electra-large-generator
-A cuff link is a type of,clothing.,cuff link,clothing,52,0.0016424899295739144,51295290,google_electra-large-generator
-A necklace is a type of,clothing.,necklace,clothing,53,0.004071572438748407,51295290,google_electra-large-generator
-A bracelet is a type of,clothing.,bracelet,clothing,54,5.780260199198503e-06,51295290,google_electra-large-generator
-A cane is a type of,clothing.,cane,clothing,55,0.0005001883372240131,51295290,google_electra-large-generator
-A chair is a type of,furniture.,chair,furniture,1,0.016390060914345805,51295290,google_electra-large-generator
-A sofa is a type of,furniture.,sofa,furniture,2,0.1335194868316841,51295290,google_electra-large-generator
-A couch is a type of,furniture.,couch,furniture,3,0.07840736596971912,51295290,google_electra-large-generator
-A table is a type of,furniture.,table,furniture,4,0.03055590486840755,51295290,google_electra-large-generator
-An easy chair is a type of,furniture.,easy chair,furniture,5,0.009788417864430477,51295290,google_electra-large-generator
-A dresser is a type of,furniture.,dresser,furniture,6,0.08467377750048721,51295290,google_electra-large-generator
-A rocking chair is a type of,furniture.,rocking chair,furniture,7,0.011303400034527778,51295290,google_electra-large-generator
-A coffee table is a type of,furniture.,coffee table,furniture,8,0.018787874860034758,51295290,google_electra-large-generator
-A rocker is a type of,furniture.,rocker,furniture,9,0.012191982689917308,51295290,google_electra-large-generator
-A love seat is a type of,furniture.,love seat,furniture,10,0.007886154919710911,51295290,google_electra-large-generator
-A chest of drawers is a,furniture.,chest of drawers,furniture,11,0.00025623565889008296,51295290,google_electra-large-generator
-A desk is a type of,furniture.,desk,furniture,12,0.025212433468723556,51295290,google_electra-large-generator
-A bed is a type of,furniture.,bed,furniture,13,0.024108446476572468,51295290,google_electra-large-generator
-A bureau is a type of,furniture.,bureau,furniture,14,6.420233398375755e-05,51295290,google_electra-large-generator
-A davenport is a type of,furniture.,davenport,furniture,15,0.0001324716366739254,51295290,google_electra-large-generator
-An end table is a type of,furniture.,end table,furniture,16,0.001079815547143407,51295290,google_electra-large-generator
-A divan is a type of,furniture.,divan,furniture,17,0.0006699805530239521,51295290,google_electra-large-generator
-A night table is a type of,furniture.,night table,furniture,18,0.04235560689845046,51295290,google_electra-large-generator
-A chest is a type of,furniture.,chest,furniture,19,6.0934712731149344e-05,51295290,google_electra-large-generator
-A cedar chest is a type of,furniture.,cedar chest,furniture,20,0.0015743651013296928,51295290,google_electra-large-generator
-A vanity is a type of,furniture.,vanity,furniture,21,0.005574592298268545,51295290,google_electra-large-generator
-A bookcase is a type of,furniture.,bookcase,furniture,22,0.047155253978248914,51295290,google_electra-large-generator
-A lounge is a type of,furniture.,lounge,furniture,23,0.0075823921915794375,51295290,google_electra-large-generator
-A chaise lounge is a type of,furniture.,chaise lounge,furniture,24,0.003106825823851171,51295290,google_electra-large-generator
-An ottoman is a type of,furniture.,ottoman,furniture,25,0.020873953138234484,51295290,google_electra-large-generator
-A footstool is a type of,furniture.,footstool,furniture,26,0.00011944964434667863,51295290,google_electra-large-generator
-A cabinet is a type of,furniture.,cabinet,furniture,27,0.04058490601351065,51295290,google_electra-large-generator
-A china closet is a type of,furniture.,china closet,furniture,28,0.02657035252796016,51295290,google_electra-large-generator
-A bench is a type of,furniture.,bench,furniture,29,0.008947372384608188,51295290,google_electra-large-generator
-A buffet is a type of,furniture.,buffet,furniture,30,0.00012208771480840658,51295290,google_electra-large-generator
-A lamp is a type of,furniture.,lamp,furniture,31,0.0008958185518791272,51295290,google_electra-large-generator
-A stool is a type of,furniture.,stool,furniture,32,0.0017658455586816021,51295290,google_electra-large-generator
-A hassock is a type of,furniture.,hassock,furniture,33,0.0002289127289095161,51295290,google_electra-large-generator
-A drawer is a type of,furniture.,drawer,furniture,34,0.022825679576815975,51295290,google_electra-large-generator
-A piano is a type of,furniture.,piano,furniture,35,0.00043521525951880773,51295290,google_electra-large-generator
-A cushion is a type of,furniture.,cushion,furniture,36,0.0038570385458045827,51295290,google_electra-large-generator
-A magazine rack is a type of,furniture.,magazine rack,furniture,37,0.002087931808393254,51295290,google_electra-large-generator
-A hi-fi is a type of,furniture.,hi-fi,furniture,38,7.480102154089349e-05,51295290,google_electra-large-generator
-A cupboard is a type of,furniture.,cupboard,furniture,39,0.034045372810112794,51295290,google_electra-large-generator
-A stereo is a type of,furniture.,stereo,furniture,40,0.0002858553503931238,51295290,google_electra-large-generator
-A mirror is a type of,furniture.,mirror,furniture,41,0.0009975410220773866,51295290,google_electra-large-generator
-A television is a type of,furniture.,television,furniture,42,0.0007999049219382051,51295290,google_electra-large-generator
-A bar is a type of,furniture.,bar,furniture,43,0.0004902809146984388,51295290,google_electra-large-generator
-A shelf is a type of,furniture.,shelf,furniture,44,0.0692265336499347,51295290,google_electra-large-generator
-A rug is a type of,furniture.,rug,furniture,45,0.037624283818432275,51295290,google_electra-large-generator
-A pillow is a type of,furniture.,pillow,furniture,46,0.0018423772266144983,51295290,google_electra-large-generator
-A wastebasket is a type of,furniture.,wastebasket,furniture,47,0.0015005099470077256,51295290,google_electra-large-generator
-A radio is a type of,furniture.,radio,furniture,48,0.000167638322070772,51295290,google_electra-large-generator
-A sewing machine is a type of,furniture.,sewing machine,furniture,49,0.000491785046683833,51295290,google_electra-large-generator
-A stove is a type of,furniture.,stove,furniture,50,0.005752135789352774,51295290,google_electra-large-generator
-A counter is a type of,furniture.,counter,furniture,51,0.00041604085368239014,51295290,google_electra-large-generator
-A clock is a type of,furniture.,clock,furniture,52,0.00012735591219255888,51295290,google_electra-large-generator
-A drape is a type of,furniture.,drape,furniture,53,0.002424240925428563,51295290,google_electra-large-generator
-A refrigerator is a type of,furniture.,refrigerator,furniture,54,0.005042861649477171,51295290,google_electra-large-generator
-A picture is a type of,furniture.,picture,furniture,55,0.00038044302919255213,51295290,google_electra-large-generator
-A closet is a type of,furniture.,closet,furniture,56,0.010604049956360977,51295290,google_electra-large-generator
-A vase is a type of,furniture.,vase,furniture,57,0.0072436956872681466,51295290,google_electra-large-generator
-An ashtray is a type of,furniture.,ashtray,furniture,58,0.003609157441569677,51295290,google_electra-large-generator
-A fan is a type of,furniture.,fan,furniture,59,0.0017788417452025112,51295290,google_electra-large-generator
-A telephone is a type of,furniture.,telephone,furniture,60,6.319147928495288e-05,51295290,google_electra-large-generator
-Pea is a,vegetable.,pea,vegetable,1,0.05274071433364873,51295290,google_electra-large-generator
-Carrot is a,vegetable.,carrot,vegetable,2,0.1795450683753283,51295290,google_electra-large-generator
-Green bean is a,vegetable.,green bean,vegetable,3,0.052491677836841624,51295290,google_electra-large-generator
-String bean is a,vegetable.,string bean,vegetable,4,0.02584828815653583,51295290,google_electra-large-generator
-Spinach is a,vegetable.,spinach,vegetable,5,0.05119264622443895,51295290,google_electra-large-generator
-Broccoli is a,vegetable.,broccoli,vegetable,6,0.10395047706133605,51295290,google_electra-large-generator
-Asparagus is a,vegetable.,asparagus,vegetable,7,0.1481727961946563,51295290,google_electra-large-generator
-Corn is a,vegetable.,corn,vegetable,8,0.04251144808755015,51295290,google_electra-large-generator
-Cauliflower is a,vegetable.,cauliflower,vegetable,9,0.09901473034427496,51295290,google_electra-large-generator
-Brussels sprouts are,vegetables.,brussels sprouts,vegetable,10,0.00020662601963168282,51295290,google_electra-large-generator
-Squash is a,vegetable.,squash,vegetable,11,0.015989908082163697,51295290,google_electra-large-generator
-Lettuce is a,vegetable.,lettuce,vegetable,12,0.06671878610915492,51295290,google_electra-large-generator
-Celery is a,vegetable.,celery,vegetable,13,0.03479348909847182,51295290,google_electra-large-generator
-Cucumber is a,vegetable.,cucumber,vegetable,14,0.08751888431414849,51295290,google_electra-large-generator
-Beet is a,vegetable.,beet,vegetable,15,0.017415942394142604,51295290,google_electra-large-generator
-Green is a,vegetable.,green,vegetable,16,0.0033150648044242724,51295290,google_electra-large-generator
-Tomato is a,vegetable.,tomato,vegetable,17,0.0727884311038012,51295290,google_electra-large-generator
-Lima bean is a,vegetable.,lima bean,vegetable,18,0.043037999489025446,51295290,google_electra-large-generator
-Artichoke is a,vegetable.,artichoke,vegetable,19,0.0058489627784976085,51295290,google_electra-large-generator
-Turnip is a,vegetable.,turnip,vegetable,20,8.814247754276051e-06,51295290,google_electra-large-generator
-Eggplant is a,vegetable.,eggplant,vegetable,21,0.04892491747564893,51295290,google_electra-large-generator
-Romaine is a,vegetable.,romaine,vegetable,22,0.0025501030385167087,51295290,google_electra-large-generator
-Green pepper is a,vegetable.,green pepper,vegetable,23,0.010007469418611106,51295290,google_electra-large-generator
-Okra is a,vegetable.,okra,vegetable,24,0.00013507487276531472,51295290,google_electra-large-generator
-Radish is a,vegetable.,radish,vegetable,25,0.010465467378212268,51295290,google_electra-large-generator
-Onion is a,vegetable.,onion,vegetable,26,0.06638152227468985,51295290,google_electra-large-generator
-Bean is a,vegetable.,bean,vegetable,27,0.02655512787431193,51295290,google_electra-large-generator
-Green onion is a,vegetable.,green onion,vegetable,28,0.06383008504946819,51295290,google_electra-large-generator
-Potato is a,vegetable.,potato,vegetable,29,0.08920462120816679,51295290,google_electra-large-generator
-Parsnip is a,vegetable.,parsnip,vegetable,30,0.0023026838984022977,51295290,google_electra-large-generator
-Turnip green is a,vegetable.,turnip green,vegetable,31,0.0031223128568180453,51295290,google_electra-large-generator
-Collard is a,vegetable.,collard,vegetable,32,0.00044027468403945555,51295290,google_electra-large-generator
-Wax bean is a,vegetable.,wax bean,vegetable,33,0.03751972769465529,51295290,google_electra-large-generator
-Watercress is a,vegetable.,watercress,vegetable,34,0.007271914943663243,51295290,google_electra-large-generator
-Black eyed pea is a,vegetable.,black eyed pea,vegetable,35,0.00792172566640991,51295290,google_electra-large-generator
-Leek is a,vegetable.,leek,vegetable,36,0.00020133276880770926,51295290,google_electra-large-generator
-Pepper is a,vegetable.,pepper,vegetable,37,0.02627913733535614,51295290,google_electra-large-generator
-Sweet potato is a,vegetable.,sweet potato,vegetable,38,0.03510331711999962,51295290,google_electra-large-generator
-Yam is a,vegetable.,yam,vegetable,39,0.0007802961280209916,51295290,google_electra-large-generator
-Parsley is a,vegetable.,parsley,vegetable,40,0.0645071509011537,51295290,google_electra-large-generator
-Endive is a,vegetable.,endive,vegetable,41,4.874762943644515e-05,51295290,google_electra-large-generator
-Rutabaga is a,vegetable.,rutabaga,vegetable,42,0.005707900306441344,51295290,google_electra-large-generator
-Mushroom is a,vegetable.,mushroom,vegetable,43,0.03331601102542968,51295290,google_electra-large-generator
-Avocado is a,vegetable.,avocado,vegetable,44,0.013147446654650735,51295290,google_electra-large-generator
-Rhubarb is a,vegetable.,rhubarb,vegetable,45,0.015499487525392236,51295290,google_electra-large-generator
-Kale is a,vegetable.,kale,vegetable,46,0.0014382986495155023,51295290,google_electra-large-generator
-Escarole is a,vegetable.,escarole,vegetable,47,0.0008944496980338608,51295290,google_electra-large-generator
-Sauerkraut is a,vegetable.,sauerkraut,vegetable,48,0.0067249986038769825,51295290,google_electra-large-generator
-Pickle is a,vegetable.,pickle,vegetable,49,0.009052418149205604,51295290,google_electra-large-generator
-Baked bean is a,vegetable.,baked bean,vegetable,50,0.005700588958731098,51295290,google_electra-large-generator
-Pumpkin is a,vegetable.,pumpkin,vegetable,51,0.036897373611420634,51295290,google_electra-large-generator
-Seaweed is a,vegetable.,seaweed,vegetable,52,0.019110385543986322,51295290,google_electra-large-generator
-Garlic is a,vegetable.,garlic,vegetable,53,0.03362903475222519,51295290,google_electra-large-generator
-Dandelion is a,vegetable.,dandelion,vegetable,54,0.04297553449401,51295290,google_electra-large-generator
-Peanut is a,vegetable.,peanut,vegetable,55,0.06091243674677449,51295290,google_electra-large-generator
-Rice is a,vegetable.,rice,vegetable,56,0.02873954034831645,51295290,google_electra-large-generator
-A saw is a,tool.,saw,tool,1,0.11003918862251207,51295290,google_electra-large-generator
-A hammer is a,tool.,hammer,tool,2,0.10139566914974164,51295290,google_electra-large-generator
-A ruler is a,tool.,ruler,tool,3,0.07766968733092684,51295290,google_electra-large-generator
-A screwdriver is a,tool.,screwdriver,tool,4,0.11438631972871008,51295290,google_electra-large-generator
-A drill is a,tool.,drill,tool,5,0.11946702926886879,51295290,google_electra-large-generator
-A nail is a,tool.,nail,tool,6,0.038742641504782356,51295290,google_electra-large-generator
-A tape measure is a,tool.,tape measure,tool,7,0.1298974607852754,51295290,google_electra-large-generator
-A sawhorse is a,tool.,sawhorse,tool,8,0.06125385920753274,51295290,google_electra-large-generator
-A sandpaper is a,tool.,sandpaper,tool,9,0.02519673733059521,51295290,google_electra-large-generator
-A sander is a,tool.,sander,tool,10,0.14009279046773646,51295290,google_electra-large-generator
-A level is a,tool.,level,tool,11,0.00943877065138963,51295290,google_electra-large-generator
-A plane is a,tool.,plane,tool,12,0.01022297659100141,51295290,google_electra-large-generator
-A file is a,tool.,file,tool,13,0.021208898880162693,51295290,google_electra-large-generator
-A toolbox is a,tool.,toolbox,tool,14,0.39499031120817285,51295290,google_electra-large-generator
-A t-square is a,tool.,T-square,tool,15,0.0047380078364615405,51295290,google_electra-large-generator
-A chisel is a,tool.,chisel,tool,16,0.053713477080604165,51295290,google_electra-large-generator
-A rasp is a,tool.,rasp,tool,17,0.014663945691388099,51295290,google_electra-large-generator
-A pencil is a,tool.,pencil,tool,18,0.07965592689798504,51295290,google_electra-large-generator
-A hacksaw is a,tool.,hacksaw,tool,19,0.034153533483327204,51295290,google_electra-large-generator
-A square is a,tool.,square,tool,20,0.002336769847872219,51295290,google_electra-large-generator
-A bench is a,tool.,bench,tool,21,0.018217301738272438,51295290,google_electra-large-generator
-A plier is a,tool.,plier,tool,22,0.07315929299064178,51295290,google_electra-large-generator
-A wrench is a,tool.,wrench,tool,23,0.09422092399631214,51295290,google_electra-large-generator
-A ladder is a,tool.,ladder,tool,24,0.011246089681533164,51295290,google_electra-large-generator
-A lathe is a,tool.,lathe,tool,25,0.015024624296815198,51295290,google_electra-large-generator
-A vise is a,tool.,vise,tool,26,0.017936733088657158,51295290,google_electra-large-generator
-A screw is a,tool.,screw,tool,27,0.07776641092656705,51295290,google_electra-large-generator
-A wood is a,tool.,wood,tool,28,0.03951246121438969,51295290,google_electra-large-generator
-A wedge is a,tool.,wedge,tool,29,0.020939549867529002,51295290,google_electra-large-generator
-A lumber is a,tool.,lumber,tool,30,0.04076664361573444,51295290,google_electra-large-generator
-A blueprint is a,tool.,blueprint,tool,31,0.024131794255140494,51295290,google_electra-large-generator
-A brace is a,tool.,brace,tool,32,0.044024931026777174,51295290,google_electra-large-generator
-An awl is a,tool.,awl,tool,33,0.028209428247111146,51295290,google_electra-large-generator
-A crowbar is a,tool.,crowbar,tool,34,0.019432074941000604,51295290,google_electra-large-generator
-A hinge is a,tool.,hinge,tool,35,0.024918961130628515,51295290,google_electra-large-generator
-A miter box is a,tool.,miter box,tool,36,0.01960272004476896,51295290,google_electra-large-generator
-A knife is a,tool.,knife,tool,37,0.14033722956742747,51295290,google_electra-large-generator
-A chalk is a,tool.,chalk,tool,38,0.0162078881458951,51295290,google_electra-large-generator
-A nut is a,tool.,nut,tool,39,0.04922388130254813,51295290,google_electra-large-generator
-A bolt is a,tool.,bolt,tool,40,0.045380346564331576,51295290,google_electra-large-generator
-A plumb line is a,tool.,plumb line,tool,41,0.007660994276813873,51295290,google_electra-large-generator
-A brush is a,tool.,brush,tool,42,0.19727463103297074,51295290,google_electra-large-generator
-A sledge hammer is a,tool.,sledge hammer,tool,43,0.07933682765987328,51295290,google_electra-large-generator
-A glue is a,tool.,glue,tool,44,0.03923571842478705,51295290,google_electra-large-generator
-A paintbrush is a,tool.,paintbrush,tool,45,0.20305385133311257,51295290,google_electra-large-generator
-A varnish is a,tool.,varnish,tool,46,0.01284275165439224,51295290,google_electra-large-generator
-An apron is a,tool.,apron,tool,47,0.016154248407980264,51295290,google_electra-large-generator
-A stapler is a,tool.,stapler,tool,48,0.11876703514335923,51295290,google_electra-large-generator
-An extension cord is a,tool.,extension cord,tool,49,0.021344177775695864,51295290,google_electra-large-generator
-A soldering iron is a,tool.,soldering iron,tool,50,0.07288136960654427,51295290,google_electra-large-generator
-A plaster is a,tool.,plaster,tool,51,0.006064455972810784,51295290,google_electra-large-generator
-A wheelbarrow is a,tool.,wheelbarrow,tool,52,0.021656907126719457,51295290,google_electra-large-generator
-An axe is a,tool.,axe,tool,53,0.08916923821039416,51295290,google_electra-large-generator
-A slide rule is a,tool.,slide rule,tool,54,0.02351198249687911,51295290,google_electra-large-generator
-A cement is a,tool.,cement,tool,55,0.020689242429376788,51295290,google_electra-large-generator
-An anvil is a,tool.,anvil,tool,56,0.016799827161983343,51295290,google_electra-large-generator
-A hatchet is a,tool.,hatchet,tool,57,0.018456438572765903,51295290,google_electra-large-generator
-A rag is a,tool.,rag,tool,58,0.030484972217603004,51295290,google_electra-large-generator
-A scissor is a,tool.,scissor,tool,59,0.02930615340163378,51295290,google_electra-large-generator
-A crane is a,tool.,crane,tool,60,0.03181450181533273,51295290,google_electra-large-generator
-An automobile is a,vehicle.,automobile,vehicle,1,0.05186123459071718,51295290,google_electra-large-generator
-A station wagon is a,vehicle.,station wagon,vehicle,2,0.03660932821291007,51295290,google_electra-large-generator
-A truck is a,vehicle.,truck,vehicle,3,0.03340678175180445,51295290,google_electra-large-generator
-A car is a,vehicle.,car,vehicle,4,0.029055166587149527,51295290,google_electra-large-generator
-A bus is a,vehicle.,bus,vehicle,5,0.014865394953313363,51295290,google_electra-large-generator
-A taxi is a,vehicle.,taxi,vehicle,6,0.0065554083572851455,51295290,google_electra-large-generator
-A jeep is a,vehicle.,jeep,vehicle,7,0.04705130639017529,51295290,google_electra-large-generator
-An ambulance is a,vehicle.,ambulance,vehicle,8,0.004861629139513901,51295290,google_electra-large-generator
-A motorcycle is a,vehicle.,motorcycle,vehicle,9,0.020473552857295175,51295290,google_electra-large-generator
-A streetcar is a,vehicle.,streetcar,vehicle,10,0.007288425179436811,51295290,google_electra-large-generator
-A van is a,vehicle.,van,vehicle,11,0.021722643948747823,51295290,google_electra-large-generator
-A honda is a,vehicle.,Honda,vehicle,12,0.006377681084266163,51295290,google_electra-large-generator
-A cable car is a,vehicle.,cable car,vehicle,13,0.010478999897175595,51295290,google_electra-large-generator
-A train is a,vehicle.,train,vehicle,14,0.010517806587997244,51295290,google_electra-large-generator
-A trolley is a,vehicle.,trolley,vehicle,15,0.008863725508526345,51295290,google_electra-large-generator
-A bicycle is a,vehicle.,bicycle,vehicle,16,0.01291110417484118,51295290,google_electra-large-generator
-A carriage is a,vehicle.,carriage,vehicle,17,0.045342753500288595,51295290,google_electra-large-generator
-An airplane is a,vehicle.,airplane,vehicle,18,0.01437844059258447,51295290,google_electra-large-generator
-A bike is a,vehicle.,bike,vehicle,19,0.009395930947021179,51295290,google_electra-large-generator
-A boat is a,vehicle.,boat,vehicle,20,0.007178351185945071,51295290,google_electra-large-generator
-A jet is a,vehicle.,jet,vehicle,21,0.014197691966253912,51295290,google_electra-large-generator
-A ship is a,vehicle.,ship,vehicle,22,0.005318668912758028,51295290,google_electra-large-generator
-A scooter is a,vehicle.,scooter,vehicle,23,0.007068948527038575,51295290,google_electra-large-generator
-A tractor is a,vehicle.,tractor,vehicle,24,0.013417923350681912,51295290,google_electra-large-generator
-A wagon is a,vehicle.,wagon,vehicle,25,0.0357755667246686,51295290,google_electra-large-generator
-A subway is a,vehicle.,subway,vehicle,26,0.0015162484601348306,51295290,google_electra-large-generator
-A trailer is a,vehicle.,trailer,vehicle,27,0.014619277037493555,51295290,google_electra-large-generator
-A cart is a,vehicle.,cart,vehicle,28,0.020174140033231612,51295290,google_electra-large-generator
-A wheelchair is a,vehicle.,wheelchair,vehicle,29,0.002597779344641668,51295290,google_electra-large-generator
-A yacht is a,vehicle.,yacht,vehicle,30,0.0036905484174765196,51295290,google_electra-large-generator
-A tank is a,vehicle.,tank,vehicle,31,0.0067206196380535455,51295290,google_electra-large-generator
-A go-cart is a,vehicle.,go-cart,vehicle,32,0.004025495963947353,51295290,google_electra-large-generator
-A rowboat is a,vehicle.,rowboat,vehicle,33,0.0028508340981595656,51295290,google_electra-large-generator
-A dogsled is a,vehicle.,dogsled,vehicle,34,0.0009398865720320346,51295290,google_electra-large-generator
-A tricycle is a,vehicle.,tricycle,vehicle,35,0.04347336767459011,51295290,google_electra-large-generator
-A canoe is a,vehicle.,canoe,vehicle,36,0.005102996316751161,51295290,google_electra-large-generator
-A raft is a,vehicle.,raft,vehicle,37,0.002537265486878865,51295290,google_electra-large-generator
-A submarine is a,vehicle.,submarine,vehicle,38,0.0037369690891337565,51295290,google_electra-large-generator
-A sled is a,vehicle.,sled,vehicle,39,0.00292628223921958,51295290,google_electra-large-generator
-A horse is a,vehicle.,horse,vehicle,40,0.0011999558159500104,51295290,google_electra-large-generator
-A rocket is a,vehicle.,rocket,vehicle,41,0.008940940906279405,51295290,google_electra-large-generator
-A blimp is a,vehicle.,blimp,vehicle,42,0.00010819240087041601,51295290,google_electra-large-generator
-A skate is a,vehicle.,skate,vehicle,43,0.0008331389718654939,51295290,google_electra-large-generator
-A camel is a,vehicle.,camel,vehicle,44,0.0015379081729529791,51295290,google_electra-large-generator
-Feet are,vehicles.,feet,vehicle,45,7.407632092879939e-06,51295290,google_electra-large-generator
-A ski is a,vehicle.,ski,vehicle,46,0.0025490623687111852,51295290,google_electra-large-generator
-A skateboard is a,vehicle.,skateboard,vehicle,47,0.0008525514875725127,51295290,google_electra-large-generator
-A wheelbarrow is a,vehicle.,wheelbarrow,vehicle,48,0.008235186285374433,51295290,google_electra-large-generator
-A surfboard is a,vehicle.,surfboard,vehicle,49,0.0011780805378219675,51295290,google_electra-large-generator
-An elevator is a,vehicle.,elevator,vehicle,50,0.005037804858039837,51295290,google_electra-large-generator
-A robin is a,bird.,robin,bird,1,0.03822326807882174,51295290,google_electra-large-generator
-A sparrow is a,bird.,sparrow,bird,2,0.18603918019125115,51295290,google_electra-large-generator
-A bluejay is a,bird.,bluejay,bird,3,0.0012885585719022198,51295290,google_electra-large-generator
-A bluebird is a,bird.,bluebird,bird,4,0.14441016007087532,51295290,google_electra-large-generator
-A canary is a,bird.,canary,bird,5,0.040557241526986296,51295290,google_electra-large-generator
-A blackbird is a,bird.,blackbird,bird,6,0.16764577238209152,51295290,google_electra-large-generator
-A dove is a,bird.,dove,bird,7,0.05896402817208668,51295290,google_electra-large-generator
-A lark is a,bird.,lark,bird,8,0.012817607067687972,51295290,google_electra-large-generator
-A swallow is a,bird.,swallow,bird,9,0.0004438075762398929,51295290,google_electra-large-generator
-A parakeet is a,bird.,parakeet,bird,10,0.012210681894510836,51295290,google_electra-large-generator
-An oriole is a,bird.,oriole,bird,11,0.002055514378544528,51295290,google_electra-large-generator
-A mockingbird is a,bird.,mockingbird,bird,12,0.17894028627965824,51295290,google_electra-large-generator
-A redbird is a,bird.,redbird,bird,13,0.10525779225980945,51295290,google_electra-large-generator
-A wren is a,bird.,wren,bird,14,0.01915443157771903,51295290,google_electra-large-generator
-A finch is a,bird.,finch,bird,15,0.07559616102174295,51295290,google_electra-large-generator
-A starling is a,bird.,starling,bird,16,0.013432314135920729,51295290,google_electra-large-generator
-A cardinal is a,bird.,cardinal,bird,17,0.0037094475206754236,51295290,google_electra-large-generator
-An eagle is a,bird.,eagle,bird,18,0.14203752851981816,51295290,google_electra-large-generator
-A hummingbird is a,bird.,hummingbird,bird,19,0.15832365382345376,51295290,google_electra-large-generator
-A seagull is a,bird.,seagull,bird,20,0.019616802142269622,51295290,google_electra-large-generator
-A woodpecker is a,bird.,woodpecker,bird,21,0.01039359514895655,51295290,google_electra-large-generator
-A pigeon is a,bird.,pigeon,bird,22,0.05585573557135758,51295290,google_electra-large-generator
-A thrush is a,bird.,thrush,bird,23,0.0016140934987075087,51295290,google_electra-large-generator
-A falcon is a,bird.,falcon,bird,24,0.06139316483995658,51295290,google_electra-large-generator
-A crow is a,bird.,crow,bird,25,0.047849309066019606,51295290,google_electra-large-generator
-A hawk is a,bird.,hawk,bird,26,0.09889931245996797,51295290,google_electra-large-generator
-A raven is a,bird.,raven,bird,27,0.031151791779107863,51295290,google_electra-large-generator
-A goldfinch is a,bird.,goldfinch,bird,28,0.0014730782780732954,51295290,google_electra-large-generator
-A parrot is a,bird.,parrot,bird,29,0.07698849284800807,51295290,google_electra-large-generator
-A sandpiper is a,bird.,sandpiper,bird,30,0.006066104498865713,51295290,google_electra-large-generator
-A pheasant is a,bird.,pheasant,bird,31,0.001467284914030989,51295290,google_electra-large-generator
-A catbird is a,bird.,catbird,bird,32,0.15751912060327486,51295290,google_electra-large-generator
-A crane is a,bird.,crane,bird,33,0.007378707440178734,51295290,google_electra-large-generator
-An albatross is a,bird.,albatross,bird,34,0.0042011545571426735,51295290,google_electra-large-generator
-A condor is a,bird.,condor,bird,35,0.11009891656725777,51295290,google_electra-large-generator
-A toucan is a,bird.,toucan,bird,36,0.0023242103693704177,51295290,google_electra-large-generator
-An owl is a,bird.,owl,bird,37,0.09993397666104975,51295290,google_electra-large-generator
-A pelican is a,bird.,pelican,bird,38,0.005983100448483816,51295290,google_electra-large-generator
-A goose is a,bird.,goose,bird,39,0.03442688547987808,51295290,google_electra-large-generator
-A vulture is a,bird.,vulture,bird,40,0.05613063442215762,51295290,google_electra-large-generator
-A stork is a,bird.,stork,bird,41,0.0012593118890912294,51295290,google_electra-large-generator
-A buzzard is a,bird.,buzzard,bird,42,0.004357225568552796,51295290,google_electra-large-generator
-A swan is a,bird.,swan,bird,43,8.50348083859156e-05,51295290,google_electra-large-generator
-A flamingo is a,bird.,flamingo,bird,44,0.004034981804720663,51295290,google_electra-large-generator
-A duck is a,bird.,duck,bird,45,0.0405875380240624,51295290,google_electra-large-generator
-A peacock is a,bird.,peacock,bird,46,0.06490671761638497,51295290,google_electra-large-generator
-An egret is a,bird.,egret,bird,47,0.001108229344886294,51295290,google_electra-large-generator
-A chicken is a,bird.,chicken,bird,48,0.010803733582579791,51295290,google_electra-large-generator
-A turkey is a,bird.,turkey,bird,49,0.01827798353074936,51295290,google_electra-large-generator
-An ostrich is a,bird.,ostrich,bird,50,0.010016931861100314,51295290,google_electra-large-generator
-A titmouse is a,bird.,titmouse,bird,51,0.008648651156842184,51295290,google_electra-large-generator
-An emu is a,bird.,emu,bird,52,7.79670896984836e-05,51295290,google_electra-large-generator
-A penguin is a,bird.,penguin,bird,53,0.017434454804701266,51295290,google_electra-large-generator
-A bat is a,bird.,bat,bird,54,0.01628094774854116,51295290,google_electra-large-generator
-Football is a,sport.,football,sport,1,0.37094512955045816,51295290,google_electra-large-generator
-Baseball is a,sport.,baseball,sport,2,0.39488560468078193,51295290,google_electra-large-generator
-Basketball is a,sport.,basketball,sport,3,0.4794292618840072,51295290,google_electra-large-generator
-Tennis is a,sport.,tennis,sport,4,0.4002634803190002,51295290,google_electra-large-generator
-Softball is a,sport.,softball,sport,5,0.40921498179251364,51295290,google_electra-large-generator
-Canoeing is a,sport.,canoeing,sport,6,0.2221894734254575,51295290,google_electra-large-generator
-Handball is a,sport.,handball,sport,7,0.5676318213184149,51295290,google_electra-large-generator
-Rugby is a,sport.,rugby,sport,8,0.5265138800756611,51295290,google_electra-large-generator
-Hockey is a,sport.,hockey,sport,9,0.6139143962927731,51295290,google_electra-large-generator
-Ice hockey is a,sport.,ice hockey,sport,10,0.4965517754133134,51295290,google_electra-large-generator
-Swimming is a,sport.,swimming,sport,11,0.3409162376582411,51295290,google_electra-large-generator
-Track is a,sport.,track,sport,12,0.00019554937613157735,51295290,google_electra-large-generator
-Boxing is a,sport.,boxing,sport,13,0.5752141642874027,51295290,google_electra-large-generator
-Volleyball is a,sport.,volleyball,sport,14,0.4093968823521359,51295290,google_electra-large-generator
-Lacrosse is a,sport.,lacrosse,sport,15,0.5538590161903196,51295290,google_electra-large-generator
-Skiing is a,sport.,skiing,sport,16,0.34427822306478606,51295290,google_electra-large-generator
-Golf is a,sport.,golf,sport,17,0.49500568325493777,51295290,google_electra-large-generator
-Polo is a,sport.,polo,sport,18,0.4283467750682348,51295290,google_electra-large-generator
-Surfing is a,sport.,surfing,sport,19,0.3542771163485454,51295290,google_electra-large-generator
-Wrestling is a,sport.,wrestling,sport,20,0.42010105930816805,51295290,google_electra-large-generator
-Gymnastics is a,sport.,gymnastics,sport,21,0.3290838932906627,51295290,google_electra-large-generator
-Cricket is a,sport.,cricket,sport,22,0.5360143831385694,51295290,google_electra-large-generator
-Squash is a,sport.,squash,sport,23,0.05109880052878306,51295290,google_electra-large-generator
-Badminton is a,sport.,badminton,sport,24,0.530256889859136,51295290,google_electra-large-generator
-Racing is a,sport.,racing,sport,25,0.3725795572338567,51295290,google_electra-large-generator
-Pole vault is a,sport.,pole vault,sport,26,0.01722971045535221,51295290,google_electra-large-generator
-Fencing is a,sport.,fencing,sport,27,0.02583261497052874,51295290,google_electra-large-generator
-Bowling is a,sport.,bowling,sport,28,0.4655419491175785,51295290,google_electra-large-generator
-Water skiing is a,sport.,water skiing,sport,29,0.20420348523111156,51295290,google_electra-large-generator
-Ice skating is a,sport.,ice skating,sport,30,0.3481717338063903,51295290,google_electra-large-generator
-Jai alai is a,sport.,jai alai,sport,31,0.00030499800968325215,51295290,google_electra-large-generator
-Skating is a,sport.,skating,sport,32,0.36566114691893536,51295290,google_electra-large-generator
-Skindiving is a,sport.,skindiving,sport,33,0.013513260394890245,51295290,google_electra-large-generator
-Sailing is a,sport.,sailing,sport,34,0.22409320794301302,51295290,google_electra-large-generator
-Diving is a,sport.,diving,sport,35,0.1412720959586558,51295290,google_electra-large-generator
-Archery is a,sport.,archery,sport,36,0.4070400215778607,51295290,google_electra-large-generator
-Judo is a,sport.,judo,sport,37,0.5109224818078821,51295290,google_electra-large-generator
-Car racing is a,sport.,car racing,sport,38,0.3222851724321613,51295290,google_electra-large-generator
-Ping pong is a,sport.,ping pong,sport,39,0.10292525718949193,51295290,google_electra-large-generator
-Rowing is a,sport.,rowing,sport,40,0.5271107399669417,51295290,google_electra-large-generator
-Fishing is a,sport.,fishing,sport,41,0.19040647849975506,51295290,google_electra-large-generator
-Horseback riding is a,sport.,horseback riding,sport,42,0.16427908110563538,51295290,google_electra-large-generator
-Running is a,sport.,running,sport,43,0.2443315221457034,51295290,google_electra-large-generator
-Horse racing is a,sport.,horse racing,sport,44,0.38098314160591884,51295290,google_electra-large-generator
-Hiking is a,sport.,hiking,sport,45,0.07170048830944338,51295290,google_electra-large-generator
-Weight lifting is a,sport.,weight lifting,sport,46,0.032188323883132405,51295290,google_electra-large-generator
-Croquet is a,sport.,croquet,sport,47,0.10385247886751031,51295290,google_electra-large-generator
-Horseshoes is a,sport.,horseshoes,sport,48,0.116990750789478,51295290,google_electra-large-generator
-Boating is a,sport.,boating,sport,49,0.2377157040570638,51295290,google_electra-large-generator
-Pool is a,sport.,pool,sport,50,0.003532457446127275,51295290,google_electra-large-generator
-Billiards is a,sport.,billiards,sport,51,0.08831262055719125,51295290,google_electra-large-generator
-Hunting is a,sport.,hunting,sport,52,0.2519067142253245,51295290,google_electra-large-generator
-Jump rope is a,sport.,jump rope,sport,53,0.02931834149262844,51295290,google_electra-large-generator
-Camping is a,sport.,camping,sport,54,0.051916311379533835,51295290,google_electra-large-generator
-Chess is a,sport.,chess,sport,55,0.19235902645693556,51295290,google_electra-large-generator
-Dancing is a,sport.,dancing,sport,56,0.12538330720884583,51295290,google_electra-large-generator
-Checkers is a,sport.,checkers,sport,57,0.00368545558105235,51295290,google_electra-large-generator
-Cards is a,sport.,cards,sport,58,0.0041765984447473346,51295290,google_electra-large-generator
-Sunbathing is a,sport.,sunbathing,sport,59,0.02262546758374576,51295290,google_electra-large-generator
+A gun is a,weapon.,gun,weapon,1,-1.326467514038086,51295290,google_electra-large-generator
+A pistol is a,weapon.,pistol,weapon,2,-1.3860759735107422,51295290,google_electra-large-generator
+A revolver is a,weapon.,revolver,weapon,3,-1.5516910552978516,51295290,google_electra-large-generator
+A machine gun is a,weapon.,machine gun,weapon,4,-0.9535903930664062,51295290,google_electra-large-generator
+A rifle is a,weapon.,rifle,weapon,5,-1.4266901016235352,51295290,google_electra-large-generator
+A switchblade is a,weapon.,switchblade,weapon,6,-4.348145484924316,51295290,google_electra-large-generator
+A knife is a,weapon.,knife,weapon,7,-2.168881416320801,51295290,google_electra-large-generator
+A dagger is a,weapon.,dagger,weapon,8,-1.6383590698242188,51295290,google_electra-large-generator
+A shotgun is a,weapon.,shotgun,weapon,9,-1.9734134674072266,51295290,google_electra-large-generator
+A sword is a,weapon.,sword,weapon,10,-1.5043067932128906,51295290,google_electra-large-generator
+A bomb is a,weapon.,bomb,weapon,11,-2.024073600769043,51295290,google_electra-large-generator
+A hand grenade is a,weapon.,hand grenade,weapon,12,-1.9686527252197266,51295290,google_electra-large-generator
+An atom bomb is a,weapon.,Atom bomb,weapon,13,-2.6243972778320312,51295290,google_electra-large-generator
+A bayonet is a,weapon.,bayonet,weapon,14,-4.022029876708984,51295290,google_electra-large-generator
+A spear is a,weapon.,spear,weapon,15,-2.207307815551758,51295290,google_electra-large-generator
+A bazooka is a,weapon.,bazooka,weapon,16,-3.31787109375,51295290,google_electra-large-generator
+A cannon is a,weapon.,cannon,weapon,17,-1.8406982421875,51295290,google_electra-large-generator
+A bow and arrow is a,weapon.,bow and arrow,weapon,18,-1.224802017211914,51295290,google_electra-large-generator
+A club is a,weapon.,club,weapon,19,-6.90567684173584,51295290,google_electra-large-generator
+A lance is a,weapon.,lance,weapon,20,-2.993915557861328,51295290,google_electra-large-generator
+A brass knuckle is a,weapon.,brass knuckle,weapon,21,-4.376584053039551,51295290,google_electra-large-generator
+A bullet is a,weapon.,bullet,weapon,22,-2.926266670227051,51295290,google_electra-large-generator
+A tomahawk is a,weapon.,tomahawk,weapon,23,-4.034809112548828,51295290,google_electra-large-generator
+A mortar is a,weapon.,mortar,weapon,24,-4.237839698791504,51295290,google_electra-large-generator
+An arrow is a,weapon.,arrow,weapon,25,-4.458887100219727,51295290,google_electra-large-generator
+A blackjack is a,weapon.,blackjack,weapon,26,-3.806471824645996,51295290,google_electra-large-generator
+A tank is a,weapon.,tank,weapon,27,-4.738243103027344,51295290,google_electra-large-generator
+Teargas is a,weapon.,teargas,weapon,28,-6.123115539550781,51295290,google_electra-large-generator
+A missile is a,weapon.,missile,weapon,29,-1.1648311614990234,51295290,google_electra-large-generator
+A whip is a,weapon.,whip,weapon,30,-3.130253791809082,51295290,google_electra-large-generator
+An ice pick is a,weapon.,ice pick,weapon,31,-5.14688777923584,51295290,google_electra-large-generator
+A hatchet is a,weapon.,hatchet,weapon,32,-4.788804054260254,51295290,google_electra-large-generator
+A slingshot is a,weapon.,slingshot,weapon,33,-2.9309511184692383,51295290,google_electra-large-generator
+A fist is a,weapon.,fist,weapon,34,-4.222809791564941,51295290,google_electra-large-generator
+An axe is a,weapon.,axe,weapon,35,-1.8167953491210938,51295290,google_electra-large-generator
+A bow is a,weapon.,bow,weapon,36,-4.008550643920898,51295290,google_electra-large-generator
+A razor is a,weapon.,razor,weapon,37,-3.7296037673950195,51295290,google_electra-large-generator
+A razor blade is a,weapon.,razor blade,weapon,38,-2.909870147705078,51295290,google_electra-large-generator
+A rocket is a,weapon.,rocket,weapon,39,-2.949026107788086,51295290,google_electra-large-generator
+A judo is a,weapon.,judo,weapon,40,-4.166088104248047,51295290,google_electra-large-generator
+A stick is a,weapon.,stick,weapon,41,-4.256527900695801,51295290,google_electra-large-generator
+A poison is a,weapon.,poison,weapon,42,-3.9526891708374023,51295290,google_electra-large-generator
+A rock is a,weapon.,rock,weapon,43,-6.233965873718262,51295290,google_electra-large-generator
+A stone is a,weapon.,stone,weapon,44,-5.761033058166504,51295290,google_electra-large-generator
+Gas is a,weapon.,gas,weapon,45,-5.781804084777832,51295290,google_electra-large-generator
+A chain is a,weapon.,chain,weapon,46,-5.712014198303223,51295290,google_electra-large-generator
+A scissor is a,weapon.,scissor,weapon,47,-2.253626823425293,51295290,google_electra-large-generator
+A brick is a,weapon.,brick,weapon,48,-8.1829195022583,51295290,google_electra-large-generator
+A pitchfork is a,weapon.,pitchfork,weapon,49,-3.314000129699707,51295290,google_electra-large-generator
+A hammer is a,weapon.,hammer,weapon,50,-3.165987014770508,51295290,google_electra-large-generator
+A word is a,weapon.,word,weapon,51,-6.632114410400391,51295290,google_electra-large-generator
+A hand is a,weapon.,hand,weapon,52,-4.410778999328613,51295290,google_electra-large-generator
+A pipe is a,weapon.,pipe,weapon,53,-6.270535469055176,51295290,google_electra-large-generator
+A rope is a,weapon.,rope,weapon,54,-4.374131202697754,51295290,google_electra-large-generator
+An airplane is a,weapon.,airplane,weapon,55,-4.315103530883789,51295290,google_electra-large-generator
+A foot is a,weapon.,foot,weapon,56,-6.034470558166504,51295290,google_electra-large-generator
+A car is a,weapon.,car,weapon,57,-4.505631446838379,51295290,google_electra-large-generator
+A screwdriver is a,weapon.,screwdriver,weapon,58,-4.423473358154297,51295290,google_electra-large-generator
+Glass is a,weapon.,glass,weapon,59,-4.645560264587402,51295290,google_electra-large-generator
+A shoe is a,weapon.,shoe,weapon,60,-4.839879035949707,51295290,google_electra-large-generator
+Orange is a,fruit.,orange,fruit,1,-5.222443580627441,51295290,google_electra-large-generator
+Apple is a,fruit.,apple,fruit,2,-9.466049194335938,51295290,google_electra-large-generator
+Banana is a,fruit.,banana,fruit,3,-4.660983085632324,51295290,google_electra-large-generator
+Peach is a,fruit.,peach,fruit,4,-4.156985282897949,51295290,google_electra-large-generator
+Pear is a,fruit.,pear,fruit,5,-2.8166065216064453,51295290,google_electra-large-generator
+Apricot is a,fruit.,apricot,fruit,6,-5.522902488708496,51295290,google_electra-large-generator
+Tangerine is a,fruit.,tangerine,fruit,7,-4.97867488861084,51295290,google_electra-large-generator
+Plum is a,fruit.,plum,fruit,8,-5.3414411544799805,51295290,google_electra-large-generator
+Grape is a,fruit.,grape,fruit,9,-4.16658878326416,51295290,google_electra-large-generator
+Nectarine is a,fruit.,nectarine,fruit,10,-4.966965675354004,51295290,google_electra-large-generator
+Strawberry is a,fruit.,strawberry,fruit,11,-5.196934700012207,51295290,google_electra-large-generator
+Grapefruit is a,fruit.,grapefruit,fruit,12,-4.486724853515625,51295290,google_electra-large-generator
+Berry is a,fruit.,berry,fruit,13,-5.019693374633789,51295290,google_electra-large-generator
+Cherry is a,fruit.,cherry,fruit,14,-4.373750686645508,51295290,google_electra-large-generator
+Pineapple is a,fruit.,pineapple,fruit,15,-4.382035255432129,51295290,google_electra-large-generator
+Blackberry is a,fruit.,blackberry,fruit,16,-9.04378604888916,51295290,google_electra-large-generator
+Melon is a,fruit.,melon,fruit,17,-4.138334274291992,51295290,google_electra-large-generator
+Blueberry is a,fruit.,blueberry,fruit,18,-4.698204040527344,51295290,google_electra-large-generator
+Raspberry is a,fruit.,raspberry,fruit,19,-4.997247695922852,51295290,google_electra-large-generator
+Lemon is a,fruit.,lemon,fruit,20,-5.097174644470215,51295290,google_electra-large-generator
+Black raspberry is a,fruit.,black raspberry,fruit,21,-5.554879188537598,51295290,google_electra-large-generator
+Boysenberry is a,fruit.,boysenberry,fruit,22,-8.375946044921875,51295290,google_electra-large-generator
+Watermelon is a,fruit.,watermelon,fruit,23,-4.987485885620117,51295290,google_electra-large-generator
+Cantaloupe is a,fruit.,cantaloupe,fruit,24,-5.52707576751709,51295290,google_electra-large-generator
+Lime is a,fruit.,lime,fruit,25,-4.752288818359375,51295290,google_electra-large-generator
+Tangelo is a,fruit.,tangelo,fruit,26,-10.230573654174805,51295290,google_electra-large-generator
+Papaya is a,fruit.,papaya,fruit,27,-5.944611549377441,51295290,google_electra-large-generator
+Honeydew is a,fruit.,honeydew,fruit,28,-7.281279563903809,51295290,google_electra-large-generator
+Fig is a,fruit.,fig,fruit,29,-11.546965599060059,51295290,google_electra-large-generator
+Mango is a,fruit.,mango,fruit,30,-4.526068687438965,51295290,google_electra-large-generator
+Guava is a,fruit.,guava,fruit,31,-4.830453872680664,51295290,google_electra-large-generator
+Pomegranate is a,fruit.,pomegranate,fruit,32,-4.163364410400391,51295290,google_electra-large-generator
+Cranberry is a,fruit.,cranberry,fruit,33,-4.8302001953125,51295290,google_electra-large-generator
+Passion fruit is a,fruit.,passion fruit,fruit,34,-4.095431327819824,51295290,google_electra-large-generator
+Prune is a,fruit.,prune,fruit,35,-5.262147903442383,51295290,google_electra-large-generator
+Gooseberry is a,fruit.,gooseberry,fruit,36,-5.104564666748047,51295290,google_electra-large-generator
+Date is a,fruit.,date,fruit,37,-11.651100158691406,51295290,google_electra-large-generator
+Kumquat is a,fruit.,kumquat,fruit,38,-8.543545722961426,51295290,google_electra-large-generator
+Raisin is a,fruit.,raisin,fruit,39,-5.294991493225098,51295290,google_electra-large-generator
+Muskmelon is a,fruit.,muskmelon,fruit,40,-6.841833114624023,51295290,google_electra-large-generator
+Persimmon is a,fruit.,persimmon,fruit,41,-6.010154724121094,51295290,google_electra-large-generator
+Pawpaw is a,fruit.,pawpaw,fruit,42,-8.627416610717773,51295290,google_electra-large-generator
+Coconut is a,fruit.,coconut,fruit,43,-4.65922737121582,51295290,google_electra-large-generator
+Avocado is a,fruit.,avocado,fruit,44,-5.609213829040527,51295290,google_electra-large-generator
+Pumpkin is a,fruit.,pumpkin,fruit,45,-5.100557327270508,51295290,google_electra-large-generator
+Tomato is a,fruit.,tomato,fruit,46,-4.867116928100586,51295290,google_electra-large-generator
+Nut is a,fruit.,nut,fruit,47,-5.863856315612793,51295290,google_electra-large-generator
+Gourd is a,fruit.,gourd,fruit,48,-5.985283851623535,51295290,google_electra-large-generator
+Olive is a,fruit.,olive,fruit,49,-5.1270551681518555,51295290,google_electra-large-generator
+Pickle is a,fruit.,pickle,fruit,50,-5.796751976013184,51295290,google_electra-large-generator
+Squash is a,fruit.,squash,fruit,51,-6.523488998413086,51295290,google_electra-large-generator
+A doll is a,toy.,doll,toy,1,-2.974252700805664,51295290,google_electra-large-generator
+A top is a,toy.,top,toy,2,-8.71175479888916,51295290,google_electra-large-generator
+A jack-in-the-box is a,toy.,jack-in-the-box,toy,3,-5.101555824279785,51295290,google_electra-large-generator
+A toy soldier is a,toy.,toy soldier,toy,4,-2.972900390625,51295290,google_electra-large-generator
+A yo-yo is a,toy.,yo-yo,toy,5,-5.091100692749023,51295290,google_electra-large-generator
+A block is a,toy.,block,toy,6,-6.969390869140625,51295290,google_electra-large-generator
+Marbles are,toys.,marbles,toy,7,-9.799234390258789,51295290,google_electra-large-generator
+A rattle is a,toy.,rattle,toy,8,-4.259184837341309,51295290,google_electra-large-generator
+A stuffed animal is a,toy.,stuffed animal,toy,9,-3.603001594543457,51295290,google_electra-large-generator
+A water pistol is a,toy.,water pistol,toy,10,-5.079401969909668,51295290,google_electra-large-generator
+A teddy bear is a,toy.,teddy bear,toy,11,-3.2886486053466797,51295290,google_electra-large-generator
+A rocking horse is a,toy.,rocking horse,toy,12,-5.592128753662109,51295290,google_electra-large-generator
+A doll house is a,toy.,doll house,toy,13,-4.188289642333984,51295290,google_electra-large-generator
+A ball is a,toy.,ball,toy,14,-4.855720520019531,51295290,google_electra-large-generator
+Jacks are,toys.,jacks,toy,15,-7.512143611907959,51295290,google_electra-large-generator
+Paper dolls are,toys.,paper dolls,toy,16,-6.359552383422852,51295290,google_electra-large-generator
+An erector set is a,toy.,erector set,toy,17,-3.853457450866699,51295290,google_electra-large-generator
+A hula hoop is a,toy.,hula hoop,toy,18,-5.797252655029297,51295290,google_electra-large-generator
+A jump rope is a,toy.,jump rope,toy,19,-4.792269706726074,51295290,google_electra-large-generator
+A pogo stick is a,toy.,pogo stick,toy,20,-2.474111557006836,51295290,google_electra-large-generator
+A clay is a,toy.,clay,toy,21,-6.900998115539551,51295290,google_electra-large-generator
+A wagon is a,toy.,wagon,toy,22,-4.570013999938965,51295290,google_electra-large-generator
+A kite is a,toy.,kite,toy,23,-4.129246711730957,51295290,google_electra-large-generator
+A train is a,toy.,train,toy,24,-5.2294511795043945,51295290,google_electra-large-generator
+A tricycle is a,toy.,tricycle,toy,25,-3.2777299880981445,51295290,google_electra-large-generator
+A coloring book is a,toy.,coloring book,toy,26,-4.86768913269043,51295290,google_electra-large-generator
+Crayons are,toys.,crayons,toy,27,-9.515565872192383,51295290,google_electra-large-generator
+A truck is a,toy.,truck,toy,28,-5.070777893066406,51295290,google_electra-large-generator
+A puzzle is a,toy.,puzzle,toy,29,-4.89521598815918,51295290,google_electra-large-generator
+A fire engine is a,toy.,fire engine,toy,30,-5.360234260559082,51295290,google_electra-large-generator
+A balloon is a,toy.,balloon,toy,31,-4.514764785766602,51295290,google_electra-large-generator
+Skates are,toys.,skates,toy,32,-7.570342063903809,51295290,google_electra-large-generator
+A baseball is a,toy.,baseball,toy,33,-5.816999435424805,51295290,google_electra-large-generator
+A drum is a,toy.,drum,toy,34,-4.559723854064941,51295290,google_electra-large-generator
+A football is a,toy.,football,toy,35,-6.735363960266113,51295290,google_electra-large-generator
+A game is a,toy.,game,toy,36,-5.592354774475098,51295290,google_electra-large-generator
+A swing is a,toy.,swing,toy,37,-4.620619773864746,51295290,google_electra-large-generator
+A boat is a,toy.,boat,toy,38,-5.179516792297363,51295290,google_electra-large-generator
+A monopoly is a,toy.,monopoly,toy,39,-7.328283309936523,51295290,google_electra-large-generator
+A sled is a,toy.,sled,toy,40,-4.205348968505859,51295290,google_electra-large-generator
+A seesaw is a,toy.,seesaw,toy,41,-4.747833251953125,51295290,google_electra-large-generator
+Stilts are,toys.,stilts,toy,42,-8.439347267150879,51295290,google_electra-large-generator
+Checkers are,toys.,checkers,toy,43,-12.257340431213379,51295290,google_electra-large-generator
+A bat is a,toy.,bat,toy,44,-4.0831451416015625,51295290,google_electra-large-generator
+A car is a,toy.,car,toy,45,-3.772899627685547,51295290,google_electra-large-generator
+An airplane is a,toy.,airplane,toy,46,-3.951413154602051,51295290,google_electra-large-generator
+A bicycle is a,toy.,bicycle,toy,47,-4.295223236083984,51295290,google_electra-large-generator
+A tractor is a,toy.,tractor,toy,48,-4.379350662231445,51295290,google_electra-large-generator
+A sandbox is a,toy.,sandbox,toy,49,-4.121705055236816,51295290,google_electra-large-generator
+A bike is a,toy.,bike,toy,50,-4.784634590148926,51295290,google_electra-large-generator
+A bow and arrow is a,toy.,bow and arrow,toy,51,-4.399263381958008,51295290,google_electra-large-generator
+A rope is a,toy.,rope,toy,52,-5.242769241333008,51295290,google_electra-large-generator
+Dishes are,toys.,dishes,toy,53,-11.949670791625977,51295290,google_electra-large-generator
+Cards are,toys.,cards,toy,54,-8.614858627319336,51295290,google_electra-large-generator
+A mitt is a,toy.,mitt,toy,55,-5.470066070556641,51295290,google_electra-large-generator
+A horse is a,toy.,horse,toy,56,-5.337169647216797,51295290,google_electra-large-generator
+A gun is a,toy.,gun,toy,57,-3.976085662841797,51295290,google_electra-large-generator
+Animals are,toys.,animals,toy,58,-7.550467491149902,51295290,google_electra-large-generator
+A tennis racket is a,toy.,tennis racket,toy,59,-4.674744606018066,51295290,google_electra-large-generator
+Books are,toys.,books,toy,60,-8.305736541748047,51295290,google_electra-large-generator
+A pant is a type of,clothing.,pant,clothing,1,-4.968611717224121,51295290,google_electra-large-generator
+A shirt is a type of,clothing.,shirt,clothing,2,-2.763655662536621,51295290,google_electra-large-generator
+A dress is a type of,clothing.,dress,clothing,3,-2.7599916458129883,51295290,google_electra-large-generator
+A skirt is a type of,clothing.,skirt,clothing,4,-3.1948633193969727,51295290,google_electra-large-generator
+A blouse is a type of,clothing.,blouse,clothing,5,-3.149059295654297,51295290,google_electra-large-generator
+A suit is a type of,clothing.,suit,clothing,6,-2.781487464904785,51295290,google_electra-large-generator
+A slack is a type of,clothing.,slack,clothing,7,-6.864763259887695,51295290,google_electra-large-generator
+A jacket is a type of,clothing.,jacket,clothing,8,-2.668156623840332,51295290,google_electra-large-generator
+A coat is a type of,clothing.,coat,clothing,9,-2.7129812240600586,51295290,google_electra-large-generator
+A sweater is a type of,clothing.,sweater,clothing,10,-3.2135066986083984,51295290,google_electra-large-generator
+A sweatshirt is a type of,clothing.,sweatshirt,clothing,11,-2.623690605163574,51295290,google_electra-large-generator
+An underpant is a type of,clothing.,underpant,clothing,12,-7.076850891113281,51295290,google_electra-large-generator
+A sports jacket is a type of,clothing.,sports jacket,clothing,13,-2.7618207931518555,51295290,google_electra-large-generator
+A jumper is a type of,clothing.,jumper,clothing,14,-4.295377731323242,51295290,google_electra-large-generator
+A panty is a type of,clothing.,panty,clothing,15,-3.940060615539551,51295290,google_electra-large-generator
+A sock is a type of,clothing.,sock,clothing,16,-4.709776878356934,51295290,google_electra-large-generator
+A parka is a type of,clothing.,parka,clothing,17,-5.102390289306641,51295290,google_electra-large-generator
+A pajama is a type of,clothing.,pajama,clothing,18,-5.797992706298828,51295290,google_electra-large-generator
+An undershirt is a type of,clothing.,undershirt,clothing,19,-4.348944664001465,51295290,google_electra-large-generator
+An overcoat is a type of,clothing.,overcoat,clothing,20,-2.906439781188965,51295290,google_electra-large-generator
+A nightgown is a type of,clothing.,nightgown,clothing,21,-2.271524429321289,51295290,google_electra-large-generator
+A raincoat is a type of,clothing.,raincoat,clothing,22,-2.700442314147949,51295290,google_electra-large-generator
+A bathing suit is a type of,clothing.,bathing suit,clothing,23,-2.404909133911133,51295290,google_electra-large-generator
+A bathrobe is a type of,clothing.,bathrobe,clothing,24,-5.121712684631348,51295290,google_electra-large-generator
+A slip is a type of,clothing.,slip,clothing,25,-6.306290626525879,51295290,google_electra-large-generator
+A bra is a type of,clothing.,bra,clothing,26,-4.000497817993164,51295290,google_electra-large-generator
+A shoe is a type of,clothing.,shoe,clothing,27,-3.893040657043457,51295290,google_electra-large-generator
+A tuxedo is a type of,clothing.,tuxedo,clothing,28,-3.3378496170043945,51295290,google_electra-large-generator
+A stocking is a type of,clothing.,stocking,clothing,29,-4.134707450866699,51295290,google_electra-large-generator
+A vest is a type of,clothing.,vest,clothing,30,-2.8787717819213867,51295290,google_electra-large-generator
+A nylon is a type of,clothing.,nylon,clothing,31,-6.195878982543945,51295290,google_electra-large-generator
+A cape is a type of,clothing.,cape,clothing,32,-6.3826446533203125,51295290,google_electra-large-generator
+A boot is a type of,clothing.,boot,clothing,33,-8.038705825805664,51295290,google_electra-large-generator
+A sandal is a type of,clothing.,sandal,clothing,34,-8.806522369384766,51295290,google_electra-large-generator
+A tie is a type of,clothing.,tie,clothing,35,-4.572998046875,51295290,google_electra-large-generator
+A girdle is a type of,clothing.,girdle,clothing,36,-7.099503517150879,51295290,google_electra-large-generator
+A belt is a type of,clothing.,belt,clothing,37,-5.8254594802856445,51295290,google_electra-large-generator
+A scarf is a type of,clothing.,scarf,clothing,38,-4.34083366394043,51295290,google_electra-large-generator
+A mitten is a type of,clothing.,mitten,clothing,39,-6.317635536193848,51295290,google_electra-large-generator
+A slipper is a type of,clothing.,slipper,clothing,40,-3.849453926086426,51295290,google_electra-large-generator
+A hat is a type of,clothing.,hat,clothing,41,-3.9868011474609375,51295290,google_electra-large-generator
+An overshoe is a type of,clothing.,overshoe,clothing,42,-7.386054039001465,51295290,google_electra-large-generator
+A glove is a type of,clothing.,glove,clothing,43,-5.75331974029541,51295290,google_electra-large-generator
+An apron is a type of,clothing.,apron,clothing,44,-3.9952001571655273,51295290,google_electra-large-generator
+An earmuff is a type of,clothing.,earmuff,clothing,45,-7.352351188659668,51295290,google_electra-large-generator
+A handkerchief is a type of,clothing.,handkerchief,clothing,46,-5.952878952026367,51295290,google_electra-large-generator
+A purse is a type of,clothing.,purse,clothing,47,-3.994781494140625,51295290,google_electra-large-generator
+A hairband is a type of,clothing.,hairband,clothing,48,-3.8114261627197266,51295290,google_electra-large-generator
+A ring is a type of,clothing.,ring,clothing,49,-8.031320571899414,51295290,google_electra-large-generator
+An earring is a type of,clothing.,earring,clothing,50,-9.593293190002441,51295290,google_electra-large-generator
+A watch is a type of,clothing.,watch,clothing,51,-4.708017349243164,51295290,google_electra-large-generator
+A cuff link is a type of,clothing.,cuff link,clothing,52,-6.411541938781738,51295290,google_electra-large-generator
+A necklace is a type of,clothing.,necklace,clothing,53,-5.503726005554199,51295290,google_electra-large-generator
+A bracelet is a type of,clothing.,bracelet,clothing,54,-12.06106185913086,51295290,google_electra-large-generator
+A cane is a type of,clothing.,cane,clothing,55,-7.600525856018066,51295290,google_electra-large-generator
+A chair is a type of,furniture.,chair,furniture,1,-4.111080169677734,51295290,google_electra-large-generator
+A sofa is a type of,furniture.,sofa,furniture,2,-2.013507843017578,51295290,google_electra-large-generator
+A couch is a type of,furniture.,couch,furniture,3,-2.54583740234375,51295290,google_electra-large-generator
+A table is a type of,furniture.,table,furniture,4,-3.4881973266601562,51295290,google_electra-large-generator
+An easy chair is a type of,furniture.,easy chair,furniture,5,-4.626555442810059,51295290,google_electra-large-generator
+A dresser is a type of,furniture.,dresser,furniture,6,-2.468949317932129,51295290,google_electra-large-generator
+A rocking chair is a type of,furniture.,rocking chair,furniture,7,-4.482651710510254,51295290,google_electra-large-generator
+A coffee table is a type of,furniture.,coffee table,furniture,8,-3.974543571472168,51295290,google_electra-large-generator
+A rocker is a type of,furniture.,rocker,furniture,9,-4.406976699829102,51295290,google_electra-large-generator
+A love seat is a type of,furniture.,love seat,furniture,10,-4.842646598815918,51295290,google_electra-large-generator
+A chest of drawers is a,furniture.,chest of drawers,furniture,11,-8.269412994384766,51295290,google_electra-large-generator
+A desk is a type of,furniture.,desk,furniture,12,-3.680418014526367,51295290,google_electra-large-generator
+A bed is a type of,furniture.,bed,furniture,13,-3.7251930236816406,51295290,google_electra-large-generator
+A bureau is a type of,furniture.,bureau,furniture,14,-9.653470993041992,51295290,google_electra-large-generator
+A davenport is a type of,furniture.,davenport,furniture,15,-8.929141998291016,51295290,google_electra-large-generator
+An end table is a type of,furniture.,end table,furniture,16,-6.830965042114258,51295290,google_electra-large-generator
+A divan is a type of,furniture.,divan,furniture,17,-7.308261871337891,51295290,google_electra-large-generator
+A night table is a type of,furniture.,night table,furniture,18,-3.161654472351074,51295290,google_electra-large-generator
+A chest is a type of,furniture.,chest,furniture,19,-9.705707550048828,51295290,google_electra-large-generator
+A cedar chest is a type of,furniture.,cedar chest,furniture,20,-6.4539031982421875,51295290,google_electra-large-generator
+A vanity is a type of,furniture.,vanity,furniture,21,-5.189536094665527,51295290,google_electra-large-generator
+A bookcase is a type of,furniture.,bookcase,furniture,22,-3.054309844970703,51295290,google_electra-large-generator
+A lounge is a type of,furniture.,lounge,furniture,23,-4.881926536560059,51295290,google_electra-large-generator
+A chaise lounge is a type of,furniture.,chaise lounge,furniture,24,-5.774153709411621,51295290,google_electra-large-generator
+An ottoman is a type of,furniture.,ottoman,furniture,25,-3.869253158569336,51295290,google_electra-large-generator
+A footstool is a type of,furniture.,footstool,furniture,26,-9.032615661621094,51295290,google_electra-large-generator
+A cabinet is a type of,furniture.,cabinet,furniture,27,-3.2043590545654297,51295290,google_electra-large-generator
+A china closet is a type of,furniture.,china closet,furniture,28,-3.6279592514038086,51295290,google_electra-large-generator
+A bench is a type of,furniture.,bench,furniture,29,-4.716395378112793,51295290,google_electra-large-generator
+A buffet is a type of,furniture.,buffet,furniture,30,-9.010770797729492,51295290,google_electra-large-generator
+A lamp is a type of,furniture.,lamp,furniture,31,-7.017772674560547,51295290,google_electra-large-generator
+A stool is a type of,furniture.,stool,furniture,32,-6.339125633239746,51295290,google_electra-large-generator
+A hassock is a type of,furniture.,hassock,furniture,33,-8.382169723510742,51295290,google_electra-large-generator
+A drawer is a type of,furniture.,drawer,furniture,34,-3.7798690795898438,51295290,google_electra-large-generator
+A piano is a type of,furniture.,piano,furniture,35,-7.7396697998046875,51295290,google_electra-large-generator
+A cushion is a type of,furniture.,cushion,furniture,36,-5.557855606079102,51295290,google_electra-large-generator
+A magazine rack is a type of,furniture.,magazine rack,furniture,37,-6.171581268310547,51295290,google_electra-large-generator
+A hi-fi is a type of,furniture.,hi-fi,furniture,38,-9.500679016113281,51295290,google_electra-large-generator
+A cupboard is a type of,furniture.,cupboard,furniture,39,-3.380061149597168,51295290,google_electra-large-generator
+A stereo is a type of,furniture.,stereo,furniture,40,-8.160024642944336,51295290,google_electra-large-generator
+A mirror is a type of,furniture.,mirror,furniture,41,-6.91021728515625,51295290,google_electra-large-generator
+A television is a type of,furniture.,television,furniture,42,-7.131017684936523,51295290,google_electra-large-generator
+A bar is a type of,furniture.,bar,furniture,43,-7.620532035827637,51295290,google_electra-large-generator
+A shelf is a type of,furniture.,shelf,furniture,44,-2.6703710556030273,51295290,google_electra-large-generator
+A rug is a type of,furniture.,rug,furniture,45,-3.2801055908203125,51295290,google_electra-large-generator
+A pillow is a type of,furniture.,pillow,furniture,46,-6.296698570251465,51295290,google_electra-large-generator
+A wastebasket is a type of,furniture.,wastebasket,furniture,47,-6.501950263977051,51295290,google_electra-large-generator
+A radio is a type of,furniture.,radio,furniture,48,-8.69370174407959,51295290,google_electra-large-generator
+A sewing machine is a type of,furniture.,sewing machine,furniture,49,-7.61746883392334,51295290,google_electra-large-generator
+A stove is a type of,furniture.,stove,furniture,50,-5.158184051513672,51295290,google_electra-large-generator
+A counter is a type of,furniture.,counter,furniture,51,-7.784727096557617,51295290,google_electra-large-generator
+A clock is a type of,furniture.,clock,furniture,52,-8.968524932861328,51295290,google_electra-large-generator
+A drape is a type of,furniture.,drape,furniture,53,-6.0222368240356445,51295290,google_electra-large-generator
+A refrigerator is a type of,furniture.,refrigerator,furniture,54,-5.28978157043457,51295290,google_electra-large-generator
+A picture is a type of,furniture.,picture,furniture,55,-7.874174118041992,51295290,google_electra-large-generator
+A closet is a type of,furniture.,closet,furniture,56,-4.5465192794799805,51295290,google_electra-large-generator
+A vase is a type of,furniture.,vase,furniture,57,-4.927623748779297,51295290,google_electra-large-generator
+An ashtray is a type of,furniture.,ashtray,furniture,58,-5.62428092956543,51295290,google_electra-large-generator
+A fan is a type of,furniture.,fan,furniture,59,-6.331792831420898,51295290,google_electra-large-generator
+A telephone is a type of,furniture.,telephone,furniture,60,-9.669341087341309,51295290,google_electra-large-generator
+Pea is a,vegetable.,pea,vegetable,1,-2.9423675537109375,51295290,google_electra-large-generator
+Carrot is a,vegetable.,carrot,vegetable,2,-1.7173290252685547,51295290,google_electra-large-generator
+Green bean is a,vegetable.,green bean,vegetable,3,-2.9471006393432617,51295290,google_electra-large-generator
+String bean is a,vegetable.,string bean,vegetable,4,-3.655510902404785,51295290,google_electra-large-generator
+Spinach is a,vegetable.,spinach,vegetable,5,-2.9721593856811523,51295290,google_electra-large-generator
+Broccoli is a,vegetable.,broccoli,vegetable,6,-2.263840675354004,51295290,google_electra-large-generator
+Asparagus is a,vegetable.,asparagus,vegetable,7,-1.9093761444091797,51295290,google_electra-large-generator
+Corn is a,vegetable.,corn,vegetable,8,-3.1579818725585938,51295290,google_electra-large-generator
+Cauliflower is a,vegetable.,cauliflower,vegetable,9,-2.3124866485595703,51295290,google_electra-large-generator
+Brussels sprouts are,vegetables.,brussels sprouts,vegetable,10,-8.484600067138672,51295290,google_electra-large-generator
+Squash is a,vegetable.,squash,vegetable,11,-4.135797500610352,51295290,google_electra-large-generator
+Lettuce is a,vegetable.,lettuce,vegetable,12,-2.707268714904785,51295290,google_electra-large-generator
+Celery is a,vegetable.,celery,vegetable,13,-3.3583250045776367,51295290,google_electra-large-generator
+Cucumber is a,vegetable.,cucumber,vegetable,14,-2.4359006881713867,51295290,google_electra-large-generator
+Beet is a,vegetable.,beet,vegetable,15,-4.0503692626953125,51295290,google_electra-large-generator
+Green is a,vegetable.,green,vegetable,16,-5.709278106689453,51295290,google_electra-large-generator
+Tomato is a,vegetable.,tomato,vegetable,17,-2.6201982498168945,51295290,google_electra-large-generator
+Lima bean is a,vegetable.,lima bean,vegetable,18,-3.145671844482422,51295290,google_electra-large-generator
+Artichoke is a,vegetable.,artichoke,vegetable,19,-5.141490936279297,51295290,google_electra-large-generator
+Turnip is a,vegetable.,turnip,vegetable,20,-11.639141082763672,51295290,google_electra-large-generator
+Eggplant is a,vegetable.,eggplant,vegetable,21,-3.0174684524536133,51295290,google_electra-large-generator
+Romaine is a,vegetable.,romaine,vegetable,22,-5.971621513366699,51295290,google_electra-large-generator
+Green pepper is a,vegetable.,green pepper,vegetable,23,-4.604423522949219,51295290,google_electra-large-generator
+Okra is a,vegetable.,okra,vegetable,24,-8.90968132019043,51295290,google_electra-large-generator
+Radish is a,vegetable.,radish,vegetable,25,-4.559674263000488,51295290,google_electra-large-generator
+Onion is a,vegetable.,onion,vegetable,26,-2.712336540222168,51295290,google_electra-large-generator
+Bean is a,vegetable.,bean,vegetable,27,-3.6285324096679688,51295290,google_electra-large-generator
+Green onion is a,vegetable.,green onion,vegetable,28,-2.751530647277832,51295290,google_electra-large-generator
+Potato is a,vegetable.,potato,vegetable,29,-2.4168224334716797,51295290,google_electra-large-generator
+Parsnip is a,vegetable.,parsnip,vegetable,30,-6.0736799240112305,51295290,google_electra-large-generator
+Turnip green is a,vegetable.,turnip green,vegetable,31,-5.769181251525879,51295290,google_electra-large-generator
+Collard is a,vegetable.,collard,vegetable,32,-7.728111743927002,51295290,google_electra-large-generator
+Wax bean is a,vegetable.,wax bean,vegetable,33,-3.282888412475586,51295290,google_electra-large-generator
+Watercress is a,vegetable.,watercress,vegetable,34,-4.923735618591309,51295290,google_electra-large-generator
+Black eyed pea is a,vegetable.,black eyed pea,vegetable,35,-4.838146209716797,51295290,google_electra-large-generator
+Leek is a,vegetable.,leek,vegetable,36,-8.510551452636719,51295290,google_electra-large-generator
+Pepper is a,vegetable.,pepper,vegetable,37,-3.638979911804199,51295290,google_electra-large-generator
+Sweet potato is a,vegetable.,sweet potato,vegetable,38,-3.349459648132324,51295290,google_electra-large-generator
+Yam is a,vegetable.,yam,vegetable,39,-7.155837059020996,51295290,google_electra-large-generator
+Parsley is a,vegetable.,parsley,vegetable,40,-2.7409791946411133,51295290,google_electra-large-generator
+Endive is a,vegetable.,endive,vegetable,41,-9.928853988647461,51295290,google_electra-large-generator
+Rutabaga is a,vegetable.,rutabaga,vegetable,42,-5.1659040451049805,51295290,google_electra-large-generator
+Mushroom is a,vegetable.,mushroom,vegetable,43,-3.401717185974121,51295290,google_electra-large-generator
+Avocado is a,vegetable.,avocado,vegetable,44,-4.3315277099609375,51295290,google_electra-large-generator
+Rhubarb is a,vegetable.,rhubarb,vegetable,45,-4.166948318481445,51295290,google_electra-large-generator
+Kale is a,vegetable.,kale,vegetable,46,-6.544294357299805,51295290,google_electra-large-generator
+Escarole is a,vegetable.,escarole,vegetable,47,-7.019301891326904,51295290,google_electra-large-generator
+Sauerkraut is a,vegetable.,sauerkraut,vegetable,48,-5.001923561096191,51295290,google_electra-large-generator
+Pickle is a,vegetable.,pickle,vegetable,49,-4.704723358154297,51295290,google_electra-large-generator
+Baked bean is a,vegetable.,baked bean,vegetable,50,-5.1671857833862305,51295290,google_electra-large-generator
+Pumpkin is a,vegetable.,pumpkin,vegetable,51,-3.299614906311035,51295290,google_electra-large-generator
+Seaweed is a,vegetable.,seaweed,vegetable,52,-3.9575233459472656,51295290,google_electra-large-generator
+Garlic is a,vegetable.,garlic,vegetable,53,-3.3923654556274414,51295290,google_electra-large-generator
+Dandelion is a,vegetable.,dandelion,vegetable,54,-3.1471242904663086,51295290,google_electra-large-generator
+Peanut is a,vegetable.,peanut,vegetable,55,-2.7983179092407227,51295290,google_electra-large-generator
+Rice is a,vegetable.,rice,vegetable,56,-3.5494813919067383,51295290,google_electra-large-generator
+A saw is a,tool.,saw,tool,1,-2.206918716430664,51295290,google_electra-large-generator
+A hammer is a,tool.,hammer,tool,2,-2.288724899291992,51295290,google_electra-large-generator
+A ruler is a,tool.,ruler,tool,3,-2.5552902221679688,51295290,google_electra-large-generator
+A screwdriver is a,tool.,screwdriver,tool,4,-2.1681737899780273,51295290,google_electra-large-generator
+A drill is a,tool.,drill,tool,5,-2.1247148513793945,51295290,google_electra-large-generator
+A nail is a,tool.,nail,tool,6,-3.250814437866211,51295290,google_electra-large-generator
+A tape measure is a,tool.,tape measure,tool,7,-2.0410099029541016,51295290,google_electra-large-generator
+A sawhorse is a,tool.,sawhorse,tool,8,-2.7927284240722656,51295290,google_electra-large-generator
+A sandpaper is a,tool.,sandpaper,tool,9,-3.6810407638549805,51295290,google_electra-large-generator
+A sander is a,tool.,sander,tool,10,-1.9654502868652344,51295290,google_electra-large-generator
+A level is a,tool.,level,tool,11,-4.662929534912109,51295290,google_electra-large-generator
+A plane is a,tool.,plane,tool,12,-4.583117485046387,51295290,google_electra-large-generator
+A file is a,tool.,file,tool,13,-3.853334426879883,51295290,google_electra-large-generator
+A toolbox is a,tool.,toolbox,tool,14,-0.92889404296875,51295290,google_electra-large-generator
+A t-square is a,tool.,T-square,tool,15,-5.352138519287109,51295290,google_electra-large-generator
+A chisel is a,tool.,chisel,tool,16,-2.924091339111328,51295290,google_electra-large-generator
+A rasp is a,tool.,rasp,tool,17,-4.222363471984863,51295290,google_electra-large-generator
+A pencil is a,tool.,pencil,tool,18,-2.530038833618164,51295290,google_electra-large-generator
+A hacksaw is a,tool.,hacksaw,tool,19,-3.376889228820801,51295290,google_electra-large-generator
+A square is a,tool.,square,tool,20,-6.058985710144043,51295290,google_electra-large-generator
+A bench is a,tool.,bench,tool,21,-4.005383491516113,51295290,google_electra-large-generator
+A plier is a,tool.,plier,tool,22,-2.6151161193847656,51295290,google_electra-large-generator
+A wrench is a,tool.,wrench,tool,23,-2.3621129989624023,51295290,google_electra-large-generator
+A ladder is a,tool.,ladder,tool,24,-4.487734794616699,51295290,google_electra-large-generator
+A lathe is a,tool.,lathe,tool,25,-4.198064804077148,51295290,google_electra-large-generator
+A vise is a,tool.,vise,tool,26,-4.020904541015625,51295290,google_electra-large-generator
+A screw is a,tool.,screw,tool,27,-2.5540456771850586,51295290,google_electra-large-generator
+A wood is a,tool.,wood,tool,28,-3.2311391830444336,51295290,google_electra-large-generator
+A wedge is a,tool.,wedge,tool,29,-3.8661155700683594,51295290,google_electra-large-generator
+A lumber is a,tool.,lumber,tool,30,-3.1998910903930664,51295290,google_electra-large-generator
+A blueprint is a,tool.,blueprint,tool,31,-3.7242250442504883,51295290,google_electra-large-generator
+A brace is a,tool.,brace,tool,32,-3.1229991912841797,51295290,google_electra-large-generator
+An awl is a,tool.,awl,tool,33,-3.568099021911621,51295290,google_electra-large-generator
+A crowbar is a,tool.,crowbar,tool,34,-3.9408302307128906,51295290,google_electra-large-generator
+A hinge is a,tool.,hinge,tool,35,-3.6921262741088867,51295290,google_electra-large-generator
+A miter box is a,tool.,miter box,tool,36,-3.932086944580078,51295290,google_electra-large-generator
+A knife is a,tool.,knife,tool,37,-1.9637069702148438,51295290,google_electra-large-generator
+A chalk is a,tool.,chalk,tool,38,-4.122257232666016,51295290,google_electra-large-generator
+A nut is a,tool.,nut,tool,39,-3.01137638092041,51295290,google_electra-large-generator
+A bolt is a,tool.,bolt,tool,40,-3.0926761627197266,51295290,google_electra-large-generator
+A plumb line is a,tool.,plumb line,tool,41,-4.871613502502441,51295290,google_electra-large-generator
+A brush is a,tool.,brush,tool,42,-1.6231584548950195,51295290,google_electra-large-generator
+A sledge hammer is a,tool.,sledge hammer,tool,43,-2.534052848815918,51295290,google_electra-large-generator
+A glue is a,tool.,glue,tool,44,-3.2381677627563477,51295290,google_electra-large-generator
+A paintbrush is a,tool.,paintbrush,tool,45,-1.5942840576171875,51295290,google_electra-large-generator
+A varnish is a,tool.,varnish,tool,46,-4.354975700378418,51295290,google_electra-large-generator
+An apron is a,tool.,apron,tool,47,-4.125572204589844,51295290,google_electra-large-generator
+A stapler is a,tool.,stapler,tool,48,-2.13059139251709,51295290,google_electra-large-generator
+An extension cord is a,tool.,extension cord,tool,49,-3.8469762802124023,51295290,google_electra-large-generator
+A soldering iron is a,tool.,soldering iron,tool,50,-2.618922233581543,51295290,google_electra-large-generator
+A plaster is a,tool.,plaster,tool,51,-5.105310440063477,51295290,google_electra-large-generator
+A wheelbarrow is a,tool.,wheelbarrow,tool,52,-3.832430839538574,51295290,google_electra-large-generator
+An axe is a,tool.,axe,tool,53,-2.4172191619873047,51295290,google_electra-large-generator
+A slide rule is a,tool.,slide rule,tool,54,-3.7502450942993164,51295290,google_electra-large-generator
+A cement is a,tool.,cement,tool,55,-3.878141403198242,51295290,google_electra-large-generator
+An anvil is a,tool.,anvil,tool,56,-4.086386680603027,51295290,google_electra-large-generator
+A hatchet is a,tool.,hatchet,tool,57,-3.992341995239258,51295290,google_electra-large-generator
+A rag is a,tool.,rag,tool,58,-3.4905214309692383,51295290,google_electra-large-generator
+A scissor is a,tool.,scissor,tool,59,-3.5299577713012695,51295290,google_electra-large-generator
+A crane is a,tool.,crane,tool,60,-3.4478330612182617,51295290,google_electra-large-generator
+An automobile is a,vehicle.,automobile,vehicle,1,-2.959183692932129,51295290,google_electra-large-generator
+A station wagon is a,vehicle.,station wagon,vehicle,2,-3.3074522018432617,51295290,google_electra-large-generator
+A truck is a,vehicle.,truck,vehicle,3,-3.398996353149414,51295290,google_electra-large-generator
+A car is a,vehicle.,car,vehicle,4,-3.5385589599609375,51295290,google_electra-large-generator
+A bus is a,vehicle.,bus,vehicle,5,-4.208719253540039,51295290,google_electra-large-generator
+A taxi is a,vehicle.,taxi,vehicle,6,-5.027464866638184,51295290,google_electra-large-generator
+A jeep is a,vehicle.,jeep,vehicle,7,-3.056516647338867,51295290,google_electra-large-generator
+An ambulance is a,vehicle.,ambulance,vehicle,8,-5.326381683349609,51295290,google_electra-large-generator
+A motorcycle is a,vehicle.,motorcycle,vehicle,9,-3.8886213302612305,51295290,google_electra-large-generator
+A streetcar is a,vehicle.,streetcar,vehicle,10,-4.9214677810668945,51295290,google_electra-large-generator
+A van is a,vehicle.,van,vehicle,11,-3.829400062561035,51295290,google_electra-large-generator
+A honda is a,vehicle.,Honda,vehicle,12,-5.054950714111328,51295290,google_electra-large-generator
+A cable car is a,vehicle.,cable car,vehicle,13,-4.558382034301758,51295290,google_electra-large-generator
+A train is a,vehicle.,train,vehicle,14,-4.554685592651367,51295290,google_electra-large-generator
+A trolley is a,vehicle.,trolley,vehicle,15,-4.725788116455078,51295290,google_electra-large-generator
+A bicycle is a,vehicle.,bicycle,vehicle,16,-4.349667549133301,51295290,google_electra-large-generator
+A carriage is a,vehicle.,carriage,vehicle,17,-3.0935049057006836,51295290,google_electra-large-generator
+An airplane is a,vehicle.,airplane,vehicle,18,-4.242025375366211,51295290,google_electra-large-generator
+A bike is a,vehicle.,bike,vehicle,19,-4.667478561401367,51295290,google_electra-large-generator
+A boat is a,vehicle.,boat,vehicle,20,-4.936685562133789,51295290,google_electra-large-generator
+A jet is a,vehicle.,jet,vehicle,21,-4.25467586517334,51295290,google_electra-large-generator
+A ship is a,vehicle.,ship,vehicle,22,-5.236532211303711,51295290,google_electra-large-generator
+A scooter is a,vehicle.,scooter,vehicle,23,-4.952043533325195,51295290,google_electra-large-generator
+A tractor is a,vehicle.,tractor,vehicle,24,-4.311163902282715,51295290,google_electra-large-generator
+A wagon is a,vehicle.,wagon,vehicle,25,-3.3304901123046875,51295290,google_electra-large-generator
+A subway is a,vehicle.,subway,vehicle,26,-6.49151611328125,51295290,google_electra-large-generator
+A trailer is a,vehicle.,trailer,vehicle,27,-4.225414276123047,51295290,google_electra-large-generator
+A cart is a,vehicle.,cart,vehicle,28,-3.903353691101074,51295290,google_electra-large-generator
+A wheelchair is a,vehicle.,wheelchair,vehicle,29,-5.953098297119141,51295290,google_electra-large-generator
+A yacht is a,vehicle.,yacht,vehicle,30,-5.601980209350586,51295290,google_electra-large-generator
+A tank is a,vehicle.,tank,vehicle,31,-5.002574920654297,51295290,google_electra-large-generator
+A go-cart is a,vehicle.,go-cart,vehicle,32,-5.515107154846191,51295290,google_electra-large-generator
+A rowboat is a,vehicle.,rowboat,vehicle,33,-5.860143661499023,51295290,google_electra-large-generator
+A dogsled is a,vehicle.,dogsled,vehicle,34,-6.969751358032227,51295290,google_electra-large-generator
+A tricycle is a,vehicle.,tricycle,vehicle,35,-3.1356067657470703,51295290,google_electra-large-generator
+A canoe is a,vehicle.,canoe,vehicle,36,-5.277927398681641,51295290,google_electra-large-generator
+A raft is a,vehicle.,raft,vehicle,37,-5.976668357849121,51295290,google_electra-large-generator
+A submarine is a,vehicle.,submarine,vehicle,38,-5.589480400085449,51295290,google_electra-large-generator
+A sled is a,vehicle.,sled,vehicle,39,-5.834022521972656,51295290,google_electra-large-generator
+A horse is a,vehicle.,horse,vehicle,40,-6.725470542907715,51295290,google_electra-large-generator
+A rocket is a,vehicle.,rocket,vehicle,41,-4.717114448547363,51295290,google_electra-large-generator
+A blimp is a,vehicle.,blimp,vehicle,42,-9.131599426269531,51295290,google_electra-large-generator
+A skate is a,vehicle.,skate,vehicle,43,-7.090310096740723,51295290,google_electra-large-generator
+A camel is a,vehicle.,camel,vehicle,44,-6.47733211517334,51295290,google_electra-large-generator
+Feet are,vehicles.,feet,vehicle,45,-11.812999725341797,51295290,google_electra-large-generator
+A ski is a,vehicle.,ski,vehicle,46,-5.972029685974121,51295290,google_electra-large-generator
+A skateboard is a,vehicle.,skateboard,vehicle,47,-7.067276954650879,51295290,google_electra-large-generator
+A wheelbarrow is a,vehicle.,wheelbarrow,vehicle,48,-4.799339294433594,51295290,google_electra-large-generator
+A surfboard is a,vehicle.,surfboard,vehicle,49,-6.743868827819824,51295290,google_electra-large-generator
+An elevator is a,vehicle.,elevator,vehicle,50,-5.29078483581543,51295290,google_electra-large-generator
+A robin is a,bird.,robin,bird,1,-3.264310836791992,51295290,google_electra-large-generator
+A sparrow is a,bird.,sparrow,bird,2,-1.681797981262207,51295290,google_electra-large-generator
+A bluejay is a,bird.,bluejay,bird,3,-6.654231071472168,51295290,google_electra-large-generator
+A bluebird is a,bird.,bluebird,bird,4,-1.9350976943969727,51295290,google_electra-large-generator
+A canary is a,bird.,canary,bird,5,-3.20504093170166,51295290,google_electra-large-generator
+A blackbird is a,bird.,blackbird,bird,6,-1.7859020233154297,51295290,google_electra-large-generator
+A dove is a,bird.,dove,bird,7,-2.8308277130126953,51295290,google_electra-large-generator
+A lark is a,bird.,lark,bird,8,-4.356935501098633,51295290,google_electra-large-generator
+A swallow is a,bird.,swallow,bird,9,-7.720119476318359,51295290,google_electra-large-generator
+A parakeet is a,bird.,parakeet,bird,10,-4.405444145202637,51295290,google_electra-large-generator
+An oriole is a,bird.,oriole,bird,11,-6.187229156494141,51295290,google_electra-large-generator
+A mockingbird is a,bird.,mockingbird,bird,12,-1.720703125,51295290,google_electra-large-generator
+A redbird is a,bird.,redbird,bird,13,-2.2513427734375,51295290,google_electra-large-generator
+A wren is a,bird.,wren,bird,14,-3.955221176147461,51295290,google_electra-large-generator
+A finch is a,bird.,finch,bird,15,-2.5823497772216797,51295290,google_electra-large-generator
+A starling is a,bird.,starling,bird,16,-4.310091972351074,51295290,google_electra-large-generator
+A cardinal is a,bird.,cardinal,bird,17,-5.596872329711914,51295290,google_electra-large-generator
+An eagle is a,bird.,eagle,bird,18,-1.9516639709472656,51295290,google_electra-large-generator
+A hummingbird is a,bird.,hummingbird,bird,19,-1.843113899230957,51295290,google_electra-large-generator
+A seagull is a,bird.,seagull,bird,20,-3.931368827819824,51295290,google_electra-large-generator
+A woodpecker is a,bird.,woodpecker,bird,21,-4.56656551361084,51295290,google_electra-large-generator
+A pigeon is a,bird.,pigeon,bird,22,-2.8849830627441406,51295290,google_electra-large-generator
+A thrush is a,bird.,thrush,bird,23,-6.428981781005859,51295290,google_electra-large-generator
+A falcon is a,bird.,falcon,bird,24,-2.790456771850586,51295290,google_electra-large-generator
+A crow is a,bird.,crow,bird,25,-3.039698600769043,51295290,google_electra-large-generator
+A hawk is a,bird.,hawk,bird,26,-2.313652992248535,51295290,google_electra-large-generator
+A raven is a,bird.,raven,bird,27,-3.468883514404297,51295290,google_electra-large-generator
+A goldfinch is a,bird.,goldfinch,bird,28,-6.5204010009765625,51295290,google_electra-large-generator
+A parrot is a,bird.,parrot,bird,29,-2.5640993118286133,51295290,google_electra-large-generator
+A sandpiper is a,bird.,sandpiper,bird,30,-5.105038642883301,51295290,google_electra-large-generator
+A pheasant is a,bird.,pheasant,bird,31,-6.524341583251953,51295290,google_electra-large-generator
+A catbird is a,bird.,catbird,bird,32,-1.8482084274291992,51295290,google_electra-large-generator
+A crane is a,bird.,crane,bird,33,-4.909156799316406,51295290,google_electra-large-generator
+An albatross is a,bird.,albatross,bird,34,-5.472395896911621,51295290,google_electra-large-generator
+A condor is a,bird.,condor,bird,35,-2.206376075744629,51295290,google_electra-large-generator
+A toucan is a,bird.,toucan,bird,36,-6.064374923706055,51295290,google_electra-large-generator
+An owl is a,bird.,owl,bird,37,-2.3032455444335938,51295290,google_electra-large-generator
+A pelican is a,bird.,pelican,bird,38,-5.118816375732422,51295290,google_electra-large-generator
+A goose is a,bird.,goose,bird,39,-3.368917465209961,51295290,google_electra-large-generator
+A vulture is a,bird.,vulture,bird,40,-2.8800735473632812,51295290,google_electra-large-generator
+A stork is a,bird.,stork,bird,41,-6.677189826965332,51295290,google_electra-large-generator
+A buzzard is a,bird.,buzzard,bird,42,-5.435919761657715,51295290,google_electra-large-generator
+A swan is a,bird.,swan,bird,43,-9.37244987487793,51295290,google_electra-large-generator
+A flamingo is a,bird.,flamingo,bird,44,-5.512753486633301,51295290,google_electra-large-generator
+A duck is a,bird.,duck,bird,45,-3.204294204711914,51295290,google_electra-large-generator
+A peacock is a,bird.,peacock,bird,46,-2.734804153442383,51295290,google_electra-large-generator
+An egret is a,bird.,egret,bird,47,-6.804991722106934,51295290,google_electra-large-generator
+A chicken is a,bird.,chicken,bird,48,-4.527863502502441,51295290,google_electra-large-generator
+A turkey is a,bird.,turkey,bird,49,-4.002058029174805,51295290,google_electra-large-generator
+An ostrich is a,bird.,ostrich,bird,50,-4.60347843170166,51295290,google_electra-large-generator
+A titmouse is a,bird.,titmouse,bird,51,-4.750351905822754,51295290,google_electra-large-generator
+An emu is a,bird.,emu,bird,52,-9.459223747253418,51295290,google_electra-large-generator
+A penguin is a,bird.,penguin,bird,53,-4.049306869506836,51295290,google_electra-large-generator
+A bat is a,bird.,bat,bird,54,-4.117759704589844,51295290,google_electra-large-generator
+Football is a,sport.,football,sport,1,-0.9917011260986328,51295290,google_electra-large-generator
+Baseball is a,sport.,baseball,sport,2,-0.9291591644287109,51295290,google_electra-large-generator
+Basketball is a,sport.,basketball,sport,3,-0.7351589202880859,51295290,google_electra-large-generator
+Tennis is a,sport.,tennis,sport,4,-0.9156322479248047,51295290,google_electra-large-generator
+Softball is a,sport.,softball,sport,5,-0.8935146331787109,51295290,google_electra-large-generator
+Canoeing is a,sport.,canoeing,sport,6,-1.5042247772216797,51295290,google_electra-large-generator
+Handball is a,sport.,handball,sport,7,-0.5662822723388672,51295290,google_electra-large-generator
+Rugby is a,sport.,rugby,sport,8,-0.6414775848388672,51295290,google_electra-large-generator
+Hockey is a,sport.,hockey,sport,9,-0.4878997802734375,51295290,google_electra-large-generator
+Ice hockey is a,sport.,ice hockey,sport,10,-0.7000675201416016,51295290,google_electra-large-generator
+Swimming is a,sport.,swimming,sport,11,-1.0761184692382812,51295290,google_electra-large-generator
+Track is a,sport.,track,sport,12,-8.539697647094727,51295290,google_electra-large-generator
+Boxing is a,sport.,boxing,sport,13,-0.5530128479003906,51295290,google_electra-large-generator
+Volleyball is a,sport.,volleyball,sport,14,-0.8930702209472656,51295290,google_electra-large-generator
+Lacrosse is a,sport.,lacrosse,sport,15,-0.5908451080322266,51295290,google_electra-large-generator
+Skiing is a,sport.,skiing,sport,16,-1.066305160522461,51295290,google_electra-large-generator
+Golf is a,sport.,golf,sport,17,-0.70318603515625,51295290,google_electra-large-generator
+Polo is a,sport.,polo,sport,18,-0.8478221893310547,51295290,google_electra-large-generator
+Surfing is a,sport.,surfing,sport,19,-1.0376758575439453,51295290,google_electra-large-generator
+Wrestling is a,sport.,wrestling,sport,20,-0.8672599792480469,51295290,google_electra-large-generator
+Gymnastics is a,sport.,gymnastics,sport,21,-1.1114425659179688,51295290,google_electra-large-generator
+Cricket is a,sport.,cricket,sport,22,-0.6235942840576172,51295290,google_electra-large-generator
+Squash is a,sport.,squash,sport,23,-2.973994255065918,51295290,google_electra-large-generator
+Badminton is a,sport.,badminton,sport,24,-0.6343936920166016,51295290,google_electra-large-generator
+Racing is a,sport.,racing,sport,25,-0.9873046875,51295290,google_electra-large-generator
+Pole vault is a,sport.,pole vault,sport,26,-4.06112003326416,51295290,google_electra-large-generator
+Fencing is a,sport.,fencing,sport,27,-3.6561174392700195,51295290,google_electra-large-generator
+Bowling is a,sport.,bowling,sport,28,-0.7645530700683594,51295290,google_electra-large-generator
+Water skiing is a,sport.,water skiing,sport,29,-1.5886383056640625,51295290,google_electra-large-generator
+Ice skating is a,sport.,ice skating,sport,30,-1.0550594329833984,51295290,google_electra-large-generator
+Jai alai is a,sport.,jai alai,sport,31,-8.095205307006836,51295290,google_electra-large-generator
+Skating is a,sport.,skating,sport,32,-1.0060482025146484,51295290,google_electra-large-generator
+Skindiving is a,sport.,skindiving,sport,33,-4.304083824157715,51295290,google_electra-large-generator
+Sailing is a,sport.,sailing,sport,34,-1.4956932067871094,51295290,google_electra-large-generator
+Diving is a,sport.,diving,sport,35,-1.9570674896240234,51295290,google_electra-large-generator
+Archery is a,sport.,archery,sport,36,-0.8988437652587891,51295290,google_electra-large-generator
+Judo is a,sport.,judo,sport,37,-0.6715373992919922,51295290,google_electra-large-generator
+Car racing is a,sport.,car racing,sport,38,-1.1323184967041016,51295290,google_electra-large-generator
+Ping pong is a,sport.,ping pong,sport,39,-2.273752212524414,51295290,google_electra-large-generator
+Rowing is a,sport.,rowing,sport,40,-0.6403446197509766,51295290,google_electra-large-generator
+Fishing is a,sport.,fishing,sport,41,-1.6585941314697266,51295290,google_electra-large-generator
+Horseback riding is a,sport.,horseback riding,sport,42,-1.8061885833740234,51295290,google_electra-large-generator
+Running is a,sport.,running,sport,43,-1.4092292785644531,51295290,google_electra-large-generator
+Horse racing is a,sport.,horse racing,sport,44,-0.9650001525878906,51295290,google_electra-large-generator
+Hiking is a,sport.,hiking,sport,45,-2.6352577209472656,51295290,google_electra-large-generator
+Weight lifting is a,sport.,weight lifting,sport,46,-3.4361515045166016,51295290,google_electra-large-generator
+Croquet is a,sport.,croquet,sport,47,-2.2647838592529297,51295290,google_electra-large-generator
+Horseshoes is a,sport.,horseshoes,sport,48,-2.145660400390625,51295290,google_electra-large-generator
+Boating is a,sport.,boating,sport,49,-1.4366798400878906,51295290,google_electra-large-generator
+Pool is a,sport.,pool,sport,50,-5.645761489868164,51295290,google_electra-large-generator
+Billiards is a,sport.,billiards,sport,51,-2.4268722534179688,51295290,google_electra-large-generator
+Hunting is a,sport.,hunting,sport,52,-1.3786964416503906,51295290,google_electra-large-generator
+Jump rope is a,sport.,jump rope,sport,53,-3.5295419692993164,51295290,google_electra-large-generator
+Camping is a,sport.,camping,sport,54,-2.9581222534179688,51295290,google_electra-large-generator
+Chess is a,sport.,chess,sport,55,-1.6483917236328125,51295290,google_electra-large-generator
+Dancing is a,sport.,dancing,sport,56,-2.0763797760009766,51295290,google_electra-large-generator
+Checkers is a,sport.,checkers,sport,57,-5.603361129760742,51295290,google_electra-large-generator
+Cards is a,sport.,cards,sport,58,-5.47825813293457,51295290,google_electra-large-generator
+Sunbathing is a,sport.,sunbathing,sport,59,-3.7886791229248047,51295290,google_electra-large-generator
