@@ -1,4 +1,4 @@
-preamble,stimulus,item,category,rank,params,model
+preamble,stimulus,item,category,rank,score,params,model
 A gun is a,weapon.,gun,weapon,1,0.14725628873101212,81913344,distilgpt2
 A pistol is a,weapon.,pistol,weapon,2,0.10099863112710658,81913344,distilgpt2
 A revolver is a,weapon.,revolver,weapon,3,0.067122705438008,81913344,distilgpt2

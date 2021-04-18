@@ -1,4 +1,4 @@
-preamble,stimulus,item,category,rank,params,model
+preamble,stimulus,item,category,rank,score,params,model
 A gun is a,weapon.,gun,weapon,1,0.2654131755914291,51295290,google_electra-large-generator
 A pistol is a,weapon.,pistol,weapon,2,0.2500546028643646,51295290,google_electra-large-generator
 A revolver is a,weapon.,revolver,weapon,3,0.21188935407452214,51295290,google_electra-large-generator

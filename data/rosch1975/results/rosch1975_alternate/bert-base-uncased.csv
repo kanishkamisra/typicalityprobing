@@ -1,4 +1,4 @@
-preamble,stimulus,item,category,rank,params,model
+preamble,stimulus,item,category,rank,score,params,model
 A gun is a,weapon.,gun,weapon,1,0.33666307104394866,109514298,bert-base-uncased
 A pistol is a,weapon.,pistol,weapon,2,0.14605850529281578,109514298,bert-base-uncased
 A revolver is a,weapon.,revolver,weapon,3,0.06478556897502089,109514298,bert-base-uncased

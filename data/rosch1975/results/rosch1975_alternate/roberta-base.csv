@@ -1,4 +1,4 @@
-preamble,stimulus,item,category,rank,params,model
+preamble,stimulus,item,category,rank,score,params,model
 A gun is a,weapon.,gun,weapon,1,0.07707495900009721,124697433,roberta-base
 A pistol is a,weapon.,pistol,weapon,2,0.07229696329435954,124697433,roberta-base
 A revolver is a,weapon.,revolver,weapon,3,0.0700215827581774,124697433,roberta-base

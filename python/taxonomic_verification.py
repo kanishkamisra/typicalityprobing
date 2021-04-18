@@ -82,6 +82,7 @@ dataset.append(results)
 dataset.append(num_params)
 dataset.append([model_name] * len(results))
 
+column_names += ["score"]
 column_names += ["params", "model"]
 
 with open(results_dir + f"/{model_name}.csv", "w") as f:
