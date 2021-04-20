@@ -149,82 +149,82 @@ A game is a,toy.,game,toy,36,-5.862818717956543,82170201,distilroberta-base
 A swing is a,toy.,swing,toy,37,-6.40836238861084,82170201,distilroberta-base
 A boat is a,toy.,boat,toy,38,-5.465049743652344,82170201,distilroberta-base
 A monopoly is a,toy.,monopoly,toy,39,-8.585501670837402,82170201,distilroberta-base
-A sled is a,toy.,sled,toy,40,-4.45225715637207,82170201,distilroberta-base
-A seesaw is a,toy.,seesaw,toy,41,-5.962092399597168,82170201,distilroberta-base
-Stilts are,toys.,stilts,toy,42,-7.882506370544434,82170201,distilroberta-base
-Checkers are,toys.,checkers,toy,43,-11.161386489868164,82170201,distilroberta-base
-A bat is a,toy.,bat,toy,44,-5.477762222290039,82170201,distilroberta-base
-A car is a,toy.,car,toy,45,-4.048835754394531,82170201,distilroberta-base
-An airplane is a,toy.,airplane,toy,46,-4.689418792724609,82170201,distilroberta-base
-A bicycle is a,toy.,bicycle,toy,47,-4.761714935302734,82170201,distilroberta-base
-A tractor is a,toy.,tractor,toy,48,-4.308077812194824,82170201,distilroberta-base
-A sandbox is a,toy.,sandbox,toy,49,-6.093238830566406,82170201,distilroberta-base
-A bike is a,toy.,bike,toy,50,-5.0181379318237305,82170201,distilroberta-base
-A bow and arrow is a,toy.,bow and arrow,toy,51,-7.229733467102051,82170201,distilroberta-base
-A rope is a,toy.,rope,toy,52,-5.732978820800781,82170201,distilroberta-base
-Dishes are,toys.,dishes,toy,53,-12.182226181030273,82170201,distilroberta-base
-Cards are,toys.,cards,toy,54,-13.33816909790039,82170201,distilroberta-base
-A mitt is a,toy.,mitt,toy,55,-5.511613845825195,82170201,distilroberta-base
-A horse is a,toy.,horse,toy,56,-5.604493141174316,82170201,distilroberta-base
+A sled is a,toy.,sled,toy,40,-4.452254295349121,82170201,distilroberta-base
+A seesaw is a,toy.,seesaw,toy,41,-5.96209716796875,82170201,distilroberta-base
+Stilts are,toys.,stilts,toy,42,-7.882508754730225,82170201,distilroberta-base
+Checkers are,toys.,checkers,toy,43,-11.161382675170898,82170201,distilroberta-base
+A bat is a,toy.,bat,toy,44,-5.477764129638672,82170201,distilroberta-base
+A car is a,toy.,car,toy,45,-4.048832893371582,82170201,distilroberta-base
+An airplane is a,toy.,airplane,toy,46,-4.68942928314209,82170201,distilroberta-base
+A bicycle is a,toy.,bicycle,toy,47,-4.761715888977051,82170201,distilroberta-base
+A tractor is a,toy.,tractor,toy,48,-4.308069229125977,82170201,distilroberta-base
+A sandbox is a,toy.,sandbox,toy,49,-6.093235015869141,82170201,distilroberta-base
+A bike is a,toy.,bike,toy,50,-5.018129348754883,82170201,distilroberta-base
+A bow and arrow is a,toy.,bow and arrow,toy,51,-7.2297515869140625,82170201,distilroberta-base
+A rope is a,toy.,rope,toy,52,-5.732968330383301,82170201,distilroberta-base
+Dishes are,toys.,dishes,toy,53,-12.182229995727539,82170201,distilroberta-base
+Cards are,toys.,cards,toy,54,-13.338167190551758,82170201,distilroberta-base
+A mitt is a,toy.,mitt,toy,55,-5.511618614196777,82170201,distilroberta-base
+A horse is a,toy.,horse,toy,56,-5.6044816970825195,82170201,distilroberta-base
 A gun is a,toy.,gun,toy,57,-4.1612396240234375,82170201,distilroberta-base
-Animals are,toys.,animals,toy,58,-6.539097785949707,82170201,distilroberta-base
-A tennis racket is a,toy.,tennis racket,toy,59,-4.042366981506348,82170201,distilroberta-base
-Books are,toys.,books,toy,60,-8.548866271972656,82170201,distilroberta-base
-A pant is a type of,clothing.,pant,clothing,1,-3.340205192565918,82170201,distilroberta-base
-A shirt is a type of,clothing.,shirt,clothing,2,-2.951756477355957,82170201,distilroberta-base
-A dress is a type of,clothing.,dress,clothing,3,-3.0263891220092773,82170201,distilroberta-base
-A skirt is a type of,clothing.,skirt,clothing,4,-3.995917320251465,82170201,distilroberta-base
-A blouse is a type of,clothing.,blouse,clothing,5,-3.6195735931396484,82170201,distilroberta-base
-A suit is a type of,clothing.,suit,clothing,6,-3.4384117126464844,82170201,distilroberta-base
-A slack is a type of,clothing.,slack,clothing,7,-9.719230651855469,82170201,distilroberta-base
-A jacket is a type of,clothing.,jacket,clothing,8,-2.934114456176758,82170201,distilroberta-base
-A coat is a type of,clothing.,coat,clothing,9,-2.776012420654297,82170201,distilroberta-base
-A sweater is a type of,clothing.,sweater,clothing,10,-2.9047374725341797,82170201,distilroberta-base
-A sweatshirt is a type of,clothing.,sweatshirt,clothing,11,-3.076449394226074,82170201,distilroberta-base
-An underpant is a type of,clothing.,underpant,clothing,12,-8.878347396850586,82170201,distilroberta-base
-A sports jacket is a type of,clothing.,sports jacket,clothing,13,-2.904789924621582,82170201,distilroberta-base
-A jumper is a type of,clothing.,jumper,clothing,14,-4.481302261352539,82170201,distilroberta-base
-A panty is a type of,clothing.,panty,clothing,15,-3.4660396575927734,82170201,distilroberta-base
-A sock is a type of,clothing.,sock,clothing,16,-5.704628944396973,82170201,distilroberta-base
-A parka is a type of,clothing.,parka,clothing,17,-8.228530883789062,82170201,distilroberta-base
-A pajama is a type of,clothing.,pajama,clothing,18,-4.042667388916016,82170201,distilroberta-base
-An undershirt is a type of,clothing.,undershirt,clothing,19,-3.570423126220703,82170201,distilroberta-base
-An overcoat is a type of,clothing.,overcoat,clothing,20,-4.029722213745117,82170201,distilroberta-base
-A nightgown is a type of,clothing.,nightgown,clothing,21,-5.986634254455566,82170201,distilroberta-base
-A raincoat is a type of,clothing.,raincoat,clothing,22,-3.4740076065063477,82170201,distilroberta-base
-A bathing suit is a type of,clothing.,bathing suit,clothing,23,-3.5214242935180664,82170201,distilroberta-base
-A bathrobe is a type of,clothing.,bathrobe,clothing,24,-3.7252120971679688,82170201,distilroberta-base
-A slip is a type of,clothing.,slip,clothing,25,-8.354347229003906,82170201,distilroberta-base
-A bra is a type of,clothing.,bra,clothing,26,-3.52431583404541,82170201,distilroberta-base
-A shoe is a type of,clothing.,shoe,clothing,27,-3.985114097595215,82170201,distilroberta-base
-A tuxedo is a type of,clothing.,tuxedo,clothing,28,-3.5544862747192383,82170201,distilroberta-base
-A stocking is a type of,clothing.,stocking,clothing,29,-4.430630683898926,82170201,distilroberta-base
-A vest is a type of,clothing.,vest,clothing,30,-2.7739086151123047,82170201,distilroberta-base
-A nylon is a type of,clothing.,nylon,clothing,31,-4.7215118408203125,82170201,distilroberta-base
-A cape is a type of,clothing.,cape,clothing,32,-4.119419097900391,82170201,distilroberta-base
-A boot is a type of,clothing.,boot,clothing,33,-8.323325157165527,82170201,distilroberta-base
-A sandal is a type of,clothing.,sandal,clothing,34,-7.419939041137695,82170201,distilroberta-base
-A tie is a type of,clothing.,tie,clothing,35,-4.81417179107666,82170201,distilroberta-base
-A girdle is a type of,clothing.,girdle,clothing,36,-6.349820137023926,82170201,distilroberta-base
-A belt is a type of,clothing.,belt,clothing,37,-4.5830278396606445,82170201,distilroberta-base
-A scarf is a type of,clothing.,scarf,clothing,38,-3.1318960189819336,82170201,distilroberta-base
-A mitten is a type of,clothing.,mitten,clothing,39,-9.7022123336792,82170201,distilroberta-base
-A slipper is a type of,clothing.,slipper,clothing,40,-5.662262916564941,82170201,distilroberta-base
-A hat is a type of,clothing.,hat,clothing,41,-4.368791580200195,82170201,distilroberta-base
-An overshoe is a type of,clothing.,overshoe,clothing,42,-4.5895795822143555,82170201,distilroberta-base
-A glove is a type of,clothing.,glove,clothing,43,-5.690237045288086,82170201,distilroberta-base
-An apron is a type of,clothing.,apron,clothing,44,-6.440079689025879,82170201,distilroberta-base
-An earmuff is a type of,clothing.,earmuff,clothing,45,-10.240156173706055,82170201,distilroberta-base
-A handkerchief is a type of,clothing.,handkerchief,clothing,46,-4.742060661315918,82170201,distilroberta-base
-A purse is a type of,clothing.,purse,clothing,47,-5.080593109130859,82170201,distilroberta-base
-A hairband is a type of,clothing.,hairband,clothing,48,-4.057873725891113,82170201,distilroberta-base
-A ring is a type of,clothing.,ring,clothing,49,-6.9291672706604,82170201,distilroberta-base
-An earring is a type of,clothing.,earring,clothing,50,-6.484145164489746,82170201,distilroberta-base
-A watch is a type of,clothing.,watch,clothing,51,-5.751936912536621,82170201,distilroberta-base
-A cuff link is a type of,clothing.,cuff link,clothing,52,-6.7947258949279785,82170201,distilroberta-base
-A necklace is a type of,clothing.,necklace,clothing,53,-5.177911758422852,82170201,distilroberta-base
-A bracelet is a type of,clothing.,bracelet,clothing,54,-5.313128471374512,82170201,distilroberta-base
-A cane is a type of,clothing.,cane,clothing,55,-10.941139221191406,82170201,distilroberta-base
+Animals are,toys.,animals,toy,58,-6.539100646972656,82170201,distilroberta-base
+A tennis racket is a,toy.,tennis racket,toy,59,-4.042369842529297,82170201,distilroberta-base
+Books are,toys.,books,toy,60,-8.54887580871582,82170201,distilroberta-base
+A pant is a,clothing.,pant,clothing,1,-9.60155200958252,82170201,distilroberta-base
+A shirt is a,clothing.,shirt,clothing,2,-9.715803146362305,82170201,distilroberta-base
+A dress is a,clothing.,dress,clothing,3,-9.447197914123535,82170201,distilroberta-base
+A skirt is a,clothing.,skirt,clothing,4,-10.802624702453613,82170201,distilroberta-base
+A blouse is a,clothing.,blouse,clothing,5,-9.721548080444336,82170201,distilroberta-base
+A suit is a,clothing.,suit,clothing,6,-10.443796157836914,82170201,distilroberta-base
+A slack is a,clothing.,slack,clothing,7,-14.384045600891113,82170201,distilroberta-base
+A jacket is a,clothing.,jacket,clothing,8,-9.361808776855469,82170201,distilroberta-base
+A coat is a,clothing.,coat,clothing,9,-9.118070602416992,82170201,distilroberta-base
+A sweater is a,clothing.,sweater,clothing,10,-9.73034381866455,82170201,distilroberta-base
+A sweatshirt is a,clothing.,sweatshirt,clothing,11,-9.827692031860352,82170201,distilroberta-base
+An underpant is a,clothing.,underpant,clothing,12,-14.048598289489746,82170201,distilroberta-base
+A sports jacket is a,clothing.,sports jacket,clothing,13,-9.749184608459473,82170201,distilroberta-base
+A jumper is a,clothing.,jumper,clothing,14,-11.077096939086914,82170201,distilroberta-base
+A panty is a,clothing.,panty,clothing,15,-10.076043128967285,82170201,distilroberta-base
+A sock is a,clothing.,sock,clothing,16,-11.396527290344238,82170201,distilroberta-base
+A parka is a,clothing.,parka,clothing,17,-14.17861557006836,82170201,distilroberta-base
+A pajama is a,clothing.,pajama,clothing,18,-10.879703521728516,82170201,distilroberta-base
+An undershirt is a,clothing.,undershirt,clothing,19,-9.737161636352539,82170201,distilroberta-base
+An overcoat is a,clothing.,overcoat,clothing,20,-10.179935455322266,82170201,distilroberta-base
+A nightgown is a,clothing.,nightgown,clothing,21,-13.499608993530273,82170201,distilroberta-base
+A raincoat is a,clothing.,raincoat,clothing,22,-10.234563827514648,82170201,distilroberta-base
+A bathing suit is a,clothing.,bathing suit,clothing,23,-10.718626976013184,82170201,distilroberta-base
+A bathrobe is a,clothing.,bathrobe,clothing,24,-11.082975387573242,82170201,distilroberta-base
+A slip is a,clothing.,slip,clothing,25,-14.492513656616211,82170201,distilroberta-base
+A bra is a,clothing.,bra,clothing,26,-10.89742660522461,82170201,distilroberta-base
+A shoe is a,clothing.,shoe,clothing,27,-10.126592636108398,82170201,distilroberta-base
+A tuxedo is a,clothing.,tuxedo,clothing,28,-10.875194549560547,82170201,distilroberta-base
+A stocking is a,clothing.,stocking,clothing,29,-10.081724166870117,82170201,distilroberta-base
+A vest is a,clothing.,vest,clothing,30,-8.922757148742676,82170201,distilroberta-base
+A nylon is a,clothing.,nylon,clothing,31,-9.554431915283203,82170201,distilroberta-base
+A cape is a,clothing.,cape,clothing,32,-10.824533462524414,82170201,distilroberta-base
+A boot is a,clothing.,boot,clothing,33,-12.596144676208496,82170201,distilroberta-base
+A sandal is a,clothing.,sandal,clothing,34,-12.347894668579102,82170201,distilroberta-base
+A tie is a,clothing.,tie,clothing,35,-14.559887886047363,82170201,distilroberta-base
+A girdle is a,clothing.,girdle,clothing,36,-12.02971076965332,82170201,distilroberta-base
+A belt is a,clothing.,belt,clothing,37,-11.196698188781738,82170201,distilroberta-base
+A scarf is a,clothing.,scarf,clothing,38,-9.874621391296387,82170201,distilroberta-base
+A mitten is a,clothing.,mitten,clothing,39,-13.948661804199219,82170201,distilroberta-base
+A slipper is a,clothing.,slipper,clothing,40,-11.75204849243164,82170201,distilroberta-base
+A hat is a,clothing.,hat,clothing,41,-10.639423370361328,82170201,distilroberta-base
+An overshoe is a,clothing.,overshoe,clothing,42,-11.69504165649414,82170201,distilroberta-base
+A glove is a,clothing.,glove,clothing,43,-11.868408203125,82170201,distilroberta-base
+An apron is a,clothing.,apron,clothing,44,-11.608048439025879,82170201,distilroberta-base
+An earmuff is a,clothing.,earmuff,clothing,45,-13.824943542480469,82170201,distilroberta-base
+A handkerchief is a,clothing.,handkerchief,clothing,46,-11.195404052734375,82170201,distilroberta-base
+A purse is a,clothing.,purse,clothing,47,-11.607071876525879,82170201,distilroberta-base
+A hairband is a,clothing.,hairband,clothing,48,-10.092564582824707,82170201,distilroberta-base
+A ring is a,clothing.,ring,clothing,49,-12.643791198730469,82170201,distilroberta-base
+An earring is a,clothing.,earring,clothing,50,-12.131179809570312,82170201,distilroberta-base
+A watch is a,clothing.,watch,clothing,51,-11.337615966796875,82170201,distilroberta-base
+A cuff link is a,clothing.,cuff link,clothing,52,-12.504161834716797,82170201,distilroberta-base
+A necklace is a,clothing.,necklace,clothing,53,-11.101701736450195,82170201,distilroberta-base
+A bracelet is a,clothing.,bracelet,clothing,54,-10.607858657836914,82170201,distilroberta-base
+A cane is a,clothing.,cane,clothing,55,-14.566502571105957,82170201,distilroberta-base
 A chair is a type of,furniture.,chair,furniture,1,-3.3606395721435547,82170201,distilroberta-base
 A sofa is a type of,furniture.,sofa,furniture,2,-2.3164491653442383,82170201,distilroberta-base
 A couch is a type of,furniture.,couch,furniture,3,-3.3386306762695312,82170201,distilroberta-base

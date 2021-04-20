@@ -170,61 +170,61 @@ A gun is a,toy.,gun,toy,57
 Animals are,toys.,animals,toy,58
 A tennis racket is a,toy.,tennis racket,toy,59
 Books are,toys.,books,toy,60
-A pant is a type of,clothing.,pant,clothing,1
-A shirt is a type of,clothing.,shirt,clothing,2
-A dress is a type of,clothing.,dress,clothing,3
-A skirt is a type of,clothing.,skirt,clothing,4
-A blouse is a type of,clothing.,blouse,clothing,5
-A suit is a type of,clothing.,suit,clothing,6
-A slack is a type of,clothing.,slack,clothing,7
-A jacket is a type of,clothing.,jacket,clothing,8
-A coat is a type of,clothing.,coat,clothing,9
-A sweater is a type of,clothing.,sweater,clothing,10
-A sweatshirt is a type of,clothing.,sweatshirt,clothing,11
-An underpant is a type of,clothing.,underpant,clothing,12
-A sports jacket is a type of,clothing.,sports jacket,clothing,13
-A jumper is a type of,clothing.,jumper,clothing,14
-A panty is a type of,clothing.,panty,clothing,15
-A sock is a type of,clothing.,sock,clothing,16
-A parka is a type of,clothing.,parka,clothing,17
-A pajama is a type of,clothing.,pajama,clothing,18
-An undershirt is a type of,clothing.,undershirt,clothing,19
-An overcoat is a type of,clothing.,overcoat,clothing,20
-A nightgown is a type of,clothing.,nightgown,clothing,21
-A raincoat is a type of,clothing.,raincoat,clothing,22
-A bathing suit is a type of,clothing.,bathing suit,clothing,23
-A bathrobe is a type of,clothing.,bathrobe,clothing,24
-A slip is a type of,clothing.,slip,clothing,25
-A bra is a type of,clothing.,bra,clothing,26
-A shoe is a type of,clothing.,shoe,clothing,27
-A tuxedo is a type of,clothing.,tuxedo,clothing,28
-A stocking is a type of,clothing.,stocking,clothing,29
-A vest is a type of,clothing.,vest,clothing,30
-A nylon is a type of,clothing.,nylon,clothing,31
-A cape is a type of,clothing.,cape,clothing,32
-A boot is a type of,clothing.,boot,clothing,33
-A sandal is a type of,clothing.,sandal,clothing,34
-A tie is a type of,clothing.,tie,clothing,35
-A girdle is a type of,clothing.,girdle,clothing,36
-A belt is a type of,clothing.,belt,clothing,37
-A scarf is a type of,clothing.,scarf,clothing,38
-A mitten is a type of,clothing.,mitten,clothing,39
-A slipper is a type of,clothing.,slipper,clothing,40
-A hat is a type of,clothing.,hat,clothing,41
-An overshoe is a type of,clothing.,overshoe,clothing,42
-A glove is a type of,clothing.,glove,clothing,43
-An apron is a type of,clothing.,apron,clothing,44
-An earmuff is a type of,clothing.,earmuff,clothing,45
-A handkerchief is a type of,clothing.,handkerchief,clothing,46
-A purse is a type of,clothing.,purse,clothing,47
-A hairband is a type of,clothing.,hairband,clothing,48
-A ring is a type of,clothing.,ring,clothing,49
-An earring is a type of,clothing.,earring,clothing,50
-A watch is a type of,clothing.,watch,clothing,51
-A cuff link is a type of,clothing.,cuff link,clothing,52
-A necklace is a type of,clothing.,necklace,clothing,53
-A bracelet is a type of,clothing.,bracelet,clothing,54
-A cane is a type of,clothing.,cane,clothing,55
+A pant is a,clothing.,pant,clothing,1
+A shirt is a,clothing.,shirt,clothing,2
+A dress is a,clothing.,dress,clothing,3
+A skirt is a,clothing.,skirt,clothing,4
+A blouse is a,clothing.,blouse,clothing,5
+A suit is a,clothing.,suit,clothing,6
+A slack is a,clothing.,slack,clothing,7
+A jacket is a,clothing.,jacket,clothing,8
+A coat is a,clothing.,coat,clothing,9
+A sweater is a,clothing.,sweater,clothing,10
+A sweatshirt is a,clothing.,sweatshirt,clothing,11
+An underpant is a,clothing.,underpant,clothing,12
+A sports jacket is a,clothing.,sports jacket,clothing,13
+A jumper is a,clothing.,jumper,clothing,14
+A panty is a,clothing.,panty,clothing,15
+A sock is a,clothing.,sock,clothing,16
+A parka is a,clothing.,parka,clothing,17
+A pajama is a,clothing.,pajama,clothing,18
+An undershirt is a,clothing.,undershirt,clothing,19
+An overcoat is a,clothing.,overcoat,clothing,20
+A nightgown is a,clothing.,nightgown,clothing,21
+A raincoat is a,clothing.,raincoat,clothing,22
+A bathing suit is a,clothing.,bathing suit,clothing,23
+A bathrobe is a,clothing.,bathrobe,clothing,24
+A slip is a,clothing.,slip,clothing,25
+A bra is a,clothing.,bra,clothing,26
+A shoe is a,clothing.,shoe,clothing,27
+A tuxedo is a,clothing.,tuxedo,clothing,28
+A stocking is a,clothing.,stocking,clothing,29
+A vest is a,clothing.,vest,clothing,30
+A nylon is a,clothing.,nylon,clothing,31
+A cape is a,clothing.,cape,clothing,32
+A boot is a,clothing.,boot,clothing,33
+A sandal is a,clothing.,sandal,clothing,34
+A tie is a,clothing.,tie,clothing,35
+A girdle is a,clothing.,girdle,clothing,36
+A belt is a,clothing.,belt,clothing,37
+A scarf is a,clothing.,scarf,clothing,38
+A mitten is a,clothing.,mitten,clothing,39
+A slipper is a,clothing.,slipper,clothing,40
+A hat is a,clothing.,hat,clothing,41
+An overshoe is a,clothing.,overshoe,clothing,42
+A glove is a,clothing.,glove,clothing,43
+An apron is a,clothing.,apron,clothing,44
+An earmuff is a,clothing.,earmuff,clothing,45
+A handkerchief is a,clothing.,handkerchief,clothing,46
+A purse is a,clothing.,purse,clothing,47
+A hairband is a,clothing.,hairband,clothing,48
+A ring is a,clothing.,ring,clothing,49
+An earring is a,clothing.,earring,clothing,50
+A watch is a,clothing.,watch,clothing,51
+A cuff link is a,clothing.,cuff link,clothing,52
+A necklace is a,clothing.,necklace,clothing,53
+A bracelet is a,clothing.,bracelet,clothing,54
+A cane is a,clothing.,cane,clothing,55
 A chair is a type of,furniture.,chair,furniture,1
 A sofa is a type of,furniture.,sofa,furniture,2
 A couch is a type of,furniture.,couch,furniture,3

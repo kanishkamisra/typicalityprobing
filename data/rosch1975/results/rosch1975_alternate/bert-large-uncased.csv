@@ -149,82 +149,82 @@ A game is a,toy.,game,toy,36,-6.497881889343262,335174458,bert-large-uncased
 A swing is a,toy.,swing,toy,37,-9.042762756347656,335174458,bert-large-uncased
 A boat is a,toy.,boat,toy,38,-9.14449405670166,335174458,bert-large-uncased
 A monopoly is a,toy.,monopoly,toy,39,-10.809250831604004,335174458,bert-large-uncased
-A sled is a,toy.,sled,toy,40,-7.472566604614258,335174458,bert-large-uncased
-A seesaw is a,toy.,seesaw,toy,41,-7.603710651397705,335174458,bert-large-uncased
-Stilts are,toys.,stilts,toy,42,-11.254231452941895,335174458,bert-large-uncased
+A sled is a,toy.,sled,toy,40,-7.472571849822998,335174458,bert-large-uncased
+A seesaw is a,toy.,seesaw,toy,41,-7.603707790374756,335174458,bert-large-uncased
+Stilts are,toys.,stilts,toy,42,-11.2542142868042,335174458,bert-large-uncased
 Checkers are,toys.,checkers,toy,43,-10.70727825164795,335174458,bert-large-uncased
-A bat is a,toy.,bat,toy,44,-7.780872821807861,335174458,bert-large-uncased
-A car is a,toy.,car,toy,45,-6.451469898223877,335174458,bert-large-uncased
-An airplane is a,toy.,airplane,toy,46,-6.73352575302124,335174458,bert-large-uncased
-A bicycle is a,toy.,bicycle,toy,47,-6.258235931396484,335174458,bert-large-uncased
-A tractor is a,toy.,tractor,toy,48,-7.037741184234619,335174458,bert-large-uncased
-A sandbox is a,toy.,sandbox,toy,49,-5.542323112487793,335174458,bert-large-uncased
-A bike is a,toy.,bike,toy,50,-5.789509296417236,335174458,bert-large-uncased
-A bow and arrow is a,toy.,bow and arrow,toy,51,-7.158388137817383,335174458,bert-large-uncased
+A bat is a,toy.,bat,toy,44,-7.780869960784912,335174458,bert-large-uncased
+A car is a,toy.,car,toy,45,-6.451473712921143,335174458,bert-large-uncased
+An airplane is a,toy.,airplane,toy,46,-6.733527660369873,335174458,bert-large-uncased
+A bicycle is a,toy.,bicycle,toy,47,-6.25823974609375,335174458,bert-large-uncased
+A tractor is a,toy.,tractor,toy,48,-7.037737846374512,335174458,bert-large-uncased
+A sandbox is a,toy.,sandbox,toy,49,-5.542331218719482,335174458,bert-large-uncased
+A bike is a,toy.,bike,toy,50,-5.789513111114502,335174458,bert-large-uncased
+A bow and arrow is a,toy.,bow and arrow,toy,51,-7.158390998840332,335174458,bert-large-uncased
 A rope is a,toy.,rope,toy,52,-7.808276176452637,335174458,bert-large-uncased
-Dishes are,toys.,dishes,toy,53,-11.752503395080566,335174458,bert-large-uncased
-Cards are,toys.,cards,toy,54,-11.088000297546387,335174458,bert-large-uncased
-A mitt is a,toy.,mitt,toy,55,-6.426657676696777,335174458,bert-large-uncased
-A horse is a,toy.,horse,toy,56,-7.5561065673828125,335174458,bert-large-uncased
-A gun is a,toy.,gun,toy,57,-7.070106029510498,335174458,bert-large-uncased
-Animals are,toys.,animals,toy,58,-7.66162109375,335174458,bert-large-uncased
-A tennis racket is a,toy.,tennis racket,toy,59,-4.408125877380371,335174458,bert-large-uncased
-Books are,toys.,books,toy,60,-10.273993492126465,335174458,bert-large-uncased
-A pant is a type of,clothing.,pant,clothing,1,-3.395702362060547,335174458,bert-large-uncased
-A shirt is a type of,clothing.,shirt,clothing,2,-1.6292428970336914,335174458,bert-large-uncased
-A dress is a type of,clothing.,dress,clothing,3,-1.0395431518554688,335174458,bert-large-uncased
-A skirt is a type of,clothing.,skirt,clothing,4,-3.924201011657715,335174458,bert-large-uncased
-A blouse is a type of,clothing.,blouse,clothing,5,-2.0739450454711914,335174458,bert-large-uncased
-A suit is a type of,clothing.,suit,clothing,6,-0.8590364456176758,335174458,bert-large-uncased
-A slack is a type of,clothing.,slack,clothing,7,-6.6084160804748535,335174458,bert-large-uncased
-A jacket is a type of,clothing.,jacket,clothing,8,-1.833867073059082,335174458,bert-large-uncased
-A coat is a type of,clothing.,coat,clothing,9,-1.6987791061401367,335174458,bert-large-uncased
-A sweater is a type of,clothing.,sweater,clothing,10,-1.9224281311035156,335174458,bert-large-uncased
-A sweatshirt is a type of,clothing.,sweatshirt,clothing,11,-3.1251344680786133,335174458,bert-large-uncased
-An underpant is a type of,clothing.,underpant,clothing,12,-7.1495256423950195,335174458,bert-large-uncased
-A sports jacket is a type of,clothing.,sports jacket,clothing,13,-4.121278762817383,335174458,bert-large-uncased
-A jumper is a type of,clothing.,jumper,clothing,14,-5.453898906707764,335174458,bert-large-uncased
-A panty is a type of,clothing.,panty,clothing,15,-4.888279914855957,335174458,bert-large-uncased
-A sock is a type of,clothing.,sock,clothing,16,-1.966451644897461,335174458,bert-large-uncased
-A parka is a type of,clothing.,parka,clothing,17,-2.2423276901245117,335174458,bert-large-uncased
-A pajama is a type of,clothing.,pajama,clothing,18,-1.5408754348754883,335174458,bert-large-uncased
-An undershirt is a type of,clothing.,undershirt,clothing,19,-2.220597267150879,335174458,bert-large-uncased
-An overcoat is a type of,clothing.,overcoat,clothing,20,-2.3772926330566406,335174458,bert-large-uncased
-A nightgown is a type of,clothing.,nightgown,clothing,21,-1.723663330078125,335174458,bert-large-uncased
-A raincoat is a type of,clothing.,raincoat,clothing,22,-2.124722480773926,335174458,bert-large-uncased
-A bathing suit is a type of,clothing.,bathing suit,clothing,23,-1.5263433456420898,335174458,bert-large-uncased
-A bathrobe is a type of,clothing.,bathrobe,clothing,24,-1.7430877685546875,335174458,bert-large-uncased
-A slip is a type of,clothing.,slip,clothing,25,-4.66342830657959,335174458,bert-large-uncased
-A bra is a type of,clothing.,bra,clothing,26,-3.8758983612060547,335174458,bert-large-uncased
-A shoe is a type of,clothing.,shoe,clothing,27,-1.6558704376220703,335174458,bert-large-uncased
-A tuxedo is a type of,clothing.,tuxedo,clothing,28,-2.1090755462646484,335174458,bert-large-uncased
-A stocking is a type of,clothing.,stocking,clothing,29,-2.34628963470459,335174458,bert-large-uncased
-A vest is a type of,clothing.,vest,clothing,30,-1.9546709060668945,335174458,bert-large-uncased
-A nylon is a type of,clothing.,nylon,clothing,31,-4.599904537200928,335174458,bert-large-uncased
-A cape is a type of,clothing.,cape,clothing,32,-3.493967056274414,335174458,bert-large-uncased
-A boot is a type of,clothing.,boot,clothing,33,-4.6429548263549805,335174458,bert-large-uncased
-A sandal is a type of,clothing.,sandal,clothing,34,-5.375170707702637,335174458,bert-large-uncased
-A tie is a type of,clothing.,tie,clothing,35,-3.6162519454956055,335174458,bert-large-uncased
-A girdle is a type of,clothing.,girdle,clothing,36,-3.845762252807617,335174458,bert-large-uncased
-A belt is a type of,clothing.,belt,clothing,37,-4.731260776519775,335174458,bert-large-uncased
-A scarf is a type of,clothing.,scarf,clothing,38,-2.36820125579834,335174458,bert-large-uncased
-A mitten is a type of,clothing.,mitten,clothing,39,-4.005949020385742,335174458,bert-large-uncased
-A slipper is a type of,clothing.,slipper,clothing,40,-3.207916259765625,335174458,bert-large-uncased
-A hat is a type of,clothing.,hat,clothing,41,-3.824016571044922,335174458,bert-large-uncased
-An overshoe is a type of,clothing.,overshoe,clothing,42,-8.220489501953125,335174458,bert-large-uncased
-A glove is a type of,clothing.,glove,clothing,43,-4.033123016357422,335174458,bert-large-uncased
-An apron is a type of,clothing.,apron,clothing,44,-2.1479644775390625,335174458,bert-large-uncased
-An earmuff is a type of,clothing.,earmuff,clothing,45,-3.1322593688964844,335174458,bert-large-uncased
-A handkerchief is a type of,clothing.,handkerchief,clothing,46,-3.5115957260131836,335174458,bert-large-uncased
-A purse is a type of,clothing.,purse,clothing,47,-4.225579261779785,335174458,bert-large-uncased
-A hairband is a type of,clothing.,hairband,clothing,48,-4.522957801818848,335174458,bert-large-uncased
-A ring is a type of,clothing.,ring,clothing,49,-8.891708374023438,335174458,bert-large-uncased
-An earring is a type of,clothing.,earring,clothing,50,-9.166210174560547,335174458,bert-large-uncased
-A watch is a type of,clothing.,watch,clothing,51,-9.256446838378906,335174458,bert-large-uncased
-A cuff link is a type of,clothing.,cuff link,clothing,52,-7.585358142852783,335174458,bert-large-uncased
-A necklace is a type of,clothing.,necklace,clothing,53,-6.668032646179199,335174458,bert-large-uncased
-A bracelet is a type of,clothing.,bracelet,clothing,54,-5.887402534484863,335174458,bert-large-uncased
-A cane is a type of,clothing.,cane,clothing,55,-6.020525932312012,335174458,bert-large-uncased
+Dishes are,toys.,dishes,toy,53,-11.752500534057617,335174458,bert-large-uncased
+Cards are,toys.,cards,toy,54,-11.08800220489502,335174458,bert-large-uncased
+A mitt is a,toy.,mitt,toy,55,-6.426670074462891,335174458,bert-large-uncased
+A horse is a,toy.,horse,toy,56,-7.556106090545654,335174458,bert-large-uncased
+A gun is a,toy.,gun,toy,57,-7.070104122161865,335174458,bert-large-uncased
+Animals are,toys.,animals,toy,58,-7.661620616912842,335174458,bert-large-uncased
+A tennis racket is a,toy.,tennis racket,toy,59,-4.408115386962891,335174458,bert-large-uncased
+Books are,toys.,books,toy,60,-10.273991584777832,335174458,bert-large-uncased
+A pant is a,clothing.,pant,clothing,1,-7.1133599281311035,335174458,bert-large-uncased
+A shirt is a,clothing.,shirt,clothing,2,-7.708779811859131,335174458,bert-large-uncased
+A dress is a,clothing.,dress,clothing,3,-9.741626739501953,335174458,bert-large-uncased
+A skirt is a,clothing.,skirt,clothing,4,-8.352893829345703,335174458,bert-large-uncased
+A blouse is a,clothing.,blouse,clothing,5,-8.875154495239258,335174458,bert-large-uncased
+A suit is a,clothing.,suit,clothing,6,-6.221617221832275,335174458,bert-large-uncased
+A slack is a,clothing.,slack,clothing,7,-13.27558422088623,335174458,bert-large-uncased
+A jacket is a,clothing.,jacket,clothing,8,-7.552163600921631,335174458,bert-large-uncased
+A coat is a,clothing.,coat,clothing,9,-5.840922832489014,335174458,bert-large-uncased
+A sweater is a,clothing.,sweater,clothing,10,-10.808524131774902,335174458,bert-large-uncased
+A sweatshirt is a,clothing.,sweatshirt,clothing,11,-11.38496208190918,335174458,bert-large-uncased
+An underpant is a,clothing.,underpant,clothing,12,-11.919205665588379,335174458,bert-large-uncased
+A sports jacket is a,clothing.,sports jacket,clothing,13,-6.790593147277832,335174458,bert-large-uncased
+A jumper is a,clothing.,jumper,clothing,14,-11.383753776550293,335174458,bert-large-uncased
+A panty is a,clothing.,panty,clothing,15,-6.9864702224731445,335174458,bert-large-uncased
+A sock is a,clothing.,sock,clothing,16,-10.349946975708008,335174458,bert-large-uncased
+A parka is a,clothing.,parka,clothing,17,-5.995187282562256,335174458,bert-large-uncased
+A pajama is a,clothing.,pajama,clothing,18,-5.539316654205322,335174458,bert-large-uncased
+An undershirt is a,clothing.,undershirt,clothing,19,-6.726376533508301,335174458,bert-large-uncased
+An overcoat is a,clothing.,overcoat,clothing,20,-7.469345569610596,335174458,bert-large-uncased
+A nightgown is a,clothing.,nightgown,clothing,21,-5.2708845138549805,335174458,bert-large-uncased
+A raincoat is a,clothing.,raincoat,clothing,22,-8.184760093688965,335174458,bert-large-uncased
+A bathing suit is a,clothing.,bathing suit,clothing,23,-6.463039875030518,335174458,bert-large-uncased
+A bathrobe is a,clothing.,bathrobe,clothing,24,-5.568115711212158,335174458,bert-large-uncased
+A slip is a,clothing.,slip,clothing,25,-15.611577033996582,335174458,bert-large-uncased
+A bra is a,clothing.,bra,clothing,26,-7.7185378074646,335174458,bert-large-uncased
+A shoe is a,clothing.,shoe,clothing,27,-9.141674041748047,335174458,bert-large-uncased
+A tuxedo is a,clothing.,tuxedo,clothing,28,-6.33500337600708,335174458,bert-large-uncased
+A stocking is a,clothing.,stocking,clothing,29,-4.979830741882324,335174458,bert-large-uncased
+A vest is a,clothing.,vest,clothing,30,-5.97157096862793,335174458,bert-large-uncased
+A nylon is a,clothing.,nylon,clothing,31,-8.797388076782227,335174458,bert-large-uncased
+A cape is a,clothing.,cape,clothing,32,-9.605018615722656,335174458,bert-large-uncased
+A boot is a,clothing.,boot,clothing,33,-11.86888599395752,335174458,bert-large-uncased
+A sandal is a,clothing.,sandal,clothing,34,-9.052627563476562,335174458,bert-large-uncased
+A tie is a,clothing.,tie,clothing,35,-8.42662239074707,335174458,bert-large-uncased
+A girdle is a,clothing.,girdle,clothing,36,-8.17348575592041,335174458,bert-large-uncased
+A belt is a,clothing.,belt,clothing,37,-7.878744602203369,335174458,bert-large-uncased
+A scarf is a,clothing.,scarf,clothing,38,-7.970439434051514,335174458,bert-large-uncased
+A mitten is a,clothing.,mitten,clothing,39,-8.15967082977295,335174458,bert-large-uncased
+A slipper is a,clothing.,slipper,clothing,40,-7.915499210357666,335174458,bert-large-uncased
+A hat is a,clothing.,hat,clothing,41,-8.260955810546875,335174458,bert-large-uncased
+An overshoe is a,clothing.,overshoe,clothing,42,-11.016456604003906,335174458,bert-large-uncased
+A glove is a,clothing.,glove,clothing,43,-9.33914566040039,335174458,bert-large-uncased
+An apron is a,clothing.,apron,clothing,44,-8.088554382324219,335174458,bert-large-uncased
+An earmuff is a,clothing.,earmuff,clothing,45,-8.959603309631348,335174458,bert-large-uncased
+A handkerchief is a,clothing.,handkerchief,clothing,46,-8.548080444335938,335174458,bert-large-uncased
+A purse is a,clothing.,purse,clothing,47,-9.05997085571289,335174458,bert-large-uncased
+A hairband is a,clothing.,hairband,clothing,48,-9.075897216796875,335174458,bert-large-uncased
+A ring is a,clothing.,ring,clothing,49,-12.019048690795898,335174458,bert-large-uncased
+An earring is a,clothing.,earring,clothing,50,-10.631603240966797,335174458,bert-large-uncased
+A watch is a,clothing.,watch,clothing,51,-12.608242988586426,335174458,bert-large-uncased
+A cuff link is a,clothing.,cuff link,clothing,52,-10.8013916015625,335174458,bert-large-uncased
+A necklace is a,clothing.,necklace,clothing,53,-8.833139419555664,335174458,bert-large-uncased
+A bracelet is a,clothing.,bracelet,clothing,54,-9.828250885009766,335174458,bert-large-uncased
+A cane is a,clothing.,cane,clothing,55,-10.669713020324707,335174458,bert-large-uncased
 A chair is a type of,furniture.,chair,furniture,1,-2.2602672576904297,335174458,bert-large-uncased
 A sofa is a type of,furniture.,sofa,furniture,2,-1.5943269729614258,335174458,bert-large-uncased
 A couch is a type of,furniture.,couch,furniture,3,-2.1497230529785156,335174458,bert-large-uncased

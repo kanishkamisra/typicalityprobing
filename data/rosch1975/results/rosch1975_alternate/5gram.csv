@@ -170,61 +170,61 @@ A gun is a,toy.,gun,toy,57,-4.116311550140381,0,5gram
 Animals are,toys.,animals,toy,58,-6.769426465034485,0,5gram
 A tennis racket is a,toy.,tennis racket,toy,59,-5.743730902671814,0,5gram
 Books are,toys.,books,toy,60,-6.775330662727356,0,5gram
-A pant is a type of,clothing.,pant,clothing,1,-4.250643312931061,0,5gram
-A shirt is a type of,clothing.,shirt,clothing,2,-4.250643312931061,0,5gram
-A dress is a type of,clothing.,dress,clothing,3,-4.250643312931061,0,5gram
-A skirt is a type of,clothing.,skirt,clothing,4,-4.250643312931061,0,5gram
-A blouse is a type of,clothing.,blouse,clothing,5,-4.250643312931061,0,5gram
-A suit is a type of,clothing.,suit,clothing,6,-4.250643312931061,0,5gram
-A slack is a type of,clothing.,slack,clothing,7,-4.250643312931061,0,5gram
-A jacket is a type of,clothing.,jacket,clothing,8,-4.250643312931061,0,5gram
-A coat is a type of,clothing.,coat,clothing,9,-4.250643312931061,0,5gram
-A sweater is a type of,clothing.,sweater,clothing,10,-4.250643312931061,0,5gram
-A sweatshirt is a type of,clothing.,sweatshirt,clothing,11,-4.250643312931061,0,5gram
-An underpant is a type of,clothing.,underpant,clothing,12,-4.250643312931061,0,5gram
-A sports jacket is a type of,clothing.,sports jacket,clothing,13,-4.250643312931061,0,5gram
-A jumper is a type of,clothing.,jumper,clothing,14,-4.250643312931061,0,5gram
-A panty is a type of,clothing.,panty,clothing,15,-4.250643312931061,0,5gram
-A sock is a type of,clothing.,sock,clothing,16,-4.250643312931061,0,5gram
-A parka is a type of,clothing.,parka,clothing,17,-4.250643312931061,0,5gram
-A pajama is a type of,clothing.,pajama,clothing,18,-4.250643312931061,0,5gram
-An undershirt is a type of,clothing.,undershirt,clothing,19,-4.250643312931061,0,5gram
-An overcoat is a type of,clothing.,overcoat,clothing,20,-4.250643312931061,0,5gram
-A nightgown is a type of,clothing.,nightgown,clothing,21,-4.250643312931061,0,5gram
-A raincoat is a type of,clothing.,raincoat,clothing,22,-4.250643312931061,0,5gram
-A bathing suit is a type of,clothing.,bathing suit,clothing,23,-4.250643312931061,0,5gram
-A bathrobe is a type of,clothing.,bathrobe,clothing,24,-4.250643312931061,0,5gram
-A slip is a type of,clothing.,slip,clothing,25,-4.250643312931061,0,5gram
-A bra is a type of,clothing.,bra,clothing,26,-4.250643312931061,0,5gram
-A shoe is a type of,clothing.,shoe,clothing,27,-4.250643312931061,0,5gram
-A tuxedo is a type of,clothing.,tuxedo,clothing,28,-4.250643312931061,0,5gram
-A stocking is a type of,clothing.,stocking,clothing,29,-4.250643312931061,0,5gram
-A vest is a type of,clothing.,vest,clothing,30,-4.250643312931061,0,5gram
-A nylon is a type of,clothing.,nylon,clothing,31,-4.250643312931061,0,5gram
-A cape is a type of,clothing.,cape,clothing,32,-4.250643312931061,0,5gram
-A boot is a type of,clothing.,boot,clothing,33,-4.250643312931061,0,5gram
-A sandal is a type of,clothing.,sandal,clothing,34,-4.250643312931061,0,5gram
-A tie is a type of,clothing.,tie,clothing,35,-4.250643312931061,0,5gram
-A girdle is a type of,clothing.,girdle,clothing,36,-4.250643312931061,0,5gram
-A belt is a type of,clothing.,belt,clothing,37,-4.250643312931061,0,5gram
-A scarf is a type of,clothing.,scarf,clothing,38,-4.250643312931061,0,5gram
-A mitten is a type of,clothing.,mitten,clothing,39,-4.250643312931061,0,5gram
-A slipper is a type of,clothing.,slipper,clothing,40,-4.250643312931061,0,5gram
-A hat is a type of,clothing.,hat,clothing,41,-4.250643312931061,0,5gram
-An overshoe is a type of,clothing.,overshoe,clothing,42,-4.250643312931061,0,5gram
-A glove is a type of,clothing.,glove,clothing,43,-4.250643312931061,0,5gram
-An apron is a type of,clothing.,apron,clothing,44,-4.250643312931061,0,5gram
-An earmuff is a type of,clothing.,earmuff,clothing,45,-4.250643312931061,0,5gram
-A handkerchief is a type of,clothing.,handkerchief,clothing,46,-4.250643312931061,0,5gram
-A purse is a type of,clothing.,purse,clothing,47,-4.250643312931061,0,5gram
-A hairband is a type of,clothing.,hairband,clothing,48,-4.250643312931061,0,5gram
-A ring is a type of,clothing.,ring,clothing,49,-4.250643312931061,0,5gram
-An earring is a type of,clothing.,earring,clothing,50,-4.250643312931061,0,5gram
-A watch is a type of,clothing.,watch,clothing,51,-4.250643312931061,0,5gram
-A cuff link is a type of,clothing.,cuff link,clothing,52,-4.250643312931061,0,5gram
-A necklace is a type of,clothing.,necklace,clothing,53,-4.250643312931061,0,5gram
-A bracelet is a type of,clothing.,bracelet,clothing,54,-4.250643312931061,0,5gram
-A cane is a type of,clothing.,cane,clothing,55,-4.250643312931061,0,5gram
+A pant is a,clothing.,pant,clothing,1,-6.905824661254883,0,5gram
+A shirt is a,clothing.,shirt,clothing,2,-6.960608959197998,0,5gram
+A dress is a,clothing.,dress,clothing,3,-5.731642246246338,0,5gram
+A skirt is a,clothing.,skirt,clothing,4,-6.895302772521973,0,5gram
+A blouse is a,clothing.,blouse,clothing,5,-6.908908843994141,0,5gram
+A suit is a,clothing.,suit,clothing,6,-7.062770366668701,0,5gram
+A slack is a,clothing.,slack,clothing,7,-6.8535284996032715,0,5gram
+A jacket is a,clothing.,jacket,clothing,8,-5.50365138053894,0,5gram
+A coat is a,clothing.,coat,clothing,9,-6.962357997894287,0,5gram
+A sweater is a,clothing.,sweater,clothing,10,-6.8535284996032715,0,5gram
+A sweatshirt is a,clothing.,sweatshirt,clothing,11,-6.8535284996032715,0,5gram
+An underpant is a,clothing.,underpant,clothing,12,-6.800211429595947,0,5gram
+A sports jacket is a,clothing.,sports jacket,clothing,13,-5.448271036148071,0,5gram
+A jumper is a,clothing.,jumper,clothing,14,-7.083333969116211,0,5gram
+A panty is a,clothing.,panty,clothing,15,-6.800211429595947,0,5gram
+A sock is a,clothing.,sock,clothing,16,-6.932948589324951,0,5gram
+A parka is a,clothing.,parka,clothing,17,-6.861827373504639,0,5gram
+A pajama is a,clothing.,pajama,clothing,18,-6.800211429595947,0,5gram
+An undershirt is a,clothing.,undershirt,clothing,19,-6.800211429595947,0,5gram
+An overcoat is a,clothing.,overcoat,clothing,20,-6.986722469329834,0,5gram
+A nightgown is a,clothing.,nightgown,clothing,21,-6.8535284996032715,0,5gram
+A raincoat is a,clothing.,raincoat,clothing,22,-7.018169403076172,0,5gram
+A bathing suit is a,clothing.,bathing suit,clothing,23,-6.961389064788818,0,5gram
+A bathrobe is a,clothing.,bathrobe,clothing,24,-6.908908843994141,0,5gram
+A slip is a,clothing.,slip,clothing,25,-6.942565441131592,0,5gram
+A bra is a,clothing.,bra,clothing,26,-6.951757431030273,0,5gram
+A shoe is a,clothing.,shoe,clothing,27,-7.020306587219238,0,5gram
+A tuxedo is a,clothing.,tuxedo,clothing,28,-6.908908843994141,0,5gram
+A stocking is a,clothing.,stocking,clothing,29,-6.8535284996032715,0,5gram
+A vest is a,clothing.,vest,clothing,30,-6.8661274909973145,0,5gram
+A nylon is a,clothing.,nylon,clothing,31,-6.868074893951416,0,5gram
+A cape is a,clothing.,cape,clothing,32,-7.091255187988281,0,5gram
+A boot is a,clothing.,boot,clothing,33,-7.012331962585449,0,5gram
+A sandal is a,clothing.,sandal,clothing,34,-6.938009262084961,0,5gram
+A tie is a,clothing.,tie,clothing,35,-6.958498954772949,0,5gram
+A girdle is a,clothing.,girdle,clothing,36,-7.01890230178833,0,5gram
+A belt is a,clothing.,belt,clothing,37,-7.036426067352295,0,5gram
+A scarf is a,clothing.,scarf,clothing,38,-7.01890230178833,0,5gram
+A mitten is a,clothing.,mitten,clothing,39,-6.908908843994141,0,5gram
+A slipper is a,clothing.,slipper,clothing,40,-6.922089576721191,0,5gram
+A hat is a,clothing.,hat,clothing,41,-7.196141242980957,0,5gram
+An overshoe is a,clothing.,overshoe,clothing,42,-6.800211429595947,0,5gram
+A glove is a,clothing.,glove,clothing,43,-7.02953577041626,0,5gram
+An apron is a,clothing.,apron,clothing,44,-6.908908843994141,0,5gram
+An earmuff is a,clothing.,earmuff,clothing,45,-6.800211429595947,0,5gram
+A handkerchief is a,clothing.,handkerchief,clothing,46,-7.0339155197143555,0,5gram
+A purse is a,clothing.,purse,clothing,47,-6.938453197479248,0,5gram
+A hairband is a,clothing.,hairband,clothing,48,-6.800211429595947,0,5gram
+A ring is a,clothing.,ring,clothing,49,-7.122066497802734,0,5gram
+An earring is a,clothing.,earring,clothing,50,-6.908908843994141,0,5gram
+A watch is a,clothing.,watch,clothing,51,-7.045183181762695,0,5gram
+A cuff link is a,clothing.,cuff link,clothing,52,-6.962815284729004,0,5gram
+A necklace is a,clothing.,necklace,clothing,53,-7.06809139251709,0,5gram
+A bracelet is a,clothing.,bracelet,clothing,54,-6.934127330780029,0,5gram
+A cane is a,clothing.,cane,clothing,55,-6.981725692749023,0,5gram
 A chair is a type of,furniture.,chair,furniture,1,-4.491803765296936,0,5gram
 A sofa is a type of,furniture.,sofa,furniture,2,-4.491803765296936,0,5gram
 A couch is a type of,furniture.,couch,furniture,3,-4.491803765296936,0,5gram

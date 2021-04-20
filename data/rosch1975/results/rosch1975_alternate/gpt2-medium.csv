@@ -149,82 +149,82 @@ A game is a,toy.,game,toy,36,-7.126091003417969,354824192,gpt2-medium
 A swing is a,toy.,swing,toy,37,-9.152046203613281,354824192,gpt2-medium
 A boat is a,toy.,boat,toy,38,-6.806884765625,354824192,gpt2-medium
 A monopoly is a,toy.,monopoly,toy,39,-11.33367919921875,354824192,gpt2-medium
-A sled is a,toy.,sled,toy,40,-5.631095886230469,354824192,gpt2-medium
-A seesaw is a,toy.,seesaw,toy,41,-7.7774200439453125,354824192,gpt2-medium
-Stilts are,toys.,stilts,toy,42,-9.320640563964844,354824192,gpt2-medium
-Checkers are,toys.,checkers,toy,43,-12.647361755371094,354824192,gpt2-medium
+A sled is a,toy.,sled,toy,40,-5.631080627441406,354824192,gpt2-medium
+A seesaw is a,toy.,seesaw,toy,41,-7.777412414550781,354824192,gpt2-medium
+Stilts are,toys.,stilts,toy,42,-9.32064437866211,354824192,gpt2-medium
+Checkers are,toys.,checkers,toy,43,-12.6473388671875,354824192,gpt2-medium
 A bat is a,toy.,bat,toy,44,-7.247337341308594,354824192,gpt2-medium
-A car is a,toy.,car,toy,45,-5.961448669433594,354824192,gpt2-medium
-An airplane is a,toy.,airplane,toy,46,-6.3005218505859375,354824192,gpt2-medium
-A bicycle is a,toy.,bicycle,toy,47,-5.736083984375,354824192,gpt2-medium
+A car is a,toy.,car,toy,45,-5.961456298828125,354824192,gpt2-medium
+An airplane is a,toy.,airplane,toy,46,-6.300537109375,354824192,gpt2-medium
+A bicycle is a,toy.,bicycle,toy,47,-5.736091613769531,354824192,gpt2-medium
 A tractor is a,toy.,tractor,toy,48,-7.874870300292969,354824192,gpt2-medium
-A sandbox is a,toy.,sandbox,toy,49,-7.2938079833984375,354824192,gpt2-medium
-A bike is a,toy.,bike,toy,50,-5.565330505371094,354824192,gpt2-medium
-A bow and arrow is a,toy.,bow and arrow,toy,51,-7.140411376953125,354824192,gpt2-medium
-A rope is a,toy.,rope,toy,52,-7.972465515136719,354824192,gpt2-medium
-Dishes are,toys.,dishes,toy,53,-11.355262756347656,354824192,gpt2-medium
-Cards are,toys.,cards,toy,54,-9.855453491210938,354824192,gpt2-medium
-A mitt is a,toy.,mitt,toy,55,-7.440788269042969,354824192,gpt2-medium
+A sandbox is a,toy.,sandbox,toy,49,-7.293815612792969,354824192,gpt2-medium
+A bike is a,toy.,bike,toy,50,-5.565338134765625,354824192,gpt2-medium
+A bow and arrow is a,toy.,bow and arrow,toy,51,-7.140403747558594,354824192,gpt2-medium
+A rope is a,toy.,rope,toy,52,-7.9724578857421875,354824192,gpt2-medium
+Dishes are,toys.,dishes,toy,53,-11.355255126953125,354824192,gpt2-medium
+Cards are,toys.,cards,toy,54,-9.855445861816406,354824192,gpt2-medium
+A mitt is a,toy.,mitt,toy,55,-7.4407958984375,354824192,gpt2-medium
 A horse is a,toy.,horse,toy,56,-6.383811950683594,354824192,gpt2-medium
 A gun is a,toy.,gun,toy,57,-5.433258056640625,354824192,gpt2-medium
-Animals are,toys.,animals,toy,58,-9.522865295410156,354824192,gpt2-medium
+Animals are,toys.,animals,toy,58,-9.522857666015625,354824192,gpt2-medium
 A tennis racket is a,toy.,tennis racket,toy,59,-5.1794281005859375,354824192,gpt2-medium
-Books are,toys.,books,toy,60,-8.984016418457031,354824192,gpt2-medium
-A pant is a type of,clothing.,pant,clothing,1,-2.2837905883789062,354824192,gpt2-medium
-A shirt is a type of,clothing.,shirt,clothing,2,-1.5602188110351562,354824192,gpt2-medium
-A dress is a type of,clothing.,dress,clothing,3,-2.2408981323242188,354824192,gpt2-medium
-A skirt is a type of,clothing.,skirt,clothing,4,-2.7937774658203125,354824192,gpt2-medium
-A blouse is a type of,clothing.,blouse,clothing,5,-2.3809356689453125,354824192,gpt2-medium
-A suit is a type of,clothing.,suit,clothing,6,-5.5319366455078125,354824192,gpt2-medium
-A slack is a type of,clothing.,slack,clothing,7,-9.507713317871094,354824192,gpt2-medium
-A jacket is a type of,clothing.,jacket,clothing,8,-1.6013412475585938,354824192,gpt2-medium
-A coat is a type of,clothing.,coat,clothing,9,-2.0929718017578125,354824192,gpt2-medium
-A sweater is a type of,clothing.,sweater,clothing,10,-1.8514633178710938,354824192,gpt2-medium
-A sweatshirt is a type of,clothing.,sweatshirt,clothing,11,-1.13427734375,354824192,gpt2-medium
-An underpant is a type of,clothing.,underpant,clothing,12,-3.5981521606445312,354824192,gpt2-medium
-A sports jacket is a type of,clothing.,sports jacket,clothing,13,-2.1676712036132812,354824192,gpt2-medium
-A jumper is a type of,clothing.,jumper,clothing,14,-4.9942169189453125,354824192,gpt2-medium
-A panty is a type of,clothing.,panty,clothing,15,-2.85784912109375,354824192,gpt2-medium
-A sock is a type of,clothing.,sock,clothing,16,-2.4464797973632812,354824192,gpt2-medium
-A parka is a type of,clothing.,parka,clothing,17,-1.981842041015625,354824192,gpt2-medium
-A pajama is a type of,clothing.,pajama,clothing,18,-2.5096282958984375,354824192,gpt2-medium
-An undershirt is a type of,clothing.,undershirt,clothing,19,-1.65313720703125,354824192,gpt2-medium
-An overcoat is a type of,clothing.,overcoat,clothing,20,-1.9750442504882812,354824192,gpt2-medium
-A nightgown is a type of,clothing.,nightgown,clothing,21,-2.5639266967773438,354824192,gpt2-medium
-A raincoat is a type of,clothing.,raincoat,clothing,22,-1.9677810668945312,354824192,gpt2-medium
-A bathing suit is a type of,clothing.,bathing suit,clothing,23,-2.1491546630859375,354824192,gpt2-medium
-A bathrobe is a type of,clothing.,bathrobe,clothing,24,-1.8514556884765625,354824192,gpt2-medium
-A slip is a type of,clothing.,slip,clothing,25,-7.983497619628906,354824192,gpt2-medium
-A bra is a type of,clothing.,bra,clothing,26,-3.09564208984375,354824192,gpt2-medium
-A shoe is a type of,clothing.,shoe,clothing,27,-4.1145782470703125,354824192,gpt2-medium
-A tuxedo is a type of,clothing.,tuxedo,clothing,28,-3.5823745727539062,354824192,gpt2-medium
-A stocking is a type of,clothing.,stocking,clothing,29,-2.9493255615234375,354824192,gpt2-medium
-A vest is a type of,clothing.,vest,clothing,30,-2.680084228515625,354824192,gpt2-medium
-A nylon is a type of,clothing.,nylon,clothing,31,-5.0055694580078125,354824192,gpt2-medium
-A cape is a type of,clothing.,cape,clothing,32,-2.8669586181640625,354824192,gpt2-medium
-A boot is a type of,clothing.,boot,clothing,33,-4.154808044433594,354824192,gpt2-medium
-A sandal is a type of,clothing.,sandal,clothing,34,-5.3014373779296875,354824192,gpt2-medium
-A tie is a type of,clothing.,tie,clothing,35,-7.02520751953125,354824192,gpt2-medium
-A girdle is a type of,clothing.,girdle,clothing,36,-2.993316650390625,354824192,gpt2-medium
-A belt is a type of,clothing.,belt,clothing,37,-3.7639312744140625,354824192,gpt2-medium
-A scarf is a type of,clothing.,scarf,clothing,38,-2.815093994140625,354824192,gpt2-medium
-A mitten is a type of,clothing.,mitten,clothing,39,-4.830558776855469,354824192,gpt2-medium
-A slipper is a type of,clothing.,slipper,clothing,40,-3.4510498046875,354824192,gpt2-medium
-A hat is a type of,clothing.,hat,clothing,41,-2.8628997802734375,354824192,gpt2-medium
-An overshoe is a type of,clothing.,overshoe,clothing,42,-6.192298889160156,354824192,gpt2-medium
-A glove is a type of,clothing.,glove,clothing,43,-3.1317062377929688,354824192,gpt2-medium
-An apron is a type of,clothing.,apron,clothing,44,-2.4725875854492188,354824192,gpt2-medium
-An earmuff is a type of,clothing.,earmuff,clothing,45,-6.1747283935546875,354824192,gpt2-medium
-A handkerchief is a type of,clothing.,handkerchief,clothing,46,-4.0764617919921875,354824192,gpt2-medium
-A purse is a type of,clothing.,purse,clothing,47,-3.8194046020507812,354824192,gpt2-medium
-A hairband is a type of,clothing.,hairband,clothing,48,-3.7671279907226562,354824192,gpt2-medium
-A ring is a type of,clothing.,ring,clothing,49,-5.9002532958984375,354824192,gpt2-medium
-An earring is a type of,clothing.,earring,clothing,50,-6.601890563964844,354824192,gpt2-medium
-A watch is a type of,clothing.,watch,clothing,51,-5.1940460205078125,354824192,gpt2-medium
-A cuff link is a type of,clothing.,cuff link,clothing,52,-5.992156982421875,354824192,gpt2-medium
-A necklace is a type of,clothing.,necklace,clothing,53,-4.6907958984375,354824192,gpt2-medium
-A bracelet is a type of,clothing.,bracelet,clothing,54,-4.707008361816406,354824192,gpt2-medium
-A cane is a type of,clothing.,cane,clothing,55,-8.592453002929688,354824192,gpt2-medium
+Books are,toys.,books,toy,60,-8.984031677246094,354824192,gpt2-medium
+A pant is a,clothing.,pant,clothing,1,-4.632957458496094,354824192,gpt2-medium
+A shirt is a,clothing.,shirt,clothing,2,-5.173271179199219,354824192,gpt2-medium
+A dress is a,clothing.,dress,clothing,3,-5.7078857421875,354824192,gpt2-medium
+A skirt is a,clothing.,skirt,clothing,4,-5.600883483886719,354824192,gpt2-medium
+A blouse is a,clothing.,blouse,clothing,5,-4.981254577636719,354824192,gpt2-medium
+A suit is a,clothing.,suit,clothing,6,-8.841873168945312,354824192,gpt2-medium
+A slack is a,clothing.,slack,clothing,7,-10.969024658203125,354824192,gpt2-medium
+A jacket is a,clothing.,jacket,clothing,8,-4.511932373046875,354824192,gpt2-medium
+A coat is a,clothing.,coat,clothing,9,-4.958251953125,354824192,gpt2-medium
+A sweater is a,clothing.,sweater,clothing,10,-4.7283935546875,354824192,gpt2-medium
+A sweatshirt is a,clothing.,sweatshirt,clothing,11,-3.9769821166992188,354824192,gpt2-medium
+An underpant is a,clothing.,underpant,clothing,12,-5.105033874511719,354824192,gpt2-medium
+A sports jacket is a,clothing.,sports jacket,clothing,13,-4.728782653808594,354824192,gpt2-medium
+A jumper is a,clothing.,jumper,clothing,14,-7.215446472167969,354824192,gpt2-medium
+A panty is a,clothing.,panty,clothing,15,-5.093620300292969,354824192,gpt2-medium
+A sock is a,clothing.,sock,clothing,16,-5.434349060058594,354824192,gpt2-medium
+A parka is a,clothing.,parka,clothing,17,-4.4192047119140625,354824192,gpt2-medium
+A pajama is a,clothing.,pajama,clothing,18,-4.670555114746094,354824192,gpt2-medium
+An undershirt is a,clothing.,undershirt,clothing,19,-3.896148681640625,354824192,gpt2-medium
+An overcoat is a,clothing.,overcoat,clothing,20,-4.0586395263671875,354824192,gpt2-medium
+A nightgown is a,clothing.,nightgown,clothing,21,-4.6669769287109375,354824192,gpt2-medium
+A raincoat is a,clothing.,raincoat,clothing,22,-4.4849090576171875,354824192,gpt2-medium
+A bathing suit is a,clothing.,bathing suit,clothing,23,-4.4857025146484375,354824192,gpt2-medium
+A bathrobe is a,clothing.,bathrobe,clothing,24,-4.594261169433594,354824192,gpt2-medium
+A slip is a,clothing.,slip,clothing,25,-10.494392395019531,354824192,gpt2-medium
+A bra is a,clothing.,bra,clothing,26,-5.589088439941406,354824192,gpt2-medium
+A shoe is a,clothing.,shoe,clothing,27,-6.8549346923828125,354824192,gpt2-medium
+A tuxedo is a,clothing.,tuxedo,clothing,28,-5.593040466308594,354824192,gpt2-medium
+A stocking is a,clothing.,stocking,clothing,29,-5.917930603027344,354824192,gpt2-medium
+A vest is a,clothing.,vest,clothing,30,-4.885658264160156,354824192,gpt2-medium
+A nylon is a,clothing.,nylon,clothing,31,-7.570884704589844,354824192,gpt2-medium
+A cape is a,clothing.,cape,clothing,32,-4.8704071044921875,354824192,gpt2-medium
+A boot is a,clothing.,boot,clothing,33,-6.807380676269531,354824192,gpt2-medium
+A sandal is a,clothing.,sandal,clothing,34,-6.450325012207031,354824192,gpt2-medium
+A tie is a,clothing.,tie,clothing,35,-10.801063537597656,354824192,gpt2-medium
+A girdle is a,clothing.,girdle,clothing,36,-4.876800537109375,354824192,gpt2-medium
+A belt is a,clothing.,belt,clothing,37,-6.15087890625,354824192,gpt2-medium
+A scarf is a,clothing.,scarf,clothing,38,-5.565162658691406,354824192,gpt2-medium
+A mitten is a,clothing.,mitten,clothing,39,-6.9157562255859375,354824192,gpt2-medium
+A slipper is a,clothing.,slipper,clothing,40,-5.6313934326171875,354824192,gpt2-medium
+A hat is a,clothing.,hat,clothing,41,-5.95111083984375,354824192,gpt2-medium
+An overshoe is a,clothing.,overshoe,clothing,42,-6.838279724121094,354824192,gpt2-medium
+A glove is a,clothing.,glove,clothing,43,-5.990089416503906,354824192,gpt2-medium
+An apron is a,clothing.,apron,clothing,44,-4.829277038574219,354824192,gpt2-medium
+An earmuff is a,clothing.,earmuff,clothing,45,-7.890533447265625,354824192,gpt2-medium
+A handkerchief is a,clothing.,handkerchief,clothing,46,-6.806709289550781,354824192,gpt2-medium
+A purse is a,clothing.,purse,clothing,47,-6.4525909423828125,354824192,gpt2-medium
+A hairband is a,clothing.,hairband,clothing,48,-5.6829071044921875,354824192,gpt2-medium
+A ring is a,clothing.,ring,clothing,49,-8.113670349121094,354824192,gpt2-medium
+An earring is a,clothing.,earring,clothing,50,-8.263717651367188,354824192,gpt2-medium
+A watch is a,clothing.,watch,clothing,51,-7.7203216552734375,354824192,gpt2-medium
+A cuff link is a,clothing.,cuff link,clothing,52,-7.986946105957031,354824192,gpt2-medium
+A necklace is a,clothing.,necklace,clothing,53,-6.7845306396484375,354824192,gpt2-medium
+A bracelet is a,clothing.,bracelet,clothing,54,-6.7233123779296875,354824192,gpt2-medium
+A cane is a,clothing.,cane,clothing,55,-9.633064270019531,354824192,gpt2-medium
 A chair is a type of,furniture.,chair,furniture,1,-2.0295944213867188,354824192,gpt2-medium
 A sofa is a type of,furniture.,sofa,furniture,2,-1.7383880615234375,354824192,gpt2-medium
 A couch is a type of,furniture.,couch,furniture,3,-2.0689239501953125,354824192,gpt2-medium

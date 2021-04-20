@@ -149,82 +149,82 @@ A game is a,toy.,game,toy,36,-7.732100486755371,33740602,google_electra-base-gen
 A swing is a,toy.,swing,toy,37,-6.875370979309082,33740602,google_electra-base-generator
 A boat is a,toy.,boat,toy,38,-5.7872467041015625,33740602,google_electra-base-generator
 A monopoly is a,toy.,monopoly,toy,39,-8.107152938842773,33740602,google_electra-base-generator
-A sled is a,toy.,sled,toy,40,-6.375164031982422,33740602,google_electra-base-generator
-A seesaw is a,toy.,seesaw,toy,41,-5.226938247680664,33740602,google_electra-base-generator
-Stilts are,toys.,stilts,toy,42,-9.305665969848633,33740602,google_electra-base-generator
+A sled is a,toy.,sled,toy,40,-6.375160217285156,33740602,google_electra-base-generator
+A seesaw is a,toy.,seesaw,toy,41,-5.2269392013549805,33740602,google_electra-base-generator
+Stilts are,toys.,stilts,toy,42,-9.305658340454102,33740602,google_electra-base-generator
 Checkers are,toys.,checkers,toy,43,-15.559515953063965,33740602,google_electra-base-generator
-A bat is a,toy.,bat,toy,44,-4.990993499755859,33740602,google_electra-base-generator
-A car is a,toy.,car,toy,45,-5.116596221923828,33740602,google_electra-base-generator
-An airplane is a,toy.,airplane,toy,46,-5.353466033935547,33740602,google_electra-base-generator
-A bicycle is a,toy.,bicycle,toy,47,-4.687915802001953,33740602,google_electra-base-generator
-A tractor is a,toy.,tractor,toy,48,-4.304256439208984,33740602,google_electra-base-generator
-A sandbox is a,toy.,sandbox,toy,49,-5.366278648376465,33740602,google_electra-base-generator
-A bike is a,toy.,bike,toy,50,-5.088580131530762,33740602,google_electra-base-generator
-A bow and arrow is a,toy.,bow and arrow,toy,51,-6.069762229919434,33740602,google_electra-base-generator
-A rope is a,toy.,rope,toy,52,-4.987107276916504,33740602,google_electra-base-generator
-Dishes are,toys.,dishes,toy,53,-14.047883987426758,33740602,google_electra-base-generator
-Cards are,toys.,cards,toy,54,-9.31696605682373,33740602,google_electra-base-generator
-A mitt is a,toy.,mitt,toy,55,-6.99559211730957,33740602,google_electra-base-generator
-A horse is a,toy.,horse,toy,56,-5.6429338455200195,33740602,google_electra-base-generator
+A bat is a,toy.,bat,toy,44,-4.990989685058594,33740602,google_electra-base-generator
+A car is a,toy.,car,toy,45,-5.116595268249512,33740602,google_electra-base-generator
+An airplane is a,toy.,airplane,toy,46,-5.353468894958496,33740602,google_electra-base-generator
+A bicycle is a,toy.,bicycle,toy,47,-4.687917709350586,33740602,google_electra-base-generator
+A tractor is a,toy.,tractor,toy,48,-4.304257392883301,33740602,google_electra-base-generator
+A sandbox is a,toy.,sandbox,toy,49,-5.366280555725098,33740602,google_electra-base-generator
+A bike is a,toy.,bike,toy,50,-5.088576316833496,33740602,google_electra-base-generator
+A bow and arrow is a,toy.,bow and arrow,toy,51,-6.069761276245117,33740602,google_electra-base-generator
+A rope is a,toy.,rope,toy,52,-4.987112045288086,33740602,google_electra-base-generator
+Dishes are,toys.,dishes,toy,53,-14.047889709472656,33740602,google_electra-base-generator
+Cards are,toys.,cards,toy,54,-9.316973686218262,33740602,google_electra-base-generator
+A mitt is a,toy.,mitt,toy,55,-6.995594501495361,33740602,google_electra-base-generator
+A horse is a,toy.,horse,toy,56,-5.642923355102539,33740602,google_electra-base-generator
 A gun is a,toy.,gun,toy,57,-4.508920669555664,33740602,google_electra-base-generator
-Animals are,toys.,animals,toy,58,-7.287447929382324,33740602,google_electra-base-generator
-A tennis racket is a,toy.,tennis racket,toy,59,-5.589273452758789,33740602,google_electra-base-generator
-Books are,toys.,books,toy,60,-8.428324699401855,33740602,google_electra-base-generator
-A pant is a type of,clothing.,pant,clothing,1,-7.054625034332275,33740602,google_electra-base-generator
-A shirt is a type of,clothing.,shirt,clothing,2,-2.669835090637207,33740602,google_electra-base-generator
-A dress is a type of,clothing.,dress,clothing,3,-3.0084638595581055,33740602,google_electra-base-generator
-A skirt is a type of,clothing.,skirt,clothing,4,-5.091032028198242,33740602,google_electra-base-generator
-A blouse is a type of,clothing.,blouse,clothing,5,-3.6947097778320312,33740602,google_electra-base-generator
-A suit is a type of,clothing.,suit,clothing,6,-4.832134246826172,33740602,google_electra-base-generator
-A slack is a type of,clothing.,slack,clothing,7,-8.284140586853027,33740602,google_electra-base-generator
-A jacket is a type of,clothing.,jacket,clothing,8,-2.8887853622436523,33740602,google_electra-base-generator
-A coat is a type of,clothing.,coat,clothing,9,-3.9996328353881836,33740602,google_electra-base-generator
-A sweater is a type of,clothing.,sweater,clothing,10,-3.6206979751586914,33740602,google_electra-base-generator
-A sweatshirt is a type of,clothing.,sweatshirt,clothing,11,-3.951251983642578,33740602,google_electra-base-generator
-An underpant is a type of,clothing.,underpant,clothing,12,-6.724883556365967,33740602,google_electra-base-generator
-A sports jacket is a type of,clothing.,sports jacket,clothing,13,-2.846952438354492,33740602,google_electra-base-generator
-A jumper is a type of,clothing.,jumper,clothing,14,-10.643157958984375,33740602,google_electra-base-generator
-A panty is a type of,clothing.,panty,clothing,15,-6.36925745010376,33740602,google_electra-base-generator
-A sock is a type of,clothing.,sock,clothing,16,-5.305561065673828,33740602,google_electra-base-generator
-A parka is a type of,clothing.,parka,clothing,17,-7.039956569671631,33740602,google_electra-base-generator
-A pajama is a type of,clothing.,pajama,clothing,18,-7.015346527099609,33740602,google_electra-base-generator
-An undershirt is a type of,clothing.,undershirt,clothing,19,-5.715677261352539,33740602,google_electra-base-generator
-An overcoat is a type of,clothing.,overcoat,clothing,20,-3.9888267517089844,33740602,google_electra-base-generator
-A nightgown is a type of,clothing.,nightgown,clothing,21,-4.307888984680176,33740602,google_electra-base-generator
-A raincoat is a type of,clothing.,raincoat,clothing,22,-2.98964786529541,33740602,google_electra-base-generator
-A bathing suit is a type of,clothing.,bathing suit,clothing,23,-2.730508804321289,33740602,google_electra-base-generator
-A bathrobe is a type of,clothing.,bathrobe,clothing,24,-6.39713191986084,33740602,google_electra-base-generator
-A slip is a type of,clothing.,slip,clothing,25,-6.743497848510742,33740602,google_electra-base-generator
-A bra is a type of,clothing.,bra,clothing,26,-4.598175048828125,33740602,google_electra-base-generator
-A shoe is a type of,clothing.,shoe,clothing,27,-5.346457481384277,33740602,google_electra-base-generator
-A tuxedo is a type of,clothing.,tuxedo,clothing,28,-5.047136306762695,33740602,google_electra-base-generator
-A stocking is a type of,clothing.,stocking,clothing,29,-5.943285942077637,33740602,google_electra-base-generator
-A vest is a type of,clothing.,vest,clothing,30,-4.973589897155762,33740602,google_electra-base-generator
-A nylon is a type of,clothing.,nylon,clothing,31,-3.3789291381835938,33740602,google_electra-base-generator
-A cape is a type of,clothing.,cape,clothing,32,-6.539306163787842,33740602,google_electra-base-generator
-A boot is a type of,clothing.,boot,clothing,33,-9.184147834777832,33740602,google_electra-base-generator
-A sandal is a type of,clothing.,sandal,clothing,34,-8.118650436401367,33740602,google_electra-base-generator
-A tie is a type of,clothing.,tie,clothing,35,-6.122593879699707,33740602,google_electra-base-generator
-A girdle is a type of,clothing.,girdle,clothing,36,-6.065097808837891,33740602,google_electra-base-generator
-A belt is a type of,clothing.,belt,clothing,37,-6.803452491760254,33740602,google_electra-base-generator
-A scarf is a type of,clothing.,scarf,clothing,38,-4.609350204467773,33740602,google_electra-base-generator
-A mitten is a type of,clothing.,mitten,clothing,39,-6.632417678833008,33740602,google_electra-base-generator
-A slipper is a type of,clothing.,slipper,clothing,40,-3.9089136123657227,33740602,google_electra-base-generator
-A hat is a type of,clothing.,hat,clothing,41,-5.234865188598633,33740602,google_electra-base-generator
-An overshoe is a type of,clothing.,overshoe,clothing,42,-8.110786437988281,33740602,google_electra-base-generator
-A glove is a type of,clothing.,glove,clothing,43,-6.9261980056762695,33740602,google_electra-base-generator
-An apron is a type of,clothing.,apron,clothing,44,-3.8163843154907227,33740602,google_electra-base-generator
-An earmuff is a type of,clothing.,earmuff,clothing,45,-6.414146900177002,33740602,google_electra-base-generator
-A handkerchief is a type of,clothing.,handkerchief,clothing,46,-4.421689033508301,33740602,google_electra-base-generator
-A purse is a type of,clothing.,purse,clothing,47,-5.8981428146362305,33740602,google_electra-base-generator
-A hairband is a type of,clothing.,hairband,clothing,48,-4.216529846191406,33740602,google_electra-base-generator
-A ring is a type of,clothing.,ring,clothing,49,-8.810876846313477,33740602,google_electra-base-generator
-An earring is a type of,clothing.,earring,clothing,50,-6.515580177307129,33740602,google_electra-base-generator
-A watch is a type of,clothing.,watch,clothing,51,-7.293071746826172,33740602,google_electra-base-generator
-A cuff link is a type of,clothing.,cuff link,clothing,52,-5.663119316101074,33740602,google_electra-base-generator
-A necklace is a type of,clothing.,necklace,clothing,53,-6.069878578186035,33740602,google_electra-base-generator
-A bracelet is a type of,clothing.,bracelet,clothing,54,-8.493310928344727,33740602,google_electra-base-generator
-A cane is a type of,clothing.,cane,clothing,55,-7.7822265625,33740602,google_electra-base-generator
+Animals are,toys.,animals,toy,58,-7.287446022033691,33740602,google_electra-base-generator
+A tennis racket is a,toy.,tennis racket,toy,59,-5.589263916015625,33740602,google_electra-base-generator
+Books are,toys.,books,toy,60,-8.428317070007324,33740602,google_electra-base-generator
+A pant is a,clothing.,pant,clothing,1,-10.841246604919434,33740602,google_electra-base-generator
+A shirt is a,clothing.,shirt,clothing,2,-7.645261764526367,33740602,google_electra-base-generator
+A dress is a,clothing.,dress,clothing,3,-7.825488090515137,33740602,google_electra-base-generator
+A skirt is a,clothing.,skirt,clothing,4,-8.58906364440918,33740602,google_electra-base-generator
+A blouse is a,clothing.,blouse,clothing,5,-8.273150444030762,33740602,google_electra-base-generator
+A suit is a,clothing.,suit,clothing,6,-8.731229782104492,33740602,google_electra-base-generator
+A slack is a,clothing.,slack,clothing,7,-10.098440170288086,33740602,google_electra-base-generator
+A jacket is a,clothing.,jacket,clothing,8,-8.049871444702148,33740602,google_electra-base-generator
+A coat is a,clothing.,coat,clothing,9,-6.798741340637207,33740602,google_electra-base-generator
+A sweater is a,clothing.,sweater,clothing,10,-8.475154876708984,33740602,google_electra-base-generator
+A sweatshirt is a,clothing.,sweatshirt,clothing,11,-10.820806503295898,33740602,google_electra-base-generator
+An underpant is a,clothing.,underpant,clothing,12,-10.87359619140625,33740602,google_electra-base-generator
+A sports jacket is a,clothing.,sports jacket,clothing,13,-10.278321266174316,33740602,google_electra-base-generator
+A jumper is a,clothing.,jumper,clothing,14,-14.72525405883789,33740602,google_electra-base-generator
+A panty is a,clothing.,panty,clothing,15,-10.748796463012695,33740602,google_electra-base-generator
+A sock is a,clothing.,sock,clothing,16,-9.584095001220703,33740602,google_electra-base-generator
+A parka is a,clothing.,parka,clothing,17,-11.91719913482666,33740602,google_electra-base-generator
+A pajama is a,clothing.,pajama,clothing,18,-11.48752212524414,33740602,google_electra-base-generator
+An undershirt is a,clothing.,undershirt,clothing,19,-9.839412689208984,33740602,google_electra-base-generator
+An overcoat is a,clothing.,overcoat,clothing,20,-9.648508071899414,33740602,google_electra-base-generator
+A nightgown is a,clothing.,nightgown,clothing,21,-12.086967468261719,33740602,google_electra-base-generator
+A raincoat is a,clothing.,raincoat,clothing,22,-9.970946311950684,33740602,google_electra-base-generator
+A bathing suit is a,clothing.,bathing suit,clothing,23,-10.338403701782227,33740602,google_electra-base-generator
+A bathrobe is a,clothing.,bathrobe,clothing,24,-9.912009239196777,33740602,google_electra-base-generator
+A slip is a,clothing.,slip,clothing,25,-9.653865814208984,33740602,google_electra-base-generator
+A bra is a,clothing.,bra,clothing,26,-7.540979862213135,33740602,google_electra-base-generator
+A shoe is a,clothing.,shoe,clothing,27,-7.928894519805908,33740602,google_electra-base-generator
+A tuxedo is a,clothing.,tuxedo,clothing,28,-10.670841217041016,33740602,google_electra-base-generator
+A stocking is a,clothing.,stocking,clothing,29,-10.699594497680664,33740602,google_electra-base-generator
+A vest is a,clothing.,vest,clothing,30,-7.743528842926025,33740602,google_electra-base-generator
+A nylon is a,clothing.,nylon,clothing,31,-8.398357391357422,33740602,google_electra-base-generator
+A cape is a,clothing.,cape,clothing,32,-11.528424263000488,33740602,google_electra-base-generator
+A boot is a,clothing.,boot,clothing,33,-10.518787384033203,33740602,google_electra-base-generator
+A sandal is a,clothing.,sandal,clothing,34,-10.822338104248047,33740602,google_electra-base-generator
+A tie is a,clothing.,tie,clothing,35,-10.676980972290039,33740602,google_electra-base-generator
+A girdle is a,clothing.,girdle,clothing,36,-11.577756881713867,33740602,google_electra-base-generator
+A belt is a,clothing.,belt,clothing,37,-8.967772483825684,33740602,google_electra-base-generator
+A scarf is a,clothing.,scarf,clothing,38,-9.45703125,33740602,google_electra-base-generator
+A mitten is a,clothing.,mitten,clothing,39,-10.659355163574219,33740602,google_electra-base-generator
+A slipper is a,clothing.,slipper,clothing,40,-10.633687973022461,33740602,google_electra-base-generator
+A hat is a,clothing.,hat,clothing,41,-9.698460578918457,33740602,google_electra-base-generator
+An overshoe is a,clothing.,overshoe,clothing,42,-13.889532089233398,33740602,google_electra-base-generator
+A glove is a,clothing.,glove,clothing,43,-10.58587646484375,33740602,google_electra-base-generator
+An apron is a,clothing.,apron,clothing,44,-9.953429222106934,33740602,google_electra-base-generator
+An earmuff is a,clothing.,earmuff,clothing,45,-10.326765060424805,33740602,google_electra-base-generator
+A handkerchief is a,clothing.,handkerchief,clothing,46,-10.12453842163086,33740602,google_electra-base-generator
+A purse is a,clothing.,purse,clothing,47,-10.104723930358887,33740602,google_electra-base-generator
+A hairband is a,clothing.,hairband,clothing,48,-9.44504165649414,33740602,google_electra-base-generator
+A ring is a,clothing.,ring,clothing,49,-11.398983001708984,33740602,google_electra-base-generator
+An earring is a,clothing.,earring,clothing,50,-11.845039367675781,33740602,google_electra-base-generator
+A watch is a,clothing.,watch,clothing,51,-10.761260032653809,33740602,google_electra-base-generator
+A cuff link is a,clothing.,cuff link,clothing,52,-9.795543670654297,33740602,google_electra-base-generator
+A necklace is a,clothing.,necklace,clothing,53,-9.379457473754883,33740602,google_electra-base-generator
+A bracelet is a,clothing.,bracelet,clothing,54,-10.58313274383545,33740602,google_electra-base-generator
+A cane is a,clothing.,cane,clothing,55,-11.510229110717773,33740602,google_electra-base-generator
 A chair is a type of,furniture.,chair,furniture,1,-3.8974103927612305,33740602,google_electra-base-generator
 A sofa is a type of,furniture.,sofa,furniture,2,-2.4552717208862305,33740602,google_electra-base-generator
 A couch is a type of,furniture.,couch,furniture,3,-3.5883865356445312,33740602,google_electra-base-generator

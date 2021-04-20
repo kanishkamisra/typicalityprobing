@@ -149,82 +149,82 @@ A game is a,toy.,game,toy,36,-9.149085998535156,124697433,roberta-base
 A swing is a,toy.,swing,toy,37,-9.835864067077637,124697433,roberta-base
 A boat is a,toy.,boat,toy,38,-8.219178199768066,124697433,roberta-base
 A monopoly is a,toy.,monopoly,toy,39,-11.913925170898438,124697433,roberta-base
-A sled is a,toy.,sled,toy,40,-6.445844650268555,124697433,roberta-base
-A seesaw is a,toy.,seesaw,toy,41,-8.208625793457031,124697433,roberta-base
-Stilts are,toys.,stilts,toy,42,-7.656039237976074,124697433,roberta-base
-Checkers are,toys.,checkers,toy,43,-11.00861930847168,124697433,roberta-base
-A bat is a,toy.,bat,toy,44,-9.533446311950684,124697433,roberta-base
-A car is a,toy.,car,toy,45,-6.770810127258301,124697433,roberta-base
-An airplane is a,toy.,airplane,toy,46,-6.404585838317871,124697433,roberta-base
-A bicycle is a,toy.,bicycle,toy,47,-8.020469665527344,124697433,roberta-base
-A tractor is a,toy.,tractor,toy,48,-6.39322566986084,124697433,roberta-base
-A sandbox is a,toy.,sandbox,toy,49,-6.398710250854492,124697433,roberta-base
-A bike is a,toy.,bike,toy,50,-8.628345489501953,124697433,roberta-base
-A bow and arrow is a,toy.,bow and arrow,toy,51,-5.457123756408691,124697433,roberta-base
-A rope is a,toy.,rope,toy,52,-9.300446510314941,124697433,roberta-base
-Dishes are,toys.,dishes,toy,53,-10.446228981018066,124697433,roberta-base
-Cards are,toys.,cards,toy,54,-12.652254104614258,124697433,roberta-base
-A mitt is a,toy.,mitt,toy,55,-7.015630722045898,124697433,roberta-base
-A horse is a,toy.,horse,toy,56,-7.7899017333984375,124697433,roberta-base
-A gun is a,toy.,gun,toy,57,-7.390918731689453,124697433,roberta-base
-Animals are,toys.,animals,toy,58,-6.119577407836914,124697433,roberta-base
-A tennis racket is a,toy.,tennis racket,toy,59,-4.453951835632324,124697433,roberta-base
-Books are,toys.,books,toy,60,-6.342702865600586,124697433,roberta-base
-A pant is a type of,clothing.,pant,clothing,1,-2.0043582916259766,124697433,roberta-base
-A shirt is a type of,clothing.,shirt,clothing,2,-1.9744882583618164,124697433,roberta-base
-A dress is a type of,clothing.,dress,clothing,3,-2.0502185821533203,124697433,roberta-base
-A skirt is a type of,clothing.,skirt,clothing,4,-2.498170852661133,124697433,roberta-base
-A blouse is a type of,clothing.,blouse,clothing,5,-2.7753772735595703,124697433,roberta-base
-A suit is a type of,clothing.,suit,clothing,6,-2.1950292587280273,124697433,roberta-base
-A slack is a type of,clothing.,slack,clothing,7,-8.148286819458008,124697433,roberta-base
-A jacket is a type of,clothing.,jacket,clothing,8,-2.234766960144043,124697433,roberta-base
-A coat is a type of,clothing.,coat,clothing,9,-1.3957462310791016,124697433,roberta-base
-A sweater is a type of,clothing.,sweater,clothing,10,-2.2971439361572266,124697433,roberta-base
-A sweatshirt is a type of,clothing.,sweatshirt,clothing,11,-2.511704444885254,124697433,roberta-base
-An underpant is a type of,clothing.,underpant,clothing,12,-4.226744651794434,124697433,roberta-base
-A sports jacket is a type of,clothing.,sports jacket,clothing,13,-2.985454559326172,124697433,roberta-base
-A jumper is a type of,clothing.,jumper,clothing,14,-2.8963375091552734,124697433,roberta-base
-A panty is a type of,clothing.,panty,clothing,15,-3.055431365966797,124697433,roberta-base
-A sock is a type of,clothing.,sock,clothing,16,-5.574970245361328,124697433,roberta-base
-A parka is a type of,clothing.,parka,clothing,17,-4.047549247741699,124697433,roberta-base
-A pajama is a type of,clothing.,pajama,clothing,18,-3.6098976135253906,124697433,roberta-base
-An undershirt is a type of,clothing.,undershirt,clothing,19,-2.884387969970703,124697433,roberta-base
-An overcoat is a type of,clothing.,overcoat,clothing,20,-3.071441650390625,124697433,roberta-base
-A nightgown is a type of,clothing.,nightgown,clothing,21,-1.6009235382080078,124697433,roberta-base
-A raincoat is a type of,clothing.,raincoat,clothing,22,-3.0152997970581055,124697433,roberta-base
-A bathing suit is a type of,clothing.,bathing suit,clothing,23,-2.150191307067871,124697433,roberta-base
-A bathrobe is a type of,clothing.,bathrobe,clothing,24,-3.3043041229248047,124697433,roberta-base
-A slip is a type of,clothing.,slip,clothing,25,-7.517433166503906,124697433,roberta-base
-A bra is a type of,clothing.,bra,clothing,26,-2.2554073333740234,124697433,roberta-base
-A shoe is a type of,clothing.,shoe,clothing,27,-3.321901321411133,124697433,roberta-base
-A tuxedo is a type of,clothing.,tuxedo,clothing,28,-3.371689796447754,124697433,roberta-base
-A stocking is a type of,clothing.,stocking,clothing,29,-4.247186660766602,124697433,roberta-base
-A vest is a type of,clothing.,vest,clothing,30,-2.3800792694091797,124697433,roberta-base
-A nylon is a type of,clothing.,nylon,clothing,31,-5.358402252197266,124697433,roberta-base
-A cape is a type of,clothing.,cape,clothing,32,-4.65877628326416,124697433,roberta-base
-A boot is a type of,clothing.,boot,clothing,33,-8.146464347839355,124697433,roberta-base
-A sandal is a type of,clothing.,sandal,clothing,34,-5.951131820678711,124697433,roberta-base
-A tie is a type of,clothing.,tie,clothing,35,-4.772970199584961,124697433,roberta-base
-A girdle is a type of,clothing.,girdle,clothing,36,-6.299375534057617,124697433,roberta-base
-A belt is a type of,clothing.,belt,clothing,37,-5.72200870513916,124697433,roberta-base
-A scarf is a type of,clothing.,scarf,clothing,38,-4.006821632385254,124697433,roberta-base
-A mitten is a type of,clothing.,mitten,clothing,39,-5.96903133392334,124697433,roberta-base
-A slipper is a type of,clothing.,slipper,clothing,40,-7.70978307723999,124697433,roberta-base
-A hat is a type of,clothing.,hat,clothing,41,-4.567502021789551,124697433,roberta-base
-An overshoe is a type of,clothing.,overshoe,clothing,42,-5.313531875610352,124697433,roberta-base
-A glove is a type of,clothing.,glove,clothing,43,-5.206866264343262,124697433,roberta-base
-An apron is a type of,clothing.,apron,clothing,44,-4.929868698120117,124697433,roberta-base
-An earmuff is a type of,clothing.,earmuff,clothing,45,-8.535972595214844,124697433,roberta-base
-A handkerchief is a type of,clothing.,handkerchief,clothing,46,-5.9365234375,124697433,roberta-base
-A purse is a type of,clothing.,purse,clothing,47,-5.267561912536621,124697433,roberta-base
-A hairband is a type of,clothing.,hairband,clothing,48,-5.241327285766602,124697433,roberta-base
-A ring is a type of,clothing.,ring,clothing,49,-7.245912551879883,124697433,roberta-base
-An earring is a type of,clothing.,earring,clothing,50,-7.043659210205078,124697433,roberta-base
-A watch is a type of,clothing.,watch,clothing,51,-6.007479667663574,124697433,roberta-base
-A cuff link is a type of,clothing.,cuff link,clothing,52,-8.828476905822754,124697433,roberta-base
-A necklace is a type of,clothing.,necklace,clothing,53,-5.535871505737305,124697433,roberta-base
-A bracelet is a type of,clothing.,bracelet,clothing,54,-4.965202331542969,124697433,roberta-base
-A cane is a type of,clothing.,cane,clothing,55,-12.750595092773438,124697433,roberta-base
+A sled is a,toy.,sled,toy,40,-6.445813179016113,124697433,roberta-base
+A seesaw is a,toy.,seesaw,toy,41,-8.208620071411133,124697433,roberta-base
+Stilts are,toys.,stilts,toy,42,-7.656036376953125,124697433,roberta-base
+Checkers are,toys.,checkers,toy,43,-11.008617401123047,124697433,roberta-base
+A bat is a,toy.,bat,toy,44,-9.533428192138672,124697433,roberta-base
+A car is a,toy.,car,toy,45,-6.77078914642334,124697433,roberta-base
+An airplane is a,toy.,airplane,toy,46,-6.404596328735352,124697433,roberta-base
+A bicycle is a,toy.,bicycle,toy,47,-8.020468711853027,124697433,roberta-base
+A tractor is a,toy.,tractor,toy,48,-6.393202781677246,124697433,roberta-base
+A sandbox is a,toy.,sandbox,toy,49,-6.398699760437012,124697433,roberta-base
+A bike is a,toy.,bike,toy,50,-8.628335952758789,124697433,roberta-base
+A bow and arrow is a,toy.,bow and arrow,toy,51,-5.457128524780273,124697433,roberta-base
+A rope is a,toy.,rope,toy,52,-9.300451278686523,124697433,roberta-base
+Dishes are,toys.,dishes,toy,53,-10.44622802734375,124697433,roberta-base
+Cards are,toys.,cards,toy,54,-12.652257919311523,124697433,roberta-base
+A mitt is a,toy.,mitt,toy,55,-7.015620231628418,124697433,roberta-base
+A horse is a,toy.,horse,toy,56,-7.78989315032959,124697433,roberta-base
+A gun is a,toy.,gun,toy,57,-7.390900611877441,124697433,roberta-base
+Animals are,toys.,animals,toy,58,-6.1195783615112305,124697433,roberta-base
+A tennis racket is a,toy.,tennis racket,toy,59,-4.453949928283691,124697433,roberta-base
+Books are,toys.,books,toy,60,-6.3427042961120605,124697433,roberta-base
+A pant is a,clothing.,pant,clothing,1,-8.707121849060059,124697433,roberta-base
+A shirt is a,clothing.,shirt,clothing,2,-8.751497268676758,124697433,roberta-base
+A dress is a,clothing.,dress,clothing,3,-9.30545711517334,124697433,roberta-base
+A skirt is a,clothing.,skirt,clothing,4,-10.503049850463867,124697433,roberta-base
+A blouse is a,clothing.,blouse,clothing,5,-8.300676345825195,124697433,roberta-base
+A suit is a,clothing.,suit,clothing,6,-9.932355880737305,124697433,roberta-base
+A slack is a,clothing.,slack,clothing,7,-13.950384140014648,124697433,roberta-base
+A jacket is a,clothing.,jacket,clothing,8,-9.728551864624023,124697433,roberta-base
+A coat is a,clothing.,coat,clothing,9,-9.141170501708984,124697433,roberta-base
+A sweater is a,clothing.,sweater,clothing,10,-10.322117805480957,124697433,roberta-base
+A sweatshirt is a,clothing.,sweatshirt,clothing,11,-9.075300216674805,124697433,roberta-base
+An underpant is a,clothing.,underpant,clothing,12,-9.344741821289062,124697433,roberta-base
+A sports jacket is a,clothing.,sports jacket,clothing,13,-8.904764175415039,124697433,roberta-base
+A jumper is a,clothing.,jumper,clothing,14,-11.072062492370605,124697433,roberta-base
+A panty is a,clothing.,panty,clothing,15,-9.267380714416504,124697433,roberta-base
+A sock is a,clothing.,sock,clothing,16,-12.817634582519531,124697433,roberta-base
+A parka is a,clothing.,parka,clothing,17,-10.903045654296875,124697433,roberta-base
+A pajama is a,clothing.,pajama,clothing,18,-9.810144424438477,124697433,roberta-base
+An undershirt is a,clothing.,undershirt,clothing,19,-8.47145938873291,124697433,roberta-base
+An overcoat is a,clothing.,overcoat,clothing,20,-8.339079856872559,124697433,roberta-base
+A nightgown is a,clothing.,nightgown,clothing,21,-7.6971025466918945,124697433,roberta-base
+A raincoat is a,clothing.,raincoat,clothing,22,-9.488036155700684,124697433,roberta-base
+A bathing suit is a,clothing.,bathing suit,clothing,23,-9.393294334411621,124697433,roberta-base
+A bathrobe is a,clothing.,bathrobe,clothing,24,-8.634397506713867,124697433,roberta-base
+A slip is a,clothing.,slip,clothing,25,-16.598302841186523,124697433,roberta-base
+A bra is a,clothing.,bra,clothing,26,-9.451709747314453,124697433,roberta-base
+A shoe is a,clothing.,shoe,clothing,27,-10.766197204589844,124697433,roberta-base
+A tuxedo is a,clothing.,tuxedo,clothing,28,-9.381471633911133,124697433,roberta-base
+A stocking is a,clothing.,stocking,clothing,29,-11.713735580444336,124697433,roberta-base
+A vest is a,clothing.,vest,clothing,30,-9.031688690185547,124697433,roberta-base
+A nylon is a,clothing.,nylon,clothing,31,-9.177509307861328,124697433,roberta-base
+A cape is a,clothing.,cape,clothing,32,-12.26001262664795,124697433,roberta-base
+A boot is a,clothing.,boot,clothing,33,-13.320734977722168,124697433,roberta-base
+A sandal is a,clothing.,sandal,clothing,34,-10.468118667602539,124697433,roberta-base
+A tie is a,clothing.,tie,clothing,35,-18.265050888061523,124697433,roberta-base
+A girdle is a,clothing.,girdle,clothing,36,-10.41757583618164,124697433,roberta-base
+A belt is a,clothing.,belt,clothing,37,-11.276716232299805,124697433,roberta-base
+A scarf is a,clothing.,scarf,clothing,38,-10.498424530029297,124697433,roberta-base
+A mitten is a,clothing.,mitten,clothing,39,-11.34562873840332,124697433,roberta-base
+A slipper is a,clothing.,slipper,clothing,40,-12.844778060913086,124697433,roberta-base
+A hat is a,clothing.,hat,clothing,41,-12.868986129760742,124697433,roberta-base
+An overshoe is a,clothing.,overshoe,clothing,42,-10.789861679077148,124697433,roberta-base
+A glove is a,clothing.,glove,clothing,43,-13.723274230957031,124697433,roberta-base
+An apron is a,clothing.,apron,clothing,44,-9.83012580871582,124697433,roberta-base
+An earmuff is a,clothing.,earmuff,clothing,45,-12.580281257629395,124697433,roberta-base
+A handkerchief is a,clothing.,handkerchief,clothing,46,-10.125909805297852,124697433,roberta-base
+A purse is a,clothing.,purse,clothing,47,-11.503287315368652,124697433,roberta-base
+A hairband is a,clothing.,hairband,clothing,48,-10.073304176330566,124697433,roberta-base
+A ring is a,clothing.,ring,clothing,49,-12.606790542602539,124697433,roberta-base
+An earring is a,clothing.,earring,clothing,50,-11.615469932556152,124697433,roberta-base
+A watch is a,clothing.,watch,clothing,51,-11.129510879516602,124697433,roberta-base
+A cuff link is a,clothing.,cuff link,clothing,52,-12.187286376953125,124697433,roberta-base
+A necklace is a,clothing.,necklace,clothing,53,-10.306876182556152,124697433,roberta-base
+A bracelet is a,clothing.,bracelet,clothing,54,-10.150835990905762,124697433,roberta-base
+A cane is a,clothing.,cane,clothing,55,-15.467811584472656,124697433,roberta-base
 A chair is a type of,furniture.,chair,furniture,1,-3.3683032989501953,124697433,roberta-base
 A sofa is a type of,furniture.,sofa,furniture,2,-1.9301605224609375,124697433,roberta-base
 A couch is a type of,furniture.,couch,furniture,3,-1.9155025482177734,124697433,roberta-base
