@@ -658,12 +658,12 @@ test <- induction %>%
   filter(predicate_id == 1, argument_id == 2, category == "bird") %>%
   mutate(shuffled_diff2 = score - shuffled_diff)
 
-test_fit <- lm(score ~ scale(control_score, scale = FALSE) + scale(shuffled_diff, scale = FALSE), data = induction)
+test_fit <- lm(score ~ scale(control_score, scale = FALSE) + scale(score-shuffled_diff, scale = FALSE), data = induction)
 summary(test_fit)
 residuals(test_fit) + coef(test_fit)["(Intercept)"]
 
 corrected <- induction %>%
-  # mutate(shuffled_diff = score - shuffled_diff) %>%
+  mutate(shuffled_diff = score - shuffled_diff) %>%
   group_by(model, predicate_id, argument_id, category) %>% mutate(item_id = row_number()) %>% ungroup() %>%
   group_by(model, predicate_id, argument_id, category) %>%
   nest() %>%
@@ -705,11 +705,11 @@ corrected %>%
   nest() %>%
   mutate(
     cor = map(data, function(x) {
-      pre = cor.test(-x$score, x$rating) %>% 
+      pre = cor.test(-x$score, x$rating, method = "spearman") %>% 
         tidy()
-      post = cor.test(-x$corrected_score, x$rating) %>% 
+      post = cor.test(-x$corrected_score, x$rating, method = "spearman") %>% 
         tidy()
-      taxonomic = cor.test(x$corrected_score, x$taxonomic) %>% 
+      taxonomic = cor.test(x$corrected_score, x$taxonomic, method = "spearman") %>% 
         tidy()
       return(
         tibble(
@@ -725,9 +725,9 @@ corrected %>%
   ) %>%
   select(-data) %>%
   unnest(cor) %>%
-  inner_join(model_meta) %>% 
+  inner_join(model_meta %>% select(-params)) %>% 
   mutate(model = factor(model, levels = levels), short = factor(short, levels = shortlevels)) %>%
-  ggplot(aes(short, consistency, color = color, fill = color)) +
+  ggplot(aes(short, pre_cor, color = color, fill = color)) +
   geom_col() +
   scale_color_identity(aesthetics = c("color", "fill")) +
   annotate("text", x = 2.5, y = 0.5, label = "ALBERT", size = 5.5, color = "#2e59a8", fontface = "bold") +
@@ -742,8 +742,6 @@ corrected %>%
   theme_bw(base_size = 18) +
   theme(
     legend.position = "top",
-    panel.grid.major = element_blank(),
-    panel.grid.minor = element_blank(),
     axis.text.x = element_text(angle = 20, vjust = 0.8),
     axis.title.x = element_blank(),
     plot.margin = margin(0.1, 0.1, 0.1, 0.1, "cm"),

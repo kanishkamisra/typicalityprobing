@@ -1,0 +1,566 @@
+item,category,frequency
+doll,toy,1.15e-05
+top,toy,0.000372
+jack-in-the-box,toy,4.11e-05
+toy soldier,toy,1.18e-05
+yo-yo,toy,1.41e-05
+block,toy,7.59e-05
+marbles,toy,1.55e-06
+rattle,toy,2.24e-06
+stuffed animal,toy,7.99e-06
+water pistol,toy,8.3e-06
+teddy bear,toy,6.61e-06
+rocking horse,toy,4.81e-06
+doll house,toy,1.12e-05
+ball,toy,0.00011
+jacks,toy,2.57e-06
+paper dolls,toy,6.12e-06
+erector set,toy,1.55e-07
+hula hoop,toy,7.32e-07
+jump rope,toy,9.3e-06
+pogo stick,toy,6.53e-07
+clay,toy,1.95e-05
+wagon,toy,7.94e-06
+kite,toy,3.55e-06
+train,toy,9.12e-05
+tricycle,toy,6.17e-07
+coloring book,toy,3.84e-06
+crayons,toy,1.02e-06
+truck,toy,4.37e-05
+puzzle,toy,9.12e-06
+fire engine,toy,5.14e-05
+balloon,toy,7.94e-06
+skates,toy,1.95e-06
+baseball,toy,3.47e-05
+drum,toy,1.29e-05
+football,toy,0.000129
+game,toy,0.000525
+swing,toy,2.19e-05
+boat,toy,5.13e-05
+monopoly,toy,6.92e-06
+sled,toy,1.7e-06
+seesaw,toy,2.95e-07
+stilts,toy,5.62e-07
+checkers,toy,1.26e-06
+bat,toy,2e-05
+car,toy,0.000282
+airplane,toy,8.32e-06
+bicycle,toy,9.55e-06
+tractor,toy,6.03e-06
+sandbox,toy,1.05e-06
+bike,toy,3.39e-05
+bow and arrow,toy,8.05e-06
+rope,toy,1.15e-05
+dishes,toy,1.35e-05
+cards,toy,5.75e-05
+mitt,toy,2.14e-06
+horse,toy,5.75e-05
+gun,toy,9.12e-05
+animals,toy,6.92e-05
+tennis racket,toy,1.95e-06
+books,toy,0.000141
+robin,bird,2.14e-05
+sparrow,bird,3.02e-06
+bluejay,bird,6.31e-08
+bluebird,bird,8.13e-07
+canary,bird,2.75e-06
+blackbird,bird,8.13e-07
+dove,bird,4.68e-06
+lark,bird,1.38e-06
+swallow,bird,7.41e-06
+parakeet,bird,3.02e-07
+oriole,bird,2.24e-07
+mockingbird,bird,9.55e-07
+redbird,bird,9.12e-08
+wren,bird,1.23e-06
+finch,bird,3.55e-06
+starling,bird,1.07e-06
+cardinal,bird,7.94e-06
+eagle,bird,1.35e-05
+hummingbird,bird,9.12e-07
+seagull,bird,1.05e-06
+woodpecker,bird,6.61e-07
+pigeon,bird,4.07e-06
+thrush,bird,6.76e-07
+falcon,bird,5.5e-06
+crow,bird,6.31e-06
+hawk,bird,6.46e-06
+raven,bird,6.17e-06
+goldfinch,bird,2.69e-07
+parrot,bird,3.09e-06
+sandpiper,bird,2.88e-07
+pheasant,bird,1.07e-06
+catbird,bird,7.59e-08
+crane,bird,8.32e-06
+albatross,bird,7.94e-07
+condor,bird,9.12e-07
+toucan,bird,2.29e-07
+owl,bird,7.41e-06
+pelican,bird,1.17e-06
+goose,bird,6.92e-06
+vulture,bird,1.51e-06
+stork,bird,7.59e-07
+buzzard,bird,6.76e-07
+swan,bird,6.92e-06
+flamingo,bird,1.15e-06
+duck,bird,1.62e-05
+peacock,bird,2.75e-06
+egret,bird,2.09e-07
+chicken,bird,4.27e-05
+turkey,bird,3.63e-05
+ostrich,bird,1.12e-06
+titmouse,bird,7.41e-08
+emu,bird,1.12e-06
+penguin,bird,6.03e-06
+bat,bird,2e-05
+football,sport,0.000129
+baseball,sport,3.47e-05
+basketball,sport,3.63e-05
+tennis,sport,2.24e-05
+softball,sport,4.57e-06
+canoeing,sport,7.59e-07
+handball,sport,1.29e-06
+rugby,sport,2.51e-05
+hockey,sport,2.63e-05
+ice hockey,sport,2.08e-05
+swimming,sport,2.69e-05
+track,sport,0.000105
+boxing,sport,1.48e-05
+volleyball,sport,7.08e-06
+lacrosse,sport,2.51e-06
+skiing,sport,6.92e-06
+golf,sport,3.63e-05
+polo,sport,5.89e-06
+surfing,sport,5.25e-06
+wrestling,sport,1.38e-05
+gymnastics,sport,3.98e-06
+cricket,sport,2.45e-05
+squash,sport,4.27e-06
+badminton,sport,1.91e-06
+racing,sport,3.16e-05
+pole vault,sport,5.41e-06
+fencing,sport,3.63e-06
+bowling,sport,1.12e-05
+water skiing,sport,6.78e-06
+ice skating,sport,6.47e-06
+jai alai,sport,1.48e-07
+skating,sport,6.92e-06
+skin diving,sport,9.28e-06
+sailing,sport,9.77e-06
+diving,sport,1.05e-05
+archery,sport,1.78e-06
+judo,sport,1.78e-06
+car racing,sport,2.84e-05
+ping pong,sport,1.89e-06
+rowing,sport,2.45e-06
+fishing,sport,2.95e-05
+horseback riding,sport,2.27e-06
+running,sport,0.00017
+horse racing,sport,2.04e-05
+hiking,sport,7.41e-06
+weight lifting,sport,1.03e-05
+croquet,sport,5.01e-07
+horseshoes,sport,3.09e-07
+boating,sport,2.14e-06
+pool,sport,4.68e-05
+billiards,sport,6.92e-07
+hunting,sport,2.63e-05
+jump rope,sport,9.3e-06
+camping,sport,1e-05
+chess,sport,8.71e-06
+dancing,sport,3.16e-05
+checkers,sport,1.26e-06
+cards,sport,5.75e-05
+sunbathing,sport,6.03e-07
+pea,vegetable,3.47e-06
+carrot,vegetable,4.17e-06
+green bean,vegetable,8.92e-06
+string bean,vegetable,6.92e-06
+spinach,vegetable,3.02e-06
+broccoli,vegetable,3.16e-06
+asparagus,vegetable,1.78e-06
+corn,vegetable,1.55e-05
+cauliflower,vegetable,1.58e-06
+brussels sprouts,vegetable,1.45e-06
+squash,vegetable,4.27e-06
+lettuce,vegetable,3.63e-06
+celery,vegetable,2.09e-06
+cucumber,vegetable,2.57e-06
+beet,vegetable,1.12e-06
+green,vegetable,0.000135
+tomato,vegetable,7.08e-06
+lima bean,vegetable,2.72e-06
+artichoke,vegetable,5.37e-07
+turnip,vegetable,6.92e-07
+eggplant,vegetable,1.02e-06
+romaine,vegetable,4.37e-07
+green pepper,vegetable,1.25e-05
+okra,vegetable,4.27e-07
+radish,vegetable,6.03e-07
+onion,vegetable,7.76e-06
+bean,vegetable,9.55e-06
+green onion,vegetable,7.34e-06
+potato,vegetable,1.29e-05
+parsnip,vegetable,2.57e-07
+turnip green,vegetable,6.88e-07
+collard,vegetable,4.37e-07
+wax bean,vegetable,4.45e-06
+watercress,vegetable,3.09e-07
+black eyed pea,vegetable,2.49e-06
+leek,vegetable,7.41e-07
+pepper,vegetable,1.38e-05
+sweet potato,vegetable,1.11e-05
+yam,vegetable,1.1e-06
+parsley,vegetable,1.86e-06
+endive,vegetable,1.07e-07
+rutabaga,vegetable,7.94e-08
+mushroom,vegetable,4.27e-06
+avocado,vegetable,2.82e-06
+rhubarb,vegetable,9.33e-07
+kale,vegetable,2.4e-06
+escarole,vegetable,3.55e-08
+sauerkraut,vegetable,4.57e-07
+pickle,vegetable,2.45e-06
+baked bean,vegetable,4.45e-06
+pumpkin,vegetable,6.76e-06
+seaweed,vegetable,1.66e-06
+garlic,vegetable,8.32e-06
+dandelion,vegetable,7.94e-07
+peanut,vegetable,7.94e-06
+rice,vegetable,3.55e-05
+saw,tool,0.000219
+hammer,tool,1.45e-05
+ruler,tool,6.92e-06
+screwdriver,tool,1.35e-06
+drill,tool,1.23e-05
+nail,tool,1.62e-05
+tape measure,tool,1.7e-05
+sawhorse,tool,3.09e-08
+sandpaper,tool,5.37e-07
+sander,tool,8.71e-07
+level,tool,0.000257
+plane,tool,5.25e-05
+file,tool,5.62e-05
+toolbox,tool,9.77e-07
+T-square,tool,5.5e-05
+chisel,tool,9.12e-07
+rasp,tool,2.51e-07
+pencil,tool,8.91e-06
+hacksaw,tool,3.47e-07
+square,tool,6.92e-05
+bench,tool,2.45e-05
+plier,tool,4.57e-08
+wrench,tool,2.34e-06
+ladder,tool,1.07e-05
+lathe,tool,8.13e-07
+vise,tool,6.17e-07
+screw,tool,1.78e-05
+wood,tool,6.03e-05
+wedge,tool,4.17e-06
+lumber,tool,3.89e-06
+blueprint,tool,3.02e-06
+brace,tool,5.25e-06
+awl,tool,2.57e-07
+crowbar,tool,5.25e-07
+hinge,tool,2.09e-06
+miter box,tool,2.45e-07
+knife,tool,2.57e-05
+chalk,tool,4.9e-06
+nut,tool,1.1e-05
+bolt,tool,1.1e-05
+plumb line,tool,8.3e-07
+brush,tool,1.7e-05
+sledge hammer,tool,1.09e-06
+glue,tool,6.31e-06
+paintbrush,tool,4.17e-07
+varnish,tool,1.07e-06
+apron,tool,2.29e-06
+stapler,tool,3.39e-07
+extension cord,tool,7.17e-06
+soldering iron,tool,8.97e-07
+plaster,tool,3.39e-06
+wheelbarrow,tool,4.57e-07
+axe,tool,6.17e-06
+slide rule,tool,1.62e-05
+cement,tool,8.71e-06
+anvil,tool,1.1e-06
+hatchet,tool,1.2e-06
+rag,tool,3.55e-06
+scissor,tool,8.13e-07
+crane,tool,8.32e-06
+orange,fruit,4.17e-05
+apple,fruit,5.75e-05
+banana,fruit,1e-05
+peach,fruit,5.89e-06
+pear,fruit,2.95e-06
+apricot,fruit,9.55e-07
+tangerine,fruit,8.71e-07
+plum,fruit,3.55e-06
+grape,fruit,5.01e-06
+nectarine,fruit,1.2e-07
+strawberry,fruit,5.25e-06
+grapefruit,fruit,1.48e-06
+berry,fruit,9.33e-06
+cherry,fruit,1.51e-05
+pineapple,fruit,3.8e-06
+blackberry,fruit,4.47e-06
+melon,fruit,2.09e-06
+blueberry,fruit,2e-06
+raspberry,fruit,3.16e-06
+lemon,fruit,1.26e-05
+black raspberry,fruit,3.13e-06
+boysenberry,fruit,5.37e-08
+watermelon,fruit,2.24e-06
+cantaloupe,fruit,3.39e-07
+lime,fruit,7.24e-06
+tangelo,fruit,2.29e-08
+papaya,fruit,7.41e-07
+honeydew,fruit,2.51e-07
+fig,fruit,1.26e-05
+mango,fruit,3.63e-06
+guava,fruit,4.07e-07
+pomegranate,fruit,8.51e-07
+cranberry,fruit,1.48e-06
+passion fruit,fruit,1.58e-05
+prune,fruit,9.12e-07
+gooseberry,fruit,3.39e-07
+date,fruit,0.000166
+kumquat,fruit,7.24e-08
+raisin,fruit,1.02e-06
+muskmelon,fruit,1.05e-08
+persimmon,fruit,3.47e-07
+pawpaw,fruit,1.15e-07
+coconut,fruit,7.59e-06
+avocado,fruit,2.82e-06
+pumpkin,fruit,6.76e-06
+tomato,fruit,7.08e-06
+nut,fruit,1.1e-05
+gourd,fruit,6.61e-07
+olive,fruit,1.23e-05
+pickle,fruit,2.45e-06
+squash,fruit,4.27e-06
+pant,clothing,1.51e-06
+shirt,clothing,4.27e-05
+dress,clothing,5.75e-05
+skirt,clothing,9.12e-06
+blouse,clothing,2.4e-06
+suit,clothing,5.01e-05
+slack,clothing,5.13e-06
+jacket,clothing,2.09e-05
+coat,clothing,2.29e-05
+sweater,clothing,6.03e-06
+sweatshirt,clothing,1.55e-06
+under pant,clothing,1.51e-06
+sports jacket,clothing,1.69e-05
+jumper,clothing,5.01e-06
+panty,clothing,9.33e-07
+sock,clothing,4.07e-06
+parka,clothing,5.75e-07
+pajama,clothing,6.46e-07
+undershirt,clothing,1.91e-07
+overcoat,clothing,5.89e-07
+nightgown,clothing,3.55e-07
+raincoat,clothing,4.79e-07
+bathing suit,clothing,4.37e-06
+bathrobe,clothing,4.79e-07
+slip,clothing,1.91e-05
+bra,clothing,7.08e-06
+shoe,clothing,1.74e-05
+tuxedo,clothing,1.29e-06
+stocking,clothing,3.09e-06
+vest,clothing,5.37e-06
+nylon,clothing,2.63e-06
+cape,clothing,2e-05
+boot,clothing,1.55e-05
+sandal,clothing,8.13e-07
+tie,clothing,3.24e-05
+girdle,clothing,6.46e-07
+belt,clothing,2.63e-05
+scarf,clothing,4.79e-06
+mitten,clothing,3.02e-07
+slipper,clothing,1.2e-06
+hat,clothing,3.39e-05
+over shoe,clothing,1.71e-05
+glove,clothing,5.37e-06
+apron,clothing,2.29e-06
+earmuff,clothing,1.95e-08
+handkerchief,clothing,1.51e-06
+purse,clothing,8.91e-06
+hairband,clothing,4.9e-08
+ring,clothing,6.46e-05
+earring,clothing,1.2e-06
+watch,clothing,0.000219
+cuff link,clothing,3.13e-06
+necklace,clothing,7.08e-06
+bracelet,clothing,5.01e-06
+cane,clothing,5.75e-06
+automobile,vehicle,8.71e-06
+station wagon,vehicle,7.37e-06
+truck,vehicle,4.37e-05
+car,vehicle,0.000282
+bus,vehicle,6.76e-05
+taxi,vehicle,1.55e-05
+jeep,vehicle,5.25e-06
+ambulance,vehicle,1.15e-05
+motorcycle,vehicle,1.17e-05
+streetcar,vehicle,1.1e-06
+van,vehicle,6.03e-05
+Honda,vehicle,8.32e-06
+cable car,vehicle,3.09e-05
+train,vehicle,9.12e-05
+trolley,vehicle,2.75e-06
+bicycle,vehicle,9.55e-06
+carriage,vehicle,7.08e-06
+airplane,vehicle,8.32e-06
+bike,vehicle,3.39e-05
+boat,vehicle,5.13e-05
+jet,vehicle,1.95e-05
+ship,vehicle,8.51e-05
+scooter,vehicle,3.72e-06
+tractor,vehicle,6.03e-06
+wagon,vehicle,7.94e-06
+subway,vehicle,1.12e-05
+trailer,vehicle,2.09e-05
+cart,vehicle,9.55e-06
+wheelchair,vehicle,7.24e-06
+yacht,vehicle,6.61e-06
+tank,vehicle,3.72e-05
+go-cart,vehicle,9.47e-06
+rowboat,vehicle,2.4e-07
+dogsled,vehicle,5.37e-08
+tricycle,vehicle,6.17e-07
+canoe,vehicle,3.16e-06
+raft,vehicle,2.88e-06
+submarine,vehicle,6.46e-06
+sled,vehicle,1.7e-06
+horse,vehicle,5.75e-05
+rocket,vehicle,2.04e-05
+blimp,vehicle,6.03e-07
+skate,vehicle,5.5e-06
+camel,vehicle,4.37e-06
+feet,vehicle,9.77e-05
+ski,vehicle,1.35e-05
+skateboard,vehicle,1.62e-06
+wheelbarrow,vehicle,4.57e-07
+surfboard,vehicle,6.46e-07
+elevator,vehicle,8.91e-06
+chair,furniture,4.9e-05
+sofa,furniture,6.46e-06
+couch,furniture,1.48e-05
+table,furniture,0.000112
+easy chair,furniture,3.91e-05
+dresser,furniture,2.29e-06
+rocking chair,furniture,4.74e-06
+coffee table,furniture,4.4e-05
+rocker,furniture,2.19e-06
+love seat,furniture,6.01e-05
+chest of drawers,furniture,2.44e-06
+desk,furniture,2.69e-05
+bed,furniture,0.000117
+bureau,furniture,2.57e-05
+davenport,furniture,2.24e-06
+end table,furniture,9.09e-05
+divan,furniture,3.39e-07
+night table,furniture,8.8e-05
+chest,furniture,3.31e-05
+cedar chest,furniture,4.9e-06
+vanity,furniture,5.5e-06
+bookcase,furniture,6.03e-07
+lounge,furniture,8.32e-06
+chaise lounge,furniture,4.15e-07
+ottoman,furniture,4.17e-06
+footstool,furniture,2.14e-07
+cabinet,furniture,3.09e-05
+china closet,furniture,1.22e-05
+bench,furniture,2.45e-05
+buffet,furniture,3.47e-06
+lamp,furniture,1.12e-05
+stool,furniture,3.31e-06
+hassock,furniture,1.62e-08
+drawer,furniture,6.03e-06
+piano,furniture,2.04e-05
+cushion,furniture,3.8e-06
+magazine rack,furniture,6.94e-06
+hi-fi,furniture,1.54e-05
+cupboard,furniture,2.75e-06
+stereo,furniture,5.89e-06
+mirror,furniture,2.95e-05
+television,furniture,6.17e-05
+bar,furniture,8.71e-05
+shelf,furniture,1.05e-05
+rug,furniture,5.25e-06
+pillow,furniture,9.12e-06
+wastebasket,furniture,1.2e-07
+radio,furniture,0.000102
+sewing machine,furniture,4.61e-06
+stove,furniture,5.13e-06
+counter,furniture,3.63e-05
+clock,furniture,2.69e-05
+drape,furniture,5.5e-07
+refrigerator,furniture,4.07e-06
+picture,furniture,0.000135
+closet,furniture,1.35e-05
+vase,furniture,3.47e-06
+ashtray,furniture,5.25e-07
+fan,furniture,8.32e-05
+telephone,furniture,2.57e-05
+gun,weapon,9.12e-05
+pistol,weapon,8.51e-06
+revolver,weapon,2.57e-06
+machine gun,weapon,4.25e-05
+rifle,weapon,1.51e-05
+switchblade,weapon,2.57e-07
+knife,weapon,2.57e-05
+dagger,weapon,3.47e-06
+shotgun,weapon,6.46e-06
+sword,weapon,2.34e-05
+bomb,weapon,3.98e-05
+hand grenade,weapon,4.39e-06
+Atom bomb,weapon,4.64e-06
+bayonet,weapon,1.41e-06
+spear,weapon,5.01e-06
+bazooka,weapon,4.27e-07
+cannon,weapon,1.05e-05
+bow and arrow,weapon,8.05e-06
+club,weapon,0.000158
+lance,weapon,8.71e-06
+brass knuckle,weapon,1.45e-06
+bullet,weapon,1.74e-05
+tomahawk,weapon,7.76e-07
+mortar,weapon,5.62e-06
+arrow,weapon,1.35e-05
+blackjack,weapon,1.45e-06
+tank,weapon,3.72e-05
+teargas,weapon,1.86e-07
+missile,weapon,1.38e-05
+whip,weapon,1.02e-05
+ice pick,weapon,5.46e-05
+hatchet,weapon,1.2e-06
+slingshot,weapon,8.91e-07
+fist,weapon,7.76e-06
+axe,weapon,6.17e-06
+bow,weapon,2e-05
+razor,weapon,5.25e-06
+razor blade,weapon,3.92e-06
+rocket,weapon,2.04e-05
+judo,weapon,1.78e-06
+stick,weapon,5.75e-05
+poison,weapon,1.2e-05
+rock,weapon,0.000107
+stone,weapon,6.31e-05
+gas,weapon,0.000102
+chain,weapon,4.47e-05
+scissor,weapon,8.13e-07
+brick,weapon,1.78e-05
+pitchfork,weapon,1.02e-06
+hammer,weapon,1.45e-05
+word,weapon,0.000182
+hand,weapon,0.000257
+pipe,weapon,1.78e-05
+rope,weapon,1.15e-05
+airplane,weapon,8.32e-06
+foot,weapon,7.41e-05
+car,weapon,0.000282
+screwdriver,weapon,1.35e-06
+glass,weapon,7.08e-05
+shoe,weapon,1.74e-05
