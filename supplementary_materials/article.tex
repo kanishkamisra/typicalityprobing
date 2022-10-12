@@ -1,0 +1,197 @@
+% Source: http://tex.stackexchange.com/a/150903/23931
+\documentclass[a4paper, 11pt]{article}
+\topmargin-2.0cm
+\usepackage{fancyhdr}
+\usepackage{amsfonts}
+\usepackage{pagecounting}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage[shortlabels]{enumitem}
+\usepackage{graphicx}
+\usepackage{adjustbox}
+\usepackage{xcolor}
+\usepackage{times}
+\usepackage{mathrsfs}
+\usepackage{dirtytalk}
+\usepackage{amsmath}
+\usepackage{semantic}
+\usepackage{proof}
+\usepackage{mathpartir}
+\usepackage{gb4e}
+\usepackage{natbib}
+\usepackage{authblk}
+\usepackage{booktabs}
+\usepackage{array}
+
+\setcounter{table}{0}
+\renewcommand{\thetable}{\Alph{table}}
+\newcolumntype{L}{>{\arraybackslash}m{13cm}}
+% \usepackage{emoji}
+\noautomath
+
+\definecolor{darkblue}{rgb}{0, 0, 0.5}
+\definecolor{blu}{HTML}{005082}
+
+\newcommand{\blank}{$\rule{0.6cm}{0.15mm}$}
+
+\usepackage[colorlinks = true,
+           linkcolor = darkblue,
+           urlcolor  = darkblue,
+           citecolor = darkblue,
+           anchorcolor = darkblue]{hyperref}
+
+           \usepackage{cleveref}
+
+\usepackage[margin=1in]{geometry}
+% \advance\oddsidemargin-0.95in
+% \advance\evensidemargin-1.5cm
+% \textheight9.2in
+% \textheight10.3in
+% \textwidth6.75in
+% \newcommand\bb[1]{\mbox{\em #1}}
+% \def\baselinestretch{1.05}
+%\pagestyle{empty}
+
+\newcommand{\hsp}{\hspace*{\parindent}}
+\definecolor{gray}{rgb}{0.4,0.4,0.4}
+%\definecolor{gray}{rgb}{1.0,1.0,1.0}
+
+\newcommand{\todo}[1]{\textcolor{green}{#1}}
+\renewcommand\cite{\citep}	% to get "(Author Year)" with natbib    
+\newcommand\shortcite{\citeyearpar}% to get "(Year)" with natbib    
+\newcommand\newcite{\citet}	% to get "Author (Year)" with natbib  
+
+\title{\textbf{Supplementary Materials: Do language models learn typicality judgments from text?}}
+% \author{
+%     Kanishka Misra\\
+%     Purdue University, West Lafayette, IN, USA\\
+%     \texttt{kmisra@purdue.edu}
+% }
+\author[1]{Kanishka Misra}
+\author[2]{Allyson Ettinger}
+\author[1]{Julia Taylor Rayz}
+\affil[1]{Purdue University, West Lafayette, IN, USA}
+\affil[2]{University of Chicago, Chicago, IL, USA}
+\affil[1]{\texttt{\{kmisra, jtaylor1\}@purdue.edu}}
+\affil[2]{\texttt{aettinger@uchicago.edu}}
+\date{
+}
+
+
+\begin{document}
+\maketitle
+\thispagestyle{fancy}
+%\pagenumbering{gobble}
+%\fancyhead[location]{text} 
+% Leave Left and Right Header empty.
+\lhead{}
+\rhead{}
+%\rhead{\thepage}
+\renewcommand{\headrulewidth}{0pt} 
+\renewcommand{\footrulewidth}{0pt} 
+
+%\pagestyle{myheadings}
+
+\pagestyle{fancy}
+\lhead{\textcolor{gray}{\it Kanishka Misra}}
+% \rhead{\textcolor{gray}{\thepage/\totalpages{}}}
+\rhead{\textcolor{gray}{\it Supplementary Materials: Misra, Ettinger, and Rayz (2021)}}
+
+\section{Code}
+The code and data materials used to reproduce the analyses reported in the paper can be found in the following link: \url{https://github.com/kanishkamisra/typicalityprobing}. The code is predominantly written using the \texttt{minicons}\footnote{\url{https://github.com/kanishkamisra/minicons}} library.
+
+\section{Models Studied}
+
+\section{Stimuli Generation}
+In this section we describe in detail the language stimuli used in our two experiments. 
+These stimuli have been summarized in Table 2 in the original paper.
+
+\subsection{Categories and Exemplars from \citet{rosch1975cognitive}}
+We collect our categories and their items/exemplars from the typicality ratings collected by \citet{rosch1975cognitive}.
+In total, we have 565 items spanning across 10 different categories.
+\Cref{tab:exemplar} shows the most and least typical items for each of the 10 categories.
+We use this dataset as the ground truth resource to construct our stimuli for both our experiments.
+
+\input{exemplartable}
+    
+\subsection{Taxonomic Sentence Verification}
+\paragraph{Recap} Our taxonomic sentence verification experiments test whether the model's attribution of hypernyms to noun concepts---by means of word prediction in context---reflects the graded structure of concepts as observed in humans.
+To this end, we compare the models' log probability of assigning an item (\textit{robin}) its superordinate category (\textit{bird}) to its typicality rating for the category as produced by humans in the original study.
+
+\paragraph{Construction} To construct the stimuli for this experiment, we create simple English templates:
+\begin{quotation}
+    \centering
+    \texttt{\{A/An/$\phi$\} [ITEM] \{is/are\} \{a/an/$\phi$\} [CATEGORY]}.
+\end{quotation}
+where \texttt{\{.\}} denotes an optional word---with options separated by a `/'---and $\phi$ is a null character.
+Check out \url{https://github.com/kanishkamisra/typicalityprobing/python/} for detailed stimuli samples.
+
+\subsection{Category-based Induction}
+\paragraph{Recap} Our category-based induction experiments test whether models reflect typicality effects when making inductive generalizations. That is, are models more likely to generate \textit{``All \textbf{\textcolor{blu}{birds}} can dax''} when given \textit{``\textbf{\textcolor{blu}{Robins}} can dax,''} as opposed to \textit{``\textbf{\textcolor{blu}{Penguins}} can dax''}?
+
+\paragraph{Construction} Following \citet{osherson1990category}, we use \textit{blank} properties in this experiment -- i.e., properties that we estimate to be vaguely unfamiliar to language models (analogous to what \citeauthor{osherson1990category} used for humans).
+To this end, we relied on nonce words such as \textit{dax, slithy, fep, etc.} such that these words do not occur in any model's vocabulary.
+Since all models in our experiment had the ability to tokenize any word, and not rely on the \texttt{\textless{}unk\textgreater} token---which had been the dominant method prior to the introduction of wordpieces and byte-pair-encodings---we speculate the usage of nonce words to be a reasonable proxy for \textit{blank} properties.
+% Category and Exemplars - Table
+% TSV - procedure, detailed code file.
+% Induction 
+% % Nonce word vocabulary
+% % Grammar?
+% % Supplementary Results: Category-wise TSV results
+% % Supplementary Results: Category-wise Induction results
+
+\section{Additional Results}
+\subsection{Category-wise results on Taxonomic Sentence Verification Experiments}
+
+\begin{figure}[h]
+    \centering
+    \begin{subfigure}[b]{\textwidth}
+        \includegraphics[width = \textwidth]{../paper/tsv_categorywise.pdf}
+        \caption{}
+    \end{subfigure}\\
+    \vspace{1em}
+    \begin{subfigure}[b]{\textwidth}
+        \includegraphics[width = \textwidth]{../paper/categorywisetsv.pdf}
+        \caption{}
+    \end{subfigure}
+    \caption{Category-wise results from the \textbf{Taxonomic Sentence Verification} experiments -- (a) Spearman's correlation between language model log-probabilities and human typicality ratings; (b) Average scores (log-probability for language models, and raw typicality ratings for humans) assigned to low and high typicality items.}
+\end{figure}
+
+\subsection{Category-wise results on Category-based Induction Experiments}
+
+\begin{figure}[h]
+    \centering
+    \begin{subfigure}[b]{\textwidth}
+        \includegraphics[width = \textwidth]{../paper/induction_categorywise.pdf}
+        \caption{}
+    \end{subfigure}\\
+    \vspace{1em}
+    \begin{subfigure}[b]{\textwidth}
+        \includegraphics[width = \textwidth]{../paper/inductioncategorywiselowhigh.pdf}
+        \caption{}
+    \end{subfigure}
+    \caption{Category-wise results from the \textbf{Category-based Induction} experiments -- (a) Spearman's correlation between adjusted $AS$-scores and human typicality ratings; (b) Average scores (adjusted $AS$-scores for language models, and raw typicality ratings for humans) assigned to low and high typicality items.}
+\end{figure}
+
+\subsection{Confound analyses for Category-based Induction}
+
+\paragraph{Taxonomic Sensitivity}
+
+\begin{figure}[h]
+    \includegraphics[width = \textwidth]{../paper/ts_confound.pdf}
+    \caption{Models' sensitivities to violation of the taxonomic relation between the premise and the conclusion categories.}
+\end{figure}
+
+\paragraph{Premise Order Sensitivity}
+
+\begin{figure}[h]
+    \includegraphics[width = \textwidth]{../paper/pos_confound.pdf}
+    \caption{Model's sensitivity to changes in Premise word order.}
+\end{figure}
+
+\subsection{Typicality Correspondence and Model Parameters}
+
+\bibliographystyle{acl}
+\bibliography{references.bib}
+
+\end{document}

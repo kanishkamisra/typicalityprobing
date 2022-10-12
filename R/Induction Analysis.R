@@ -50,6 +50,20 @@ typicality_ratings <- dir_ls(here::here("data/rosch1975/results/rosch1975_altern
 
 human_ratings <- read_csv(here::here("data/rosch1975/rosch1975_ratings.csv"))
 
+# Save for supp mnaterial table 1
+human_ratings %>% group_by(category) %>% 
+  nest() %>% 
+  mutate(
+    exemplars = map_chr(data, function(x) {
+      most_typical = x$item[1:10] %>% glue_collapse(sep = ', ')
+      lease_typical = x$item[-seq(1, length(x$item) - 10)] %>% glue_collapse(sep = ", ")
+      final = glue_collapse(c(most_typical, lease_typical), sep = ", ..., ")
+      glue_collapse(final, sep = ", ")
+    })
+  ) %>% 
+  select(-data) %>%
+  write_csv('paper/exemplar_table.csv')
+
 plural = c("checker", "animal", "book", "checker", "crayon", "jack", "marble", "paper doll", "stilt")
 
 induction <- dir_ls(here::here("data/results/premiseconclusion/"), regexp = "*.csv") %>%
@@ -77,7 +91,7 @@ induction <- dir_ls(here::here("data/results/premiseconclusion/"), regexp = "*.c
 frequencies <- read_csv(here::here("data/frequencies.csv")) %>%
   inner_join(human_ratings)
 
-induction %>%
+overall_stats <- induction %>%
   filter(model != "5gram") %>%
   group_by(model, params) %>%
   summarize(
@@ -89,6 +103,53 @@ induction %>%
   inner_join(model_meta %>% select(-params)) %>%
   mutate(name = factor(model, levels = levels))
 
+## Confounds
+
+# Taxonomic Sensitivity
+
+ts_plot <- overall_stats %>%
+  ggplot(aes(params/1e6, taxonomic_priming, color = color)) +
+  geom_point(show.legend = FALSE, size = 3) +
+  geom_text_repel(aes(label = model), size = 5, nudge_x = -0.03, fontface = "bold", show.legend = FALSE, family = "CMU Sans Serif") +
+  facet_wrap(~family, nrow = 1, scales = "free_x") +
+  # geom_smooth(method = 'lm') +
+  # scale_y_continuous(limits = c(0, 0.5)) +
+  # scale_x_continuous(breaks = scales::pretty_breaks(5)) +
+  # scale_x_log10() +
+  scale_color_identity() + 
+  labs(
+    x = "Parameters (in millions)",
+    y = "Taxonomic Sensitivity"
+  ) +
+  theme_bw(base_size = 18, base_family = "CMU Sans Serif") +
+  theme(
+    strip.text = element_text(face = "bold")
+  )
+
+ggsave("paper/ts_confound.pdf", ts_plot, width = 13, height = 3.2, dpi = 300, device = cairo_pdf)
+
+# Premise Order Sensitivity
+
+pos_plot <- overall_stats %>%
+  ggplot(aes(params/1e6, order_sensitivity, color = color)) +
+  geom_point(show.legend = FALSE, size = 3) +
+  geom_text_repel(aes(label = model), size = 5, nudge_x = -0.03, fontface = "bold", show.legend = FALSE, family = "CMU Sans Serif") +
+  facet_wrap(~family, nrow = 1, scales = "free_x") +
+  # geom_smooth(method = 'lm') +
+  # scale_y_continuous(limits = c(0, 0.5)) +
+  # scale_x_continuous(breaks = scales::pretty_breaks(5)) +
+  # scale_x_log10() +
+  scale_color_identity() + 
+  labs(
+    x = "Parameters (in millions)",
+    y = "Premise Order\nSensitivity"
+  ) +
+  theme_bw(base_size = 18, base_family = "CMU Sans Serif") +
+  theme(
+    strip.text = element_text(face = "bold")
+  )
+
+ggsave("paper/pos_confound.pdf", pos_plot, width = 13.5, height = 3.2, dpi = 300, device = cairo_pdf)
 # correlation with human.
 
 # AS Score correction
@@ -217,7 +278,61 @@ p1 <- corrected_correlation %>%
     legend.box.background = element_rect(fill = "transparent")
   )
 
-ggsave("paper/inductionspearmantsv.pdf", p1, height = 5, width = 10, device = cairo_pdf, dpi = 300)
+ggsave("paper/inductionspearman.pdf", p1, height = 5, width = 10, device = cairo_pdf, dpi = 300)
+
+corrected_correlation_category_wise <- induction_scores %>% 
+  group_by(model, category) %>%
+  nest() %>%
+  mutate(
+    cor = map(data, function(x) {
+      pre = cor.test(-x$score, x$rating, method = "spearman") %>% 
+        tidy()
+      post = cor.test(-x$corrected_score, x$rating, method = "spearman") %>% 
+        tidy()
+      taxonomic = cor.test(x$corrected_score, x$taxonomic, method = "spearman") %>% 
+        tidy()
+      return(
+        tibble(
+          pre_cor = pre$estimate,
+          pre_p = pre$p.value,
+          post_cor = post$estimate,
+          post_p = post$p.value,
+          consistency = taxonomic$estimate,
+          consistency_p = taxonomic$p.value
+        )
+      )
+    })
+  ) %>%
+  select(-data) %>%
+  unnest(cor) %>%
+  inner_join(model_meta) %>% 
+  mutate(model = factor(model, levels = levels), short = factor(short, levels = shortlevels)) 
+
+
+p <- corrected_correlation_category_wise %>%
+  ggplot(aes(model, post_cor, color = color, fill = color)) +
+  geom_col() +
+  # geom_text(aes(y = 0.02, label = model), color = "white", angle = 90, hjust = "left", vjust = "center") +
+  facet_wrap(~category, nrow = 2) +
+  scale_color_identity(guide = "legend", name = "Model", aesthetics = c("color", "fill"), labels = levels, breaks = colors) +
+  # scale_fill_identity() +
+  scale_y_continuous(limits = c(-0.2, 1.0)) +
+  labs(
+    x = "Model",
+    y = "Spearman's Rho"
+  ) +
+  theme_bw(base_size = 16, base_family = "CMU Sans Serif") +
+  theme(
+    strip.text = element_text(face = "bold"),
+    legend.position = "top",
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    axis.text.x = element_blank(),
+    axis.ticks.x = element_blank(),
+    axis.title.x = element_blank()
+  )
+
+ggsave("paper/induction_categorywise.pdf", p, height = 6, width = 10, device = cairo_pdf)
 
 classes <- human_ratings %>%
   group_by(category) %>%
@@ -317,9 +432,12 @@ p2 <- bind_rows(
   ) + 
   labs(
     y = "Rating (scaled)"
+  ) +
+  guides(
+    color = guide_legend()
   )
 
-ggsave("paper/inductioncategorywisetsv.pdf", p2, height = 5, width = 10, device = cairo_pdf)
+ggsave("paper/inductioncategorywiselowhigh.pdf", p2, height = 5, width = 10, device = cairo_pdf)
 
 p3 <- bind_rows(
   model_ratings %>% replace_na(list(rating = 0)) %>% group_by(model, class) %>% summarize(rating = mean(rating)),

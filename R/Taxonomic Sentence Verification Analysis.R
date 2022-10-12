@@ -132,7 +132,7 @@ typicality_ratings %>%
   group_by(category) %>%
   filter(score == max(score))
 
-typicality_ratings %>%
+p <- typicality_ratings %>%
   # filter(model != "5gram") %>%
   group_by(model, params, category) %>%
   nest() %>%
@@ -147,12 +147,14 @@ typicality_ratings %>%
   facet_wrap(~category, nrow = 2) +
   scale_color_identity(guide = "legend", name = "Model", aesthetics = c("color", "fill"), labels = levels, breaks = colors) +
   # scale_fill_identity() +
-  scale_y_continuous(limits = c(-1, 1.0)) +
+  scale_y_continuous(limits = c(-0.5, 1.0)) +
   labs(
     x = "Model",
     y = "Spearman's Rho"
   ) +
+  theme_bw(base_size = 16, base_family = "CMU Sans Serif") +
   theme(
+    strip.text = element_text(face = "bold"),
     legend.position = "top",
     panel.grid.major = element_blank(),
     panel.grid.minor = element_blank(),
@@ -160,6 +162,8 @@ typicality_ratings %>%
     axis.ticks.x = element_blank(),
     axis.title.x = element_blank()
   )
+
+ggsave("paper/tsv_categorywise.pdf", p, height = 6, width = 10, device = cairo_pdf)
 
 classes <- human_ratings %>%
   group_by(category) %>%
@@ -263,7 +267,10 @@ ggsave("paper/categorywisetsv.pdf", p2, height = 5, width = 10, device = cairo_p
 
 
 p3 <- bind_rows(
-  model_ratings %>% replace_na(list(rating = 0)) %>% group_by(model, class) %>% summarize(rating = mean(rating)),
+  model_ratings %>% 
+    replace_na(list(rating = 0)) %>% 
+    group_by(model, class) %>% 
+    summarize(ste = 1.96 * plotrix::std.error(rating), rating = mean(rating)),
   classes %>%
     mutate(model = "human") %>%
     group_by(model, class) %>% summarize(rating = mean(rating)),
