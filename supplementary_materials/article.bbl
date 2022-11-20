@@ -1,5 +1,21 @@
-\begin{thebibliography}{2}
+\begin{thebibliography}{4}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Holtzman et~al.(2019)Holtzman, Buys, Du, Forbes, and
+  Choi}]{holtzman2019curious}
+Ari Holtzman, Jan Buys, Li~Du, Maxwell Forbes, and Yejin Choi. 2019.
+\newblock \href {https://openreview.net/forum?id=rygGQyrFvH} {The curious case
+  of neural text degeneration}.
+\newblock In \emph{International Conference on Learning Representations}.
+
+\bibitem[{Misra et~al.(2020)Misra, Ettinger, and
+  Rayz}]{misra-etal-2020-exploring}
+Kanishka Misra, Allyson Ettinger, and Julia Rayz. 2020.
+\newblock \href {https://aclanthology.org/2020.findings-emnlp.415} {Exploring
+  {BERT}{'}s sensitivity to lexical cues using tests from semantic priming}.
+\newblock In \emph{Findings of the Association for Computational Linguistics:
+  EMNLP 2020}, pages 4625--4635, Online. Association for Computational
+  Linguistics.
 
 \bibitem[{Osherson et~al.(1990)Osherson, Smith, Wilkie, Lopez, and
   Shafir}]{osherson1990category}

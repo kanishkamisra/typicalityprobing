@@ -140,8 +140,47 @@ Since all models in our experiment had the ability to tokenize any word, and not
 % % Supplementary Results: Category-wise TSV results
 % % Supplementary Results: Category-wise Induction results
 
+\section{Confound analyses for Category-based Induction}
+Eliciting judgments from LMs as we do here has two potential confounds that may reduce the robustness of our conclusions.
+
+\paragraph{Premise Order Sensitivity}
+
+An LM might estimate high probabilities for words in the conclusion simply because it is relying on lexical cues in its premise \citep{misra-etal-2020-exploring}, instead of processing the premise \textit{compositionally} and making inferences about items possessing a property. 
+To study this confound, we compute the LMs' average probability for the conclusion sentence when prefixed by a shuffled version of the premise (10 times, with random seeds). We then calculate POS as the difference between this measure (which we call $AS_{\textit{shuffled}}$) and the original $AS$ score, for each item:
+\begin{align}
+    \text{POS}_i = AS_i - AS_{\textit{shuffled}, i}
+\end{align}
+It would be desirable to have POS values that are greater than 0, signifying that the LM is indeed sensitive to the correct word-order structure of the premise. \Cref{fig:cogsci21pos} displays the proportion of cases (out of 12{,}180) where POS was greater than 0, against the models' total number of trainable parameters. 
+We observe that only Incremental LMs show nearly complete sensitivity to the word-order of the premise. 
+Masked LMs on the other hand do show sensitivity in a majority of cases, but are still far below incremental LMs, suggesting that this confound greatly affects their results, and is likely not to affect Incremental LMs. 
+No particular effect of number of parameters was observed.
+
+\begin{figure}[!th]
+    \includegraphics[width = \textwidth]{../paper/pos_confound.pdf}
+    \caption{Model's sensitivity to changes in Premise word order.}
+    \label{fig:cogsci21pos}
+\end{figure}
+
+\paragraph{Taxonomic Sensitivity}
+LMs might tend to repeat the property phrase mentioned in the predicted material with high probability when prefixed by a sentence containing it, i.e., repeating \textit{``can dax''} in the conclusion when already conditioned on the same phrase in the premise \citep{holtzman2019curious}, confounding the degree to which the conclusion is generated using the taxonomic relationship between the premise and the conclusion categories.
+In order to study this tendency, we compute the LMs' probabilities for conclusions consisting of a different category with the exact same property as the original (for instance, \textit{``All fruits are slithy''} given \textit{``Sofas are slithy''}). We call this measure $AS_{\textit{flipped}}$. Just like in our POS calculation, our TS measure for each item is calculated as the difference between the original measure and the flipped measure:
+\begin{align}
+    \text{TS}_i = AS_i - AS_{\textit{flipped}, i}
+\end{align}
+As is the case with POS, it is desirable to have a strongly positive value for sensitivity towards this confound (i.e., TS $>$ 0). 
+\Cref{fig:cogsci21ts} shows the the proportion of cases (out of 12{,}180 for each model) where TS was greater than 0, against the models' total number of trainable parameters.
+From \Cref{fig:cogsci21ts}, there is a non-trivial proportion of cases where models produce greater $AS$ scores for the conclusion when the premise concept had no taxonomic relation to the conclusion concept as compared to when it did, suggesting that in many cases models might not be processing based on the taxonomic relation between premise and conclusion and may simply be assigning high probabilities to the property phrase because it was listed in the preceding context -- it is common-knowledge that LMs are highly conducive to repeating text already seen in the input context \citep{holtzman2019curious}.
+
+\begin{figure}[!th]
+    \includegraphics[width = \textwidth]{../paper/ts_confound.pdf}
+    \caption{Models' sensitivities to violation of the taxonomic relation between the premise and the conclusion categories.}
+    \label{fig:cogsci21ts}
+\end{figure}
+
 \section{Additional Results}
 \subsection{Category-wise results on Taxonomic Sentence Verification Experiments}
+
+See \Cref{fig:tsvcategory}.
 
 \begin{figure}[h]
     \centering
@@ -155,9 +194,12 @@ Since all models in our experiment had the ability to tokenize any word, and not
         \caption{}
     \end{subfigure}
     \caption{Category-wise results from the \textbf{Taxonomic Sentence Verification} experiments -- (a) Spearman's correlation between language model log-probabilities and human typicality ratings; (b) Average scores (log-probability for language models, and raw typicality ratings for humans) assigned to low and high typicality items.}
+    \label{fig:tsvcategory}
 \end{figure}
 
 \subsection{Category-wise results on Category-based Induction Experiments}
+
+See \Cref{fig:cbicategory}.
 
 \begin{figure}[h]
     \centering
@@ -171,25 +213,11 @@ Since all models in our experiment had the ability to tokenize any word, and not
         \caption{}
     \end{subfigure}
     \caption{Category-wise results from the \textbf{Category-based Induction} experiments -- (a) Spearman's correlation between adjusted $AS$-scores and human typicality ratings; (b) Average scores (adjusted $AS$-scores for language models, and raw typicality ratings for humans) assigned to low and high typicality items.}
+    \label{fig:cbicategory}
 \end{figure}
 
-\subsection{Confound analyses for Category-based Induction}
 
-\paragraph{Taxonomic Sensitivity}
-
-\begin{figure}[h]
-    \includegraphics[width = \textwidth]{../paper/ts_confound.pdf}
-    \caption{Models' sensitivities to violation of the taxonomic relation between the premise and the conclusion categories.}
-\end{figure}
-
-\paragraph{Premise Order Sensitivity}
-
-\begin{figure}[h]
-    \includegraphics[width = \textwidth]{../paper/pos_confound.pdf}
-    \caption{Model's sensitivity to changes in Premise word order.}
-\end{figure}
-
-\subsection{Typicality Correspondence and Model Parameters}
+% \subsection{Typicality Correspondence and Model Parameters}
 
 \bibliographystyle{acl}
 \bibliography{references.bib}
