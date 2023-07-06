@@ -218,6 +218,8 @@ corrected_correlation <- induction_scores %>%
         tidy()
       taxonomic = cor.test(x$corrected_score, x$taxonomic, method = "spearman") %>% 
         tidy()
+      taxonomic_og = cor.test(x$score, x$taxonomic, method = "spearman") %>% 
+        tidy()
       return(
         tibble(
           pre_cor = pre$estimate,
@@ -225,7 +227,9 @@ corrected_correlation <- induction_scores %>%
           post_cor = post$estimate,
           post_p = post$p.value,
           consistency = taxonomic$estimate,
-          consistency_p = taxonomic$p.value
+          consistency_p = taxonomic$p.value,
+          consistency_og = taxonomic_og$estimate,
+          consistency_og_p = taxonomic_og$p.value
         )
       )
     })
@@ -235,12 +239,56 @@ corrected_correlation <- induction_scores %>%
   inner_join(model_meta) %>% 
   mutate(model = factor(model, levels = levels), short = factor(short, levels = shortlevels)) 
 
+corrected_correlation %>% ungroup() %>%
+  ggplot(aes(consistency)) +
+  geom_density(fill = "#95D1CC", alpha = 0.7, color = "#95D1CC") +
+  geom_vline(xintercept = 0.546, linetype = "dashed") +
+  scale_x_continuous(limits = c(0, 0.8)) +
+  annotate(
+    geom = "curve", x = 0.45, y = 4.7, xend = 0.546, yend = 5,
+    curvature = -.3, arrow = arrow(length = unit(2, "mm"))
+  ) +
+  annotate(
+    geom = "label",
+    x = 0.2, y = 4.5,
+    label = str_wrap("Mean = 0.55", width = 25),
+    hjust = "left",
+    family = "CMU Serif",
+    # fontface = "italic",
+    lineheight = 1,
+    size = 5
+  ) +
+  theme_bw(base_size = 17, base_family = "CMU Serif") +
+  labs(
+    x = "Correlation (CBI vs TSV)",
+    y = "Density"
+  )
+
+ggsave("paper/consistencydistribution.pdf", height=3.9, width = 4.5, dpi=300, device=cairo_pdf)
+
 cor.test(corrected_correlation %>% filter(model != '5gram') %>% pull(params) %>% log10(), corrected_correlation %>% filter(model != '5gram') %>% pull(post_cor), method = "spearman")
 
-corrected_correlation %>%
+pcorparam <- corrected_correlation %>%
   filter(model != '5gram') %>%
   ggplot(aes(params/1e6, post_cor)) + 
-  geom_point(aes(color = color), show.legend = FALSE, size = 3) +
+  # ggplot(aes(params/1e6, estimate)) +
+  geom_point(size = 3, color = "#0081B4") +
+  scale_x_log10(breaks = scales::trans_breaks("log10", function(x) 10^x),
+                labels = scales::trans_format("log10", scales::math_format(10^.x)), 
+                limit = c(10^1, 10^3.5)) +
+  theme_bw(base_size = 16, base_family = "Times") +
+  theme(
+    axis.text = element_text(color = "black"),
+  ) +
+  labs(
+    y = "Correlation",
+    x = "Parameters (in millions)"
+  )
+
+ggsave("paper/bilsland-example-cbi.pdf", pcorparam, height = 3, width = 3.5, dpi = 300, device = cairo_pdf)
+
+  
+geom_point(aes(color = color), show.legend = FALSE, size = 3) +
   # geom_text_repel(aes(label = model), size = 5, nudge_x = -0.03, fontface = "bold", show.legend = FALSE) +
   # facet_wrap(~family, nrow = 1, scales = "free_x") +
   # geom_smooth(method = 'lm') +

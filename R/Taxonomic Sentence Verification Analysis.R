@@ -109,7 +109,7 @@ p <- tsv_correlations %>%
     x = "Model",
     y = "Spearman's Rho"
   ) +
-  theme_bw(base_size = 18, base_family = "CMU Sans Serif") +
+  theme_bw(base_size = 18, base_family = "Times") +
   theme(
     legend.position = "top",
     # panel.grid.major = element_blank(),
@@ -338,3 +338,95 @@ p3 <- bind_rows(
 
 ggsave("paper/lowvshighavg.pdf", height = 5, width = 6, device = cairo_pdf, dpi = 300)
 ## Induction Experiments
+
+
+## Bilsland
+
+p_tsv <- tsv_correlations %>%
+  filter(model != "5gram") %>%
+  ggplot(aes(params/1e6, estimate)) +
+  geom_point(size = 3, color = "#0081B4") +
+  scale_x_log10(breaks = scales::trans_breaks("log10", function(x) 10^x),
+                labels = scales::trans_format("log10", scales::math_format(10^.x)), 
+                limit = c(10^1, 10^3.5)) +
+  theme_bw(base_size = 16, base_family = "Times") +
+  theme(
+    axis.text = element_text(color = "black"),
+  ) +
+  labs(
+    y = "Correlation",
+    x = "Parameters (in millions)"
+  )
+
+ggsave("paper/bilsland-example.pdf", p_tsv, height = 3, width = 3.5, dpi = 300, device = cairo_pdf)
+
+bind_rows(
+  model_ratings %>% 
+    replace_na(list(rating = 0)) %>% 
+    group_by(model, class) %>% 
+    summarize(ste = 1.96 * plotrix::std.error(rating), rating = mean(rating)),
+  classes %>%
+    mutate(model = "human") %>%
+    group_by(model, class) %>% summarize(rating = mean(rating)),
+  averaged_category_wise %>% group_by(model, class) %>% summarize(rating = mean(rating))
+) %>%
+  filter(model != "5gram") %>%
+  group_by(model, class) %>%
+  summarize(
+    rating = mean(rating)
+  ) %>%
+  mutate(
+    class = str_replace(class, "low", "Low Typicality"),
+    class = str_replace(class, "high", "High Typicality"),
+    class = factor(class, levels = c('Low Typicality', 'High Typicality'))
+  ) %>%
+  mutate(
+    color = case_when(
+      model == "human" ~ "#a20a0a",
+      model == "average" ~ "#0278ae",
+      model == "5gram" ~ "black",
+      TRUE ~ "black"
+    ),
+    alpha = case_when(
+      model == "human" ~ 1,
+      model == "average" ~ 1,
+      model == "5gram" ~ 1,
+      TRUE ~ 0.1
+    ),
+    size = case_when(
+      model == "human" ~ 1.2,
+      model == "average" ~ 1.2,
+      model == "5gram" ~ 0.8,
+      TRUE ~ 1
+    ),
+    linetype = case_when(
+      model == "human" ~ "solid",
+      model == "average" ~ "solid",
+      model == "5gram" ~ "dotdash",
+      TRUE ~ "solid"
+    ),
+    # category = str_to_upper(category)
+  ) %>%
+  ggplot(aes(class, rating, group = model, color = color, linetype = linetype, alpha = alpha)) +
+  geom_point(size = 3) + 
+  geom_line(aes(size = size)) + 
+  # annotate("text", label = "5gram", x = "High Typicality", y = 0.36, size = 6.5, family = "CMU Sans Serif", fontface='bold') +
+  annotate("text", label = "Human", x = "High Typicality", y = 0.88, size = 6.5, color = "#a20a0a", family = "CMU Sans Serif", fontface='bold') +
+  annotate("text", label = "Avg.\nof LMs", x = 0.85, y = 0.55, size = 6.5, color = "#0278ae", family = "CMU Sans Serif", fontface='bold') +
+  scale_color_identity() +
+  scale_alpha_identity() +
+  scale_linetype_identity() +
+  scale_size_identity() + 
+  scale_y_continuous(limits = c(0,1)) +
+  scale_x_discrete(expand = c(0,0.3)) +
+  theme_bw(base_size = 20, base_family = "Times") +
+  theme(
+    strip.text = element_text(face = "bold"),
+    legend.position = "top",
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    axis.title.x = element_blank()
+  ) + 
+  labs(
+    y = "Typicality Rating (scaled)"
+  )
